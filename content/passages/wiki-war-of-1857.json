@@ -1,0 +1,453 @@
+{
+  "id": "wiki-war-of-1857",
+  "title": {
+    "urdu": "جنگ آزادی ہند 1857ء",
+    "english": "The War of 1857"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "source": {
+    "name": "Urdu Wikipedia: جنگ آزادی ہند 1857ء",
+    "url": "https://ur.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF_%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C_%DB%81%D9%86%D8%AF_1857%D8%A1",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "The opening of the Urdu Wikipedia article on the uprising of 1857, which Pakistani and Indian historians call the first war of independence and the British called the Mutiny. It sets out the two causes usually given for it. Sentences 5 and 6 are really one sentence split by a full stop in the source.",
+  "sentences": [
+    {
+      "urdu": "جنگ آزادی ہند 1857ء جو ہندوستانیوں کی انگریز کے خلاف پہلی آزادی کی مسلح جنگ تھی اسے انگریزوں نے \"جنگ غدر\" کا نام دیا۔",
+      "english": "The Indian War of Independence of 1857, which was the Indians' first armed war for freedom against the British, was given the name “Jang-e-Ghadar” (the Mutiny) by the British."
+    },
+    {
+      "urdu": "عموماً اس کے دو سبب بیان کیے جاتے ہیں۔",
+      "english": "Two causes are generally given for it."
+    },
+    {
+      "urdu": "اولاً یہ کہ ایسٹ انڈیا کمپنی نے ہندوستان کے تمام صوبے اور کئی ریاستیں یکے بعد دیگرے اپنی حکومت میں شامل کر لی تھیں۔",
+      "english": "First, the East India Company had brought all the provinces of India and many princely states under its rule, one after another."
+    },
+    {
+      "urdu": "جس کی وجہ سے ہندوستانیوں کے دل میں کمپنی کے متعلق شکوک پیدا ہو گئے۔",
+      "english": "Because of this, suspicions about the Company arose in Indians' hearts."
+    },
+    {
+      "urdu": "دوم یہ کہ ان دنوں جو کارتوس فوجیوں کو دیے جاتے تھے۔",
+      "english": "Second, the cartridges that were being issued to soldiers in those days…"
+    },
+    {
+      "urdu": "وہ عام خیال کے مطابق سور اور گائے کی چربی سے آلودہ تھے اور انھیں بندوقوں میں ڈالنے سے بیشتر دانتوں سے کاٹنا پڑتا تھا۔",
+      "english": "…were, according to common belief, greased with pig and cow fat, and they had to be bitten open with the teeth before being loaded into the rifles."
+    },
+    {
+      "urdu": "ہندو اور مسلمان فوجی سپاہیوں نے اسے مذہب کے منافی سمجھا اور ان میں کھلبلی مچ گئی۔",
+      "english": "Hindu and Muslim soldiers considered this against their religion, and an uproar broke out among them."
+    },
+    {
+      "urdu": "جن سپاہیوں نے ان کارتوسوں کو استعمال کرنے سے انکار کر دیا ان کی فوجی وردیاں اتار کر انھیں بیڑیاں پہنا دی گئیں۔",
+      "english": "The soldiers who refused to use these cartridges were stripped of their military uniforms and put in fetters."
+    },
+    {
+      "urdu": "ان قیدیوں میں بہت سے ایسے تھے جنھوں نے انگریزوں کی خاطر بڑی بڑی قربانیاں دی تھیں۔",
+      "english": "Among these prisoners were many who had made great sacrifices for the British."
+    }
+  ],
+  "glossary": {
+    "جنگ": [
+      "jang",
+      "war (f.) (“jang-e-aazaadi” = war of independence; “jang-e-ghadar” = the Mutiny)"
+    ],
+    "آزادی": [
+      "aazaadi",
+      "freedom; independence"
+    ],
+    "ہند": [
+      "hind",
+      "India (“jang-e-aazaadi-e-hind” = the Indian War of Independence)"
+    ],
+    "1857ء": [
+      "1857 eesvi",
+      "1857 CE (ء is short for “eesvi”, AD)"
+    ],
+    "ہندوستانیوں": [
+      "hindustaaniyon",
+      "Indians (pl. oblique)"
+    ],
+    "انگریز": [
+      "angrez",
+      "the English; the British"
+    ],
+    "خلاف": [
+      "khilaaf",
+      "against (“ke khilaaf” = against)"
+    ],
+    "پہلی": [
+      "pehli",
+      "first (f.)"
+    ],
+    "مسلح": [
+      "musallah",
+      "armed"
+    ],
+    "اسے": [
+      "ise",
+      "it (+ “ko”) (“ise … naam diya” = gave it the name)"
+    ],
+    "انگریزوں": [
+      "angrezon",
+      "the British (pl. oblique)"
+    ],
+    "غدر": [
+      "ghadar",
+      "mutiny; revolt (“jang-e-ghadar” = the Mutiny, the British name for 1857)"
+    ],
+    "نام": [
+      "naam",
+      "name (“naam dena” = to name, to call)"
+    ],
+    "عموماً": [
+      "umooman",
+      "generally; usually"
+    ],
+    "سبب": [
+      "sabab",
+      "cause; reason"
+    ],
+    "بیان": [
+      "bayaan",
+      "statement; account (“bayaan kiye jaate hain” = are given, are stated)"
+    ],
+    "کیے": [
+      "kiye",
+      "done (pl.) (“bayaan kiye jaate hain” = are stated)"
+    ],
+    "جاتے": [
+      "jaate",
+      "passive helper (pl.) (“diye jaate the” = used to be given)"
+    ],
+    "اولاً": [
+      "awwalan",
+      "firstly"
+    ],
+    "ایسٹ": [
+      "eesṭ",
+      "East (“eesṭ inḍiya kampani” = the East India Company)"
+    ],
+    "انڈیا": [
+      "inḍiya",
+      "India (English word, in “East India Company”)"
+    ],
+    "کمپنی": [
+      "kampani",
+      "company (here: the East India Company)"
+    ],
+    "ہندوستان": [
+      "hindustaan",
+      "India; Hindustan (the subcontinent before 1947)"
+    ],
+    "تمام": [
+      "tamaam",
+      "all"
+    ],
+    "صوبے": [
+      "soobe",
+      "provinces (pl.)"
+    ],
+    "ریاستیں": [
+      "riyaasatein",
+      "states; princely states (pl.)"
+    ],
+    "یکے": [
+      "yake",
+      "one (Persian) (“yake baad deegare” = one after another)"
+    ],
+    "دیگرے": [
+      "deegare",
+      "another (Persian) (“yake baad deegare” = one after another)"
+    ],
+    "شامل": [
+      "shaamil",
+      "included (“shaamil kar lena” = to annex, to take in)"
+    ],
+    "لی": [
+      "li",
+      "took (f.) (“shaamil kar li theen” = had annexed)"
+    ],
+    "تھیں": [
+      "theen",
+      "were (f. pl.)"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason (“jis ki wajah se” = because of which)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "متعلق": [
+      "mutaalliq",
+      "about; concerning (“ke mutaalliq” = about)"
+    ],
+    "شکوک": [
+      "shukook",
+      "doubts; suspicions (Arabic pl. of “shak”)"
+    ],
+    "پیدا": [
+      "paida",
+      "born; arisen (“paida ho gaye” = arose)"
+    ],
+    "دوم": [
+      "dom",
+      "secondly (“dom yeh keh” = second, that …)"
+    ],
+    "دنوں": [
+      "dinon",
+      "days (pl. oblique) (“un dinon” = in those days)"
+    ],
+    "کارتوس": [
+      "kaartoos",
+      "cartridge(s)"
+    ],
+    "فوجیوں": [
+      "faujiyon",
+      "soldiers (pl. oblique)"
+    ],
+    "دیے": [
+      "diye",
+      "given (pl.) (“diye jaate the” = were issued)"
+    ],
+    "عام": [
+      "aam",
+      "common; general (“aam khayaal” = common belief)"
+    ],
+    "خیال": [
+      "khayaal",
+      "idea; belief"
+    ],
+    "مطابق": [
+      "mutaabiq",
+      "according (“ke mutaabiq” = according to)"
+    ],
+    "سور": [
+      "soor",
+      "pig"
+    ],
+    "گائے": [
+      "gaaye",
+      "cow"
+    ],
+    "چربی": [
+      "charbi",
+      "animal fat; grease (f.)"
+    ],
+    "آلودہ": [
+      "aalooda",
+      "smeared; tainted"
+    ],
+    "انھیں": [
+      "unhen",
+      "them; to them (in s. 6 the cartridges, in s. 8 the soldiers)"
+    ],
+    "بندوقوں": [
+      "bandooqon",
+      "guns; rifles (pl. oblique)"
+    ],
+    "ڈالنے": [
+      "ḍaalne",
+      "putting in; loading (oblique infinitive)"
+    ],
+    "بیشتر": [
+      "beshtar",
+      "before (used here like “peshtar”; elsewhere it usually means “most”)"
+    ],
+    "دانتوں": [
+      "daanton",
+      "teeth (pl. oblique)"
+    ],
+    "کاٹنا": [
+      "kaaṭna",
+      "to bite; to cut"
+    ],
+    "پڑتا": [
+      "paṛta",
+      "had to (habitual) (“kaaṭna paṛta tha” = had to be bitten)"
+    ],
+    "ہندو": [
+      "hindu",
+      "Hindu"
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslim"
+    ],
+    "فوجی": [
+      "fauji",
+      "military; soldier (“fauji sipaahi” = soldiers; “fauji wardiyaan” = military uniforms)"
+    ],
+    "سپاہیوں": [
+      "sipaahiyon",
+      "soldiers; sepoys (pl. oblique)"
+    ],
+    "مذہب": [
+      "mazhab",
+      "religion"
+    ],
+    "منافی": [
+      "munaafi",
+      "contrary (“ke munaafi” = against)"
+    ],
+    "سمجھا": [
+      "samjha",
+      "considered"
+    ],
+    "کھلبلی": [
+      "khalbali",
+      "uproar; commotion (“khalbali mach gayi” = an uproar broke out)"
+    ],
+    "مچ": [
+      "mach",
+      "broke out (“khalbali mach gayi” = an uproar broke out)"
+    ],
+    "کارتوسوں": [
+      "kaartooson",
+      "cartridges (pl. oblique)"
+    ],
+    "استعمال": [
+      "istemaal",
+      "use (“istemaal karna” = to use)"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (oblique infinitive) (“istemaal karne se inkaar” = refusal to use)"
+    ],
+    "انکار": [
+      "inkaar",
+      "refusal (“inkaar kar dena” = to refuse)"
+    ],
+    "وردیاں": [
+      "wardiyaan",
+      "uniforms (pl.)"
+    ],
+    "اتار": [
+      "utaar",
+      "taking off (“utaar kar” = having stripped off)"
+    ],
+    "بیڑیاں": [
+      "beṛiyaan",
+      "fetters; shackles (pl.)"
+    ],
+    "پہنا": [
+      "pehna",
+      "put on (someone) (“pehna di gayeen” = were put on them)"
+    ],
+    "دی": [
+      "di",
+      "gave (f.) (helper in “pehna di gayeen”)"
+    ],
+    "گئیں": [
+      "gayeen",
+      "passive helper (f. pl.) (“pehna di gayeen” = were put on)"
+    ],
+    "قیدیوں": [
+      "qaidiyon",
+      "prisoners (pl. oblique)"
+    ],
+    "ایسے": [
+      "aise",
+      "such (pl.) (“bohat se aise the jinhon ne …” = there were many who …)"
+    ],
+    "جنھوں": [
+      "jinhon",
+      "who (pl., with “ne”)"
+    ],
+    "خاطر": [
+      "khaatir",
+      "sake (“ki khaatir” = for the sake of)"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big (f.) (“baṛi baṛi qurbaaniyaan” = great sacrifices)"
+    ],
+    "قربانیاں": [
+      "qurbaaniyaan",
+      "sacrifices (pl.)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "انگریزوں نے اس جنگ کو کیا نام دیا؟",
+      "english": "What did the British call this war?",
+      "options": [
+        {
+          "urdu": "جنگ آزادی",
+          "english": "The War of Independence"
+        },
+        {
+          "urdu": "جنگ غدر",
+          "english": "The Mutiny (Jang-e-Ghadar)"
+        },
+        {
+          "urdu": "جنگ پانی پت",
+          "english": "The Battle of Panipat"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "سپاہی نئے کارتوسوں پر کیوں ناراض تھے؟",
+      "english": "Why were the soldiers angry about the new cartridges?",
+      "options": [
+        {
+          "urdu": "کارتوس بہت مہنگے تھے",
+          "english": "The cartridges were very expensive"
+        },
+        {
+          "urdu": "کارتوس بندوقوں میں پورے نہیں آتے تھے",
+          "english": "The cartridges did not fit the rifles"
+        },
+        {
+          "urdu": "خیال تھا کہ ان پر سور اور گائے کی چربی لگی ہے",
+          "english": "People believed they were greased with pig and cow fat"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "جن سپاہیوں نے کارتوس استعمال کرنے سے انکار کیا، ان کے ساتھ کیا ہوا؟",
+      "english": "What happened to the soldiers who refused to use the cartridges?",
+      "options": [
+        {
+          "urdu": "انھیں بیڑیاں پہنا دی گئیں",
+          "english": "They were put in fetters"
+        },
+        {
+          "urdu": "انھیں انعام دیا گیا",
+          "english": "They were given a reward"
+        },
+        {
+          "urdu": "انھیں گھر بھیج دیا گیا",
+          "english": "They were sent home"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "جنگ کا پہلا سبب کیا بتایا گیا ہے؟",
+      "english": "What is given as the first cause of the war?",
+      "options": [
+        {
+          "urdu": "سپاہیوں کی تنخواہیں کم تھیں",
+          "english": "The soldiers' pay was low"
+        },
+        {
+          "urdu": "کمپنی نے ہندوستان کے صوبے اور ریاستیں اپنی حکومت میں شامل کر لی تھیں",
+          "english": "The Company had taken over India's provinces and states"
+        },
+        {
+          "urdu": "مغل بادشاہ نے جنگ کا اعلان کیا",
+          "english": "The Mughal emperor declared war"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

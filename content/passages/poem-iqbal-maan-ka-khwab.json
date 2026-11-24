@@ -1,0 +1,710 @@
+{
+  "id": "poem-iqbal-maan-ka-khwab",
+  "title": {
+    "urdu": "ماں کا خواب",
+    "english": "A Mother’s Dream"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["children", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: ماں کا خواب (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D9%85%D8%A7%DA%BA_%DA%A9%D8%A7_%D8%AE%D9%88%D8%A7%D8%A8",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "From the first part of Iqbal’s Bang-e-Dara (1924), among the poems he wrote for children. A grieving mother dreams of her dead son, who tells her something unexpected about her tears. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "میں سوئی جو اک شب تو دیکھا یہ خواب",
+      "english": "One night when I fell asleep, I saw this dream,",
+      "verse": true
+    },
+    {
+      "urdu": "بڑھا اور جس سے مرا اضطراب",
+      "english": "which made my anguish even greater.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ایک ماں بتاتی ہے کہ ایک رات اس نے ایسا خواب دیکھا جس سے اس کی بے چینی اور بڑھ گئی۔",
+        "english": "A mother tells of a dream she had one night that made her distress even worse. (It soon becomes clear that her son has died.)"
+      }
+    },
+    {
+      "urdu": "یہ دیکھا کہ مَیں جا رہی ہوں کہیں",
+      "english": "I saw that I was going somewhere;",
+      "verse": true
+    },
+    {
+      "urdu": "اندھیرا ہے اور راہ مِلتی نہیں",
+      "english": "it was dark, and I could not find the way.",
+      "verse": true,
+      "explanation": {
+        "urdu": "خواب میں وہ اندھیرے میں کہیں جا رہی تھی اور اسے راستہ نہیں مل رہا تھا۔",
+        "english": "In the dream she is walking in darkness and cannot find the way."
+      }
+    },
+    {
+      "urdu": "لرزتا تھا ڈر سے مرا بال بال",
+      "english": "Every hair on me was trembling with fear;",
+      "verse": true
+    },
+    {
+      "urdu": "قدم کا تھا دہشت سے اُٹھنا محال",
+      "english": "in my terror I could hardly lift a foot.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ڈر سے اس کا جسم کانپ رہا تھا اور خوف کی وجہ سے اس سے قدم اٹھانا مشکل تھا۔",
+        "english": "She trembles all over with fear and can barely take a step."
+      }
+    },
+    {
+      "urdu": "جو کچھ حوصلہ پا کے آگے بڑھی",
+      "english": "When, gathering a little courage, I went forward,",
+      "verse": true
+    },
+    {
+      "urdu": "تو دیکھا قطار ایک لڑکوں کی تھی",
+      "english": "I saw there was a line of boys,",
+      "verse": true,
+      "explanation": {
+        "urdu": "کچھ ہمت کر کے آگے بڑھی تو اس نے لڑکوں کی ایک قطار دیکھی۔",
+        "english": "Gathering some courage, she moves forward and sees a line of boys."
+      }
+    },
+    {
+      "urdu": "زَمرّد سی پوشاک پہنے ہوئے",
+      "english": "wearing clothes like emerald,",
+      "verse": true
+    },
+    {
+      "urdu": "دِیے سب کے ہاتھوں میں جلتے ہوئے",
+      "english": "all of them with lamps burning in their hands.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ان لڑکوں نے سبز رنگ کے کپڑے پہنے ہوئے تھے اور سب کے ہاتھوں میں جلتے ہوئے چراغ تھے۔",
+        "english": "The boys wear emerald-green clothes, and each holds a burning lamp — a picture of children in paradise."
+      }
+    },
+    {
+      "urdu": "وہ چُپ چاپ تھے آگے پیچھے رواں",
+      "english": "They were moving silently, one behind the other;",
+      "verse": true
+    },
+    {
+      "urdu": "خدا جانے جانا تھا اُن کو کہاں",
+      "english": "God knows where they were going.",
+      "verse": true,
+      "explanation": {
+        "urdu": "وہ لڑکے خاموشی سے ایک قطار میں چل رہے تھے۔ ماں نہیں جانتی تھی کہ وہ کہاں جا رہے ہیں۔",
+        "english": "The boys walk silently in a line; she does not know where they are going."
+      }
+    },
+    {
+      "urdu": "اسی سوچ میں تھی کہ میرا پِسر",
+      "english": "I was lost in this thought when my son",
+      "verse": true
+    },
+    {
+      "urdu": "مجھے اُس جماعت میں آیا نظر",
+      "english": "came into view among that group.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ماں یہی سوچ رہی تھی کہ اسے اس جماعت میں اپنا بیٹا نظر آیا۔",
+        "english": "While she wonders, she spots her own son among them."
+      }
+    },
+    {
+      "urdu": "وہ پیچھے تھا اور تیز چلتا نہ تھا",
+      "english": "He was at the back and was not walking quickly;",
+      "verse": true
+    },
+    {
+      "urdu": "دِیا اُس کے ہاتھوں میں جلتا نہ تھا",
+      "english": "the lamp in his hands was not burning.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اس کا بیٹا سب سے پیچھے آہستہ آہستہ چل رہا تھا اور اس کے ہاتھ کا چراغ بجھا ہوا تھا۔",
+        "english": "Her son is at the very back, walking slowly, and his lamp is not lit."
+      }
+    },
+    {
+      "urdu": "کہا مَیں نے پہچان کر، میری جاں!",
+      "english": "Recognizing him, I said, “My darling!",
+      "verse": true
+    },
+    {
+      "urdu": "مجھے چھوڑ کر آ گئے تم کہاں؟",
+      "english": "Where have you gone, leaving me behind?",
+      "verse": true,
+      "explanation": {
+        "urdu": "ماں نے بیٹے کو پہچان کر کہا کہ میرے پیارے! تم مجھے چھوڑ کر کہاں آ گئے؟",
+        "english": "Recognizing him, she cries out: my darling, where have you gone, leaving me behind?"
+      }
+    },
+    {
+      "urdu": "جُدائی میں رہتی ہوں مَیں بے قرار",
+      "english": "Parted from you, I am always restless;",
+      "verse": true
+    },
+    {
+      "urdu": "پروتی ہوں ہر روز اشکوں کے ہار",
+      "english": "every day I string garlands of tears.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ماں کہتی ہے کہ تمھاری جدائی میں مجھے چین نہیں آتا اور میں ہر روز روتی رہتی ہوں۔",
+        "english": "She says she has no peace since he left; every day she weeps so much that her tears are like strings of pearls (“stringing garlands of tears”)."
+      }
+    },
+    {
+      "urdu": "نہ پروا ہماری ذرا تم نے کی",
+      "english": "You did not care about us in the least;",
+      "verse": true
+    },
+    {
+      "urdu": "گئے چھوڑ، اچھّی وفا تم نے کی!",
+      "english": "you went off and left us — a fine loyalty you showed!”",
+      "verse": true,
+      "explanation": {
+        "urdu": "ماں شکایت کرتی ہے کہ تم نے ہماری ذرا پروا نہ کی اور ہمیں چھوڑ کر چلے گئے۔",
+        "english": "She reproaches him: you did not care for us at all, and left us — what loyalty is that?"
+      }
+    },
+    {
+      "urdu": "جو بچّے نے دیکھا مرا پیچ و تاب",
+      "english": "When the child saw my anguish,",
+      "verse": true
+    },
+    {
+      "urdu": "دیا اُس نے مُنہ پھیر کر یوں جواب",
+      "english": "he turned his face away and answered me like this:",
+      "verse": true,
+      "explanation": {
+        "urdu": "بیٹے نے ماں کی بے چینی دیکھی تو منہ پھیر کر جواب دیا۔",
+        "english": "Seeing her distress, the boy turns his face away and replies."
+      }
+    },
+    {
+      "urdu": "رُلاتی ہے تجھ کو جُدائی مری",
+      "english": "“Being parted from me makes you cry,",
+      "verse": true
+    },
+    {
+      "urdu": "نہیں اس میں کچھ بھی بھلائی مری",
+      "english": "but there is no good in it for me at all.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "بیٹا کہتا ہے کہ میری جدائی تمھیں رلاتی ہے، مگر تمھارے رونے میں میری کوئی بھلائی نہیں۔",
+        "english": "The son says: my absence makes you cry, but your crying does me no good."
+      }
+    },
+    {
+      "urdu": "یہ کہہ کر وہ کچھ دیر تک چُپ رہا",
+      "english": "Saying this, he stayed silent for a while,",
+      "verse": true
+    },
+    {
+      "urdu": "دِیا پھر دِکھا کر یہ کہنے لگا",
+      "english": "then, showing me the lamp, he began to say:",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہ کہہ کر بیٹا کچھ دیر خاموش رہا، پھر اس نے اپنا چراغ ماں کو دکھایا۔",
+        "english": "After a short silence he holds up his lamp to show her."
+      }
+    },
+    {
+      "urdu": "سمجھتی ہے تُو ہو گیا کیا اسے؟",
+      "english": "“Do you understand what happened to it?",
+      "verse": true
+    },
+    {
+      "urdu": "ترے آنسوؤں نے بُجھایا اسے!",
+      "english": "Your tears have put it out!”",
+      "verse": true,
+      "explanation": {
+        "urdu": "بیٹا کہتا ہے کہ تمھارے آنسوؤں نے میرا چراغ بجھا دیا ہے۔ یعنی مرنے والوں کے لیے بہت زیادہ رونا ان کے لیے اچھا نہیں، صبر کرنا چاہیے۔",
+        "english": "The son reveals that her tears have put out his lamp. The message: endless grieving does not help the departed; one should bear loss with patience."
+      }
+    }
+  ],
+  "glossary": {
+    "میں": [
+      "main / mein",
+      "I / in"
+    ],
+    "سوئی": [
+      "soi",
+      "slept (f.)"
+    ],
+    "اک": [
+      "ik",
+      "one; a (short form of “ek”)"
+    ],
+    "شب": [
+      "shab",
+      "night"
+    ],
+    "تو": [
+      "to",
+      "then"
+    ],
+    "دیکھا": [
+      "dekha",
+      "saw"
+    ],
+    "خواب": [
+      "khwaab",
+      "dream"
+    ],
+    "بڑھا": [
+      "baṛha",
+      "grew; increased"
+    ],
+    "جس": [
+      "jis",
+      "which (“jis se” = by which)"
+    ],
+    "مرا": [
+      "mira",
+      "my (poetic form of “mera”)"
+    ],
+    "اضطراب": [
+      "iztiraab",
+      "anguish; restlessness"
+    ],
+    "مَیں": [
+      "main",
+      "I"
+    ],
+    "جا": [
+      "ja",
+      "go (“ja rahi hoon” = am going)"
+    ],
+    "کہیں": [
+      "kahin",
+      "somewhere"
+    ],
+    "اندھیرا": [
+      "andhera",
+      "darkness; dark"
+    ],
+    "راہ": [
+      "raah",
+      "way; path"
+    ],
+    "ملتی": [
+      "milti",
+      "is found (f.)"
+    ],
+    "لرزتا": [
+      "larazta",
+      "trembling"
+    ],
+    "ڈر": [
+      "ḍar",
+      "fear"
+    ],
+    "بال": [
+      "baal",
+      "hair (“baal baal” = every hair)"
+    ],
+    "قدم": [
+      "qadam",
+      "foot; step"
+    ],
+    "دہشت": [
+      "dehshat",
+      "terror"
+    ],
+    "اٹھنا": [
+      "uṭhna",
+      "to be lifted; rising"
+    ],
+    "محال": [
+      "muhaal",
+      "impossible; very hard"
+    ],
+    "کچھ": [
+      "kuchh",
+      "some; a little (“kuchh bhi” = at all; “kuchh der” = a while)"
+    ],
+    "حوصلہ": [
+      "hausla",
+      "courage"
+    ],
+    "پا": [
+      "pa",
+      "get; gain (“pa ke” = having gained)"
+    ],
+    "آگے": [
+      "aage",
+      "forward; ahead (“aage peechhe” = one behind the other)"
+    ],
+    "بڑھی": [
+      "baṛhi",
+      "went forward (f.)"
+    ],
+    "قطار": [
+      "qataar",
+      "line; row"
+    ],
+    "لڑکوں": [
+      "laṛkon",
+      "boys (pl. oblique)"
+    ],
+    "زمرد": [
+      "zumurrud",
+      "emerald"
+    ],
+    "سی": [
+      "si",
+      "like"
+    ],
+    "پوشاک": [
+      "poshaak",
+      "clothes; dress"
+    ],
+    "پہنے": [
+      "pehne",
+      "wearing (“pehne hue” = wearing)"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“-e hue” = in a state of …)"
+    ],
+    "دِیے": [
+      "diye",
+      "lamps (pl.)"
+    ],
+    "ہاتھوں": [
+      "haathon",
+      "hands (pl. oblique)"
+    ],
+    "جلتے": [
+      "jalte",
+      "burning (pl.)"
+    ],
+    "چپ": [
+      "chup",
+      "silent (“chup chaap” = silently; “chup raha” = stayed silent)"
+    ],
+    "چاپ": [
+      "chaap",
+      "(“chup chaap” = silently)"
+    ],
+    "پیچھے": [
+      "peechhe",
+      "behind; at the back"
+    ],
+    "رواں": [
+      "rawaan",
+      "moving; going along"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "جانے": [
+      "jaane",
+      "knows (“khuda jaane” = God knows)"
+    ],
+    "جانا": [
+      "jaana",
+      "to go"
+    ],
+    "اُن": [
+      "un",
+      "them"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where"
+    ],
+    "اسی": [
+      "isi",
+      "this very (“isi soch mein” = lost in this very thought)"
+    ],
+    "سوچ": [
+      "soch",
+      "thought"
+    ],
+    "پسر": [
+      "pisar",
+      "son (Persian)"
+    ],
+    "مجھے": [
+      "mujhe",
+      "me; to me"
+    ],
+    "اُس": [
+      "us",
+      "that; his (oblique)"
+    ],
+    "جماعت": [
+      "jamaat",
+      "group; company"
+    ],
+    "آیا": [
+      "aaya",
+      "came (“nazar aaya” = was seen)"
+    ],
+    "نظر": [
+      "nazar",
+      "sight (“nazar aana” = to come into view)"
+    ],
+    "تیز": [
+      "tez",
+      "fast"
+    ],
+    "چلتا": [
+      "chalta",
+      "walking (m.)"
+    ],
+    "دِیا": [
+      "diya",
+      "lamp"
+    ],
+    "جلتا": [
+      "jalta",
+      "burning (m.)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "پہچان": [
+      "pehchaan",
+      "recognize (“pehchaan kar” = recognizing)"
+    ],
+    "میری": [
+      "meri",
+      "my"
+    ],
+    "جاں": [
+      "jaan",
+      "life; darling (“meri jaan” = my darling)"
+    ],
+    "چھوڑ": [
+      "chhoṛ",
+      "leave (“chhoṛ kar” = leaving; “gaye chhoṛ” = went and left)"
+    ],
+    "آ": [
+      "aa",
+      "come (“aa gaye” = have come)"
+    ],
+    "تم": [
+      "tum",
+      "you"
+    ],
+    "جدائی": [
+      "judaai",
+      "separation; being apart"
+    ],
+    "رہتی": [
+      "rehti",
+      "remain (f.) (“rehti hoon” = I stay, I am always)"
+    ],
+    "بے": [
+      "be",
+      "without (“be-qaraar” = restless)"
+    ],
+    "قرار": [
+      "qaraar",
+      "rest; peace (“be-qaraar” = restless)"
+    ],
+    "پروتی": [
+      "piroti",
+      "string; thread (f.)"
+    ],
+    "روز": [
+      "roz",
+      "day (“har roz” = every day)"
+    ],
+    "اشکوں": [
+      "ashkon",
+      "tears (pl. oblique)"
+    ],
+    "ہار": [
+      "haar",
+      "garlands; necklaces"
+    ],
+    "پروا": [
+      "parwa",
+      "care; concern"
+    ],
+    "ہماری": [
+      "hamaari",
+      "our; for us"
+    ],
+    "ذرا": [
+      "zara",
+      "in the least (“zara na” = not at all)"
+    ],
+    "اچھی": [
+      "achchhi",
+      "good; fine (f.) (here ironic)"
+    ],
+    "وفا": [
+      "wafa",
+      "loyalty; faithfulness"
+    ],
+    "بچے": [
+      "bachche",
+      "child (oblique)"
+    ],
+    "پیچ": [
+      "pech",
+      "twist (“pech-o-taab” = anguish, agitation)"
+    ],
+    "و": [
+      "o",
+      "and (Persian; “pech-o-taab”)"
+    ],
+    "تاب": [
+      "taab",
+      "torment (“pech-o-taab” = anguish, agitation)"
+    ],
+    "دیا": [
+      "diya",
+      "gave (“jawaab diya” = answered)"
+    ],
+    "منہ": [
+      "munh",
+      "face"
+    ],
+    "پھیر": [
+      "pher",
+      "turn away (“munh pher kar” = turning his face away)"
+    ],
+    "یوں": [
+      "yoon",
+      "like this; thus"
+    ],
+    "جواب": [
+      "jawaab",
+      "answer"
+    ],
+    "رلاتی": [
+      "rulaati",
+      "makes (someone) cry (f.)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (informal) (“tujh ko” = you)"
+    ],
+    "مری": [
+      "miri",
+      "my (poetic form of “meri”)"
+    ],
+    "اس": [
+      "is",
+      "this (oblique)"
+    ],
+    "بھلائی": [
+      "bhalaai",
+      "good; benefit"
+    ],
+    "کہہ": [
+      "keh",
+      "say (“keh kar” = saying)"
+    ],
+    "دیر": [
+      "der",
+      "time; while (“kuchh der tak” = for a while)"
+    ],
+    "دکھا": [
+      "dikha",
+      "show (“dikha kar” = showing)"
+    ],
+    "کہنے": [
+      "kehne",
+      "to say (“kehne laga” = began to say)"
+    ],
+    "لگا": [
+      "laga",
+      "began (m.)"
+    ],
+    "سمجھتی": [
+      "samajhti",
+      "understand (f.)"
+    ],
+    "تُو": [
+      "too",
+      "you (informal)"
+    ],
+    "اسے": [
+      "use",
+      "it"
+    ],
+    "ترے": [
+      "tire",
+      "your (informal; poetic form of “tere”)"
+    ],
+    "آنسوؤں": [
+      "aansuon",
+      "tears (pl. oblique)"
+    ],
+    "بجھایا": [
+      "bujhaaya",
+      "put out; extinguished"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "ماں نے خواب میں لڑکوں کے ہاتھوں میں کیا دیکھا؟",
+      "english": "What did the mother see in the boys’ hands in her dream?",
+      "options": [
+        {
+          "urdu": "کتابیں",
+          "english": "books"
+        },
+        {
+          "urdu": "پھول",
+          "english": "flowers"
+        },
+        {
+          "urdu": "جلتے ہوئے دیے",
+          "english": "burning lamps"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "ماں کے بیٹے کا دیا کیسا تھا؟",
+      "english": "What was the son’s lamp like?",
+      "options": [
+        {
+          "urdu": "وہ جل نہیں رہا تھا",
+          "english": "it was not burning"
+        },
+        {
+          "urdu": "وہ سب سے زیادہ روشن تھا",
+          "english": "it was the brightest of all"
+        },
+        {
+          "urdu": "وہ ٹوٹا ہوا تھا",
+          "english": "it was broken"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "بیٹے کے مطابق اس کا دیا کس نے بجھایا؟",
+      "english": "According to the son, what put out his lamp?",
+      "options": [
+        {
+          "urdu": "تیز ہوا نے",
+          "english": "a strong wind"
+        },
+        {
+          "urdu": "ماں کے آنسوؤں نے",
+          "english": "his mother’s tears"
+        },
+        {
+          "urdu": "دوسرے لڑکوں نے",
+          "english": "the other boys"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

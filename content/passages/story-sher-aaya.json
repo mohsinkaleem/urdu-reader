@@ -1,0 +1,404 @@
+{
+  "id": "story-sher-aaya",
+  "title": {
+    "urdu": "شیر آیا شیر آیا دوڑنا",
+    "english": "“The lion is coming! Run!”"
+  },
+  "category": "stories",
+  "level": "medium",
+  "tags": ["society"],
+  "source": {
+    "name": "Urdu Wikisource: شیر آیا شیر آیا دوڑنا",
+    "url": "https://ur.wikisource.org/wiki/شیر_آیا_شیر_آیا_دوڑنا",
+    "author": "Saadat Hasan Manto",
+    "license": "Public domain"
+  },
+  "intro": "The ending of Manto’s 1950 retelling of “the boy who cried wolf” (a lion, in the Urdu version). A shepherd boy has been put on trial by the village elders for warning that a lion may come; he insists they must stay alert, and they refuse to listen.",
+  "sentences": [
+    {
+      "urdu": "ایک بوڑھے نے کھانستے کھنکارتے ہوئے کہا، ’’یہ لونڈا ہمیں گمراہ کرنا چاہتا ہے۔",
+      "english": "One old man, coughing and clearing his throat, said, “This lad wants to lead us astray."
+    },
+    {
+      "urdu": "یہ ہمیں راہ مستقیم سے ہٹانا چاہتا ہے۔‘‘",
+      "english": "He wants to turn us away from the straight path.”"
+    },
+    {
+      "urdu": "لڑکے نے مسکرا کر کہا، ’’زندگی خط مستقیم نہیں ہے میرے بزرگو۔‘‘",
+      "english": "The boy smiled and said, “Life is not a straight line, my elders.”"
+    },
+    {
+      "urdu": "دوسرے بڈھے نے فرط جذبات سے لرزتے ہوئے کہا، ’’یہ ملحد ہے، یہ بے دین ہے، فتنہ پردازوں کا ایجنٹ ہے۔",
+      "english": "Another old man, trembling with emotion, said, “He is an atheist, he is godless, he is an agent of troublemakers."
+    },
+    {
+      "urdu": "اس کو فوراً زندان میں ڈال دو۔‘‘",
+      "english": "Throw him into prison at once.”"
+    },
+    {
+      "urdu": "گڈریے کے لڑکے کو زندان میں ڈال دیا گیا۔",
+      "english": "The shepherd boy was thrown into prison."
+    },
+    {
+      "urdu": "اسی رات بستی میں شیر داخل ہوا۔",
+      "english": "That very night the lion entered the village."
+    },
+    {
+      "urdu": "بھگدڑ مچ گئی۔",
+      "english": "Panic broke out."
+    },
+    {
+      "urdu": "کچھ بستی چھوڑ کر بھاگ گئے۔",
+      "english": "Some fled the village."
+    },
+    {
+      "urdu": "باقی شیر نے شکار کر لیے۔",
+      "english": "The rest became the lion’s prey."
+    },
+    {
+      "urdu": "مونچھوں کے ساتھ لگا ہوا خون چوستا جب شیر زندان کے پاس سے گزرا تو اس نے مضبوط آہنی سلاخوں کے پیچھے گڈریے کے لڑکے کو دیکھا اور دانت پیس کر رہ گیا۔",
+      "english": "Licking the blood on its whiskers, the lion passed by the prison, saw the shepherd boy behind the strong iron bars, and could only grind its teeth."
+    },
+    {
+      "urdu": "گڈریے کا لڑکا مسکرایا، ’’دوست یہ میرے بزرگوں کی غلطی ہے ورنہ تم میرے لہو کا ذائقہ بھی چکھ لیتے۔‘‘",
+      "english": "The shepherd boy smiled, “Friend, this is my elders’ mistake; otherwise you would have tasted my blood too.”"
+    }
+  ],
+  "glossary": {
+    "بوڑھے": [
+      "booṛhe",
+      "old man (oblique)"
+    ],
+    "کھانستے": [
+      "khaanste",
+      "coughing"
+    ],
+    "کھنکارتے": [
+      "khankaarte",
+      "clearing (his) throat"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“khaanste khankaarte hue” = coughing and clearing his throat; “larazte hue” = trembling)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "لونڈا": [
+      "launḍa",
+      "lad; young brat (dismissive)"
+    ],
+    "ہمیں": [
+      "hamen",
+      "us"
+    ],
+    "گمراہ": [
+      "gumraah",
+      "astray (“gumraah karna” = to lead astray)"
+    ],
+    "کرنا": [
+      "karna",
+      "to do"
+    ],
+    "چاہتا": [
+      "chaahta",
+      "wants (m.)"
+    ],
+    "راہ": [
+      "raah",
+      "path (“raah-e-mustaqeem” = the straight path, i.e. the right way; a religious phrase)"
+    ],
+    "مستقیم": [
+      "mustaqeem",
+      "straight"
+    ],
+    "ہٹانا": [
+      "haṭaana",
+      "to move away; to turn aside"
+    ],
+    "لڑکے": [
+      "laṛke",
+      "boy (oblique)"
+    ],
+    "مسکرا": [
+      "muskura",
+      "smile (“muskura kar” = smiling)"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "خط": [
+      "khat",
+      "line (“khat-e-mustaqeem” = a straight line)"
+    ],
+    "بزرگو": [
+      "buzurgo",
+      "elders (when addressing them: “O elders”)"
+    ],
+    "بڈھے": [
+      "buḍḍhe",
+      "old man (oblique)"
+    ],
+    "فرط": [
+      "fart",
+      "excess (“fart-e-jazbaat” = overwhelming emotion)"
+    ],
+    "جذبات": [
+      "jazbaat",
+      "emotions"
+    ],
+    "لرزتے": [
+      "larazte",
+      "trembling"
+    ],
+    "ملحد": [
+      "mulhid",
+      "atheist; heretic"
+    ],
+    "بے": [
+      "be",
+      "without (“be deen” = godless)"
+    ],
+    "دین": [
+      "deen",
+      "religion; faith"
+    ],
+    "فتنہ": [
+      "fitna",
+      "mischief; sedition (“fitna pardaaz” = troublemaker)"
+    ],
+    "پردازوں": [
+      "pardaazon",
+      "(“fitna pardaazon” = troublemakers, oblique pl.)"
+    ],
+    "ایجنٹ": [
+      "ejanṭ",
+      "agent"
+    ],
+    "فوراً": [
+      "fauran",
+      "at once"
+    ],
+    "زندان": [
+      "zindaan",
+      "prison; dungeon"
+    ],
+    "ڈال": [
+      "ḍaal",
+      "put; throw (“zindaan mein ḍaal do” = throw (him) into prison)"
+    ],
+    "گڈریے": [
+      "gaḍariye",
+      "shepherd (oblique; “gaḍariye ka laṛka” = the shepherd boy)"
+    ],
+    "اسی": [
+      "isi",
+      "that very (“isi raat” = that very night)"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "بستی": [
+      "basti",
+      "village; settlement"
+    ],
+    "شیر": [
+      "sher",
+      "lion"
+    ],
+    "داخل": [
+      "daakhil",
+      "entered (“daakhil hona” = to enter)"
+    ],
+    "ہوا": [
+      "hua",
+      "(with “daakhil”: “daakhil hua” = entered)"
+    ],
+    "بھگدڑ": [
+      "bhagdaṛ",
+      "stampede; panic"
+    ],
+    "مچ": [
+      "mach",
+      "break out (“bhagdaṛ mach gayi” = panic broke out)"
+    ],
+    "چھوڑ": [
+      "chhoṛ",
+      "leave (“chhoṛ kar” = leaving)"
+    ],
+    "بھاگ": [
+      "bhaag",
+      "run (“bhaag gaye” = fled)"
+    ],
+    "شکار": [
+      "shikaar",
+      "prey; hunting (“shikaar kar lena” = to hunt down, make prey of)"
+    ],
+    "لیے": [
+      "liye",
+      "(completed for oneself: “shikaar kar liye” = (the lion) made (them) its prey)"
+    ],
+    "مونچھوں": [
+      "moonchhon",
+      "whiskers; moustache (oblique pl.)"
+    ],
+    "ساتھ": [
+      "saath",
+      "with (“ke saath laga hua” = stuck to)"
+    ],
+    "لگا": [
+      "laga",
+      "stuck (“laga hua” = stuck, clinging)"
+    ],
+    "خون": [
+      "khoon",
+      "blood"
+    ],
+    "چوستا": [
+      "choosta",
+      "sucking; licking (while doing so)"
+    ],
+    "پاس": [
+      "paas",
+      "near (“ke paas se guzarna” = to pass by)"
+    ],
+    "گزرا": [
+      "guzra",
+      "passed"
+    ],
+    "مضبوط": [
+      "mazboot",
+      "strong; sturdy"
+    ],
+    "آہنی": [
+      "aahani",
+      "iron (adj.)"
+    ],
+    "سلاخوں": [
+      "salaakhon",
+      "bars (oblique pl.)"
+    ],
+    "پیچھے": [
+      "peechhe",
+      "behind"
+    ],
+    "دیکھا": [
+      "dekha",
+      "saw"
+    ],
+    "دانت": [
+      "daant",
+      "teeth"
+    ],
+    "پیس": [
+      "pees",
+      "grind (“daant pees kar reh jaana” = to grind one’s teeth in helpless rage)"
+    ],
+    "رہ": [
+      "reh",
+      "remain (“reh gaya” = could do nothing more)"
+    ],
+    "لڑکا": [
+      "laṛka",
+      "boy"
+    ],
+    "مسکرایا": [
+      "muskuraaya",
+      "smiled"
+    ],
+    "دوست": [
+      "dost",
+      "friend"
+    ],
+    "بزرگوں": [
+      "buzurgon",
+      "elders (oblique pl.)"
+    ],
+    "غلطی": [
+      "ghalati",
+      "mistake"
+    ],
+    "تم": [
+      "tum",
+      "you"
+    ],
+    "لہو": [
+      "lahu",
+      "blood"
+    ],
+    "ذائقہ": [
+      "zaaiqa",
+      "taste"
+    ],
+    "چکھ": [
+      "chakh",
+      "taste (“chakh lete” = would have tasted)"
+    ],
+    "لیتے": [
+      "lete",
+      "(with “chakh”: “chakh lete” = would have tasted)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "بزرگوں کے خیال میں لڑکا کیا کرنا چاہتا ہے؟",
+      "english": "What do the elders think the boy wants to do?",
+      "options": [
+        {
+          "urdu": "بستی چھوڑ کر بھاگنا",
+          "english": "Run away from the village"
+        },
+        {
+          "urdu": "انہیں گمراہ کرنا",
+          "english": "Lead them astray"
+        },
+        {
+          "urdu": "شیر کا شکار کرنا",
+          "english": "Hunt the lion"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "اسی رات کیا ہوا؟",
+      "english": "What happened that very night?",
+      "options": [
+        {
+          "urdu": "شیر بستی میں داخل ہوا",
+          "english": "The lion entered the village"
+        },
+        {
+          "urdu": "لڑکا زندان سے بھاگ گیا",
+          "english": "The boy escaped from prison"
+        },
+        {
+          "urdu": "بزرگوں نے لڑکے کو معاف کر دیا",
+          "english": "The elders forgave the boy"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "لڑکا کیوں بچ گیا؟",
+      "english": "Why did the boy survive?",
+      "options": [
+        {
+          "urdu": "وہ درخت پر چڑھ گیا",
+          "english": "He climbed a tree"
+        },
+        {
+          "urdu": "شیر بوڑھا تھا",
+          "english": "The lion was old"
+        },
+        {
+          "urdu": "وہ زندان کی سلاخوں کے پیچھے تھا",
+          "english": "He was behind the prison bars"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

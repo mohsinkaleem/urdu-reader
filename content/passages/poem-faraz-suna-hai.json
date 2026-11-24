@@ -1,0 +1,381 @@
+{
+  "id": "poem-faraz-suna-hai",
+  "title": {
+    "urdu": "سنا ہے لوگ اسے آنکھ بھر کے دیکھتے ہیں",
+    "english": "I Hear People Gaze at Her"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "source": {
+    "name": "Rekhta: سنا ہے لوگ اسے آنکھ بھر کے دیکھتے ہیں",
+    "url": "https://www.rekhta.org/ghazals/sunaa-hai-log-use-aankh-bhar-ke-dekhte-hain-ahmad-faraz-ghazals?lang=ur",
+    "author": "Ahmad Faraz",
+    "license": "Personal use only"
+  },
+  "intro": "Ahmad Faraz’s “Suna hai log use aankh bhar ke dekhte hain” is one of the most quoted ghazals of modern Urdu and a fixture of mushairas: almost every couplet begins “suna hai” (I hear…) and piles up playful exaggerations of the beloved’s beauty. Rekhta has videos of Faraz reciting it and of Ustad Salamat Ali Khan singing it. These are the opening seven of its twenty-two couplets.",
+  "sentences": [
+    {
+      "urdu": "سنا ہے لوگ اسے آنکھ بھر کے دیکھتے ہیں",
+      "english": "I hear that people gaze at her to their heart’s content,",
+      "verse": true
+    },
+    {
+      "urdu": "سو اس کے شہر میں کچھ دن ٹھہر کے دیکھتے ہیں",
+      "english": "so let me stay in her city a few days and see.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر نے سنا ہے کہ لوگ محبوب کو جی بھر کر دیکھتے ہیں، اس لیے وہ بھی اس کے شہر میں کچھ دن رک کر اسے دیکھنا چاہتا ہے۔ پوری غزل “سنا ہے” کے انداز میں محبوب کے حسن کی تعریف ہے۔",
+        "english": "The poet has heard that people gaze at the beloved to their heart’s content, so he wants to stay in her city a few days and see her too. The whole ghazal praises her beauty in this “I hear…” manner."
+      }
+    },
+    {
+      "urdu": "سنا ہے ربط ہے اس کو خراب حالوں سے",
+      "english": "I hear she has a soft spot for the down-and-out,",
+      "verse": true
+    },
+    {
+      "urdu": "سو اپنے آپ کو برباد کر کے دیکھتے ہیں",
+      "english": "so let me ruin myself and see.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اس نے سنا ہے کہ محبوب کو برے حال والے لوگوں سے ہمدردی ہے، اس لیے وہ خود کو برباد کر کے اس کی توجہ حاصل کرنا چاہتا ہے۔",
+        "english": "He has heard she cares for people in a sorry state, so he will ruin himself to win her attention."
+      }
+    },
+    {
+      "urdu": "سنا ہے درد کی گاہک ہے چشم ناز اس کی",
+      "english": "I hear her proud eyes are buyers of pain,",
+      "verse": true
+    },
+    {
+      "urdu": "سو ہم بھی اس کی گلی سے گزر کے دیکھتے ہیں",
+      "english": "so let me too pass through her lane and see.",
+      "verse": true,
+      "explanation": {
+        "urdu": "کہتے ہیں کہ محبوب کی ناز بھری آنکھیں درد کی قدر کرتی ہیں، اس لیے عاشق بھی اپنا درد لے کر اس کی گلی سے گزرنا چاہتا ہے۔",
+        "english": "Her proud eyes are said to “buy” pain — to value suffering — so the lover will carry his pain through her lane."
+      }
+    },
+    {
+      "urdu": "سنا ہے اس کو بھی ہے شعر و شاعری سے شغف",
+      "english": "I hear she too has a passion for poetry,",
+      "verse": true
+    },
+    {
+      "urdu": "سو ہم بھی معجزے اپنے ہنر کے دیکھتے ہیں",
+      "english": "so let me try the miracles of my own art and see.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب کو شاعری کا شوق ہے، اس لیے شاعر اپنی شاعری کا کمال آزمانا چاہتا ہے کہ شاید اس کا ہنر محبوب کا دل جیت لے۔",
+        "english": "She loves poetry, so the poet wants to try the magic of his own verse — perhaps his art will win her heart."
+      }
+    },
+    {
+      "urdu": "سنا ہے بولے تو باتوں سے پھول جھڑتے ہیں",
+      "english": "I hear that when she speaks, flowers fall from her words;",
+      "verse": true
+    },
+    {
+      "urdu": "یہ بات ہے تو چلو بات کر کے دیکھتے ہیں",
+      "english": "if that is so, come, let us talk to her and see.",
+      "verse": true,
+      "explanation": {
+        "urdu": "کہتے ہیں کہ جب محبوب بولتا ہے تو اس کی باتوں سے پھول جھڑتے ہیں، یعنی اس کی باتیں بہت میٹھی ہیں۔ شاعر کہتا ہے کہ اگر ایسا ہے تو اس سے بات کر کے دیکھنی چاہیے۔",
+        "english": "They say flowers fall when she speaks — her words are that sweet. If so, says the poet, one must try talking to her."
+      }
+    },
+    {
+      "urdu": "سنا ہے رات اسے چاند تکتا رہتا ہے",
+      "english": "I hear the moon keeps gazing at her all night;",
+      "verse": true
+    },
+    {
+      "urdu": "ستارے بام فلک سے اتر کے دیکھتے ہیں",
+      "english": "the stars come down from the roof of the sky to look.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب اتنا حسین ہے کہ چاند ساری رات اسے دیکھتا رہتا ہے اور ستارے آسمان کی چھت سے نیچے اتر کر اسے دیکھتے ہیں۔",
+        "english": "She is so beautiful that the moon watches her all night, and the stars climb down from the roof of the sky to look at her."
+      }
+    },
+    {
+      "urdu": "سنا ہے دن کو اسے تتلیاں ستاتی ہیں",
+      "english": "I hear the butterflies tease her by day;",
+      "verse": true
+    },
+    {
+      "urdu": "سنا ہے رات کو جگنو ٹھہر کے دیکھتے ہیں",
+      "english": "I hear the fireflies stop to look at her by night.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دن میں تتلیاں اسے پھول سمجھ کر تنگ کرتی ہیں اور رات کو جگنو رک کر اسے دیکھتے ہیں۔ یہ سب حسن کی تعریف میں مبالغہ ہے۔",
+        "english": "By day the butterflies mistake her for a flower and tease her; at night the fireflies stop to gaze. All of this is playful exaggeration in praise of her beauty."
+      }
+    }
+  ],
+  "glossary": {
+    "سنا": [
+      "suna",
+      "heard (“suna hai” = I hear, they say)"
+    ],
+    "لوگ": [
+      "log",
+      "people"
+    ],
+    "اسے": [
+      "use",
+      "her; him (the beloved)"
+    ],
+    "آنکھ": [
+      "aankh",
+      "eye (“aankh bhar ke dekhna” = to gaze to one’s heart’s content)"
+    ],
+    "بھر": [
+      "bhar",
+      "fill (“aankh bhar ke” = to the full)"
+    ],
+    "کے": [
+      "ke",
+      "having (done) (“bhar ke”, “thehar ke” = filling, stopping); of"
+    ],
+    "دیکھتے": [
+      "dekhte",
+      "see; look (“dekhte hain” = (let’s) see, try)"
+    ],
+    "سو": [
+      "so",
+      "so; therefore"
+    ],
+    "اس": [
+      "us",
+      "her; that (oblique) (“us ke” = her)"
+    ],
+    "شہر": [
+      "shehr",
+      "city"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "دن": [
+      "din",
+      "days (“din ko” = by day)"
+    ],
+    "ٹھہر": [
+      "thehar",
+      "stay; stop (“thehar ke” = staying, stopping)"
+    ],
+    "ربط": [
+      "rabt",
+      "connection; fondness"
+    ],
+    "خراب": [
+      "kharaab",
+      "ruined; bad (“kharaab-haal” = in a sorry state)"
+    ],
+    "حالوں": [
+      "haalon",
+      "conditions (“kharaab haalon” = people in a sorry state)"
+    ],
+    "اپنے": [
+      "apne",
+      "own (“apne aap ko” = myself)"
+    ],
+    "آپ": [
+      "aap",
+      "self (“apne aap ko” = oneself)"
+    ],
+    "برباد": [
+      "barbaad",
+      "ruined"
+    ],
+    "کر": [
+      "kar",
+      "do; having done (“barbaad kar ke” = having ruined; “baat kar ke” = having talked)"
+    ],
+    "درد": [
+      "dard",
+      "pain"
+    ],
+    "گاہک": [
+      "gaahak",
+      "buyer; customer"
+    ],
+    "چشم": [
+      "chashm(-e)",
+      "eye (“chashm-e-naaz” = proud, coquettish eye)"
+    ],
+    "ناز": [
+      "naaz",
+      "coquetry; pride"
+    ],
+    "ہم": [
+      "hum",
+      "we; I (poets often say “hum” for “I”)"
+    ],
+    "گلی": [
+      "gali",
+      "lane; street"
+    ],
+    "گزر": [
+      "guzar",
+      "pass (“guzar ke” = passing through)"
+    ],
+    "شعر": [
+      "sher",
+      "verse (“sher-o-shaaeri” = poetry)"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "شاعری": [
+      "shaaeri",
+      "poetry"
+    ],
+    "شغف": [
+      "shaghaf",
+      "passion; keen interest"
+    ],
+    "معجزے": [
+      "mojize",
+      "miracles"
+    ],
+    "ہنر": [
+      "hunar",
+      "skill; art"
+    ],
+    "بولے": [
+      "bole",
+      "speaks (“bole to” = when she speaks)"
+    ],
+    "تو": [
+      "to",
+      "then; if so"
+    ],
+    "باتوں": [
+      "baaton",
+      "words; talk (pl. oblique)"
+    ],
+    "پھول": [
+      "phool",
+      "flowers"
+    ],
+    "جھڑتے": [
+      "jharte",
+      "fall; drop"
+    ],
+    "بات": [
+      "baat",
+      "matter; talk (“yeh baat hai to” = if that is so; “baat karna” = to talk)"
+    ],
+    "چلو": [
+      "chalo",
+      "come on; let’s"
+    ],
+    "رات": [
+      "raat",
+      "night (“raat ko” = at night)"
+    ],
+    "چاند": [
+      "chaand",
+      "moon"
+    ],
+    "تکتا": [
+      "takta",
+      "gazes; stares"
+    ],
+    "رہتا": [
+      "rehta",
+      "keeps (doing) (“takta rehta hai” = keeps gazing)"
+    ],
+    "ستارے": [
+      "sitaare",
+      "stars"
+    ],
+    "بام": [
+      "baam(-e)",
+      "roof; terrace (“baam-e-falak” = the roof of the sky)"
+    ],
+    "فلک": [
+      "falak",
+      "sky; heavens"
+    ],
+    "اتر": [
+      "utar",
+      "come down (“utar ke” = coming down)"
+    ],
+    "تتلیاں": [
+      "titliyaan",
+      "butterflies"
+    ],
+    "ستاتی": [
+      "sataati",
+      "tease; pester (f. pl.)"
+    ],
+    "جگنو": [
+      "jugnoo",
+      "fireflies"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر محبوب کے بارے میں یہ سب باتیں کیسے جانتا ہے؟",
+      "english": "How does the poet know all these things about the beloved?",
+      "options": [
+        {
+          "urdu": "اس نے خود دیکھا ہے",
+          "english": "he has seen it himself"
+        },
+        {
+          "urdu": "اس نے ایک کتاب میں پڑھا ہے",
+          "english": "he has read it in a book"
+        },
+        {
+          "urdu": "اس نے لوگوں سے سنا ہے",
+          "english": "he has heard it from people"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "شاعر خود کو برباد کیوں کرنا چاہتا ہے؟",
+      "english": "Why does the poet want to ruin himself?",
+      "options": [
+        {
+          "urdu": "کیونکہ وہ امیر ہونے سے تنگ ہے",
+          "english": "because he is tired of being rich"
+        },
+        {
+          "urdu": "کیونکہ سنا ہے محبوب کو برے حال والوں سے ہمدردی ہے",
+          "english": "because he has heard the beloved cares for people in a sorry state"
+        },
+        {
+          "urdu": "کیونکہ اس کا شہر برباد ہو گیا ہے",
+          "english": "because his city has been ruined"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "چاند، ستارے، تتلیاں اور جگنو غزل میں کیا ظاہر کرتے ہیں؟",
+      "english": "What do the moon, stars, butterflies and fireflies show in the ghazal?",
+      "options": [
+        {
+          "urdu": "کہ محبوب اتنا حسین ہے کہ قدرت بھی اسے دیکھتی ہے",
+          "english": "that the beloved is so beautiful that even nature stops to look"
+        },
+        {
+          "urdu": "کہ شاعر کو رات میں نیند نہیں آتی",
+          "english": "that the poet cannot sleep at night"
+        },
+        {
+          "urdu": "کہ موسم بدل رہا ہے",
+          "english": "that the season is changing"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

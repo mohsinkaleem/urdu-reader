@@ -1,0 +1,516 @@
+{
+  "id": "poem-iqbal-shikwa-3",
+  "title": {
+    "urdu": "شکوہ (حصہ 3)",
+    "english": "Shikwa, part 3"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Stanzas 7–9 of “Shikwa”: the Muslims fought not for wealth or power but for God's glory, broke idols rather than sell them, and — the poet challenges God — who else took Khaibar and Constantinople and put out Persia's sacred fire?",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 3,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "ہم جو جیتے تھے تو جنگوں کی میصبت کے لیے",
+      "english": "If we lived, it was to bear the hardships of war,",
+      "verse": true
+    },
+    {
+      "urdu": "اور مرتے تھے ترے نام کی عظمت کے لیے",
+      "english": "and we died for the glory of Your name.",
+      "verse": true
+    },
+    {
+      "urdu": "تھی نہ کچھ تیغ زنی اپنی حکومت کے لیے",
+      "english": "Our swordsmanship was not for our own rule;",
+      "verse": true
+    },
+    {
+      "urdu": "سر بکف پھرتے تھے کیا،کیا دہر میں دولت کے لیے؟",
+      "english": "did we roam the world, heads in hand, for the sake of wealth?",
+      "verse": true
+    },
+    {
+      "urdu": "قوم اپنی جو زرومالِ جہاں پہ مرتی",
+      "english": "Had our nation been dying for the gold and riches of the world,",
+      "verse": true
+    },
+    {
+      "urdu": "بُت فروشی کے عِوض بُت شکنی کیوں کرتی؟",
+      "english": "why would it break idols instead of selling them?",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم جیتے تھے تو جنگ کی مشکلیں اٹھانے کے لیے، اور مرتے تھے تو تیرے نام کی بڑائی کے لیے۔ ہماری تلوار اپنی حکومت یا دولت کے لیے نہیں تھی۔ اگر ہمیں دولت کا لالچ ہوتا تو ہم بت بیچ دیتے، انہیں توڑتے کیوں؟",
+        "english": "The Muslims lived to bear the hardships of war and died for the glory of God's name, not for power or riches. If they had loved wealth, they would have sold idols instead of breaking them. This alludes to the story of Sultan Mahmud of Ghazni, who is said to have refused a ransom for the idol of Somnath, preferring to be called an idol-breaker rather than an idol-seller."
+      }
+    },
+    {
+      "urdu": "ٹل نہ سکتے تھے اگر جنگ میں اڑ جاتے تھے",
+      "english": "Once we dug in our heels in battle, we could not be moved;",
+      "verse": true
+    },
+    {
+      "urdu": "پاؤں شیر کے بھی میداں سے اُکھڑ جاتے تھے",
+      "english": "even lions lost their footing on the field.",
+      "verse": true
+    },
+    {
+      "urdu": "تجھ سے سر کش ہوا کوئی تو بگڑ جاتے تھے",
+      "english": "If anyone rebelled against You, we would rise in fury;",
+      "verse": true
+    },
+    {
+      "urdu": "تیغ کیا چیز ہے ہم توپ سے لڑ جاتے تھے",
+      "english": "what is a sword? We would take on cannons.",
+      "verse": true
+    },
+    {
+      "urdu": "نقش توحید کاہر دِل پہ بٹھایا ہم نے",
+      "english": "We stamped the mark of Your oneness on every heart;",
+      "verse": true
+    },
+    {
+      "urdu": "زیرِ خنجر بھی یہ پیغام سُنایا ہم نے",
+      "english": "even under the dagger we delivered this message.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جنگ میں جب ہم ڈٹ جاتے تو کوئی ہمیں ہلا نہیں سکتا تھا، شیروں کے بھی قدم اکھڑ جاتے تھے۔ جو تیرا نافرمان ہوتا، ہم اس سے لڑ پڑتے، تلوار تو کیا ہم توپ سے بھی ٹکرا جاتے۔ ہم نے ہر دل پر توحید کا نقش بٹھایا اور خنجر کے نیچے بھی یہی پیغام سنایا۔",
+        "english": "Once the Muslims took a stand in battle they could not be moved; even lions lost their footing before them. Anyone who rebelled against God roused their anger, and they would face not just swords but cannons. They stamped the oneness of God (tauheed) on every heart and proclaimed it even with a dagger at their throats."
+      }
+    },
+    {
+      "urdu": "تُو ہی کہہ دے کہ اُکھاڑا درِ خیبر کس نے",
+      "english": "You tell us: who tore off the gate of Khaibar?",
+      "verse": true
+    },
+    {
+      "urdu": "شہر قیصر کا جوتھا،اُسکو کیا سَر کس نے",
+      "english": "The city that was Caesar's — who conquered it?",
+      "verse": true
+    },
+    {
+      "urdu": "توڑے مخلوق خداوندوں کے پیکر کس نے",
+      "english": "Who broke the images of gods that were themselves created?",
+      "verse": true
+    },
+    {
+      "urdu": "کاٹ کے رکھ دیے کفّار کے لشکر کس نے",
+      "english": "Who cut down the armies of the unbelievers?",
+      "verse": true
+    },
+    {
+      "urdu": "کس نے ٹھنڈا کیا آتشکدۂ ایراں کو؟",
+      "english": "Who put out the fire-temple of Iran?",
+      "verse": true
+    },
+    {
+      "urdu": "کس نے پھر زندہ کیا تذکرۂ یزداں کو؟",
+      "english": "Who brought the remembrance of Yazdan (God) back to life?",
+      "verse": true,
+      "explanation": {
+        "urdu": "اے خدا، تو خود بتا کہ خیبر کا دروازہ کس نے اکھاڑا اور قیصر کا شہر کس نے فتح کیا؟ انسانوں کے بنائے ہوئے خداؤں کے بت کس نے توڑے، ایران کا آتش کدہ کس نے بجھایا اور خدا کا ذکر پھر سے کس نے زندہ کیا؟ ان سب سوالوں کا جواب ہے: مسلمانوں نے۔",
+        "english": "The poet asks God to name who did these deeds. Hazrat Ali is said to have torn off the gate of the fortress of Khaibar; the Ottomans took Constantinople, the city of the Caesars, in 1453; Muslims broke idols, defeated armies, put out the sacred fire of Zoroastrian Persia and revived the remembrance of Yazdan (a Persian name for God). The answer to every question is: the Muslims."
+      }
+    }
+  ],
+  "glossary": {
+    "ہم": [
+      "ham",
+      "we; (in “ham-nava”) fellow-"
+    ],
+    "جیتے": [
+      "jeete",
+      "lived, were alive"
+    ],
+    "تو": [
+      "to",
+      "then (“koi … to” = if anyone …, then)"
+    ],
+    "جنگوں": [
+      "jangon",
+      "wars (oblique pl.)"
+    ],
+    "میصبت": [
+      "museebat",
+      "hardship (misspelling of مصیبت)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye”)"
+    ],
+    "مرتے": [
+      "marte",
+      "died"
+    ],
+    "ترے": [
+      "tere",
+      "your (poetic)"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "عظمت": [
+      "azmat",
+      "glory, greatness"
+    ],
+    "تیغ": [
+      "tegh",
+      "sword (“tegh-zani” = swordsmanship)"
+    ],
+    "زنی": [
+      "zani",
+      "striking (“tegh-zani” = wielding the sword)"
+    ],
+    "حکومت": [
+      "hukoomat",
+      "rule, power"
+    ],
+    "سر": [
+      "sar",
+      "head (“sar-ba-kaf” = head in hand, ready to die; “sar-kash” = rebellious)"
+    ],
+    "بکف": [
+      "ba-kaf",
+      "in the palm (“sar-ba-kaf” = head in hand, ready to die)"
+    ],
+    "پھرتے": [
+      "phirte",
+      "roamed, wandered"
+    ],
+    "دہر": [
+      "dahr",
+      "the world; time"
+    ],
+    "دولت": [
+      "daulat",
+      "wealth"
+    ],
+    "قوم": [
+      "qaum",
+      "nation, people"
+    ],
+    "زرومال": [
+      "zar-o-maal-e",
+      "gold and wealth of"
+    ],
+    "جہاں": [
+      "jahaan",
+      "world (“jahaan-daar” = world-ruler)"
+    ],
+    "پہ": [
+      "pe",
+      "on (= par)"
+    ],
+    "مرتی": [
+      "marti",
+      "died for, craved (f.) (“par marna” = to crave)"
+    ],
+    "بت": [
+      "but",
+      "idol(s)"
+    ],
+    "فروشی": [
+      "faroshi",
+      "selling (“but-faroshi” = selling idols)"
+    ],
+    "عوض": [
+      "ivaz",
+      "in exchange for, instead of (“ke ivaz”)"
+    ],
+    "شکنی": [
+      "shikani",
+      "breaking (“but-shikani” = breaking idols)"
+    ],
+    "کرتی": [
+      "karti",
+      "would do (f.)"
+    ],
+    "ٹل": [
+      "ṭal",
+      "(“ṭal na sakna” = could not be moved)"
+    ],
+    "سکتے": [
+      "sakte",
+      "could"
+    ],
+    "جنگ": [
+      "jang",
+      "war, battle"
+    ],
+    "اڑ": [
+      "aṛ",
+      "(“aṛ jaana” = to stand firm, dig in)"
+    ],
+    "جاتے": [
+      "jaate",
+      "(compound) “aṛ jaate” = stood firm; “ukhaṛ jaate” = got uprooted"
+    ],
+    "پاؤں": [
+      "paaon",
+      "feet"
+    ],
+    "شیر": [
+      "sher",
+      "lion(s)"
+    ],
+    "میداں": [
+      "maidaan",
+      "battlefield (poetic form)"
+    ],
+    "اکھڑ": [
+      "ukhaṛ",
+      "(“ukhaṛ jaana” = to be uprooted)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (to God) (“tujh ko” = to You)"
+    ],
+    "کش": [
+      "kash",
+      "(“sar-kash” = rebellious, defiant)"
+    ],
+    "ہوا": [
+      "hua",
+      "became (“sar-kash hua” = rebelled)"
+    ],
+    "بگڑ": [
+      "bigaṛ",
+      "(“bigaṛ jaana” = to become furious)"
+    ],
+    "کیا": [
+      "kiya / kya",
+      "did (“kiya sar” = conquered); what (“kya cheez hai” = what is …)"
+    ],
+    "چیز": [
+      "cheez",
+      "thing (“kya cheez hai” = what is it [to us])"
+    ],
+    "توپ": [
+      "top",
+      "cannon"
+    ],
+    "لڑ": [
+      "laṛ",
+      "(“laṛ jaana” = to take on, fight)"
+    ],
+    "نقش": [
+      "naqsh",
+      "imprint, image"
+    ],
+    "توحید": [
+      "tauheed",
+      "the oneness of God"
+    ],
+    "کاہر": [
+      "ka har",
+      "of … every (کا + ہر, run together)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "بٹھایا": [
+      "biṭhaaya",
+      "set firmly (“naqsh biṭhaana” = to imprint)"
+    ],
+    "زیر": [
+      "zer-e",
+      "under"
+    ],
+    "خنجر": [
+      "khanjar",
+      "dagger"
+    ],
+    "پیغام": [
+      "paighaam",
+      "message"
+    ],
+    "سنایا": [
+      "sunaaya",
+      "made heard, proclaimed"
+    ],
+    "تُو": [
+      "tu",
+      "You (addressing God)"
+    ],
+    "کہہ": [
+      "keh",
+      "(“keh de” = just tell, say it)"
+    ],
+    "دے": [
+      "de",
+      "(“keh de” = say it)"
+    ],
+    "اکھاڑا": [
+      "ukhaaṛa",
+      "tore off, uprooted"
+    ],
+    "در": [
+      "dar-e",
+      "gate of"
+    ],
+    "خیبر": [
+      "khaibar",
+      "Khaibar (fortress near Medina, taken by the Muslims in 628)"
+    ],
+    "کس": [
+      "kis",
+      "who, whose (oblique); “kis tarah” = how"
+    ],
+    "شہر": [
+      "shehr",
+      "city"
+    ],
+    "قیصر": [
+      "qaisar",
+      "Caesar (the Byzantine emperor)"
+    ],
+    "سَر": [
+      "sar",
+      "conquered (“sar karna” = to conquer)"
+    ],
+    "توڑے": [
+      "toṛe",
+      "broke (pl.)"
+    ],
+    "مخلوق": [
+      "makhlooq",
+      "created (“makhlooq khudaavand” = gods that are themselves created, i.e. idols)"
+    ],
+    "خداوندوں": [
+      "khudaavandon",
+      "lords, gods (oblique pl.)"
+    ],
+    "پیکر": [
+      "paikar",
+      "form, figure; image (“paikar-e-mahsoos” = a form one can see and touch)"
+    ],
+    "کاٹ": [
+      "kaaṭ",
+      "(“kaaṭ ke rakh dena” = to cut down utterly)"
+    ],
+    "رکھ": [
+      "rakh",
+      "(“kaaṭ ke rakh diye” = cut down completely)"
+    ],
+    "دیے": [
+      "diye",
+      "(compound) “rakh diye” = finished off; “dauṛa diye” = sent galloping"
+    ],
+    "کفار": [
+      "kuffaar",
+      "unbelievers (pl.)"
+    ],
+    "لشکر": [
+      "lashkar",
+      "armies"
+    ],
+    "ٹھنڈا": [
+      "ṭhanḍa",
+      "cold (“ṭhanḍa kiya” = put out)"
+    ],
+    "آتشکدۂ": [
+      "aatishkada-e",
+      "fire-temple of"
+    ],
+    "ایراں": [
+      "eeraan",
+      "Iran, Persia (poetic form)"
+    ],
+    "پھر": [
+      "phir",
+      "then; again (“phir bhi” = even so)"
+    ],
+    "زندہ": [
+      "zinda",
+      "alive (“zinda kiya” = revived)"
+    ],
+    "تذکرۂ": [
+      "tazkira-e",
+      "remembrance, mention of"
+    ],
+    "یزداں": [
+      "yazdaan",
+      "God (Persian)"
+    ],
+    "جوتھا": [
+      "jo tha",
+      "which was (جو تھا, printed as one word)"
+    ],
+    "اسکو": [
+      "us ko",
+      "it (اس کو, printed as one word; “us ko sar kiya” = conquered it)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کے مطابق مسلمان کس لیے مرتے تھے؟",
+      "english": "According to the poet, what did the Muslims die for?",
+      "options": [
+        {
+          "urdu": "دولت کے لیے",
+          "english": "For wealth"
+        },
+        {
+          "urdu": "خدا کے نام کی عظمت کے لیے",
+          "english": "For the glory of God's name"
+        },
+        {
+          "urdu": "اپنی حکومت کے لیے",
+          "english": "For their own rule"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "”بت فروشی کے عوض بت شکنی“ سے کیا ظاہر ہوتا ہے؟",
+      "english": "What does “idol-breaking instead of idol-selling” show?",
+      "options": [
+        {
+          "urdu": "مسلمانوں کو دولت کا لالچ نہیں تھا",
+          "english": "The Muslims were not greedy for wealth"
+        },
+        {
+          "urdu": "مسلمان بت بناتے تھے",
+          "english": "The Muslims made idols"
+        },
+        {
+          "urdu": "مسلمان بتوں کے تاجر تھے",
+          "english": "The Muslims traded in idols"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "نویں بند کے سارے سوالوں کا جواب کیا ہے؟",
+      "english": "What is the answer to all the questions in the ninth stanza?",
+      "options": [
+        {
+          "urdu": "یونانی",
+          "english": "The Greeks"
+        },
+        {
+          "urdu": "ایرانی",
+          "english": "The Persians"
+        },
+        {
+          "urdu": "مسلمان",
+          "english": "The Muslims"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

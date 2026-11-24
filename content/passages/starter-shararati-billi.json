@@ -1,0 +1,197 @@
+{
+  "id": "starter-shararati-billi",
+  "title": {
+    "urdu": "شرارتی بلی",
+    "english": "The naughty cat (idioms)"
+  },
+  "category": "starter",
+  "level": "easy",
+  "tags": ["everyday", "language"],
+  "source": {
+    "name": "Written for this app"
+  },
+  "intro": "Written for this app to practise common muhavare (idioms) in a short story about a neighbourhood cat. Tap a word in an idiom to see what the whole phrase means.",
+  "sentences": [
+    {
+      "urdu": "ہمارے محلے میں ایک شرارتی بلی رہتی تھی۔",
+      "english": "A naughty cat lived in our neighbourhood."
+    },
+    {
+      "urdu": "اس نے سب کی ناک میں دم کر رکھا تھا۔",
+      "english": "She had been making everyone’s life a misery."
+    },
+    {
+      "urdu": "ایک دن وہ خالہ جان کے باورچی خانے سے مچھلی اٹھا کر نو دو گیارہ ہو گئی۔",
+      "english": "One day she grabbed a fish from Auntie’s kitchen and ran off."
+    },
+    {
+      "urdu": "خالہ جان نے غصے میں آسمان سر پر اٹھا لیا۔",
+      "english": "Auntie was so angry she raised a huge fuss."
+    },
+    {
+      "urdu": "مگر بچوں نے بلی کو معاف کر دیا کیونکہ وہ سب کی آنکھوں کا تارا تھی۔",
+      "english": "But the children forgave the cat, because she was the apple of everyone’s eye."
+    }
+  ],
+  "glossary": {
+    "ہمارے": [
+      "hamaare",
+      "our"
+    ],
+    "محلے": [
+      "mohalle",
+      "neighbourhood (oblique)"
+    ],
+    "شرارتی": [
+      "sharaarati",
+      "naughty; mischievous"
+    ],
+    "بلی": [
+      "billi",
+      "cat"
+    ],
+    "رہتی": [
+      "rehti",
+      "lived (f.)"
+    ],
+    "ناک": [
+      "naak",
+      "nose (“naak mein dam karna” = to pester)"
+    ],
+    "دم": [
+      "dam",
+      "breath"
+    ],
+    "رکھا": [
+      "rakha",
+      "kept (“kar rakha tha” = had been doing)"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "خالہ": [
+      "khaala",
+      "aunt (mother’s sister)"
+    ],
+    "جان": [
+      "jaan",
+      "dear (affectionate respect)"
+    ],
+    "باورچی": [
+      "bawarchi",
+      "cook (“bawarchi khaana” = kitchen)"
+    ],
+    "خانے": [
+      "khaane",
+      "room; house (oblique)"
+    ],
+    "مچھلی": [
+      "machhli",
+      "fish"
+    ],
+    "اٹھا": [
+      "uṭha",
+      "pick up; lift"
+    ],
+    "نو": [
+      "nau",
+      "nine (“nau do gyaarah hona” = to run off)"
+    ],
+    "گیارہ": [
+      "gyaarah",
+      "eleven"
+    ],
+    "غصے": [
+      "ghusse",
+      "anger (oblique)"
+    ],
+    "آسمان": [
+      "aasmaan",
+      "sky (“aasmaan sar par uṭhaana” = to raise a fuss)"
+    ],
+    "سر": [
+      "sar",
+      "head"
+    ],
+    "بچوں": [
+      "bachchon",
+      "children"
+    ],
+    "معاف": [
+      "maaf",
+      "forgiven (“maaf karna” = to forgive)"
+    ],
+    "کیونکہ": [
+      "kyunke",
+      "because"
+    ],
+    "آنکھوں": [
+      "aankhon",
+      "eyes"
+    ],
+    "تارا": [
+      "taara",
+      "star"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "بلی نے کیا اٹھایا؟",
+      "english": "What did the cat take?",
+      "options": [
+        {
+          "urdu": "دودھ",
+          "english": "Milk"
+        },
+        {
+          "urdu": "مچھلی",
+          "english": "A fish"
+        },
+        {
+          "urdu": "روٹی",
+          "english": "Bread"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "”نو دو گیارہ ہونا“ کا مطلب کیا ہے؟",
+      "english": "What does “nau do gyaarah hona” mean?",
+      "options": [
+        {
+          "urdu": "بھاگ جانا",
+          "english": "To run away"
+        },
+        {
+          "urdu": "گنتی کرنا",
+          "english": "To count"
+        },
+        {
+          "urdu": "سو جانا",
+          "english": "To fall asleep"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "بچوں نے بلی کو معاف کیوں کیا؟",
+      "english": "Why did the children forgive the cat?",
+      "options": [
+        {
+          "urdu": "وہ بیمار تھی",
+          "english": "She was ill"
+        },
+        {
+          "urdu": "مچھلی خراب تھی",
+          "english": "The fish was bad"
+        },
+        {
+          "urdu": "وہ سب کو پیاری تھی",
+          "english": "Everyone loved her"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

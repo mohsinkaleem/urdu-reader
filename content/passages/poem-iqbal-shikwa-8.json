@@ -1,0 +1,496 @@
+{
+  "id": "poem-iqbal-shikwa-8",
+  "title": {
+    "urdu": "شکوہ (حصہ 8)",
+    "english": "Shikwa, part 8"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Iqbal’s “Shikwa” (1911), a complaint to God on behalf of the Muslims, reaches its boldest point here. In stanzas 22–24 the poet admits Muslims’ faults but calls God fickle, recalls how Islam once set hearts on fire from the hills of Mecca, and ends with a Persian verse longing for God’s return.",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 8,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "عشق کی خیر وہ پہلے سی ادا بھی نہ سہی",
+      "english": "Granted, our love no longer has its old grace;",
+      "verse": true
+    },
+    {
+      "urdu": "جادہ پیمائیِ تسلیم و رضا بھی نہ سہی",
+      "english": "granted, we no longer walk the path of surrender and contentment;",
+      "verse": true
+    },
+    {
+      "urdu": "مُضطِرب دل صفت قبلہ نما بھی نہ سہی",
+      "english": "granted, our restless hearts no longer point to the qibla like a compass;",
+      "verse": true
+    },
+    {
+      "urdu": "اور پابندیِ آئینِ وفا بھی نہ سہی",
+      "english": "and granted, we no longer keep the rules of loyalty.",
+      "verse": true
+    },
+    {
+      "urdu": "کبھی ہم سے، کبھی غیروں سے شناسائی ہے",
+      "english": "Yet sometimes You befriend us, and sometimes strangers;",
+      "verse": true
+    },
+    {
+      "urdu": "بات کہنے کی نہیں،تُو بھی تو ہرجائی ہے!",
+      "english": "it shouldn't be said, but You too are fickle!",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر مانتا ہے کہ مسلمانوں میں اب پہلے جیسا عشق، تسلیم و رضا اور وفاداری نہیں رہی۔ مگر پھر شکوہ کرتا ہے کہ اللہ بھی کبھی ہم پر مہربان ہوتا ہے اور کبھی دوسروں پر، یعنی وہ بھی بےوفا ہے۔",
+        "english": "Iqbal admits that Muslims have lost their old love, submission and faithfulness. But then he dares to say that God too is inconstant, favouring Muslims at one time and others at another. “Harjaai” is a word for a fickle lover who goes everywhere; this daring line caused an uproar when the poem was first recited."
+      }
+    },
+    {
+      "urdu": "سرِ فاران کیا دین کو کامل تُو نے",
+      "english": "On the summit of Faran You made the faith complete;",
+      "verse": true
+    },
+    {
+      "urdu": "اِک اشارے میں پزروں کے لیے دل تُو نے",
+      "english": "with a single sign You won the hearts of thousands;",
+      "verse": true
+    },
+    {
+      "urdu": "آتش اندوز کیا عشق کا حاصل تُو نے",
+      "english": "You set the harvest of love on fire;",
+      "verse": true
+    },
+    {
+      "urdu": "پُھونک دی گرمیِ رُخسار سے محفل تُو نے",
+      "english": "You set the whole gathering ablaze with the glow of Your face.",
+      "verse": true
+    },
+    {
+      "urdu": "آج کیوں سینے ہمارے شرر بار نہیں",
+      "english": "Why then are our breasts not raining sparks today?",
+      "verse": true
+    },
+    {
+      "urdu": "ہم وہی سوختہ ساماں ہیں، تجھے یاد نہیں؟",
+      "english": "We are the same ones who lost everything for You; don't You remember?",
+      "verse": true,
+      "explanation": {
+        "urdu": "فاران مکہ کے پہاڑ ہیں جہاں سے اسلام کا پیغام پھیلا اور اللہ نے ایک اشارے سے ہزاروں دل جیت لیے اور ان میں عشق کی آگ لگا دی۔ شاعر پوچھتا ہے کہ آج ہمارے دلوں میں وہ آگ کیوں نہیں، حالانکہ ہم وہی لوگ ہیں جنہوں نے تیرے لیے سب کچھ لٹا دیا۔",
+        "english": "Faran is the name of the hills around Mecca, where Islam was revealed and perfected. With one sign God won thousands of hearts and filled them with the fire of love. Why, Iqbal asks, are Muslim hearts no longer aflame, when they are the same people who gave up everything (“sokhta-saamaan”, whose belongings are burnt) for God?"
+      }
+    },
+    {
+      "urdu": "وادی نجد میں وہ شورِ سلاسل نہ رہا",
+      "english": "In the valley of Najd there is no more that clanking of chains;",
+      "verse": true
+    },
+    {
+      "urdu": "قیس دیوانۂ نظّارۂ محمل نہ رہا",
+      "english": "Qais is no longer mad to glimpse Laila's litter.",
+      "verse": true
+    },
+    {
+      "urdu": "حوصلے وہ نہ رہے، ہم نہ رہے، دل نہ رہا",
+      "english": "Those ambitions are gone; we are gone; the heart is gone;",
+      "verse": true
+    },
+    {
+      "urdu": "گھر یہ اُجڑا ہے کہ تُو رونقِ محفل نہ رہا",
+      "english": "this house lies ruined because You are no longer the light of the gathering.",
+      "verse": true
+    },
+    {
+      "urdu": "اے خوش آں روز کہ آئی و بصد ناز آئی",
+      "english": "(Persian) Oh, happy the day when You come, and come with a hundred graces,",
+      "verse": true
+    },
+    {
+      "urdu": "بے حجابانہ سُوئے محفلِ ما باز آئی",
+      "english": "unveiled, back to our gathering!",
+      "verse": true,
+      "explanation": {
+        "urdu": "مجنوں کی زنجیروں کا شور اور لیلیٰ کو دیکھنے کا شوق ختم ہو گیا۔ ہمت، دل اور خود ہم بھی نہ رہے، کیونکہ اللہ کی رونق محفل میں نہیں رہی۔ آخری شعر فارسی میں ہے: وہ دن کتنا اچھا ہوگا جب تو پھر بےپردہ ہماری محفل میں آئے گا۔",
+        "english": "Majnun (Qais) was kept in chains for his mad love and longed to see the camel-litter carrying Laila; now that passion has died out. The courage and the heart of Muslims are gone because God's presence no longer lights up their gathering. The last two lines are in Persian: a longing for the day God returns, unveiled and gracious, to His lovers."
+      }
+    }
+  ],
+  "glossary": {
+    "عشق": [
+      "ishq",
+      "love (“ishq ki khair” = never mind love; granted)"
+    ],
+    "خیر": [
+      "khair",
+      "(“… ki khair” = never mind …; granted)"
+    ],
+    "پہلے": [
+      "pehle",
+      "before (“pehle si” = as before)"
+    ],
+    "سی": [
+      "si",
+      "like (f.)"
+    ],
+    "ادا": [
+      "ada",
+      "grace; charm"
+    ],
+    "سہی": [
+      "sahi",
+      "(“na sahi” = granted it is not; let it not be)"
+    ],
+    "جادہ": [
+      "jaada",
+      "path; road"
+    ],
+    "پیمائی": [
+      "paimaai-e-",
+      "treading (“jaada-paimaai” = walking the path)"
+    ],
+    "تسلیم": [
+      "tasleem",
+      "submission"
+    ],
+    "رضا": [
+      "raza",
+      "contentment (with God's will)"
+    ],
+    "مضطرب": [
+      "muztarib",
+      "restless"
+    ],
+    "دل": [
+      "dil",
+      "heart(s)"
+    ],
+    "صفت": [
+      "sifat",
+      "like; in the manner of"
+    ],
+    "قبلہ": [
+      "qibla",
+      "qibla (direction of the Kaaba)"
+    ],
+    "نما": [
+      "numa",
+      "showing (“qibla-numa” = compass pointing to the qibla)"
+    ],
+    "پابندی": [
+      "paabandi-e-",
+      "keeping; adherence to"
+    ],
+    "آئین": [
+      "aaeen-e-",
+      "law; rules of"
+    ],
+    "وفا": [
+      "wafa",
+      "loyalty; faithfulness"
+    ],
+    "کبھی": [
+      "kabhi",
+      "sometimes"
+    ],
+    "غیروں": [
+      "ghairon",
+      "strangers; others (oblique pl.)"
+    ],
+    "شناسائی": [
+      "shanaasaai",
+      "acquaintance; friendship"
+    ],
+    "کہنے": [
+      "kehne",
+      "saying (“kehne ki nahin” = not to be said)"
+    ],
+    "تو": [
+      "tu / to",
+      "You (God) / indeed (emphasis: “tu bhi to” = You too)"
+    ],
+    "ہرجائی": [
+      "harjaai",
+      "fickle; unfaithful (lover)"
+    ],
+    "سر": [
+      "sar-e-",
+      "on top of; summit of"
+    ],
+    "فاران": [
+      "faaraan",
+      "Faran (the hills of Mecca)"
+    ],
+    "کیا": [
+      "kiya / kya",
+      "made; did / what"
+    ],
+    "دین": [
+      "deen",
+      "faith; religion"
+    ],
+    "کامل": [
+      "kaamil",
+      "complete; perfect"
+    ],
+    "اک": [
+      "ik",
+      "one; a single"
+    ],
+    "اشارے": [
+      "ishaare",
+      "gesture; sign (oblique)"
+    ],
+    "پزروں": [
+      "hazaaron",
+      "thousands (misspelt for ہزاروں in this source)"
+    ],
+    "لیے": [
+      "liye",
+      "took (pl.) (“dil liye” = won hearts)"
+    ],
+    "آتش": [
+      "aatish",
+      "fire"
+    ],
+    "اندوز": [
+      "andoz",
+      "gathering (“aatish-andoz kiya” = set ablaze)"
+    ],
+    "حاصل": [
+      "haasil",
+      "harvest; yield"
+    ],
+    "پھونک": [
+      "phoonk",
+      "burn (“phoonk di” = set on fire)"
+    ],
+    "دی": [
+      "di",
+      "gave (f.) (completes the compound verb)"
+    ],
+    "گرمی": [
+      "garmi-e-",
+      "heat; glow of"
+    ],
+    "رخسار": [
+      "rukhsaar",
+      "cheek; face"
+    ],
+    "محفل": [
+      "mehfil",
+      "gathering"
+    ],
+    "کیوں": [
+      "kyun",
+      "why"
+    ],
+    "سینے": [
+      "seene",
+      "breasts; hearts"
+    ],
+    "ہمارے": [
+      "hamaare",
+      "our"
+    ],
+    "شرر": [
+      "sharar",
+      "spark(s)"
+    ],
+    "بار": [
+      "baar",
+      "raining (“sharar-baar” = raining sparks)"
+    ],
+    "وہی": [
+      "wahi",
+      "the same"
+    ],
+    "سوختہ": [
+      "sokhta",
+      "burnt"
+    ],
+    "ساماں": [
+      "saamaan",
+      "belongings (“sokhta-saamaan” = one who has lost everything)"
+    ],
+    "تجھے": [
+      "tujhe",
+      "to You (“tujhe yaad nahin” = don't You remember)"
+    ],
+    "یاد": [
+      "yaad",
+      "memory; remembered"
+    ],
+    "وادی": [
+      "waadi-e-",
+      "valley of"
+    ],
+    "نجد": [
+      "najd",
+      "Najd (desert of Arabia where Majnun wandered)"
+    ],
+    "شور": [
+      "shor-e-",
+      "noise; clanking of"
+    ],
+    "سلاسل": [
+      "salaasil",
+      "chains (pl.)"
+    ],
+    "رہا": [
+      "raha",
+      "remained (“na raha” = is no more)"
+    ],
+    "قیس": [
+      "qais",
+      "Qais (Majnun)"
+    ],
+    "دیوانۂ": [
+      "deewaana-e-",
+      "mad for"
+    ],
+    "نظارۂ": [
+      "nazzaara-e-",
+      "sight of; seeing"
+    ],
+    "محمل": [
+      "mahmil",
+      "camel-litter (in which Laila travelled)"
+    ],
+    "حوصلے": [
+      "hausle",
+      "ambitions; courage (pl.)"
+    ],
+    "رہے": [
+      "rahe",
+      "remained (pl.) (“na rahe” = are gone)"
+    ],
+    "گھر": [
+      "ghar",
+      "house; home"
+    ],
+    "اجڑا": [
+      "ujṛa",
+      "ruined; laid waste"
+    ],
+    "رونق": [
+      "raunaq-e-",
+      "splendour; life of"
+    ],
+    "اے": [
+      "ai",
+      "O; oh"
+    ],
+    "خوش": [
+      "khush",
+      "happy (Persian “khush aan roz” = happy the day)"
+    ],
+    "آں": [
+      "aan",
+      "that (Persian)"
+    ],
+    "روز": [
+      "roz",
+      "day"
+    ],
+    "آئی": [
+      "aayi",
+      "you come (Persian)"
+    ],
+    "بصد": [
+      "ba-sad",
+      "with a hundred (Persian)"
+    ],
+    "ناز": [
+      "naaz",
+      "grace; coquetry"
+    ],
+    "بے": [
+      "be",
+      "without (“be-hijaabaana” = unveiled)"
+    ],
+    "حجابانہ": [
+      "hijaabaana",
+      "veiled-ly (“be-hijaabaana” = unveiled, openly)"
+    ],
+    "سوئے": [
+      "su-e-",
+      "towards"
+    ],
+    "ما": [
+      "maa",
+      "our; us (Persian)"
+    ],
+    "باز": [
+      "baaz",
+      "back; again (Persian)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "اپنی کمزوریاں ماننے کے بعد شاعر اللہ کو کیا کہتا ہے؟",
+      "english": "After admitting the Muslims' weaknesses, what does the poet call God?",
+      "options": [
+        {
+          "urdu": "رحیم",
+          "english": "Merciful"
+        },
+        {
+          "urdu": "ہرجائی",
+          "english": "Fickle"
+        },
+        {
+          "urdu": "خاموش",
+          "english": "Silent"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "\"سرِ فاران\" سے کس جگہ کی طرف اشارہ ہے؟",
+      "english": "Which place does “the summit of Faran” refer to?",
+      "options": [
+        {
+          "urdu": "نجد کی وادی",
+          "english": "The valley of Najd"
+        },
+        {
+          "urdu": "ایران",
+          "english": "Iran"
+        },
+        {
+          "urdu": "مکہ کے پہاڑ",
+          "english": "The hills of Mecca"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "شاعر کے مطابق \"گھر\" کیوں اجڑ گیا ہے؟",
+      "english": "Why, according to the poet, is the “house” ruined?",
+      "options": [
+        {
+          "urdu": "کیونکہ اللہ محفل کی رونق نہیں رہا",
+          "english": "Because God is no longer the light of the gathering"
+        },
+        {
+          "urdu": "کیونکہ قیس زنجیروں میں ہے",
+          "english": "Because Qais is in chains"
+        },
+        {
+          "urdu": "کیونکہ دشمنوں نے اسے لوٹ لیا",
+          "english": "Because enemies looted it"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

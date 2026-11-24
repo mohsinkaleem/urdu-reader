@@ -1,0 +1,249 @@
+{
+  "id": "starter-pehla-din",
+  "title": {
+    "urdu": "نئی نوکری کا پہلا دن",
+    "english": "First day at a new job"
+  },
+  "category": "starter",
+  "level": "easy",
+  "tags": ["everyday"],
+  "source": {
+    "name": "Written for this app"
+  },
+  "intro": "Written for this app: someone describes their first day at a new job, from nerves in the morning to friendly colleagues.",
+  "sentences": [
+    {
+      "urdu": "آج نئی نوکری پر میرا پہلا دن تھا۔",
+      "english": "Today was my first day at my new job."
+    },
+    {
+      "urdu": "صبح اٹھتے ہی مجھے عجیب سی بےچینی محسوس ہونے لگی۔",
+      "english": "As soon as I woke up, I started to feel a strange unease."
+    },
+    {
+      "urdu": "دفتر پہنچ کر میرے ہاتھ پاؤں پھول گئے کیونکہ وہاں سب لوگ اجنبی تھے۔",
+      "english": "On reaching the office I panicked, because everyone there was a stranger."
+    },
+    {
+      "urdu": "لیکن میرے نئے ساتھی بہت مہربان نکلے اور انہوں نے میرا حوصلہ بڑھایا۔",
+      "english": "But my new colleagues turned out to be very kind, and they encouraged me."
+    },
+    {
+      "urdu": "شام تک میرا اعتماد واپس آ گیا اور دل کو سکون ملا۔",
+      "english": "By evening my confidence had come back and my heart was at ease."
+    },
+    {
+      "urdu": "گھر لوٹا تو میں خوشی سے پھولے نہ سما رہا تھا۔",
+      "english": "When I got home, I was overjoyed."
+    }
+  ],
+  "glossary": {
+    "نئی": [
+      "nayi",
+      "new (f.)"
+    ],
+    "نوکری": [
+      "naukri",
+      "job"
+    ],
+    "پہلا": [
+      "pehla",
+      "first"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "صبح": [
+      "subah",
+      "morning"
+    ],
+    "اٹھتے": [
+      "uṭhte",
+      "getting up (“uṭhte hi” = as soon as I got up)"
+    ],
+    "عجیب": [
+      "ajeeb",
+      "strange"
+    ],
+    "سی": [
+      "si",
+      "sort of; -ish (f.)"
+    ],
+    "بےچینی": [
+      "bechaini",
+      "restlessness; unease"
+    ],
+    "محسوس": [
+      "mehsoos",
+      "felt (“mehsoos hona” = to be felt)"
+    ],
+    "لگی": [
+      "lagi",
+      "began (f.)"
+    ],
+    "دفتر": [
+      "daftar",
+      "office"
+    ],
+    "پہنچ": [
+      "pahunch",
+      "reach (“pahunch kar” = on reaching)"
+    ],
+    "ہاتھ": [
+      "haath",
+      "hand(s)"
+    ],
+    "پاؤں": [
+      "paaon",
+      "foot; feet"
+    ],
+    "پھول": [
+      "phool",
+      "swell (“haath paaon phool jaana” = to panic)"
+    ],
+    "کیونکہ": [
+      "kyunke",
+      "because"
+    ],
+    "وہاں": [
+      "wahaan",
+      "there"
+    ],
+    "لوگ": [
+      "log",
+      "people"
+    ],
+    "اجنبی": [
+      "ajnabi",
+      "stranger(s)"
+    ],
+    "نئے": [
+      "naye",
+      "new (m. pl.)"
+    ],
+    "ساتھی": [
+      "saathi",
+      "colleague(s); companion(s)"
+    ],
+    "مہربان": [
+      "mehrbaan",
+      "kind"
+    ],
+    "نکلے": [
+      "nikle",
+      "turned out (to be)"
+    ],
+    "حوصلہ": [
+      "hausla",
+      "courage; morale"
+    ],
+    "بڑھایا": [
+      "baṛhaaya",
+      "raised (“hausla baṛhaana” = to encourage)"
+    ],
+    "اعتماد": [
+      "etemaad",
+      "confidence"
+    ],
+    "واپس": [
+      "waapas",
+      "back"
+    ],
+    "آ": [
+      "aa",
+      "come"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "سکون": [
+      "sukoon",
+      "calm; peace of mind"
+    ],
+    "ملا": [
+      "mila",
+      "got; was found"
+    ],
+    "گھر": [
+      "ghar",
+      "home; house"
+    ],
+    "لوٹا": [
+      "lauṭa",
+      "returned"
+    ],
+    "خوشی": [
+      "khushi",
+      "happiness; joy"
+    ],
+    "پھولے": [
+      "phoole",
+      "swelled (“phoole na samaana” = to be overjoyed)"
+    ],
+    "سما": [
+      "sama",
+      "fit in; be contained"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "صبح کس چیز کا احساس ہوا؟",
+      "english": "What did the narrator feel in the morning?",
+      "options": [
+        {
+          "urdu": "غصہ",
+          "english": "Anger"
+        },
+        {
+          "urdu": "بےچینی",
+          "english": "Unease"
+        },
+        {
+          "urdu": "بھوک",
+          "english": "Hunger"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "دفتر میں ہاتھ پاؤں کیوں پھول گئے؟",
+      "english": "Why did the narrator panic at the office?",
+      "options": [
+        {
+          "urdu": "سب لوگ اجنبی تھے",
+          "english": "Everyone was a stranger"
+        },
+        {
+          "urdu": "دیر ہو گئی تھی",
+          "english": "They were late"
+        },
+        {
+          "urdu": "کام بہت مشکل تھا",
+          "english": "The work was very hard"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "”ہاتھ پاؤں پھول جانا“ کا مطلب کیا ہے؟",
+      "english": "What does “haath paaon phool jaana” mean?",
+      "options": [
+        {
+          "urdu": "بیمار ہونا",
+          "english": "To fall ill"
+        },
+        {
+          "urdu": "خوش ہونا",
+          "english": "To be happy"
+        },
+        {
+          "urdu": "گھبرا جانا",
+          "english": "To panic"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

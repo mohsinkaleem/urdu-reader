@@ -1,0 +1,352 @@
+{
+  "id": "poem-iqbal-bachche-ki-dua",
+  "title": {
+    "urdu": "بچے کی دعا",
+    "english": "A Child's Prayer"
+  },
+  "category": "poetry",
+  "level": "easy",
+  "tags": ["children", "faith", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: بچے کی دُعا (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%A8%DA%86%DB%92_%DA%A9%DB%8C_%D8%AF%D9%8F%D8%B9%D8%A7",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Allama Iqbal’s nazm “Bachche ki Dua” (1902, later in Bang-e-Dara), recited in schools across Pakistan: a child prays that their life may light up the world like a candle. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "لب پہ آتی ہے دعا بن کے تمنا میری",
+      "english": "My wish comes to my lips as a prayer:",
+      "verse": true
+    },
+    {
+      "urdu": "زندگی شمع کی صورت ہو خدایا میری",
+      "english": "O God, may my life be like a candle.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بچہ کہتا ہے کہ میری دل کی خواہش دعا بن کر ہونٹوں پر آتی ہے۔ وہ چاہتا ہے کہ اس کی زندگی شمع کی طرح ہو جو دوسروں کو روشنی دیتی ہے۔",
+        "english": "The child says his heart's wish comes to his lips as a prayer. He wants his life to be like a candle that gives light to others."
+      }
+    },
+    {
+      "urdu": "دور دنیا کا مرے دم سے اندھیرا ہو جائے",
+      "english": "May the world's darkness be driven away because of me;",
+      "verse": true
+    },
+    {
+      "urdu": "ہر جگہ میرے چمکنے سے اجالا ہو جائے",
+      "english": "may my shining bring light everywhere.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بچہ دعا کرتا ہے کہ اس کی وجہ سے دنیا کا اندھیرا ختم ہو جائے۔ وہ جہاں بھی ہو وہاں روشنی پھیل جائے۔",
+        "english": "The child prays that the darkness of the world may end because of him, and that wherever he is, light may spread."
+      }
+    },
+    {
+      "urdu": "ہو مرے دم سے یونہی میرے وطن کی زینت",
+      "english": "May my homeland be graced by me in just this way,",
+      "verse": true
+    },
+    {
+      "urdu": "جس طرح پھول سے ہوتی ہے چمن کی زینت",
+      "english": "as a garden is graced by a flower.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بچہ چاہتا ہے کہ وہ اپنے وطن کی خوب صورتی بڑھائے، جیسے پھول باغ کو خوب صورت بناتا ہے۔",
+        "english": "The child wants to make his homeland more beautiful, just as a flower makes a garden beautiful."
+      }
+    },
+    {
+      "urdu": "زندگی ہو مری پروانے کی صورت یا رب",
+      "english": "May my life be like the moth's, O Lord;",
+      "verse": true
+    },
+    {
+      "urdu": "علم کی شمع سے ہو مجھ کو محبت یا رب",
+      "english": "may I love the candle of knowledge, O Lord.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پروانہ شمع سے بہت محبت کرتا ہے۔ بچہ دعا کرتا ہے کہ اسے بھی علم سے ایسی ہی محبت ہو۔",
+        "english": "The moth loves the candle flame dearly. The child prays to love knowledge in the same way."
+      }
+    },
+    {
+      "urdu": "ہو مرا کام غریبوں کی حمایت کرنا",
+      "english": "May my work be to stand by the poor,",
+      "verse": true
+    },
+    {
+      "urdu": "درد مندوں سے ضعیفوں سے محبت کرنا",
+      "english": "and to love the suffering and the weak.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بچہ چاہتا ہے کہ وہ غریبوں کا ساتھ دے اور دکھی اور کمزور لوگوں سے محبت کرے۔",
+        "english": "The child wants to stand by the poor and to love people who are suffering or weak."
+      }
+    },
+    {
+      "urdu": "مرے اللہ! برائی سے بچانا مجھ کو",
+      "english": "My God! Keep me safe from evil;",
+      "verse": true
+    },
+    {
+      "urdu": "نیک جو راہ ہو اس رہ پہ چلانا مجھ کو",
+      "english": "whatever path is good, lead me along that path.",
+      "verse": true,
+      "explanation": {
+        "urdu": "آخر میں بچہ اللہ سے کہتا ہے کہ مجھے برائی سے بچا اور ہمیشہ نیکی کے راستے پر چلا۔",
+        "english": "At the end the child asks God to protect him from evil and always lead him on the path of goodness."
+      }
+    }
+  ],
+  "glossary": {
+    "لب": [
+      "lab",
+      "lips"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "آتی": [
+      "aati",
+      "comes (f.)"
+    ],
+    "دعا": [
+      "dua",
+      "prayer"
+    ],
+    "بن": [
+      "ban",
+      "become (“ban ke” = becoming; as)"
+    ],
+    "تمنا": [
+      "tamanna",
+      "wish; longing"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "شمع": [
+      "shama",
+      "candle"
+    ],
+    "صورت": [
+      "soorat",
+      "form; likeness (“ki soorat” = like)"
+    ],
+    "ہو": [
+      "ho",
+      "may (it) be (wish form)"
+    ],
+    "خدایا": [
+      "khudaaya",
+      "O God!"
+    ],
+    "دور": [
+      "door",
+      "far (“door ho jaana” = to go away, be removed)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "مرے": [
+      "mire",
+      "my (poetic form of “mere”)"
+    ],
+    "دم": [
+      "dam",
+      "breath (“mere dam se” = because of me, through me)"
+    ],
+    "اندھیرا": [
+      "andhera",
+      "darkness"
+    ],
+    "جائے": [
+      "jaaye",
+      "(may) become (“ho jaaye” = may become)"
+    ],
+    "چمکنے": [
+      "chamakne",
+      "shining (oblique)"
+    ],
+    "اجالا": [
+      "ujaala",
+      "light; brightness"
+    ],
+    "یونہی": [
+      "yoonhi",
+      "just so; in this very way"
+    ],
+    "وطن": [
+      "watan",
+      "homeland"
+    ],
+    "زینت": [
+      "zeenat",
+      "adornment; beauty; grace"
+    ],
+    "جس": [
+      "jis",
+      "which (oblique) (“jis tarah” = just as)"
+    ],
+    "پھول": [
+      "phool",
+      "flower"
+    ],
+    "چمن": [
+      "chaman",
+      "garden"
+    ],
+    "مری": [
+      "miri",
+      "my (poetic form of “meri”)"
+    ],
+    "پروانے": [
+      "parwaane",
+      "moth (oblique) — the moth that loves the candle flame"
+    ],
+    "یا": [
+      "ya",
+      "O (“ya rabb” = O Lord)"
+    ],
+    "رب": [
+      "rabb",
+      "Lord"
+    ],
+    "علم": [
+      "ilm",
+      "knowledge"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh ko” = to me; “mujh ko mohabbat ho” = may I love)"
+    ],
+    "محبت": [
+      "mohabbat",
+      "love"
+    ],
+    "مرا": [
+      "mira",
+      "my (poetic form of “mera”)"
+    ],
+    "غریبوں": [
+      "ghareebon",
+      "the poor (pl. oblique)"
+    ],
+    "حمایت": [
+      "himaayat",
+      "support; standing up for"
+    ],
+    "کرنا": [
+      "karna",
+      "to do"
+    ],
+    "درد": [
+      "dard",
+      "pain (“dard-mand” = suffering, afflicted)"
+    ],
+    "مندوں": [
+      "mandon",
+      "(“dard-mandon” = those in pain, the suffering; pl. oblique)"
+    ],
+    "ضعیفوں": [
+      "zaeefon",
+      "the weak; the frail (pl. oblique)"
+    ],
+    "اللہ": [
+      "allaah",
+      "God"
+    ],
+    "برائی": [
+      "buraai",
+      "evil; wrongdoing"
+    ],
+    "بچانا": [
+      "bachaana",
+      "save; protect (request form)"
+    ],
+    "نیک": [
+      "nek",
+      "good; virtuous"
+    ],
+    "راہ": [
+      "raah",
+      "path; way"
+    ],
+    "اس": [
+      "us",
+      "that (oblique)"
+    ],
+    "رہ": [
+      "rah",
+      "path (short poetic form of “raah”)"
+    ],
+    "چلانا": [
+      "chalaana",
+      "make (someone) walk; lead (request form)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "بچہ چاہتا ہے کہ اس کی زندگی کس کی طرح ہو؟",
+      "english": "What does the child want his life to be like?",
+      "options": [
+        {
+          "urdu": "پتھر کی طرح",
+          "english": "like a stone"
+        },
+        {
+          "urdu": "شمع کی طرح، جو روشنی دیتی ہے",
+          "english": "like a candle that gives light"
+        },
+        {
+          "urdu": "ہوا کی طرح",
+          "english": "like the wind"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "بچہ کس چیز سے محبت کرنا چاہتا ہے؟",
+      "english": "What does the child want to love?",
+      "options": [
+        {
+          "urdu": "دولت سے",
+          "english": "wealth"
+        },
+        {
+          "urdu": "کھیل سے",
+          "english": "games"
+        },
+        {
+          "urdu": "علم سے",
+          "english": "knowledge"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "بچہ کن لوگوں کی مدد اور محبت کی دعا کرتا ہے؟",
+      "english": "Whom does the child pray to help and love?",
+      "options": [
+        {
+          "urdu": "غریبوں، دکھی اور کمزور لوگوں کی",
+          "english": "the poor, the suffering and the weak"
+        },
+        {
+          "urdu": "صرف اپنے دوستوں کی",
+          "english": "only his friends"
+        },
+        {
+          "urdu": "امیر لوگوں کی",
+          "english": "rich people"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

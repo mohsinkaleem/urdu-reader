@@ -1,0 +1,319 @@
+{
+  "id": "wiki-lahore",
+  "title": {
+    "urdu": "مغلیہ دور کا لاہور",
+    "english": "Lahore in the Mughal era"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": ["places", "history"],
+  "source": {
+    "name": "Urdu Wikipedia: لاہور",
+    "url": "https://ur.wikipedia.org/wiki/%D9%84%D8%A7%DB%81%D9%88%D8%B1",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "From the history section of the Urdu Wikipedia article on Lahore: the Mughal emperors and the buildings and gardens they left in the city. Notice the causative verb “taameer karwaana” (to have something built), which comes up again and again.",
+  "sentences": [
+    {
+      "urdu": "ظہیر الدین بابر نے 1526ء میں ابراہیم لودھی کو شکست دی جس کے نتیجے میں مغلیہ سلطنت وجود میں آئی۔",
+      "english": "In 1526 Zaheer-ud-Din Babur defeated Ibrahim Lodhi, as a result of which the Mughal Empire came into being."
+    },
+    {
+      "urdu": "مغلوں نے اپنے دور میں لاہور میں عظیم الشان عمارات تعمیر کروائیں اور کئی باغات لگوائے۔",
+      "english": "During their rule the Mughals had magnificent buildings built in Lahore and had many gardens laid out."
+    },
+    {
+      "urdu": "اکبر اعظم نے شاہی قلعہ کو ازسرنو تعمیر کروایا۔",
+      "english": "Akbar the Great had the Royal Fort rebuilt."
+    },
+    {
+      "urdu": "شاہجہان نے شالامار باغ تعمیر کروایا جو اپنی مثال آپ ہے۔",
+      "english": "Shah Jahan had the Shalimar Garden built, which is one of a kind."
+    },
+    {
+      "urdu": "1646ء میں شہزادی جہاں آرا نے دریائے راوی کے کنارے چوبرجی باغ تعمیر کروایا جس کا بیرونی دروازہ آج بھی موجود ہے۔",
+      "english": "In 1646 Princess Jahanara had the Chauburji garden built on the bank of the River Ravi; its outer gateway still stands today."
+    },
+    {
+      "urdu": "1673ء میں اورنگزیب عالمگیر نے شاہی قلعہ کے سامنے بادشاہی مسجد تعمیر کروائی۔",
+      "english": "In 1673 Aurangzeb Alamgir had the Badshahi Mosque built opposite the Royal Fort."
+    }
+  ],
+  "glossary": {
+    "ظہیر": [
+      "zaheer",
+      "Zaheer (part of the name Zaheer-ud-Din Babur)"
+    ],
+    "الدین": [
+      "ud-deen",
+      "“of the faith” (part of the name Zaheer-ud-Din)"
+    ],
+    "بابر": [
+      "baabar",
+      "Babur (founder of the Mughal Empire)"
+    ],
+    "1526ء": [
+      "1526 eesvi",
+      "1526 CE (ء is short for “eesvi”, AD)"
+    ],
+    "ابراہیم": [
+      "ibraaheem",
+      "Ibrahim"
+    ],
+    "لودھی": [
+      "lodhi",
+      "Lodhi (Ibrahim Lodhi, the last Lodi sultan of Delhi)"
+    ],
+    "شکست": [
+      "shikast",
+      "defeat (“shikast dena” = to defeat)"
+    ],
+    "دی": [
+      "di",
+      "gave (f.) (“shikast di” = defeated)"
+    ],
+    "جس": [
+      "jis",
+      "which (oblique) (“jis ke natije mein” = as a result of which)"
+    ],
+    "نتیجے": [
+      "natije",
+      "result (oblique) (“ke natije mein” = as a result of)"
+    ],
+    "مغلیہ": [
+      "mughliya",
+      "Mughal"
+    ],
+    "سلطنت": [
+      "saltanat",
+      "empire"
+    ],
+    "وجود": [
+      "wujood",
+      "existence (“wujood mein aana” = to come into being)"
+    ],
+    "آئی": [
+      "aai",
+      "came (f.)"
+    ],
+    "مغلوں": [
+      "mughlon",
+      "the Mughals (pl. oblique)"
+    ],
+    "دور": [
+      "daur",
+      "era; reign"
+    ],
+    "لاہور": [
+      "laahaur",
+      "Lahore"
+    ],
+    "عظیم": [
+      "azeem",
+      "great (“azeem-ush-shaan” = magnificent)"
+    ],
+    "الشان": [
+      "ush-shaan",
+      "of grandeur (“azeem-ush-shaan” = magnificent)"
+    ],
+    "عمارات": [
+      "imaaraat",
+      "buildings (Arabic pl. of “imaarat”)"
+    ],
+    "تعمیر": [
+      "taameer",
+      "construction (“taameer karwaana” = to have built)"
+    ],
+    "کروائیں": [
+      "karwaaeen",
+      "had (them) made (f. pl.) (“taameer karwaaeen” = had built)"
+    ],
+    "باغات": [
+      "baaghaat",
+      "gardens (Arabic pl. of “baagh”)"
+    ],
+    "لگوائے": [
+      "lagwaaye",
+      "had (them) planted / laid out (m. pl.)"
+    ],
+    "اکبر": [
+      "akbar",
+      "Akbar (third Mughal emperor)"
+    ],
+    "اعظم": [
+      "aazam",
+      "the Great (“akbar aazam” = Akbar the Great)"
+    ],
+    "شاہی": [
+      "shaahi",
+      "royal (“shaahi qila” = the Royal Fort, i.e. Lahore Fort)"
+    ],
+    "قلعہ": [
+      "qila",
+      "fort"
+    ],
+    "ازسرنو": [
+      "az-sar-e-nau",
+      "anew; from scratch (“az-sar-e-nau taameer” = rebuilding)"
+    ],
+    "کروایا": [
+      "karwaaya",
+      "had (it) made (m.) (“taameer karwaaya” = had built)"
+    ],
+    "شاہجہان": [
+      "shaahjahaan",
+      "Shah Jahan (fifth Mughal emperor)"
+    ],
+    "شالامار": [
+      "shaalaamaar",
+      "Shalimar (the Shalimar Gardens)"
+    ],
+    "باغ": [
+      "baagh",
+      "garden"
+    ],
+    "مثال": [
+      "misaal",
+      "example; match (“apni misaal aap hona” = to be one of a kind)"
+    ],
+    "آپ": [
+      "aap",
+      "itself (“apni misaal aap” = its own example, i.e. unmatched)"
+    ],
+    "1646ء": [
+      "1646 eesvi",
+      "1646 CE"
+    ],
+    "شہزادی": [
+      "shehzaadi",
+      "princess"
+    ],
+    "جہاں": [
+      "jahaan",
+      "Jahan (part of the name Jahan Ara)"
+    ],
+    "آرا": [
+      "aara",
+      "Ara (Jahan Ara, Shah Jahan's daughter)"
+    ],
+    "دریائے": [
+      "darya-e",
+      "river of (izafat: “darya-e raavi” = the River Ravi)"
+    ],
+    "راوی": [
+      "raavi",
+      "Ravi (the river at Lahore)"
+    ],
+    "کنارے": [
+      "kinaare",
+      "bank; edge (oblique) (“ke kinaare” = on the bank of)"
+    ],
+    "چوبرجی": [
+      "chauburji",
+      "Chauburji (“four towers”; a garden gateway)"
+    ],
+    "بیرونی": [
+      "beerooni",
+      "outer; external"
+    ],
+    "دروازہ": [
+      "darwaaza",
+      "gate; gateway"
+    ],
+    "آج": [
+      "aaj",
+      "today (“aaj bhi” = even today; still)"
+    ],
+    "موجود": [
+      "maujood",
+      "present; still standing"
+    ],
+    "1673ء": [
+      "1673 eesvi",
+      "1673 CE"
+    ],
+    "عالمگیر": [
+      "aalamgeer",
+      "Alamgir (“world-conqueror”, Aurangzeb's title)"
+    ],
+    "سامنے": [
+      "saamne",
+      "in front of; opposite (“ke saamne”)"
+    ],
+    "بادشاہی": [
+      "baadshaahi",
+      "imperial (“baadshaahi masjid” = the Emperor's Mosque)"
+    ],
+    "مسجد": [
+      "masjid",
+      "mosque"
+    ],
+    "کروائی": [
+      "karwaai",
+      "had (it) made (f.) (“taameer karwaai” = had built)"
+    ],
+    "اورنگزیب": [
+      "aurangzeb",
+      "Aurangzeb (Mughal emperor, r. 1658–1707)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "مغلیہ سلطنت کس واقعے کے نتیجے میں وجود میں آئی؟",
+      "english": "What event led to the Mughal Empire coming into being?",
+      "options": [
+        {
+          "urdu": "بابر کی ابراہیم لودھی پر فتح",
+          "english": "Babur's victory over Ibrahim Lodhi"
+        },
+        {
+          "urdu": "بادشاہی مسجد کی تعمیر",
+          "english": "The building of the Badshahi Mosque"
+        },
+        {
+          "urdu": "شالامار باغ کی تعمیر",
+          "english": "The building of the Shalimar Garden"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شالامار باغ کس نے تعمیر کروایا؟",
+      "english": "Who had the Shalimar Garden built?",
+      "options": [
+        {
+          "urdu": "اکبر اعظم",
+          "english": "Akbar the Great"
+        },
+        {
+          "urdu": "شاہجہان",
+          "english": "Shah Jahan"
+        },
+        {
+          "urdu": "شہزادی جہاں آرا",
+          "english": "Princess Jahanara"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "بادشاہی مسجد کہاں بنائی گئی؟",
+      "english": "Where was the Badshahi Mosque built?",
+      "options": [
+        {
+          "urdu": "چوبرجی باغ کے اندر",
+          "english": "Inside the Chauburji garden"
+        },
+        {
+          "urdu": "دریائے راوی کے پار",
+          "english": "Across the River Ravi"
+        },
+        {
+          "urdu": "شاہی قلعہ کے سامنے",
+          "english": "Opposite the Royal Fort"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

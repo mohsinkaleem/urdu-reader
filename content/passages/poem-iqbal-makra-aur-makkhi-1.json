@@ -1,0 +1,694 @@
+{
+  "id": "poem-iqbal-makra-aur-makkhi-1",
+  "title": {
+    "urdu": "ایک مکڑا اور مکھی",
+    "english": "A Spider and a Fly"
+  },
+  "category": "poetry",
+  "level": "easy",
+  "tags": ["children", "nature", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: ایک مکڑا اور مکھّی (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%A7%DB%8C%DA%A9_%D9%85%DA%A9%DA%91%D8%A7_%D8%A7%D9%88%D8%B1_%D9%85%DA%A9%DA%BE%D9%91%DB%8C",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "From the first part of Iqbal’s Bang-e-Dara (1924), among the poems he wrote for children; it is an adaptation of Mary Howitt’s English poem “The Spider and the Fly”. In this first part a spider invites a fly into his house, and the clever fly refuses twice.",
+  "series": {
+    "id": "poem-iqbal-makra-aur-makkhi",
+    "title": "A Spider and a Fly",
+    "part": 1,
+    "of": 2
+  },
+  "sentences": [
+    {
+      "urdu": "اک دن کسی مکھّی سے یہ کہنے لگا مکڑا",
+      "english": "One day a spider began saying this to a fly:",
+      "verse": true
+    },
+    {
+      "urdu": "اس راہ سے ہوتا ہے گزر روز تمھارا",
+      "english": "“You pass along this road every day,",
+      "verse": true
+    },
+    {
+      "urdu": "لیکن مری کُٹیا کی نہ جاگی کبھی قسمت",
+      "english": "but my little hut has never had the luck —",
+      "verse": true
+    },
+    {
+      "urdu": "بھُولے سے کبھی تم نے یہاں پاؤں نہ رکھّا",
+      "english": "not even by mistake have you ever set foot here.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مکڑا مکھی سے شکایت کرتا ہے کہ تم روز اسی راستے سے گزرتی ہو مگر کبھی بھول کر بھی میرے گھر نہیں آئیں۔",
+        "english": "The spider complains that the fly passes this way every day but has never once, even by accident, visited his home."
+      }
+    },
+    {
+      "urdu": "غیروں سے نہ مِلیے تو کوئی بات نہیں ہے",
+      "english": "If one doesn’t visit strangers, that’s no matter,",
+      "verse": true
+    },
+    {
+      "urdu": "اپنوں سے مگر چاہیے یوں کھنچ کے نہ رہنا",
+      "english": "but one shouldn’t keep aloof like this from one’s own.",
+      "verse": true
+    },
+    {
+      "urdu": "آؤ جو مرے گھر میں تو عزّت ہے یہ میری",
+      "english": "If you come into my home, it will be an honour for me;",
+      "verse": true
+    },
+    {
+      "urdu": "وہ سامنے سیڑھی ہے جو منظور ہو آنا",
+      "english": "there is the staircase in front, if you’d care to come.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "مکڑا کہتا ہے کہ اجنبیوں سے نہ ملو تو ٹھیک ہے، مگر اپنوں سے دور نہیں رہنا چاہیے۔ وہ مکھی کو سیڑھی دکھا کر گھر آنے کی دعوت دیتا ہے۔",
+        "english": "The spider pretends they are friends: it is fine to avoid strangers, he says, but not one’s own people. He points to his “staircase” (his web) and invites her in."
+      }
+    },
+    {
+      "urdu": "مکھّی نے سُنی بات جو مکڑے کی تو بولی",
+      "english": "When the fly heard what the spider said, she replied:",
+      "verse": true
+    },
+    {
+      "urdu": "حضرت! کسی نادان کو دیجے گا یہ دھوکا",
+      "english": "“Sir! Play this trick on some fool.",
+      "verse": true
+    },
+    {
+      "urdu": "اس جال میں مکھّی کبھی آنے کی نہیں ہے",
+      "english": "This fly is never going to come into this web.",
+      "verse": true
+    },
+    {
+      "urdu": "جو آپ کی سیڑھی پہ چڑھا، پھر نہیں اُترا",
+      "english": "Whoever climbed up your stairs never came down again.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "مکھی سمجھ جاتی ہے کہ یہ دھوکا ہے۔ وہ کہتی ہے کہ جو تمھارے جال میں گیا وہ کبھی واپس نہیں آیا۔",
+        "english": "The fly sees through the trick: whoever has climbed into the spider’s web has never come back down."
+      }
+    },
+    {
+      "urdu": "مکڑے نے کہا واہ! فریبی مجھے سمجھے",
+      "english": "The spider said, “Well! You take me for a cheat?",
+      "verse": true
+    },
+    {
+      "urdu": "تم سا کوئی نادان زمانے میں نہ ہو گا",
+      "english": "There can’t be anyone in the world as foolish as you.",
+      "verse": true
+    },
+    {
+      "urdu": "منظور تمھاری مجھے خاطر تھی وگرنہ",
+      "english": "I only wanted to do you a kindness; otherwise",
+      "verse": true
+    },
+    {
+      "urdu": "کچھ فائدہ اپنا تو مرا اس میں نہیں تھا",
+      "english": "there was nothing in it for me at all.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مکڑا ناراض ہونے کا ڈراما کرتا ہے۔ وہ کہتا ہے کہ میں تو صرف تمھاری خاطر بلا رہا تھا، اس میں میرا کوئی فائدہ نہیں تھا۔",
+        "english": "The spider acts offended: he claims he only wanted to be kind to her and had nothing to gain himself — which is exactly the lie."
+      }
+    },
+    {
+      "urdu": "اُڑتی ہوئی آئی ہو خدا جانے کہاں سے",
+      "english": "You’ve come flying from God knows where;",
+      "verse": true
+    },
+    {
+      "urdu": "ٹھہرو جو مرے گھر میں تو ہے اس میں بُرا کیا!",
+      "english": "if you rest in my home, what is wrong with that!",
+      "verse": true
+    },
+    {
+      "urdu": "اِس گھر میں کئی تم کو دکھانے کی ہیں چیزیں",
+      "english": "In this house there are many things to show you;",
+      "verse": true
+    },
+    {
+      "urdu": "باہر سے نظر آتا ہے چھوٹی سی یہ کُٹیا",
+      "english": "from outside this hut looks quite small.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مکڑا کہتا ہے کہ تم دور سے اڑ کر آئی ہو، کچھ دیر آرام کر لو۔ میرا گھر باہر سے چھوٹا لگتا ہے مگر اندر دیکھنے کی بہت سی چیزیں ہیں۔",
+        "english": "He tempts her to rest after her long flight and says his house, though it looks small from outside, has many things to see inside."
+      }
+    },
+    {
+      "urdu": "لٹکے ہوئے دروازوں پہ باریک ہیں پردے",
+      "english": "Fine curtains hang on the doors,",
+      "verse": true
+    },
+    {
+      "urdu": "دیواروں کو آئینوں سے ہے میں نے سجایا",
+      "english": "and I have decorated the walls with mirrors.",
+      "verse": true
+    },
+    {
+      "urdu": "مہمانوں کے آرام کو حاضر ہیں بچھونے",
+      "english": "For the comfort of guests, beds are ready;",
+      "verse": true
+    },
+    {
+      "urdu": "ہر شخص کو ساماں یہ میّسر نہیں ہوتا",
+      "english": "not everyone is lucky enough to have such things.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "مکڑا اپنے گھر کی تعریف کرتا ہے: دروازوں پر باریک پردے، دیواروں پر آئینے اور مہمانوں کے لیے بستر۔",
+        "english": "He boasts of his home: fine curtains, walls hung with mirrors, and beds ready for guests — the shimmering threads of the web described as luxuries."
+      }
+    },
+    {
+      "urdu": "مکھّی نے کہا خیر، یہ سب ٹھیک ہے لیکن",
+      "english": "The fly said, “Very well, all that is fine, but",
+      "verse": true
+    },
+    {
+      "urdu": "میں آپ کے گھر آؤں، یہ امّید نہ رکھنا",
+      "english": "don’t expect me to come to your house.",
+      "verse": true
+    },
+    {
+      "urdu": "ان نرم بچھونوں سے خدا مجھ کو بچائے",
+      "english": "May God keep me away from those soft beds!",
+      "verse": true
+    },
+    {
+      "urdu": "سو جائے کوئی ان پہ تو پھر اُٹھ نہیں سکتا",
+      "english": "If anyone falls asleep on them, he can never get up again.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "مکھی پھر بھی انکار کرتی ہے۔ وہ کہتی ہے کہ تمھارے نرم بستروں پر جو سو جائے وہ پھر کبھی نہیں اٹھتا۔",
+        "english": "The fly still refuses: whoever lies down on those “soft beds” never gets up again — she knows the beds are a deadly trap."
+      }
+    }
+  ],
+  "glossary": {
+    "اک": [
+      "ik",
+      "one; a (short form of “ek”)"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "مکھی": [
+      "makkhi",
+      "fly (f.)"
+    ],
+    "کہنے": [
+      "kehne",
+      "to say (“kehne laga” = began to say)"
+    ],
+    "لگا": [
+      "laga",
+      "began (m.)"
+    ],
+    "مکڑا": [
+      "makṛa",
+      "spider (m.)"
+    ],
+    "اس": [
+      "us",
+      "her; that (oblique)"
+    ],
+    "راہ": [
+      "raah",
+      "road; way"
+    ],
+    "گزر": [
+      "guzar",
+      "passing (“guzar hota hai” = you pass by)"
+    ],
+    "روز": [
+      "roz",
+      "every day; day"
+    ],
+    "تمھارا": [
+      "tumhaara",
+      "your (m.)"
+    ],
+    "مری": [
+      "miri",
+      "my (poetic form of “meri”)"
+    ],
+    "کٹیا": [
+      "kuṭiya",
+      "little hut; cottage"
+    ],
+    "جاگی": [
+      "jaagi",
+      "woke (f.) (“qismat jaagna” = to have good luck)"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever (“na … kabhi” = never)"
+    ],
+    "قسمت": [
+      "qismat",
+      "luck; fate"
+    ],
+    "بھولے": [
+      "bhoole",
+      "by mistake (“bhoole se” = even by accident)"
+    ],
+    "تم": [
+      "tum",
+      "you"
+    ],
+    "یہاں": [
+      "yahaan",
+      "here"
+    ],
+    "پاؤں": [
+      "paaon",
+      "foot (“paaon rakhna” = to set foot)"
+    ],
+    "رکھا": [
+      "rakha",
+      "put; placed (m.)"
+    ],
+    "غیروں": [
+      "ghairon",
+      "strangers; outsiders (pl. oblique)"
+    ],
+    "ملیے": [
+      "miliye",
+      "(one) meets (polite/general form)"
+    ],
+    "بات": [
+      "baat",
+      "matter; word (“koi baat nahin” = no matter)"
+    ],
+    "اپنوں": [
+      "apnon",
+      "one’s own people (pl. oblique)"
+    ],
+    "چاہیے": [
+      "chaahiye",
+      "should; ought"
+    ],
+    "یوں": [
+      "yoon",
+      "like this; thus"
+    ],
+    "کھنچ": [
+      "khinch",
+      "drawn back (“khinch ke rehna” = to keep aloof)"
+    ],
+    "کے": [
+      "ke",
+      "of; (“soch ke” = having thought)"
+    ],
+    "رہنا": [
+      "rehna",
+      "to stay; to remain"
+    ],
+    "آؤ": [
+      "aao",
+      "(you) come; if you come"
+    ],
+    "مرے": [
+      "mire",
+      "my (poetic form of “mere”)"
+    ],
+    "گھر": [
+      "ghar",
+      "home; house"
+    ],
+    "عزت": [
+      "izzat",
+      "honour"
+    ],
+    "سامنے": [
+      "saamne",
+      "in front"
+    ],
+    "سیڑھی": [
+      "seeṛhi",
+      "staircase; ladder"
+    ],
+    "منظور": [
+      "manzoor",
+      "accepted; wished (“manzoor ho” = if you like; “khaatir manzoor thi” = I meant to please you)"
+    ],
+    "ہو": [
+      "ho",
+      "(you) are; be (“aayi ho” = you have come; “manzoor ho” = if it pleases)"
+    ],
+    "آنا": [
+      "aana",
+      "to come"
+    ],
+    "سنی": [
+      "suni",
+      "heard (f.)"
+    ],
+    "مکڑے": [
+      "makṛe",
+      "spider (oblique)"
+    ],
+    "بولی": [
+      "boli",
+      "said; spoke (f.)"
+    ],
+    "حضرت": [
+      "hazrat",
+      "sir; your honour (polite, here ironic)"
+    ],
+    "نادان": [
+      "naadaan",
+      "foolish; a fool"
+    ],
+    "دیجے": [
+      "deeje",
+      "please give (“deeje ga” = (you) will kindly give; here: try … on)"
+    ],
+    "گا": [
+      "ga",
+      "will (future marker) (“na ho ga” = there won’t be)"
+    ],
+    "دھوکا": [
+      "dhoka",
+      "trick; deception"
+    ],
+    "جال": [
+      "jaal",
+      "net; web"
+    ],
+    "آنے": [
+      "aane",
+      "coming (“aane ki nahin” = is not going to come)"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "چڑھا": [
+      "chaṛha",
+      "climbed (m.)"
+    ],
+    "اترا": [
+      "utra",
+      "came down (m.)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "واہ": [
+      "waah",
+      "well! (exclamation, here indignant)"
+    ],
+    "فریبی": [
+      "farebi",
+      "cheat; deceiver"
+    ],
+    "مجھے": [
+      "mujhe",
+      "me"
+    ],
+    "سمجھے": [
+      "samjhe",
+      "(you) consider; take (me) for"
+    ],
+    "سا": [
+      "sa",
+      "like (“tum sa” = like you)"
+    ],
+    "زمانے": [
+      "zamaane",
+      "the world; the age (oblique)"
+    ],
+    "تمھاری": [
+      "tumhaari",
+      "your (f.)"
+    ],
+    "خاطر": [
+      "khaatir",
+      "sake; pleasing (someone)"
+    ],
+    "وگرنہ": [
+      "wagarna",
+      "otherwise"
+    ],
+    "فائدہ": [
+      "faaida",
+      "benefit; gain"
+    ],
+    "اپنا": [
+      "apna",
+      "one’s own"
+    ],
+    "مرا": [
+      "mira",
+      "my (poetic form of “mera”)"
+    ],
+    "اڑتی": [
+      "uṛti",
+      "flying (f.) (“uṛti hui” = flying along)"
+    ],
+    "ہوئی": [
+      "hui",
+      "(“-ti hui” = while …ing)"
+    ],
+    "آئی": [
+      "aayi",
+      "came (f.)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "جانے": [
+      "jaane",
+      "knows (“khuda jaane” = God knows)"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where"
+    ],
+    "ٹھہرو": [
+      "ṭhehro",
+      "(you) stay; rest"
+    ],
+    "برا": [
+      "bura",
+      "bad; wrong"
+    ],
+    "کیا": [
+      "kya",
+      "what"
+    ],
+    "دکھانے": [
+      "dikhaane",
+      "showing (“dikhaane ki cheezen” = things to show)"
+    ],
+    "چیزیں": [
+      "cheezen",
+      "things (pl.)"
+    ],
+    "باہر": [
+      "baahar",
+      "outside"
+    ],
+    "نظر": [
+      "nazar",
+      "sight; a glance (“nazar aata hai” = looks, appears)"
+    ],
+    "آتا": [
+      "aata",
+      "comes (m.)"
+    ],
+    "چھوٹی": [
+      "chhoṭi",
+      "small (f.) (“chhoṭi si” = quite small)"
+    ],
+    "سی": [
+      "si",
+      "like; -ish (“chhoṭi si” = little)"
+    ],
+    "لٹکے": [
+      "laṭke",
+      "hanging (“laṭke hue” = hung)"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“-e hue” = in a state of …)"
+    ],
+    "دروازوں": [
+      "darwaazon",
+      "doors (pl. oblique)"
+    ],
+    "باریک": [
+      "baareek",
+      "fine; delicate"
+    ],
+    "پردے": [
+      "parde",
+      "curtains (pl.)"
+    ],
+    "دیواروں": [
+      "deewaaron",
+      "walls (pl. oblique)"
+    ],
+    "آئینوں": [
+      "aainon",
+      "mirrors (pl. oblique)"
+    ],
+    "سجایا": [
+      "sajaaya",
+      "decorated; adorned"
+    ],
+    "مہمانوں": [
+      "mehmaanon",
+      "guests (pl. oblique)"
+    ],
+    "آرام": [
+      "aaraam",
+      "comfort; rest (“aaraam se” = at ease)"
+    ],
+    "حاضر": [
+      "haazir",
+      "present; ready"
+    ],
+    "بچھونے": [
+      "bichhaune",
+      "beds; bedding (pl.)"
+    ],
+    "شخص": [
+      "shakhs",
+      "person"
+    ],
+    "ساماں": [
+      "saamaan",
+      "comforts; things (poetic form of “saamaan”)"
+    ],
+    "میسر": [
+      "muyassar",
+      "available (“muyassar nahin hota” = does not get)"
+    ],
+    "خیر": [
+      "khair",
+      "well; very well"
+    ],
+    "ٹھیک": [
+      "ṭheek",
+      "fine; all right"
+    ],
+    "آؤں": [
+      "aaoon",
+      "(that) I come"
+    ],
+    "امید": [
+      "ummeed",
+      "hope; expectation"
+    ],
+    "رکھنا": [
+      "rakhna",
+      "keep (“ummeed na rakhna” = don’t expect)"
+    ],
+    "ان": [
+      "in",
+      "these (oblique)"
+    ],
+    "نرم": [
+      "narm",
+      "soft"
+    ],
+    "بچھونوں": [
+      "bichhaunon",
+      "beds (pl. oblique)"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh ko” = me)"
+    ],
+    "بچائے": [
+      "bachaaye",
+      "may (God) save"
+    ],
+    "سو": [
+      "so",
+      "sleep (“so jaana” = to fall asleep)"
+    ],
+    "جائے": [
+      "jaaye",
+      "(if) … goes (“so jaaye” = if (one) falls asleep)"
+    ],
+    "اٹھ": [
+      "uṭh",
+      "get up (“uṭh nahin sakta” = cannot get up)"
+    ],
+    "سکتا": [
+      "sakta",
+      "can (m.)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "مکڑا مکھی کو کہاں بلاتا ہے؟",
+      "english": "Where does the spider invite the fly?",
+      "options": [
+        {
+          "urdu": "باغ میں",
+          "english": "to the garden"
+        },
+        {
+          "urdu": "اپنے گھر میں",
+          "english": "into his home"
+        },
+        {
+          "urdu": "دریا کے کنارے",
+          "english": "to the riverbank"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "مکھی پہلی بار کیوں انکار کرتی ہے؟",
+      "english": "Why does the fly refuse the first time?",
+      "options": [
+        {
+          "urdu": "کیونکہ جو مکڑے کی سیڑھی پر چڑھا وہ واپس نہیں اترا",
+          "english": "because whoever climbed the spider’s stairs never came down"
+        },
+        {
+          "urdu": "کیونکہ وہ بیمار ہے",
+          "english": "because she is ill"
+        },
+        {
+          "urdu": "کیونکہ اس کا اپنا گھر زیادہ اچھا ہے",
+          "english": "because her own house is nicer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "مکڑا اپنے گھر کی کون سی چیزوں کی تعریف کرتا ہے؟",
+      "english": "Which things in his house does the spider boast about?",
+      "options": [
+        {
+          "urdu": "کھانے اور پھل",
+          "english": "food and fruit"
+        },
+        {
+          "urdu": "کتابیں اور کھلونے",
+          "english": "books and toys"
+        },
+        {
+          "urdu": "پردے، آئینے اور نرم بستر",
+          "english": "curtains, mirrors and soft beds"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

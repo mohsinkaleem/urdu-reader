@@ -1,0 +1,303 @@
+{
+  "id": "wiki-eid-ul-fitr",
+  "title": {
+    "urdu": "عید الفطر",
+    "english": "Eid ul-Fitr"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": ["faith", "culture"],
+  "source": {
+    "name": "Urdu Wikipedia: عید الفطر",
+    "url": "https://ur.wikipedia.org/wiki/%D8%B9%DB%8C%D8%AF_%D8%A7%D9%84%D9%81%D8%B7%D8%B1",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "The opening of the Urdu Wikipedia article on Eid ul-Fitr, the festival that marks the end of Ramadan, and why it falls on different days in different countries.",
+  "sentences": [
+    {
+      "urdu": "عید الفطر ایک اہم مذہبی تہوار ہے جسے پوری دنیا میں بسنے والے مسلمان رمضان المبارک کا مہینہ ختم ہونے پر مناتے ہیں۔",
+      "english": "Eid ul-Fitr is an important religious festival that Muslims living all over the world celebrate when the month of Ramadan ends."
+    },
+    {
+      "urdu": "عید کے دن مسلمانوں کو روزہ رکھنے سے منع کیا گیا ہے۔",
+      "english": "Muslims are forbidden to fast on the day of Eid."
+    },
+    {
+      "urdu": "مسلمان رمضان کے 29 یا 30 روزے رکھنے کے بعد یکم شوال کو عید مناتے ہیں۔",
+      "english": "After keeping 29 or 30 fasts in Ramadan, Muslims celebrate Eid on the 1st of Shawwal."
+    },
+    {
+      "urdu": "کسی بھی قمری ہجری مہینے کا آغاز مقامی مذہبی رہنماؤں کے چاند نظر آجانے کے فیصلے سے ہوتا ہے۔",
+      "english": "The start of any lunar Hijri month depends on local religious leaders deciding that the moon has been sighted."
+    },
+    {
+      "urdu": "یہی وجہ ہے کہ دنیا کے مختلف ممالک میں عید مختلف دنوں میں منائی جاتی ہے۔",
+      "english": "This is why Eid is celebrated on different days in different countries of the world."
+    },
+    {
+      "urdu": "اس کے برعکس کچھ ممالک ایسے ہیں جو سعودی عرب کی پیروی کرتے ہیں۔",
+      "english": "On the other hand, there are some countries that follow Saudi Arabia."
+    }
+  ],
+  "glossary": {
+    "عید": [
+      "eed",
+      "Eid; festival"
+    ],
+    "الفطر": [
+      "ul-fitr",
+      "of breaking the fast (“eed ul-fitr”)"
+    ],
+    "اہم": [
+      "aham",
+      "important"
+    ],
+    "مذہبی": [
+      "mazhabi",
+      "religious"
+    ],
+    "تہوار": [
+      "tehwaar",
+      "festival"
+    ],
+    "جسے": [
+      "jise",
+      "which (object form) (“jise … manaate hain” = which … celebrate)"
+    ],
+    "پوری": [
+      "poori",
+      "whole; entire (f.) (“poori dunya” = the whole world)"
+    ],
+    "دنیا": [
+      "dunya",
+      "world"
+    ],
+    "بسنے": [
+      "basne",
+      "living; settled (oblique infinitive)"
+    ],
+    "والے": [
+      "waale",
+      "who (“basne waale musalmaan” = Muslims who live)"
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslim(s)"
+    ],
+    "رمضان": [
+      "ramzaan",
+      "Ramadan (the month of fasting)"
+    ],
+    "المبارک": [
+      "ul-mubaarak",
+      "the blessed (“ramzaan ul-mubaarak” = blessed Ramadan)"
+    ],
+    "مہینہ": [
+      "maheena",
+      "month"
+    ],
+    "ختم": [
+      "khatm",
+      "finished (“khatm hona” = to end)"
+    ],
+    "ہونے": [
+      "hone",
+      "being (oblique infinitive) (“khatm hone par” = on ending)"
+    ],
+    "مناتے": [
+      "manaate",
+      "celebrate (m. pl.)"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "مسلمانوں": [
+      "musalmaanon",
+      "Muslims (pl. oblique)"
+    ],
+    "روزہ": [
+      "roza",
+      "fast (“roza rakhna” = to fast)"
+    ],
+    "رکھنے": [
+      "rakhne",
+      "keeping (oblique infinitive) (“roza rakhne se” = from fasting)"
+    ],
+    "منع": [
+      "mana",
+      "forbidden (“mana kiya gaya hai” = has been forbidden)"
+    ],
+    "یا": [
+      "ya",
+      "or"
+    ],
+    "روزے": [
+      "roze",
+      "fasts (pl.)"
+    ],
+    "بعد": [
+      "baad",
+      "after (“ke baad”)"
+    ],
+    "یکم": [
+      "yakum",
+      "the first (day of a month)"
+    ],
+    "شوال": [
+      "shawwaal",
+      "Shawwal (10th month of the Islamic calendar)"
+    ],
+    "کسی": [
+      "kisi",
+      "any (“kisi bhi” = any at all)"
+    ],
+    "قمری": [
+      "qamari",
+      "lunar"
+    ],
+    "ہجری": [
+      "hijri",
+      "Hijri (of the Islamic calendar)"
+    ],
+    "مہینے": [
+      "maheene",
+      "month (oblique)"
+    ],
+    "آغاز": [
+      "aaghaaz",
+      "beginning; start"
+    ],
+    "مقامی": [
+      "muqaami",
+      "local"
+    ],
+    "رہنماؤں": [
+      "rehnumaaon",
+      "leaders (pl. oblique)"
+    ],
+    "چاند": [
+      "chaand",
+      "moon"
+    ],
+    "نظر": [
+      "nazar",
+      "sight (“nazar aana” = to be seen)"
+    ],
+    "آجانے": [
+      "aa jaane",
+      "coming (into view) (written as one word; “nazar aa jaane” = being sighted)"
+    ],
+    "فیصلے": [
+      "faisle",
+      "decision (oblique)"
+    ],
+    "یہی": [
+      "yahi",
+      "this very (“yahi wajah hai” = this is the reason)"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason"
+    ],
+    "مختلف": [
+      "mukhtalif",
+      "different; various"
+    ],
+    "ممالک": [
+      "mamaalik",
+      "countries (Arabic pl. of “mulk”)"
+    ],
+    "دنوں": [
+      "dinon",
+      "days (pl. oblique)"
+    ],
+    "منائی": [
+      "manaai",
+      "celebrated (f.) (“manaai jaati hai” = is celebrated)"
+    ],
+    "برعکس": [
+      "bar-aks",
+      "opposite (“is ke bar-aks” = on the other hand; by contrast)"
+    ],
+    "ایسے": [
+      "aise",
+      "such; like this"
+    ],
+    "سعودی": [
+      "saudi",
+      "Saudi"
+    ],
+    "عرب": [
+      "arab",
+      "Arabia (“saudi arab” = Saudi Arabia)"
+    ],
+    "پیروی": [
+      "pairavi",
+      "following (“pairavi karna” = to follow)"
+    ],
+    "کرتے": [
+      "karte",
+      "do (m. pl.)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "عید الفطر کب منائی جاتی ہے؟",
+      "english": "When is Eid ul-Fitr celebrated?",
+      "options": [
+        {
+          "urdu": "رمضان کے شروع میں",
+          "english": "At the start of Ramadan"
+        },
+        {
+          "urdu": "رمضان ختم ہونے پر",
+          "english": "When Ramadan ends"
+        },
+        {
+          "urdu": "شوال کے آخر میں",
+          "english": "At the end of Shawwal"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "عید کے دن مسلمانوں کو کس کام سے منع کیا گیا ہے؟",
+      "english": "What are Muslims forbidden to do on Eid day?",
+      "options": [
+        {
+          "urdu": "نماز پڑھنے سے",
+          "english": "To pray"
+        },
+        {
+          "urdu": "کھانا کھانے سے",
+          "english": "To eat"
+        },
+        {
+          "urdu": "روزہ رکھنے سے",
+          "english": "To fast"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "مختلف ملکوں میں عید مختلف دنوں میں کیوں ہوتی ہے؟",
+      "english": "Why is Eid on different days in different countries?",
+      "options": [
+        {
+          "urdu": "کیونکہ ہر جگہ مقامی رہنما چاند دیکھنے کا فیصلہ کرتے ہیں",
+          "english": "Because local leaders in each place decide when the moon has been sighted"
+        },
+        {
+          "urdu": "کیونکہ حکومتیں چھٹی مختلف دنوں میں دیتی ہیں",
+          "english": "Because governments give holidays on different days"
+        },
+        {
+          "urdu": "کیونکہ کچھ ملکوں میں روزے چالیس ہوتے ہیں",
+          "english": "Because some countries have forty fasts"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

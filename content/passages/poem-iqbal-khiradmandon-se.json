@@ -1,0 +1,404 @@
+{
+  "id": "poem-iqbal-khiradmandon-se",
+  "title": {
+    "urdu": "خِردمندوں سے کیا پُوچھوں",
+    "english": "Why Should I Ask the Wise?"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["philosophy", "ghazal"],
+  "source": {
+    "name": "Urdu Wikisource: خِردمندوں سے کیا پُوچھوں کہ میری ابتدا کیا ہے (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AE%D9%90%D8%B1%D8%AF%D9%85%D9%86%D8%AF%D9%88%DA%BA_%D8%B3%DB%92_%DA%A9%DB%8C%D8%A7_%D9%BE%D9%8F%D9%88%DA%86%DA%BE%D9%88%DA%BA_%DA%A9%DB%81_%D9%85%DB%8C%D8%B1%DB%8C_%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7_%DA%A9%DB%8C%D8%A7_%DB%81%DB%92",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "A ghazal by Allama Iqbal from Bal-e-Jibril (1935), containing his most quoted couplet, “Khudi ko kar buland itna”: raise your self so high that God asks you what you wish before deciding your fate. Its other couplets touch on poetry as alchemy, Nietzsche, and the poet’s dawn lament. This is the complete ghazal.",
+  "sentences": [
+    {
+      "urdu": "خِردمندوں سے کیا پُوچھوں کہ میری ابتدا کیا ہے",
+      "english": "Why should I ask the wise what my beginning is,",
+      "verse": true
+    },
+    {
+      "urdu": "کہ مَیں اس فکر میں رہتا ہوں، میری انتہا کیا ہے",
+      "english": "when I am always concerned with what my end — my utmost reach — is?",
+      "verse": true,
+      "explanation": {
+        "urdu": "عقل مند لوگ اس بات پر بحث کرتے ہیں کہ انسان کی ابتدا کیا ہے۔ شاعر کو اس سے غرض نہیں؛ اسے یہ فکر ہے کہ انسان کہاں تک پہنچ سکتا ہے۔",
+        "english": "Philosophers argue about where man came from. Iqbal cares instead about how high man can rise — his “intihaa”, his final goal or utmost limit."
+      }
+    },
+    {
+      "urdu": "خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے",
+      "english": "Raise your self so high that before every decree of fate",
+      "verse": true
+    },
+    {
+      "urdu": "خدا بندے سے خود پُوچھے، بتا تیری رضا کیا ہے",
+      "english": "God Himself asks His servant: “Tell me, what is your wish?”",
+      "verse": true,
+      "explanation": {
+        "urdu": "اپنی خودی کو اتنا مضبوط اور بلند کرو کہ خدا تمہاری تقدیر لکھنے سے پہلے تم سے پوچھے کہ تم کیا چاہتے ہو۔",
+        "english": "Iqbal’s most famous couplet. “Khudi” — the self, with its self-respect and inner strength — should be developed so fully that God consults a person about his wish before deciding his fate."
+      }
+    },
+    {
+      "urdu": "مقامِ گُفتگو کیا ہے اگر مَیں کیمیاگر ہوں",
+      "english": "What is there to argue about if I am an alchemist?",
+      "verse": true
+    },
+    {
+      "urdu": "یہی سوزِ نفَس ہے، اَور میری کیمیا کیا ہے!",
+      "english": "It is just this burning in my breath — what other alchemy do I have!",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر میں کیمیاگر ہوں تو اس میں بحث کی کیا بات ہے؟ میری کیمیا بس یہی ہے کہ میری آواز اور شاعری میں سوز ہے۔",
+        "english": "Alchemy was the art of turning base metal into gold. If Iqbal is an alchemist, his only secret is the passion — the “burning breath” — of his poetry, which can transform people."
+      }
+    },
+    {
+      "urdu": "نظر آئیں مجھے تقدیر کی گہرائیاں اُس میں",
+      "english": "I saw the depths of destiny in it;",
+      "verse": true
+    },
+    {
+      "urdu": "نہ پُوچھ اے ہم نشیں مجھ سے وہ چشمِ سُرمہ سا کیا ہے",
+      "english": "do not ask me, my companion, what that kohl-lined eye is.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ اس سرمگیں آنکھ میں مجھے تقدیر کی گہرائیاں نظر آئیں۔ اے دوست، مجھ سے مت پوچھو کہ وہ آنکھ کیا ہے، یہ بیان نہیں ہو سکتا۔",
+        "english": "The kohl-darkened eye is the beloved’s eye of the classical ghazal. Looking into it, the poet saw the depths of destiny — something he cannot put into words. (Commentators read the eye as the gaze of a spiritual guide or of the beloved.)"
+      }
+    },
+    {
+      "urdu": "اگر ہوتا وہ مجذوبِ فرنگی اس زمانے میں",
+      "english": "If that ecstatic of the West were alive in this age,",
+      "verse": true
+    },
+    {
+      "urdu": "تو اقبالؔ اس کو سمجھاتا مقامِ کبریا کیا ہے",
+      "english": "Iqbal would explain to him what the station of God’s majesty is.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مجذوبِ فرنگی سے مراد جرمن فلسفی نطشے ہے۔ اقبال کہتے ہیں کہ اگر وہ آج زندہ ہوتا تو میں اسے سمجھاتا کہ خدا کی بڑائی کا مقام کیا ہے۔",
+        "english": "The “majzoob of Europe” — a man lost in ecstatic madness — is the German philosopher Friedrich Nietzsche (died 1900), who declared that God is dead. Iqbal admired his passion for the strong self but felt he had missed the greatness of God (“kibriya”)."
+      }
+    },
+    {
+      "urdu": "نوائے صُبح‌گاہی نے جگر خُوں کر دیا میرا",
+      "english": "My dawn lament has turned my heart to blood;",
+      "verse": true
+    },
+    {
+      "urdu": "خدایا جس خطا کی یہ سزا ہے، وہ خطا کیا ہے!",
+      "english": "O God, what is the fault for which this is the punishment!",
+      "verse": true,
+      "explanation": {
+        "urdu": "صبح کے وقت کی فریاد اور دعا نے میرا دل خون کر دیا۔ اے خدا، آخر میری وہ کون سی غلطی ہے جس کی یہ سزا ملی؟",
+        "english": "The “dawn song” is the poet’s lament and prayer at daybreak, which has cost him his heart’s blood (“jigar”, literally the liver, is the seat of deep feeling). Half complaining, he asks God what fault deserves such pain."
+      }
+    }
+  ],
+  "glossary": {
+    "خردمندوں": [
+      "khirad-mandon",
+      "the wise; men of reason (pl. oblique)"
+    ],
+    "سے": [
+      "se",
+      "from; of (“khirad-mandon se poochhoon” = should I ask the wise; “pehle” … “se” = before)"
+    ],
+    "کیا": [
+      "kya",
+      "what; why (“kya poochhoon” = why should I ask?)"
+    ],
+    "پوچھوں": [
+      "poochhoon",
+      "(should I) ask"
+    ],
+    "کہ": [
+      "ke",
+      "that; since (“ke main …” = when I …)"
+    ],
+    "ابتدا": [
+      "ibtida",
+      "beginning; origin"
+    ],
+    "مَیں": [
+      "main",
+      "I"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "اس": [
+      "is / us",
+      "this (“is fikr mein” = in this concern; “is zamaane mein” = in this age); him (“us ko” = to him)"
+    ],
+    "فکر": [
+      "fikr",
+      "thought; concern (“fikr mein rehna” = to be always concerned with)"
+    ],
+    "رہتا": [
+      "rehta",
+      "remain; stay (“rehta hoon” = I remain)"
+    ],
+    "انتہا": [
+      "intihaa",
+      "end; utmost limit"
+    ],
+    "خودی": [
+      "khudi",
+      "selfhood; the self (Iqbal’s key idea: self-respect and inner strength)"
+    ],
+    "کر": [
+      "kar",
+      "make (imperative: “kar buland” = raise); (“khoon kar diya” = turned to blood)"
+    ],
+    "بلند": [
+      "buland",
+      "high"
+    ],
+    "اتنا": [
+      "itna",
+      "so (much); so high"
+    ],
+    "تقدیر": [
+      "taqdeer",
+      "fate; destiny; decree of fate"
+    ],
+    "پہلے": [
+      "pehle",
+      "before (“har taqdeer se pehle” = before every decree of fate)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "بندے": [
+      "bande",
+      "servant (of God); man (oblique)"
+    ],
+    "خود": [
+      "khud",
+      "himself"
+    ],
+    "پوچھے": [
+      "poochhe",
+      "asks; should ask (subjunctive)"
+    ],
+    "بتا": [
+      "bata",
+      "tell (imperative)"
+    ],
+    "تیری": [
+      "teri",
+      "your (f.)"
+    ],
+    "رضا": [
+      "raza",
+      "wish; will; consent"
+    ],
+    "مقامِ": [
+      "maqaam-e",
+      "place; station (of …) (“maqaam-e-guftugu” = occasion for argument; “maqaam-e-kibriya” = the station of divine majesty)"
+    ],
+    "گفتگو": [
+      "guftugu",
+      "conversation; discussion; argument"
+    ],
+    "کیمیاگر": [
+      "keemiyaagar",
+      "alchemist"
+    ],
+    "سوزِ": [
+      "soz-e",
+      "burning; passion (of …)"
+    ],
+    "نفس": [
+      "nafas",
+      "breath (“soz-e-nafas” = burning breath; passionate voice)"
+    ],
+    "اَور": [
+      "aur",
+      "other; else (“aur meri keemiya kya hai” = what other alchemy do I have)"
+    ],
+    "کیمیا": [
+      "keemiya",
+      "alchemy"
+    ],
+    "نظر": [
+      "nazar",
+      "sight (“nazar aana” = to be seen, appear)"
+    ],
+    "آئیں": [
+      "aaein",
+      "came (f. pl.) (“nazar aaein mujhe” = I saw)"
+    ],
+    "گہرائیاں": [
+      "gehraaiyaan",
+      "depths (f. pl.)"
+    ],
+    "اُس": [
+      "us",
+      "that; it (“us mein” = in it)"
+    ],
+    "پوچھ": [
+      "poochh",
+      "ask (imperative; “na poochh” = don’t ask)"
+    ],
+    "اے": [
+      "ai",
+      "O"
+    ],
+    "ہم": [
+      "ham",
+      "(“ham-nasheen” = companion)"
+    ],
+    "نشیں": [
+      "nasheen",
+      "sitting (“ham-nasheen” = companion, one who sits with you)"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh se” = from me)"
+    ],
+    "چشمِ": [
+      "chashm-e",
+      "eye (of …)"
+    ],
+    "سرمہ": [
+      "surma",
+      "kohl; antimony powder for the eyes"
+    ],
+    "سا": [
+      "saa",
+      "applying (“surma-saa” = kohl-lined, darkened with kohl)"
+    ],
+    "ہوتا": [
+      "hota",
+      "were (“agar hota” = if he were)"
+    ],
+    "مجذوبِ": [
+      "majzoob-e",
+      "ecstatic; one lost in divine rapture (of …)"
+    ],
+    "فرنگی": [
+      "farangi",
+      "European; Western (“majzoob-e-farangi” = the ecstatic of Europe, i.e. Nietzsche)"
+    ],
+    "زمانے": [
+      "zamaane",
+      "age; time (oblique)"
+    ],
+    "تو": [
+      "to",
+      "then (“agar … to” = if … then)"
+    ],
+    "اقبال": [
+      "iqbaal",
+      "Iqbal (the poet’s name)"
+    ],
+    "سمجھاتا": [
+      "samjhaata",
+      "would explain"
+    ],
+    "کبریا": [
+      "kibriya",
+      "divine majesty; the greatness of God"
+    ],
+    "نوائے": [
+      "nawaa-e",
+      "song; cry (of …)"
+    ],
+    "صبحگاہی": [
+      "subh-gaahi",
+      "of the dawn (“nawaa-e-subh-gaahi” = dawn song, the lament at daybreak)"
+    ],
+    "جگر": [
+      "jigar",
+      "liver; heart (seat of deep feeling) (“jigar khoon karna” = to wound to the core)"
+    ],
+    "خوں": [
+      "khoon",
+      "blood (poetic form of “khoon”)"
+    ],
+    "خدایا": [
+      "khudaaya",
+      "O God!"
+    ],
+    "جس": [
+      "jis",
+      "which (oblique) (“jis khata ki” = for which fault)"
+    ],
+    "خطا": [
+      "khata",
+      "fault; sin"
+    ],
+    "سزا": [
+      "saza",
+      "punishment"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کو کس بات کی فکر رہتی ہے؟",
+      "english": "What is the poet always concerned with?",
+      "options": [
+        {
+          "urdu": "اپنی ابتدا کی",
+          "english": "his beginning"
+        },
+        {
+          "urdu": "اپنی انتہا کی، یعنی وہ کہاں تک پہنچ سکتا ہے",
+          "english": "his end — how far he can rise"
+        },
+        {
+          "urdu": "دولت کمانے کی",
+          "english": "earning wealth"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "خودی کو بلند کرنے کا کیا نتیجہ بتایا گیا ہے؟",
+      "english": "What result of raising one’s self is described?",
+      "options": [
+        {
+          "urdu": "خدا تقدیر سے پہلے بندے سے اس کی رضا پوچھے",
+          "english": "God asks His servant his wish before deciding his fate"
+        },
+        {
+          "urdu": "انسان بہت امیر ہو جائے",
+          "english": "one becomes very rich"
+        },
+        {
+          "urdu": "لوگ اس کی تعریف کریں",
+          "english": "people praise him"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "“مجذوبِ فرنگی” سے کس کی طرف اشارہ ہے؟",
+      "english": "Who is meant by “the ecstatic of the West”?",
+      "options": [
+        {
+          "urdu": "ایک انگریز بادشاہ",
+          "english": "an English king"
+        },
+        {
+          "urdu": "ایک فرانسیسی شاعر",
+          "english": "a French poet"
+        },
+        {
+          "urdu": "جرمن فلسفی نطشے",
+          "english": "the German philosopher Nietzsche"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "id": "poem-iqbal-masjid-to-bana-di",
+  "title": {
+    "urdu": "مسجد تو بنا دی شب بھر میں",
+    "english": "A Mosque Built Overnight"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["faith", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: مسجد تو بنا دی شب بھر میں ایماں کی حرارت والوں نے (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AA%D9%88_%D8%A8%D9%86%D8%A7_%D8%AF%DB%8C_%D8%B4%D8%A8_%D8%A8%DA%BE%D8%B1_%D9%85%DB%8C%DA%BA_%D8%A7%DB%8C%D9%85%D8%A7%DA%BA_%DA%A9%DB%8C_%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA_%D9%88%D8%A7%D9%84%D9%88%DA%BA_%D9%86%DB%92",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "A short four-couplet poem by Allama Iqbal (dated 1924 on Wikisource), famous for its opening line: outward acts of piety come quickly, but changing the heart is slow. It mixes Persian words with everyday Hindi ones (man, paapi, updeshak) and ends with Iqbal mocking himself as a hero of words rather than deeds. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "مسجد تو بنا دی شب بھر میں ایماں کی حرارت والوں نے",
+      "english": "Those with the warmth of faith built a mosque, true, in a single night,",
+      "verse": true
+    },
+    {
+      "urdu": "من اپنا پُرانا پاپی ہے، برسوں میں نمازی بن نہ سکا",
+      "english": "but my heart is an old sinner — in years it could not become a man of prayer.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ایمان کے جوش والے لوگوں نے ایک ہی رات میں مسجد بنا ڈالی، مگر میرا دل پرانا گناہ گار ہے، برسوں میں بھی سچا نمازی نہ بن سکا۔",
+        "english": "Building a mosque can be done in one night by people full of zeal, but turning one’s own heart towards God takes far longer — the poet’s heart, “an old sinner”, has not managed it in years. (Tradition links the line to a mosque in Lahore said to have been built overnight.)"
+      }
+    },
+    {
+      "urdu": "کیا خوب امیرِ فیصل کو سَنّوسی نے پیغام دیا",
+      "english": "How well the Sanusi put it in his message to Emir Faisal:",
+      "verse": true
+    },
+    {
+      "urdu": "تُو نام و نَسب کا حجازی ہے پر دل کا حجازی بن نہ سکا",
+      "english": "“You are a Hijazi by name and lineage, but could not become a Hijazi at heart.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "سنوسی رہنما نے امیر فیصل سے کہا کہ تم نام اور خاندان سے تو حجازی ہو، مگر تمہارا دل حجاز کی روح والا نہ بن سکا۔",
+        "english": "Emir Faisal, son of the Sharif of Mecca, joined the British-backed Arab Revolt against the Ottomans (1916–18). A leader of the Sanusi order of Libya reproached him: you were born in the Hijaz, the land of the Prophet, but your heart does not share its spirit."
+      }
+    },
+    {
+      "urdu": "تر آنکھیں تو ہو جاتی ہیں، پر کیا لذّت اس رونے میں",
+      "english": "The eyes do grow wet, but what pleasure is there in such weeping",
+      "verse": true
+    },
+    {
+      "urdu": "جب خُونِ جگر کی آمیزش سے اشک پیازی بن نہ سکا",
+      "english": "when the tear could not turn rose-pink from mixing with the heart’s blood?",
+      "verse": true,
+      "explanation": {
+        "urdu": "آنسو تو بہہ جاتے ہیں مگر اس رونے میں کیا مزا جب دل کا خون شامل ہو کر آنسو گلابی نہ ہوا، یعنی رونا دل سے نہ تھا۔",
+        "english": "In Urdu poetry, true weeping mixes the heart’s blood (“khoon-e-jigar”) with the tears and tints them pink (“pyaazi”, the pink of an onion). Tears without it are shallow — feeling that does not come from the depths."
+      }
+    },
+    {
+      "urdu": "اقبالؔ بڑا اُپدیشک ہے، من باتوں میں موہ لیتا ہے",
+      "english": "Iqbal is a great preacher; he wins hearts with his talk.",
+      "verse": true
+    },
+    {
+      "urdu": "گفتارکا یہ غازی تو بنا،کردار کا غازی بن نہ سکا",
+      "english": "He did become a hero of speech, but could not become a hero of deeds.",
+      "verse": true,
+      "explanation": {
+        "urdu": "آخری شعر میں اقبال اپنے آپ پر طنز کرتے ہیں کہ وہ اچھا واعظ ہے اور باتوں سے دل جیت لیتا ہے، مگر باتوں کا غازی بنا، عمل کا غازی نہ بن سکا۔",
+        "english": "In the closing couplet Iqbal mocks himself: a fine preacher (“updeshak”, a Hindi word) who charms people with words — a “ghazi” (warrior) of speech, but not of action."
+      }
+    }
+  ],
+  "glossary": {
+    "مسجد": [
+      "masjid",
+      "mosque"
+    ],
+    "تو": [
+      "to",
+      "(emphasis) indeed, true (“masjid to bana di” = a mosque, true, was built; “ghaazi to bana” = he did become a ghazi)"
+    ],
+    "بنا": [
+      "banaa",
+      "built (“bana di” = built); became (“ghaazi to bana” = did become a ghazi)"
+    ],
+    "دی": [
+      "di",
+      "(completes “bana di” = built, f.)"
+    ],
+    "شب": [
+      "shab",
+      "night"
+    ],
+    "بھر": [
+      "bhar",
+      "whole; throughout (“shab bhar mein” = in a single night)"
+    ],
+    "ایماں": [
+      "eemaan",
+      "faith (poetic form of “eemaan”)"
+    ],
+    "حرارت": [
+      "haraarat",
+      "warmth; fervour"
+    ],
+    "والوں": [
+      "waalon",
+      "those with; people of (pl. oblique)"
+    ],
+    "من": [
+      "man",
+      "heart; mind (Hindi)"
+    ],
+    "اپنا": [
+      "apna",
+      "my own"
+    ],
+    "پرانا": [
+      "puraana",
+      "old"
+    ],
+    "پاپی": [
+      "paapi",
+      "sinner (Hindi)"
+    ],
+    "برسوں": [
+      "barson",
+      "years (“barson mein” = in years)"
+    ],
+    "نمازی": [
+      "namaazi",
+      "one who prays regularly; devout"
+    ],
+    "بن": [
+      "ban",
+      "become (“ban na saka” = could not become)"
+    ],
+    "سکا": [
+      "saka",
+      "could (“ban na saka” = could not become)"
+    ],
+    "کیا": [
+      "kya",
+      "how! (“kya khoob” = how well!); what (“kya lazzat” = what pleasure)"
+    ],
+    "خوب": [
+      "khoob",
+      "fine; well"
+    ],
+    "امیرِ": [
+      "ameer-e",
+      "emir; prince (title, with izafat: “ameer-e-faisal” = Emir Faisal)"
+    ],
+    "فیصل": [
+      "faisal",
+      "Faisal (Emir Faisal, son of the Sharif of Mecca)"
+    ],
+    "سنوسی": [
+      "sannoosi",
+      "the Sanusi (a leader of the Sanusi order in Libya)"
+    ],
+    "پیغام": [
+      "paighaam",
+      "message"
+    ],
+    "تُو": [
+      "too",
+      "you (intimate)"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "نسب": [
+      "nasab",
+      "lineage; descent (“naam-o-nasab” = name and lineage)"
+    ],
+    "حجازی": [
+      "hijaazi",
+      "from the Hijaz (the land of Mecca and Medina)"
+    ],
+    "پر": [
+      "par",
+      "but"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "تر": [
+      "tar",
+      "wet"
+    ],
+    "آنکھیں": [
+      "aankhen",
+      "eyes"
+    ],
+    "جاتی": [
+      "jaati",
+      "(“ho jaati hain” = do become)"
+    ],
+    "لذت": [
+      "lazzat",
+      "pleasure; taste"
+    ],
+    "اس": [
+      "is",
+      "this (oblique) (“is rone mein” = in such weeping)"
+    ],
+    "رونے": [
+      "rone",
+      "weeping (oblique)"
+    ],
+    "خونِ": [
+      "khoon-e",
+      "blood (of …)"
+    ],
+    "جگر": [
+      "jigar",
+      "liver; heart (“khoon-e-jigar” = heart’s blood, deepest feeling)"
+    ],
+    "آمیزش": [
+      "aamezish",
+      "mixing; blending"
+    ],
+    "اشک": [
+      "ashk",
+      "tear"
+    ],
+    "پیازی": [
+      "pyaazi",
+      "onion-pink; rosy"
+    ],
+    "اقبال": [
+      "iqbaal",
+      "Iqbal (the poet’s name)"
+    ],
+    "بڑا": [
+      "baṛa",
+      "great; big"
+    ],
+    "اپدیشک": [
+      "updeshak",
+      "preacher (Hindi)"
+    ],
+    "باتوں": [
+      "baaton",
+      "talk; words (pl. oblique)"
+    ],
+    "موہ": [
+      "moh",
+      "charm (“moh lena” = to captivate; “man moh leta hai” = wins hearts)"
+    ],
+    "لیتا": [
+      "leta",
+      "takes (“moh leta hai” = captivates)"
+    ],
+    "گفتارکا": [
+      "guftaar ka",
+      "of speech (“guftaar ka ghaazi” = hero of words; printed without a space in the source)"
+    ],
+    "غازی": [
+      "ghaazi",
+      "warrior; hero (one who fights for the faith)"
+    ],
+    "کردار": [
+      "kirdaar",
+      "deeds; conduct (“kirdaar ka ghaazi” = hero of deeds)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "ایمان والوں نے مسجد کتنی دیر میں بنا دی؟",
+      "english": "How long did the people of faith take to build the mosque?",
+      "options": [
+        {
+          "urdu": "ایک ہی رات میں",
+          "english": "a single night"
+        },
+        {
+          "urdu": "کئی برسوں میں",
+          "english": "many years"
+        },
+        {
+          "urdu": "ایک مہینے میں",
+          "english": "a month"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر کے مطابق اس کے دل کا کیا حال ہے؟",
+      "english": "According to the poet, what is the state of his heart?",
+      "options": [
+        {
+          "urdu": "وہ ہمیشہ نماز پڑھتا ہے",
+          "english": "it always prays"
+        },
+        {
+          "urdu": "وہ پرانا گناہ گار ہے اور برسوں میں نمازی نہ بن سکا",
+          "english": "it is an old sinner and could not become devout in years"
+        },
+        {
+          "urdu": "وہ بہت خوش ہے",
+          "english": "it is very happy"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "آخری شعر میں اقبال اپنے بارے میں کیا کہتے ہیں؟",
+      "english": "What does Iqbal say about himself in the last couplet?",
+      "options": [
+        {
+          "urdu": "وہ عمل کا غازی ہے مگر باتوں کا نہیں",
+          "english": "he is a hero of deeds but not of words"
+        },
+        {
+          "urdu": "وہ کوئی بات نہیں کرتا",
+          "english": "he never speaks"
+        },
+        {
+          "urdu": "وہ باتوں کا غازی بنا مگر عمل کا غازی نہ بن سکا",
+          "english": "he became a hero of words but not of deeds"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

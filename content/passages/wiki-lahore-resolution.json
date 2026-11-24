@@ -1,0 +1,573 @@
+{
+  "id": "wiki-lahore-resolution",
+  "title": {
+    "urdu": "قرارداد پاکستان",
+    "english": "The Lahore Resolution"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "source": {
+    "name": "Urdu Wikipedia: قرارداد پاکستان",
+    "url": "https://ur.wikipedia.org/wiki/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF_%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "From the Urdu Wikipedia article on the Pakistan Resolution, passed in Lahore in March 1940, and on the Muslim League's poor showing in the 1937 elections that came before it. The sentences are long, and the register is formal and a little literary (“hazeemat uṭhaana”, “zak pahunchna”).",
+  "sentences": [
+    {
+      "urdu": "22 مارچ سے 24 مارچ، 1940ء کو لاہور کے منٹو پارک میں آل انڈیا مسلم لیگ کے تین روزہ سالانہ اجلاس کے اختتام پر وہ تاریخی قرارداد منظور کی گئی تھی جس کی بنیاد پر مسلم لیگ نے برصغیر میں مسلمانوں کے لیے عليحدہ وطن کے حصول کے لیے تحریک شروع کی اور سات برس کے بعد اپنا مطالبہ منظور کرانے میں کامیاب رہی۔",
+      "english": "From 22 to 24 March 1940, at the close of the three-day annual session of the All-India Muslim League in Lahore's Minto Park, that historic resolution was passed on the basis of which the Muslim League launched a movement for a separate homeland for the Muslims of the subcontinent, and after seven years it succeeded in getting its demand accepted."
+    },
+    {
+      "urdu": "برصغیر میں برطانوی راج کی طرف سے اقتدار عوام کو سونپنے کے عمل کے پہلے مرحلے میں 1936ء/1937ء میں جو پہلے عام انتخابات ہوئے تھے ان میں مسلم لیگ کو بری طرح سے ہزیمت اٹھانی پڑی تھی اور اس کے اس دعویٰ کو شدید زک پہنچی تھی کہ وہ بر صغیر کے مسلمانوں کی واحد نمائندہ جماعت ہے۔",
+      "english": "In the first general elections, held in 1936/1937 as the first stage in the British Raj's process of handing power over to the people of the subcontinent, the Muslim League suffered a heavy defeat, and its claim to be the sole representative party of the subcontinent's Muslims was badly damaged."
+    },
+    {
+      "urdu": "اس وجہ سے مسلم لیگ کی قیادت اور کارکنوں کے حوصلے ٹوٹ گئے تھے اور ان پر ایک عجب بے بسی کا عالم تھا۔",
+      "english": "Because of this the Muslim League's leaders and workers had lost heart, and a strange helplessness had come over them."
+    },
+    {
+      "urdu": "کانگریس کو مدراس، یو پی، سی پی، بہار اور اڑیسہ میں واضح اکثریت حاصل ہوئی تھی، سرحد اور بمبئی میں اس نے دوسری جماعتوں کے ساتھ مل کر مخلوط حکومت تشکیل دی تھی اور سندھ اور آسام میں بھی جہاں مسلمان حاوی تھے کانگریس کو نمایاں کامیابی ملی تھی۔",
+      "english": "Congress had won a clear majority in Madras, the UP, the CP, Bihar and Orissa; in the Frontier and Bombay it had formed coalition governments together with other parties; and even in Sindh and Assam, where Muslims were dominant, Congress had done notably well."
+    },
+    {
+      "urdu": "پنجاب میں البتہ سر فضل حسین کی یونینسٹ پارٹی اور بنگال میں مولوی فضل الحق کی پرجا کرشک پارٹی کی جیت ہوئی تھی۔",
+      "english": "In Punjab, however, Sir Fazl-i-Husain's Unionist Party won, and in Bengal Maulvi Fazlul Haq's Krishak Praja Party won."
+    },
+    {
+      "urdu": "غرض ہندوستان کے 11 صوبوں میں سے کسی ایک صوبہ میں بھی مسلم لیگ کو اقتدار حاصل نہ ہو سکا۔",
+      "english": "In short, the Muslim League could not gain power in even one of India's 11 provinces."
+    },
+    {
+      "urdu": "ان حالات میں ایسا محسوس ہوتا تھا کہ مسلم لیگ برصغیر کے سیاسی دھارے سے الگ ہوتی جا رہی ہے۔",
+      "english": "In these circumstances it seemed that the Muslim League was drifting away from the political mainstream of the subcontinent."
+    }
+  ],
+  "glossary": {
+    "مارچ": [
+      "maarch",
+      "March"
+    ],
+    "1940ء": [
+      "1940 eesvi",
+      "1940 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1936ء/1937ء": [
+      "1936/1937 eesvi",
+      "1936–37 CE"
+    ],
+    "لاہور": [
+      "laahaur",
+      "Lahore"
+    ],
+    "منٹو": [
+      "minṭo",
+      "Minto (“minṭo paark” = Minto Park, today's Iqbal Park)"
+    ],
+    "پارک": [
+      "paark",
+      "park"
+    ],
+    "آل": [
+      "aal",
+      "All (English, in “All India Muslim League”)"
+    ],
+    "انڈیا": [
+      "inḍiya",
+      "India (English, in “All India Muslim League”)"
+    ],
+    "مسلم": [
+      "muslim",
+      "Muslim (“muslim leeg” = the Muslim League)"
+    ],
+    "لیگ": [
+      "leeg",
+      "league"
+    ],
+    "روزہ": [
+      "roza",
+      "-day (“teen roza” = three-day); usually “a fast”"
+    ],
+    "سالانہ": [
+      "saalaana",
+      "annual"
+    ],
+    "اختتام": [
+      "ikhtitaam",
+      "end; close (“ke ikhtitaam par” = at the close of)"
+    ],
+    "تاریخی": [
+      "taareekhi",
+      "historic"
+    ],
+    "قرارداد": [
+      "qaraardaad",
+      "resolution (f.)"
+    ],
+    "منظور": [
+      "manzoor",
+      "approved; passed (“manzoor ki gayi” = was passed; “manzoor karaana” = to get accepted)"
+    ],
+    "بنیاد": [
+      "buniyaad",
+      "basis (“jis ki buniyaad par” = on the basis of which)"
+    ],
+    "برصغیر": [
+      "bar-e-sagheer",
+      "the (Indian) subcontinent"
+    ],
+    "بر": [
+      "bar",
+      "land (“bar-e-sagheer”, here written as two words = the subcontinent)"
+    ],
+    "صغیر": [
+      "sagheer",
+      "small (“bar-e-sagheer” = the subcontinent)"
+    ],
+    "مسلمانوں": [
+      "musalmaanon",
+      "Muslims (pl. oblique)"
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslim(s)"
+    ],
+    "علیحدہ": [
+      "alaihda",
+      "separate (spelt in the source with an Arabic ي)"
+    ],
+    "وطن": [
+      "watan",
+      "homeland"
+    ],
+    "حصول": [
+      "husool",
+      "obtaining; achieving (“ke husool ke liye” = to obtain)"
+    ],
+    "تحریک": [
+      "tehreek",
+      "movement; campaign (f.)"
+    ],
+    "شروع": [
+      "shuroo",
+      "start (“shuroo karna” = to begin)"
+    ],
+    "سات": [
+      "saat",
+      "seven"
+    ],
+    "برس": [
+      "baras",
+      "year(s)"
+    ],
+    "اپنا": [
+      "apna",
+      "its own (m.)"
+    ],
+    "مطالبہ": [
+      "mutaaliba",
+      "demand"
+    ],
+    "کرانے": [
+      "karaane",
+      "getting (something) done (oblique) (“manzoor karaane mein” = in getting … accepted)"
+    ],
+    "کامیاب": [
+      "kaamyaab",
+      "successful (“kaamyaab rahi” = succeeded)"
+    ],
+    "برطانوی": [
+      "bartaanvi",
+      "British"
+    ],
+    "راج": [
+      "raaj",
+      "rule (“bartaanvi raaj” = the British Raj)"
+    ],
+    "طرف": [
+      "taraf",
+      "side (“ki taraf se” = by, on the part of)"
+    ],
+    "اقتدار": [
+      "iqtidaar",
+      "power; authority"
+    ],
+    "عوام": [
+      "awaam",
+      "the people; the public"
+    ],
+    "سونپنے": [
+      "saunpne",
+      "handing over (oblique infinitive)"
+    ],
+    "عمل": [
+      "amal",
+      "process"
+    ],
+    "پہلے": [
+      "pehle",
+      "first (oblique)"
+    ],
+    "مرحلے": [
+      "marhale",
+      "stage; phase (oblique)"
+    ],
+    "عام": [
+      "aam",
+      "general (“aam intikhaabaat” = general elections)"
+    ],
+    "بری": [
+      "buri",
+      "bad (f.) (“buri tarah se” = badly)"
+    ],
+    "ہزیمت": [
+      "hazeemat",
+      "rout; humiliating defeat (“hazeemat uṭhaana” = to suffer defeat)"
+    ],
+    "اٹھانی": [
+      "uṭhaani",
+      "to bear (f., agreeing with “hazeemat”) (“hazeemat uṭhaani paṛi” = had to suffer defeat)"
+    ],
+    "پڑی": [
+      "paṛi",
+      "had to (f.) (“uṭhaani paṛi thi” = had to suffer)"
+    ],
+    "دعویٰ": [
+      "daawa",
+      "claim"
+    ],
+    "شدید": [
+      "shadeed",
+      "severe"
+    ],
+    "زک": [
+      "zak",
+      "blow; damage (“zak pahunchna” = to be dealt a blow)"
+    ],
+    "پہنچی": [
+      "pahunchi",
+      "reached; was dealt (f.) (“shadeed zak pahunchi” = was badly damaged)"
+    ],
+    "واحد": [
+      "waahid",
+      "sole; only"
+    ],
+    "نمائندہ": [
+      "numaainda",
+      "representative"
+    ],
+    "جماعت": [
+      "jamaat",
+      "party; group (f.)"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason (“is wajah se” = for this reason)"
+    ],
+    "قیادت": [
+      "qiyaadat",
+      "leadership"
+    ],
+    "کارکنوں": [
+      "kaarkunon",
+      "workers; party activists (pl. oblique)"
+    ],
+    "حوصلے": [
+      "hausle",
+      "spirits; morale (pl.) (“hausle ṭooṭ gaye” = lost heart)"
+    ],
+    "ٹوٹ": [
+      "ṭooṭ",
+      "broken (“ṭooṭ gaye the” = had broken)"
+    ],
+    "عجب": [
+      "ajab",
+      "strange"
+    ],
+    "بے": [
+      "be",
+      "without (“be-basi” = helplessness)"
+    ],
+    "بسی": [
+      "basi",
+      "(“be-basi” = helplessness)"
+    ],
+    "عالم": [
+      "aalam",
+      "state; condition (“be-basi ka aalam tha” = helplessness prevailed)"
+    ],
+    "کانگریس": [
+      "kaangres",
+      "Congress (the Indian National Congress)"
+    ],
+    "مدراس": [
+      "madraas",
+      "Madras"
+    ],
+    "یو": [
+      "yoo",
+      "U (“yoo pee” = UP, the United Provinces)"
+    ],
+    "پی": [
+      "pee",
+      "P (“yoo pee” = UP, the United Provinces; “see pee” = CP, the Central Provinces)"
+    ],
+    "سی": [
+      "see",
+      "C (“see pee” = CP, the Central Provinces)"
+    ],
+    "بہار": [
+      "bihaar",
+      "Bihar"
+    ],
+    "اڑیسہ": [
+      "aṛeesa",
+      "Orissa"
+    ],
+    "واضح": [
+      "waazeh",
+      "clear"
+    ],
+    "اکثریت": [
+      "aksariyat",
+      "majority"
+    ],
+    "حاصل": [
+      "haasil",
+      "obtained (“aksariyat haasil hui” = won a majority; “iqtidaar haasil na ho saka” = could not gain power)"
+    ],
+    "سرحد": [
+      "sarhad",
+      "frontier; here the North-West Frontier Province"
+    ],
+    "بمبئی": [
+      "bambai",
+      "Bombay"
+    ],
+    "دوسری": [
+      "doosri",
+      "other (f.)"
+    ],
+    "جماعتوں": [
+      "jamaaton",
+      "parties (pl. oblique)"
+    ],
+    "مل": [
+      "mil",
+      "meeting (“mil kar” = together, jointly)"
+    ],
+    "مخلوط": [
+      "makhloot",
+      "mixed; coalition (“makhloot hukoomat” = coalition government)"
+    ],
+    "تشکیل": [
+      "tashkeel",
+      "formation (“tashkeel dena” = to form)"
+    ],
+    "دی": [
+      "di",
+      "gave (f.) (“tashkeel di thi” = had formed)"
+    ],
+    "سندھ": [
+      "sindh",
+      "Sindh"
+    ],
+    "آسام": [
+      "aasaam",
+      "Assam"
+    ],
+    "جہاں": [
+      "jahaan",
+      "where"
+    ],
+    "حاوی": [
+      "haawi",
+      "dominant; in the majority"
+    ],
+    "نمایاں": [
+      "numaayaan",
+      "notable; prominent"
+    ],
+    "کامیابی": [
+      "kaamyaabi",
+      "success (f.)"
+    ],
+    "ملی": [
+      "mili",
+      "was received (f.) (“kaamyaabi mili” = did well, achieved success)"
+    ],
+    "پنجاب": [
+      "panjaab",
+      "Punjab"
+    ],
+    "البتہ": [
+      "albatta",
+      "however"
+    ],
+    "سر": [
+      "sar",
+      "Sir (British title)"
+    ],
+    "فضل": [
+      "fazl",
+      "Fazl (in the names Fazl-i-Husain and Fazlul Haq)"
+    ],
+    "حسین": [
+      "husain",
+      "Husain (Sir Fazl-i-Husain)"
+    ],
+    "یونینسٹ": [
+      "yooniniṣṭ",
+      "Unionist"
+    ],
+    "پارٹی": [
+      "paarṭi",
+      "party"
+    ],
+    "بنگال": [
+      "bangaal",
+      "Bengal"
+    ],
+    "مولوی": [
+      "maulvi",
+      "Maulvi (title for a religious scholar)"
+    ],
+    "الحق": [
+      "ul-haq",
+      "-ul-Haq (in the name Fazlul Haq)"
+    ],
+    "پرجا": [
+      "parja",
+      "Praja, “the people” (“parja karshak paarṭi” = the Krishak Praja Party)"
+    ],
+    "کرشک": [
+      "karshak",
+      "Krishak, “farmer” (in the party's name)"
+    ],
+    "جیت": [
+      "jeet",
+      "victory; win (f.)"
+    ],
+    "غرض": [
+      "gharaz",
+      "in short"
+    ],
+    "ہندوستان": [
+      "hindustaan",
+      "India; Hindustan (the subcontinent before 1947)"
+    ],
+    "صوبوں": [
+      "soobon",
+      "provinces (pl. oblique)"
+    ],
+    "سکا": [
+      "saka",
+      "could (“haasil na ho saka” = could not be gained)"
+    ],
+    "حالات": [
+      "haalaat",
+      "circumstances; conditions"
+    ],
+    "ایسا": [
+      "aisa",
+      "such; so (“aisa mahsoos hota tha” = it seemed)"
+    ],
+    "محسوس": [
+      "mahsoos",
+      "felt (“mahsoos hona” = to seem)"
+    ],
+    "سیاسی": [
+      "siyaasi",
+      "political"
+    ],
+    "دھارے": [
+      "dhaare",
+      "stream; current (oblique) (“siyaasi dhaare” = political mainstream)"
+    ],
+    "الگ": [
+      "alag",
+      "separate; apart"
+    ],
+    "جا": [
+      "ja",
+      "going (“alag hoti ja rahi hai” = was gradually drifting apart)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "قرارداد پاکستان کہاں منظور ہوئی؟",
+      "english": "Where was the Pakistan Resolution passed?",
+      "options": [
+        {
+          "urdu": "دہلی کے لال قلعے میں",
+          "english": "At the Red Fort in Delhi"
+        },
+        {
+          "urdu": "کراچی کی بندرگاہ پر",
+          "english": "At the port of Karachi"
+        },
+        {
+          "urdu": "لاہور کے منٹو پارک میں",
+          "english": "At Minto Park in Lahore"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "1937ء کے انتخابات میں مسلم لیگ کا کیا حال ہوا؟",
+      "english": "How did the Muslim League do in the 1937 elections?",
+      "options": [
+        {
+          "urdu": "اسے بری طرح ہزیمت اٹھانی پڑی",
+          "english": "It suffered a heavy defeat"
+        },
+        {
+          "urdu": "اس نے سب صوبوں میں حکومت بنائی",
+          "english": "It formed governments in every province"
+        },
+        {
+          "urdu": "اس نے انتخابات میں حصہ نہیں لیا",
+          "english": "It did not take part"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "پنجاب میں کون سی جماعت جیتی؟",
+      "english": "Which party won in Punjab?",
+      "options": [
+        {
+          "urdu": "کانگریس",
+          "english": "Congress"
+        },
+        {
+          "urdu": "یونینسٹ پارٹی",
+          "english": "The Unionist Party"
+        },
+        {
+          "urdu": "مسلم لیگ",
+          "english": "The Muslim League"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "قرارداد کے کتنے برس بعد مسلم لیگ کا مطالبہ منظور ہوا؟",
+      "english": "How many years after the resolution was the Muslim League's demand accepted?",
+      "options": [
+        {
+          "urdu": "تین برس",
+          "english": "Three years"
+        },
+        {
+          "urdu": "گیارہ برس",
+          "english": "Eleven years"
+        },
+        {
+          "urdu": "سات برس",
+          "english": "Seven years"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

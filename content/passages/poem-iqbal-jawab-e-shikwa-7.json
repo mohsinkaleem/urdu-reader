@@ -1,0 +1,500 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-7",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 7)",
+    "english": "Jawab-e-Shikwa, part 7"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Iqbal’s “Jawab-e-Shikwa” (1913, later in Bang-e-Dara) is God’s answer to his earlier poem “Shikwa”, in which he had complained to God on behalf of the Muslims. In this part (stanzas 19–21) God contrasts the early Muslims, who lived by action, trust in God and mercy to one another, with their descendants, who live by comfort and talk.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 7,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "ہر مسلماں رگِ باطل کے لیے نشتر تھا",
+      "english": "Every Muslim was a lancet for the vein of falsehood;",
+      "verse": true
+    },
+    {
+      "urdu": "اُس کے آئینۂ ہستی میں عمل جوہر تھا",
+      "english": "in the mirror of his being, action was the shining essence.",
+      "verse": true
+    },
+    {
+      "urdu": "جو بھروسا تھا اُسے قوّتِ بازو پر تھا",
+      "english": "Whatever trust he had, he placed in the strength of his own arm.",
+      "verse": true
+    },
+    {
+      "urdu": "ہے تمھیں موت کا ڈر، اُس کو خدا کا ڈر تھا",
+      "english": "You are afraid of death; he was afraid of God.",
+      "verse": true
+    },
+    {
+      "urdu": "باپ کا عِلم نہ بیٹے کو اگر اَزبر ہو",
+      "english": "If the son has not learned his father’s knowledge by heart,",
+      "verse": true
+    },
+    {
+      "urdu": "پھر پِسر قابلِ میراثِ پدر کیونکر ہو!",
+      "english": "how then can the son be worthy of his father’s inheritance?",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ کہتا ہے کہ پہلے زمانے کا ہر مسلمان جھوٹ اور باطل کو ایسے کاٹتا تھا جیسے سرجن کا نشتر۔ عمل اس کی اصل خوبی تھی، وہ اپنی محنت پر بھروسا کرتا تھا اور صرف خدا سے ڈرتا تھا۔ اگر بیٹا باپ کا علم ہی نہ جانتا ہو تو وہ باپ کی میراث کا حق دار کیسے ہو سکتا ہے؟",
+        "english": "God describes the early Muslims: each was like a surgeon’s lancet against falsehood, action was the essence of his being, he relied on his own effort and feared only God — while today’s Muslims fear death. If the sons do not know their fathers’ knowledge, how can they claim their fathers’ inheritance, the glory of the past?"
+      }
+    },
+    {
+      "urdu": "ہر کوئی مستِ مئے ذوقِ تن آسانی ہے",
+      "english": "Everyone is drunk on the wine of a taste for comfort.",
+      "verse": true
+    },
+    {
+      "urdu": "تم مسلماں ہو! یہ اندازِ مسلمانی ہے!",
+      "english": "You are Muslims! Is this the way of being Muslim?",
+      "verse": true
+    },
+    {
+      "urdu": "حیدری فقر ہے نے دولتِ عثمانی ہے",
+      "english": "There is neither the poverty of Haidar nor the wealth of Usman:",
+      "verse": true
+    },
+    {
+      "urdu": "تم کو اسلاف سے کیا نسبتِ روحانی ہے؟",
+      "english": "what spiritual kinship do you have with your forebears?",
+      "verse": true
+    },
+    {
+      "urdu": "وہ زمانے میں معزّز تھے مسلماں ہو کر",
+      "english": "They were honoured in the world by being Muslims,",
+      "verse": true
+    },
+    {
+      "urdu": "اور تم خوار ہوئے تارکِ قُرآں ہو کر",
+      "english": "and you have been disgraced by abandoning the Quran.",
+      "verse": true,
+      "explanation": {
+        "urdu": "آج ہر مسلمان آرام اور سستی میں مست ہے۔ نہ اس میں حضرت علیؓ جیسا فقر ہے، نہ حضرت عثمانؓ جیسی دولت جو اسلام پر خرچ ہوتی تھی۔ پہلے مسلمان اسلام کی وجہ سے عزت پاتے تھے اور آج کے مسلمان قرآن چھوڑ کر ذلیل ہو گئے ہیں۔",
+        "english": "Today everyone is drunk on comfort. Muslims have neither the austere poverty of Hazrat Ali (called Haidar, ‘the lion’) nor the wealth of Hazrat Usman, who spent his fortune on the community. The forebears were honoured because they were Muslims; their descendants are disgraced because they have abandoned the Quran."
+      }
+    },
+    {
+      "urdu": "تم ہو آپس میں غضب ناک، وہ آپس میں رحیم",
+      "english": "You are furious with one another; they were merciful to one another.",
+      "verse": true
+    },
+    {
+      "urdu": "تم خطاکار و خطابیں، وہ خطاپوش و کریم",
+      "english": "You are sinners and fault-finders; they covered faults and were generous.",
+      "verse": true
+    },
+    {
+      "urdu": "چاہتے سب ہیں کہ ہوں اوجِ ثریّا پہ مقیم",
+      "english": "Everyone wants to dwell on the heights of the Pleiades,",
+      "verse": true
+    },
+    {
+      "urdu": "پہلے ویسا کوئی پیدا تو کرے قلبِ سلیم",
+      "english": "but first let someone produce a sound heart like theirs.",
+      "verse": true
+    },
+    {
+      "urdu": "تختِ فغفور بھی اُن کا تھا، سریرِ کَے بھی",
+      "english": "The throne of the Faghfur of China was theirs, and the throne of the Kai of Persia too:",
+      "verse": true
+    },
+    {
+      "urdu": "یونہی باتیں ہیں کہ تم میں وہ حمیّت ہے بھی؟",
+      "english": "it is all just talk — do you really have that same zeal?",
+      "verse": true,
+      "explanation": {
+        "urdu": "تم آپس میں لڑتے ہو اور دوسروں کے عیب ڈھونڈتے ہو، جبکہ وہ ایک دوسرے پر رحم کرتے اور عیب چھپاتے تھے۔ سب بلندی چاہتے ہیں، لیکن پہلے ان جیسا پاک دل تو پیدا کرو۔ چین اور ایران کے تخت ان کے تھے؛ کیا تم میں بھی وہ غیرت ہے؟",
+        "english": "You are angry with each other and quick to find fault; they were merciful to one another (an echo of Quran 48:29) and hid each other’s faults. Everyone wants to reach the stars, but first one needs a ‘sound heart’ (qalb-e saleem, Quran 26:89). The thrones of the Chinese emperor (Faghfur) and the Persian kings (Kai) were theirs — do you really have their zeal, or is it just talk?"
+      }
+    }
+  ],
+  "glossary": {
+    "مسلماں": [
+      "musalmaan",
+      "Muslim (poetic spelling)"
+    ],
+    "رگ": [
+      "rag-e",
+      "vein (of) (“rag-e baatil” = the vein of falsehood)"
+    ],
+    "باطل": [
+      "baatil",
+      "falsehood; what is false"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for)"
+    ],
+    "نشتر": [
+      "nashtar",
+      "lancet; surgeon’s knife"
+    ],
+    "آئینۂ": [
+      "aaina-e",
+      "mirror (of) (“aaina-e hasti” = the mirror of his being)"
+    ],
+    "ہستی": [
+      "hasti",
+      "existence; being"
+    ],
+    "عمل": [
+      "amal",
+      "action; deeds"
+    ],
+    "جوہر": [
+      "jauhar",
+      "essence; the inner lustre of a polished mirror or blade"
+    ],
+    "بھروسا": [
+      "bharosa",
+      "trust; reliance"
+    ],
+    "اسے": [
+      "use",
+      "to him (“use… bharosa tha” = he trusted)"
+    ],
+    "قوت": [
+      "quwwat-e",
+      "strength; power (of)"
+    ],
+    "بازو": [
+      "baazoo",
+      "arm (“quwwat-e baazoo” = strength of one’s own arm)"
+    ],
+    "تمھیں": [
+      "tumhen",
+      "to you (“tumhen ḍar hai” = you are afraid)"
+    ],
+    "موت": [
+      "maut",
+      "death"
+    ],
+    "ڈر": [
+      "ḍar",
+      "fear"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "باپ": [
+      "baap",
+      "father"
+    ],
+    "علم": [
+      "ilm",
+      "knowledge"
+    ],
+    "بیٹے": [
+      "beṭe",
+      "son (oblique)"
+    ],
+    "ازبر": [
+      "azbar",
+      "learned by heart (“azbar ho” = is known by heart)"
+    ],
+    "پسر": [
+      "pisar",
+      "son (Persian)"
+    ],
+    "قابل": [
+      "qaabil-e",
+      "worthy (of)"
+    ],
+    "میراث": [
+      "meeraas-e",
+      "inheritance (of) (“meeraas-e pidar” = the father’s legacy)"
+    ],
+    "پدر": [
+      "pidar",
+      "father (Persian)"
+    ],
+    "کیونکر": [
+      "kyoonkar",
+      "how; how could"
+    ],
+    "کوئی": [
+      "koi",
+      "some; any; someone (“har koi” = everyone)"
+    ],
+    "مست": [
+      "mast-e",
+      "drunk (on); intoxicated (with)"
+    ],
+    "مئے": [
+      "mai-e",
+      "wine (of) (poetic)"
+    ],
+    "ذوق": [
+      "zauq-e",
+      "taste; relish (for)"
+    ],
+    "تن": [
+      "tan",
+      "body (“tan-aasaani” = love of comfort, laziness)"
+    ],
+    "آسانی": [
+      "aasaani",
+      "ease (“tan-aasaani” = bodily comfort, laziness)"
+    ],
+    "تم": [
+      "tum",
+      "you (pl.)"
+    ],
+    "انداز": [
+      "andaaz-e",
+      "manner; style (of)"
+    ],
+    "مسلمانی": [
+      "musalmaani",
+      "being a Muslim; the Muslim way"
+    ],
+    "حیدری": [
+      "haidari",
+      "of Haidar (Hazrat Ali)"
+    ],
+    "فقر": [
+      "faqr",
+      "voluntary poverty; spiritual detachment"
+    ],
+    "نے": [
+      "ne",
+      "nor (Persian; “… hai ne … hai” = there is neither … nor …)"
+    ],
+    "دولت": [
+      "daulat-e",
+      "wealth (of)"
+    ],
+    "عثمانی": [
+      "usmaani",
+      "of Usman (the third caliph, famous for spending his wealth for Islam)"
+    ],
+    "اسلاف": [
+      "aslaaf",
+      "forebears; ancestors (pl.)"
+    ],
+    "نسبت": [
+      "nisbat-e",
+      "relationship; link (“nisbat-e roohaani” = spiritual kinship)"
+    ],
+    "روحانی": [
+      "roohaani",
+      "spiritual"
+    ],
+    "زمانے": [
+      "zamaane",
+      "the world; the age (oblique) (“zamaane mein” = in the world)"
+    ],
+    "معزز": [
+      "muazzaz",
+      "honoured; respected"
+    ],
+    "خوار": [
+      "khwaar",
+      "disgraced; despised"
+    ],
+    "تارک": [
+      "taarik-e",
+      "one who abandons (“taarik-e quraan” = having abandoned the Quran)"
+    ],
+    "قرآں": [
+      "quraan",
+      "the Quran (poetic spelling)"
+    ],
+    "آپس": [
+      "aapas",
+      "one another (“aapas mein” = with one another)"
+    ],
+    "غضب": [
+      "ghazab",
+      "wrath (“ghazab-naak” = furious)"
+    ],
+    "ناک": [
+      "naak",
+      "full of (suffix) (“ghazab-naak” = furious)"
+    ],
+    "رحیم": [
+      "raheem",
+      "merciful"
+    ],
+    "خطاکار": [
+      "khata-kaar",
+      "wrongdoers; sinners"
+    ],
+    "خطابیں": [
+      "khata-been",
+      "fault-finding; quick to see others’ faults"
+    ],
+    "خطاپوش": [
+      "khata-posh",
+      "covering (others’) faults; forgiving"
+    ],
+    "کریم": [
+      "kareem",
+      "generous; noble"
+    ],
+    "چاہتے": [
+      "chaahte",
+      "want (pl.)"
+    ],
+    "ہوں": [
+      "hon",
+      "may be (“hon muqeem” = may dwell)"
+    ],
+    "اوج": [
+      "auj-e",
+      "height; summit (of)"
+    ],
+    "ثریا": [
+      "suraiya",
+      "the Pleiades (a star cluster; a symbol of great height)"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "مقیم": [
+      "muqeem",
+      "dwelling; settled"
+    ],
+    "پہلے": [
+      "pehle",
+      "first"
+    ],
+    "ویسا": [
+      "waisa",
+      "like that; such (as theirs)"
+    ],
+    "پیدا": [
+      "paida",
+      "born; produced (“paida karna” = to produce, create)"
+    ],
+    "تو": [
+      "to",
+      "at least; then (emphasis) (“paida to kare” = let him at least produce)"
+    ],
+    "کرے": [
+      "kare",
+      "should do (“paida to kare” = let him at least produce)"
+    ],
+    "قلب": [
+      "qalb-e",
+      "heart (“qalb-e saleem” = a sound, pure heart)"
+    ],
+    "سلیم": [
+      "saleem",
+      "sound; whole; pure"
+    ],
+    "تخت": [
+      "takht-e",
+      "throne (of)"
+    ],
+    "فغفور": [
+      "faghfoor",
+      "Faghfur, title of the Emperor of China"
+    ],
+    "ان": [
+      "un",
+      "them; their (oblique) (“un ka” = theirs)"
+    ],
+    "سریر": [
+      "sareer-e",
+      "throne (of)"
+    ],
+    "کَے": [
+      "kai",
+      "Kai, title of the ancient kings of Persia (as in Kai-Khusrau)"
+    ],
+    "یونہی": [
+      "yoonhi",
+      "merely; idly (“yoonhi baaten hain” = it is only talk)"
+    ],
+    "باتیں": [
+      "baaten",
+      "words; talk (pl.)"
+    ],
+    "حمیت": [
+      "hamiyyat",
+      "sense of honour; zeal for one’s faith"
+    ],
+    "کے": [
+      "ke",
+      "of (m. pl. / oblique)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "نظم کے مطابق پہلے زمانے کے مسلمان کس سے ڈرتے تھے؟",
+      "english": "According to the poem, what did the early Muslims fear?",
+      "options": [
+        {
+          "urdu": "موت سے",
+          "english": "death"
+        },
+        {
+          "urdu": "صرف خدا سے",
+          "english": "only God"
+        },
+        {
+          "urdu": "دشمن کی فوج سے",
+          "english": "the enemy’s army"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "آج کے مسلمان کیوں ذلیل ہوئے؟",
+      "english": "Why, according to the poem, have today’s Muslims been disgraced?",
+      "options": [
+        {
+          "urdu": "قرآن چھوڑنے کی وجہ سے",
+          "english": "because they abandoned the Quran"
+        },
+        {
+          "urdu": "غربت کی وجہ سے",
+          "english": "because of poverty"
+        },
+        {
+          "urdu": "جنگ ہارنے کی وجہ سے",
+          "english": "because they lost a war"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "اونچا مقام پانے سے پہلے کیا ضروری ہے؟",
+      "english": "What must come first, before reaching great heights?",
+      "options": [
+        {
+          "urdu": "بہت سی دولت",
+          "english": "a lot of wealth"
+        },
+        {
+          "urdu": "ایک بڑی فوج",
+          "english": "a large army"
+        },
+        {
+          "urdu": "ان جیسا پاک دل (قلبِ سلیم)",
+          "english": "a pure heart like theirs (qalb-e saleem)"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

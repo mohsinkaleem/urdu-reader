@@ -1,0 +1,395 @@
+{
+  "id": "poem-parveen-ku-ba-ku",
+  "title": {
+    "urdu": "کو بہ کو پھیل گئی بات شناسائی کی",
+    "english": "From Lane to Lane the Word Spread"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "source": {
+    "name": "Rekhta: کو بہ کو پھیل گئی بات شناسائی کی",
+    "url": "https://www.rekhta.org/ghazals/kuu-ba-kuu-phail-gaii-baat-shanaasaaii-kii-parveen-shakir-ghazals?lang=ur",
+    "author": "Parveen Shakir",
+    "license": "Personal use only"
+  },
+  "intro": "One of Parveen Shakir’s most celebrated ghazals, spoken by a woman about a faithless lover she cannot stop loving. Mehdi Hassan sang it, and Rekhta also has a video of Parveen Shakir reciting it. This is the complete ghazal.",
+  "sentences": [
+    {
+      "urdu": "کو بہ کو پھیل گئی بات شناسائی کی",
+      "english": "From lane to lane spread the news of our acquaintance;",
+      "verse": true
+    },
+    {
+      "urdu": "اس نے خوشبو کی طرح میری پذیرائی کی",
+      "english": "he welcomed me the way one welcomes a fragrance.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہماری جان پہچان کی بات گلی گلی پھیل گئی، کیونکہ محبوب نے اسے ایسے اپنایا جیسے خوشبو کو اپنایا جاتا ہے، اور خوشبو چھپ نہیں سکتی۔",
+        "english": "Word of their acquaintance spread from lane to lane, because he embraced her the way one embraces a fragrance — and a fragrance cannot be hidden."
+      }
+    },
+    {
+      "urdu": "کیسے کہہ دوں کہ مجھے چھوڑ دیا ہے اس نے",
+      "english": "How can I say that he has left me?",
+      "verse": true
+    },
+    {
+      "urdu": "بات تو سچ ہے مگر بات ہے رسوائی کی",
+      "english": "It is true, but it is a matter of disgrace.",
+      "verse": true,
+      "explanation": {
+        "urdu": "سچ یہ ہے کہ محبوب اسے چھوڑ چکا ہے، مگر وہ یہ بات کسی سے کہہ نہیں سکتی کیونکہ اس میں اس کی بدنامی ہے۔",
+        "english": "The truth is that he has left her, but she cannot tell anyone, because it would bring her disgrace."
+      }
+    },
+    {
+      "urdu": "وہ کہیں بھی گیا لوٹا تو مرے پاس آیا",
+      "english": "Wherever he went, when he came back, he came to me;",
+      "verse": true
+    },
+    {
+      "urdu": "بس یہی بات ہے اچھی مرے ہرجائی کی",
+      "english": "that is the one good thing about my faithless one.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب ہرجائی ہے، ہر جگہ جاتا ہے، مگر آخر میں لوٹ کر اسی کے پاس آتا ہے۔ اس کی یہی ایک خوبی ہے۔",
+        "english": "The beloved is fickle and roams everywhere, but in the end he always comes back to her. That is his one redeeming quality."
+      }
+    },
+    {
+      "urdu": "تیرا پہلو ترے دل کی طرح آباد رہے",
+      "english": "May your side always be as full as your heart;",
+      "verse": true
+    },
+    {
+      "urdu": "تجھ پہ گزرے نہ قیامت شب تنہائی کی",
+      "english": "may the torment of a lonely night never befall you.",
+      "verse": true,
+      "explanation": {
+        "urdu": "وہ محبوب کو دعا دیتی ہے کہ تمہارا پہلو ہمیشہ کسی ساتھی سے بھرا رہے، جیسے تمہارا دل بھرا رہتا ہے، اور تم پر کبھی تنہائی کی رات کا عذاب نہ آئے۔ اس دعا میں ہلکا سا طنز بھی ہے۔",
+        "english": "She blesses him: may someone always be at your side, just as your heart is always full, and may you never suffer the torment of a lonely night. The blessing carries a light sting of irony."
+      }
+    },
+    {
+      "urdu": "اس نے جلتی ہوئی پیشانی پہ جب ہاتھ رکھا",
+      "english": "When he laid his hand on my burning forehead,",
+      "verse": true
+    },
+    {
+      "urdu": "روح تک آ گئی تاثیر مسیحائی کی",
+      "english": "the healing power reached all the way to my soul.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جب وہ بخار میں تھی اور محبوب نے اس کے ماتھے پر ہاتھ رکھا تو اس کے لمس کا شفا دینے والا اثر روح تک پہنچ گیا۔",
+        "english": "When she lay with a fever and he laid his hand on her forehead, the healing effect of his touch reached her very soul."
+      }
+    },
+    {
+      "urdu": "اب بھی برسات کی راتوں میں بدن ٹوٹتا ہے",
+      "english": "Even now, on monsoon nights, my body aches;",
+      "verse": true
+    },
+    {
+      "urdu": "جاگ اٹھتی ہیں عجب خواہشیں انگڑائی کی",
+      "english": "strange longings to stretch awaken in me.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب چلا گیا ہے، مگر اب بھی برسات کی راتوں میں جسم اسے یاد کرتا ہے اور دل میں عجیب خواہشیں جاگ اٹھتی ہیں۔",
+        "english": "The beloved is gone, but even now on monsoon nights her body remembers him, and strange longings stir within her."
+      }
+    }
+  ],
+  "glossary": {
+    "کو": [
+      "koo",
+      "lane; street (“koo-ba-koo” = from lane to lane, everywhere)"
+    ],
+    "بہ": [
+      "ba",
+      "to (Persian; “koo-ba-koo” = lane to lane)"
+    ],
+    "پھیل": [
+      "phail",
+      "spread (“phail gayi” = spread)"
+    ],
+    "بات": [
+      "baat",
+      "talk; news; matter (“baat to sach hai” = it is true)"
+    ],
+    "شناسائی": [
+      "shanaasaai",
+      "acquaintance; familiarity"
+    ],
+    "کی": [
+      "ki",
+      "of (f.); did (f.) (“paziraai ki” = welcomed)"
+    ],
+    "اس": [
+      "us",
+      "he; him (“us ne” = he)"
+    ],
+    "خوشبو": [
+      "khushboo",
+      "fragrance"
+    ],
+    "پذیرائی": [
+      "paziraai",
+      "welcome; warm reception (“paziraai karna” = to welcome)"
+    ],
+    "کیسے": [
+      "kaise",
+      "how"
+    ],
+    "کہہ": [
+      "keh",
+      "say (“keh doon” = should I say)"
+    ],
+    "دوں": [
+      "doon",
+      "(should I) give (“keh doon” = should I say)"
+    ],
+    "چھوڑ": [
+      "chhor",
+      "leave (“chhor diya” = has left, abandoned)"
+    ],
+    "تو": [
+      "to",
+      "(emphasis) indeed"
+    ],
+    "سچ": [
+      "sach",
+      "true; truth"
+    ],
+    "رسوائی": [
+      "ruswaai",
+      "disgrace; public shame"
+    ],
+    "وہ": [
+      "woh",
+      "he"
+    ],
+    "کہیں": [
+      "kahin",
+      "anywhere (“kahin bhi” = wherever)"
+    ],
+    "گیا": [
+      "gaya",
+      "went"
+    ],
+    "لوٹا": [
+      "lauta",
+      "returned"
+    ],
+    "مرے": [
+      "mere",
+      "my; me (short poetic spelling of “mere”) (“mere paas” = to me)"
+    ],
+    "آیا": [
+      "aaya",
+      "came"
+    ],
+    "بس": [
+      "bas",
+      "just; only"
+    ],
+    "اچھی": [
+      "achchhi",
+      "good (f.)"
+    ],
+    "ہرجائی": [
+      "harjaai",
+      "fickle, faithless lover (literally “one who goes everywhere”)"
+    ],
+    "تیرا": [
+      "tera",
+      "your (m., intimate)"
+    ],
+    "پہلو": [
+      "pehloo",
+      "side (“tera pehloo” = the place beside you)"
+    ],
+    "ترے": [
+      "tere",
+      "your (short poetic spelling of “tere”)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "آباد": [
+      "aabaad",
+      "inhabited; full of life"
+    ],
+    "رہے": [
+      "rahe",
+      "may (it) remain"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (intimate) (“tujh pe” = upon you)"
+    ],
+    "پہ": [
+      "pe",
+      "on (short form of “par”)"
+    ],
+    "گزرے": [
+      "guzre",
+      "may (it) befall (“tujh pe guzre na” = may it never befall you)"
+    ],
+    "نہ": [
+      "na",
+      "not; never (in a wish)"
+    ],
+    "قیامت": [
+      "qayaamat",
+      "doomsday; (figuratively) torment, calamity"
+    ],
+    "شب": [
+      "shab(-e)",
+      "night (“shab-e-tanhaai” = night of loneliness)"
+    ],
+    "تنہائی": [
+      "tanhaai",
+      "loneliness"
+    ],
+    "جلتی": [
+      "jalti",
+      "burning (f.) (with fever)"
+    ],
+    "ہوئی": [
+      "hui",
+      "(-ing, f.) (“jalti hui” = burning)"
+    ],
+    "پیشانی": [
+      "peshaani",
+      "forehead"
+    ],
+    "ہاتھ": [
+      "haath",
+      "hand"
+    ],
+    "رکھا": [
+      "rakha",
+      "placed"
+    ],
+    "روح": [
+      "rooh",
+      "soul"
+    ],
+    "آ": [
+      "aa",
+      "come (“aa gayi” = reached)"
+    ],
+    "تاثیر": [
+      "taaseer(-e)",
+      "effect; healing power"
+    ],
+    "مسیحائی": [
+      "maseehaai",
+      "healing (like the Messiah, Jesus, who healed the sick)"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab bhi” = even now)"
+    ],
+    "برسات": [
+      "barsaat",
+      "the rainy season; monsoon"
+    ],
+    "راتوں": [
+      "raaton",
+      "nights (pl. oblique)"
+    ],
+    "میں": [
+      "mein",
+      "in; on"
+    ],
+    "بدن": [
+      "badan",
+      "body"
+    ],
+    "ٹوٹتا": [
+      "toot-ta",
+      "breaks; (of the body) aches (“badan toot-ta hai” = the body aches)"
+    ],
+    "جاگ": [
+      "jaag",
+      "wake (“jaag uthti hain” = awaken)"
+    ],
+    "اٹھتی": [
+      "uthti",
+      "rise (“jaag uthti hain” = wake up)"
+    ],
+    "عجب": [
+      "ajab",
+      "strange"
+    ],
+    "خواہشیں": [
+      "khwaahishen",
+      "desires; longings"
+    ],
+    "انگڑائی": [
+      "angraai",
+      "stretching (of the limbs, from languor or longing)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعرہ یہ کیوں نہیں کہہ سکتی کہ محبوب نے اسے چھوڑ دیا ہے؟",
+      "english": "Why can’t the poet say that her beloved has left her?",
+      "options": [
+        {
+          "urdu": "کیونکہ یہ بات جھوٹ ہے",
+          "english": "because it isn’t true"
+        },
+        {
+          "urdu": "کیونکہ یہ بات سچ ہے مگر اس میں رسوائی ہے",
+          "english": "because it is true, but it brings disgrace"
+        },
+        {
+          "urdu": "کیونکہ وہ یہ بات بھول گئی ہے",
+          "english": "because she has forgotten it"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعرہ کے مطابق اس کے ہرجائی محبوب کی اچھی بات کیا ہے؟",
+      "english": "According to the poet, what is the good thing about her fickle lover?",
+      "options": [
+        {
+          "urdu": "وہ کہیں بھی جائے، لوٹ کر اسی کے پاس آتا ہے",
+          "english": "wherever he goes, he comes back to her"
+        },
+        {
+          "urdu": "وہ کبھی کہیں نہیں جاتا",
+          "english": "he never goes anywhere"
+        },
+        {
+          "urdu": "وہ اسے تحفے دیتا ہے",
+          "english": "he gives her gifts"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "جب محبوب نے اس کی جلتی پیشانی پر ہاتھ رکھا تو کیا ہوا؟",
+      "english": "What happened when the beloved laid his hand on her burning forehead?",
+      "options": [
+        {
+          "urdu": "اس کا بخار اور تیز ہو گیا",
+          "english": "her fever got worse"
+        },
+        {
+          "urdu": "وہ ناراض ہو گئی",
+          "english": "she became angry"
+        },
+        {
+          "urdu": "شفا کا اثر اس کی روح تک پہنچ گیا",
+          "english": "the healing touch reached her soul"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

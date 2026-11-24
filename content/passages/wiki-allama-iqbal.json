@@ -1,0 +1,390 @@
+{
+  "id": "wiki-allama-iqbal",
+  "title": {
+    "urdu": "علامہ محمد اقبال",
+    "english": "Allama Muhammad Iqbal"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "source": {
+    "name": "Urdu Wikipedia: محمد اقبال",
+    "url": "https://ur.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%82%D8%A8%D8%A7%D9%84",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "The opening of the Urdu Wikipedia article on Allama Muhammad Iqbal. The app already has his Shikwa, Jawab-e-Shikwa and children's poems; this passage is about Iqbal as a thinker and politician, and how he came to be seen as the father of the idea of Pakistan.",
+  "sentences": [
+    {
+      "urdu": "ڈاکٹر سر علامہ محمد اقبال (ولادت: 9 نومبر 1877ء – وفات: 21 اپریل 1938ء) بیسویں صدی کے ایک معروف شاعر، مصنف، قانون دان، سیاستدان اور تحریک پاکستان کی اہم ترین شخصیات میں سے ایک تھے۔",
+      "english": "Doctor Sir Allama Muhammad Iqbal (born 9 November 1877, died 21 April 1938) was a well-known poet, writer, jurist and politician of the twentieth century, and one of the most important figures of the Pakistan Movement."
+    },
+    {
+      "urdu": "اردو اور فارسی میں شاعری کرتے تھے اور یہی ان کی بنیادی وجہ شہرت ہے۔",
+      "english": "He wrote poetry in Urdu and Persian, and this is the main reason for his fame."
+    },
+    {
+      "urdu": "شاعری میں بنیادی رجحان تصوف اور احیائے امت اسلام کی طرف تھا۔",
+      "english": "In his poetry the main leaning was towards Sufism and the revival of the Islamic ummah."
+    },
+    {
+      "urdu": "علامہ اقبال کو دور جدید کا صوفی سمجھا جاتا ہے۔",
+      "english": "Allama Iqbal is regarded as a Sufi of the modern age."
+    },
+    {
+      "urdu": "بحیثیت سیاست دان ان کا سب سے نمایاں کارنامہ نظریۂ پاکستان کی تشکیل ہے، جو انھوں نے 1930ء میں الہ آباد میں مسلم لیگ کے اجلاس کی صدارت کرتے ہوئے پیش کیا تھا۔",
+      "english": "As a politician, his most outstanding achievement is shaping the idea of Pakistan, which he put forward in 1930 while presiding over the Muslim League's session in Allahabad."
+    },
+    {
+      "urdu": "یہی نظریہ بعد میں پاکستان کے قیام کی بنیاد بنا۔",
+      "english": "This same idea later became the basis for the founding of Pakistan."
+    },
+    {
+      "urdu": "اسی وجہ سے علامہ اقبال کو پاکستان کا نظریاتی باپ سمجھا جاتا ہے۔",
+      "english": "For this reason Allama Iqbal is regarded as the ideological father of Pakistan."
+    },
+    {
+      "urdu": "گو کہ انھوں نے اس نئے ملک کے قیام کو اپنی آنکھوں سے نہیں دیکھا لیکن انھیں پاکستان کے قومی شاعر کی حیثیت حاصل ہے۔",
+      "english": "Although he did not see this new country founded with his own eyes, he holds the status of Pakistan's national poet."
+    }
+  ],
+  "glossary": {
+    "ڈاکٹر": [
+      "ḍaakṭar",
+      "Doctor (he held a doctorate)"
+    ],
+    "سر": [
+      "sar",
+      "Sir (British knighthood title)"
+    ],
+    "علامہ": [
+      "allaama",
+      "Allama, “great scholar” (a title)"
+    ],
+    "محمد": [
+      "muhammad",
+      "Muhammad"
+    ],
+    "اقبال": [
+      "iqbaal",
+      "Iqbal"
+    ],
+    "ولادت": [
+      "wilaadat",
+      "birth"
+    ],
+    "نومبر": [
+      "navambar",
+      "November"
+    ],
+    "اپریل": [
+      "aprail",
+      "April"
+    ],
+    "1877ء": [
+      "1877 eesvi",
+      "1877 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1938ء": [
+      "1938 eesvi",
+      "1938 CE"
+    ],
+    "1930ء": [
+      "1930 eesvi",
+      "1930 CE"
+    ],
+    "وفات": [
+      "wafaat",
+      "death"
+    ],
+    "بیسویں": [
+      "beesveen",
+      "twentieth"
+    ],
+    "صدی": [
+      "sadi",
+      "century"
+    ],
+    "معروف": [
+      "maaroof",
+      "well-known"
+    ],
+    "شاعر": [
+      "shaair",
+      "poet"
+    ],
+    "مصنف": [
+      "musannif",
+      "author; writer"
+    ],
+    "قانون": [
+      "qaanoon",
+      "law (“qaanoon daan” = jurist, legal expert)"
+    ],
+    "دان": [
+      "daan",
+      "one who knows (“qaanoon daan” = jurist; “siyaasat daan” = politician)"
+    ],
+    "سیاستدان": [
+      "siyaasat-daan",
+      "politician"
+    ],
+    "تحریک": [
+      "tehreek",
+      "movement (“tehreek-e-paakistaan” = the Pakistan Movement)"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "اہم": [
+      "aham",
+      "important (“aham tareen” = most important)"
+    ],
+    "ترین": [
+      "tareen",
+      "-est (“aham tareen” = most important)"
+    ],
+    "شخصیات": [
+      "shakhsiyaat",
+      "personalities; figures (pl.)"
+    ],
+    "اردو": [
+      "urdu",
+      "Urdu"
+    ],
+    "فارسی": [
+      "faarsi",
+      "Persian"
+    ],
+    "شاعری": [
+      "shaairi",
+      "poetry (“shaairi karna” = to write poetry)"
+    ],
+    "کرتے": [
+      "karte",
+      "doing (pl. / respectful) (“shaairi karte the” = used to write poetry; “sadaarat karte hue” = while presiding)"
+    ],
+    "بنیادی": [
+      "buniyaadi",
+      "basic; main"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason (“wajah-e-shohrat” = reason for fame; “isi wajah se” = for this reason)"
+    ],
+    "شہرت": [
+      "shohrat",
+      "fame"
+    ],
+    "رجحان": [
+      "rujhaan",
+      "tendency; leaning"
+    ],
+    "تصوف": [
+      "tasawwuf",
+      "Sufism; mysticism"
+    ],
+    "احیائے": [
+      "ehyaa-e",
+      "revival of (izafat) (“ehyaa-e-ummat” = revival of the community)"
+    ],
+    "امت": [
+      "ummat",
+      "the Muslim community; the ummah"
+    ],
+    "اسلام": [
+      "islaam",
+      "Islam"
+    ],
+    "طرف": [
+      "taraf",
+      "direction (“ki taraf” = towards)"
+    ],
+    "دور": [
+      "daur",
+      "era (“daur-e-jadeed” = the modern age)"
+    ],
+    "جدید": [
+      "jadeed",
+      "modern"
+    ],
+    "صوفی": [
+      "soofi",
+      "Sufi; mystic"
+    ],
+    "سمجھا": [
+      "samjha",
+      "considered (“samjha jaata hai” = is regarded as)"
+    ],
+    "بحیثیت": [
+      "ba-haisiyat",
+      "as; in the capacity of"
+    ],
+    "سیاست": [
+      "siyaasat",
+      "politics (“siyaasat daan” = politician)"
+    ],
+    "نمایاں": [
+      "numaayaan",
+      "prominent; outstanding"
+    ],
+    "کارنامہ": [
+      "kaarnaama",
+      "achievement; feat"
+    ],
+    "نظریۂ": [
+      "nazariya-e",
+      "idea of (izafat) (“nazariya-e-paakistaan” = the idea of Pakistan)"
+    ],
+    "تشکیل": [
+      "tashkeel",
+      "forming; shaping"
+    ],
+    "انھوں": [
+      "unhon",
+      "he (respectful, with “ne”)"
+    ],
+    "الہ": [
+      "ilaah",
+      "Allah- (“ilaah aabaad” = Allahabad, a city in India)"
+    ],
+    "آباد": [
+      "aabaad",
+      "inhabited; -abad (“ilaah aabaad” = Allahabad)"
+    ],
+    "مسلم": [
+      "muslim",
+      "Muslim (“muslim leeg” = the Muslim League)"
+    ],
+    "لیگ": [
+      "leeg",
+      "league"
+    ],
+    "صدارت": [
+      "sadaarat",
+      "presidency; chairing (“sadaarat karna” = to preside)"
+    ],
+    "پیش": [
+      "pesh",
+      "presented (“pesh karna” = to put forward)"
+    ],
+    "نظریہ": [
+      "nazariya",
+      "idea; ideology"
+    ],
+    "قیام": [
+      "qiyaam",
+      "founding; establishment"
+    ],
+    "بنیاد": [
+      "buniyaad",
+      "basis; foundation"
+    ],
+    "بنا": [
+      "bana",
+      "became (“buniyaad bana” = became the basis)"
+    ],
+    "نظریاتی": [
+      "nazariyaati",
+      "ideological"
+    ],
+    "باپ": [
+      "baap",
+      "father"
+    ],
+    "گو": [
+      "go",
+      "although (“go keh” = although)"
+    ],
+    "نئے": [
+      "naye",
+      "new (oblique)"
+    ],
+    "ملک": [
+      "mulk",
+      "country"
+    ],
+    "آنکھوں": [
+      "aankhon",
+      "eyes (pl. oblique)"
+    ],
+    "دیکھا": [
+      "dekha",
+      "saw"
+    ],
+    "انھیں": [
+      "unhen",
+      "to him (respectful) (“unhen … haisiyat haasil hai” = he holds the status)"
+    ],
+    "قومی": [
+      "qaumi",
+      "national"
+    ],
+    "حیثیت": [
+      "haisiyat",
+      "status; position"
+    ],
+    "حاصل": [
+      "haasil",
+      "obtained (“haisiyat haasil hai” = holds the status)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "اقبال کن زبانوں میں شاعری کرتے تھے؟",
+      "english": "In which languages did Iqbal write poetry?",
+      "options": [
+        {
+          "urdu": "اردو اور فارسی",
+          "english": "Urdu and Persian"
+        },
+        {
+          "urdu": "عربی اور انگریزی",
+          "english": "Arabic and English"
+        },
+        {
+          "urdu": "پنجابی اور ہندی",
+          "english": "Punjabi and Hindi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "اقبال نے 1930ء میں الہ آباد میں کیا کیا؟",
+      "english": "What did Iqbal do in Allahabad in 1930?",
+      "options": [
+        {
+          "urdu": "وہاں ایک کتاب چھاپی",
+          "english": "He published a book there"
+        },
+        {
+          "urdu": "وہاں ایک یونیورسٹی بنائی",
+          "english": "He founded a university there"
+        },
+        {
+          "urdu": "مسلم لیگ کے اجلاس میں نظریۂ پاکستان پیش کیا",
+          "english": "He put forward the idea of Pakistan at the Muslim League session"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "اقبال کو پاکستان کا نظریاتی باپ کیوں سمجھا جاتا ہے؟",
+      "english": "Why is Iqbal regarded as Pakistan's ideological father?",
+      "options": [
+        {
+          "urdu": "وہ پاکستان کے پہلے گورنر جنرل تھے",
+          "english": "He was Pakistan's first Governor-General"
+        },
+        {
+          "urdu": "ان کا نظریہ پاکستان کے قیام کی بنیاد بنا",
+          "english": "His idea became the basis for founding Pakistan"
+        },
+        {
+          "urdu": "انھوں نے کراچی شہر بسایا",
+          "english": "He founded the city of Karachi"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

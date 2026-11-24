@@ -1,0 +1,428 @@
+{
+  "id": "poem-iqbal-hamdardi",
+  "title": {
+    "urdu": "ہمدردی",
+    "english": "Sympathy"
+  },
+  "category": "poetry",
+  "level": "easy",
+  "tags": ["children", "nature", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: ہمدردی (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%DB%81%D9%85%D8%AF%D8%B1%D8%AF%DB%8C",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "From the first part of Iqbal’s Bang-e-Dara (1924), among the poems he wrote for children; it is adapted from William Cowper’s “The Nightingale and the Glow-worm”. A firefly lights the way home for a nightingale lost in the dark. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "ٹہنی پہ کسی شجر کی تنہا",
+      "english": "On a branch of some tree, all alone,",
+      "verse": true
+    },
+    {
+      "urdu": "بُلبل تھا کوئی اُداس بیٹھا",
+      "english": "a nightingale sat sadly.",
+      "verse": true,
+      "explanation": {
+        "urdu": "کسی درخت کی شاخ پر ایک بلبل اکیلا اور اداس بیٹھا تھا۔",
+        "english": "A nightingale sits alone and sad on the branch of a tree."
+      }
+    },
+    {
+      "urdu": "کہتا تھا کہ رات سر پہ آئی",
+      "english": "It was saying, “Night is upon me;",
+      "verse": true
+    },
+    {
+      "urdu": "اُڑنے چُگنے میں دن گزارا",
+      "english": "I spent the day flying about and pecking for food.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بلبل کہتا ہے کہ سارا دن اڑنے اور دانہ چگنے میں گزر گیا اور اب رات ہو گئی ہے۔",
+        "english": "The nightingale says it spent the whole day flying and pecking for food, and now night has fallen."
+      }
+    },
+    {
+      "urdu": "پہنچوں کِس طرح آشیاں تک",
+      "english": "How am I to reach my nest?",
+      "verse": true
+    },
+    {
+      "urdu": "ہر چیز پہ چھا گیا اندھیرا",
+      "english": "Darkness has spread over everything.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "بلبل پریشان ہے کہ ہر طرف اندھیرا ہے، وہ اپنے گھونسلے تک کیسے پہنچے۔",
+        "english": "It is worried: darkness covers everything — how will it find its way back to its nest?"
+      }
+    },
+    {
+      "urdu": "سُن کر بُلبل کی آہ و زاری",
+      "english": "Hearing the nightingale’s sighs and cries,",
+      "verse": true
+    },
+    {
+      "urdu": "جُگنو کوئی پاس ہی سے بولا",
+      "english": "a firefly spoke up from close by:",
+      "verse": true,
+      "explanation": {
+        "urdu": "بلبل کا رونا سن کر پاس ہی سے ایک جگنو بولا۔",
+        "english": "Hearing the nightingale’s cries, a firefly nearby speaks up."
+      }
+    },
+    {
+      "urdu": "حاضر ہُوں مدد کو جان و دل سے",
+      "english": "“I am here to help you with all my heart and soul,",
+      "verse": true
+    },
+    {
+      "urdu": "کِیڑا ہوں اگرچہ مَیں ذرا سا",
+      "english": "though I am only a tiny insect.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جگنو کہتا ہے کہ میں چھوٹا سا کیڑا ہوں، پھر بھی دل و جان سے تمھاری مدد کے لیے حاضر ہوں۔",
+        "english": "The firefly says that although it is only a tiny insect, it is ready to help with all its heart."
+      }
+    },
+    {
+      "urdu": "کیا غم ہے جو رات ہے اندھیری",
+      "english": "Why worry if the night is dark?",
+      "verse": true
+    },
+    {
+      "urdu": "مَیں راہ میں روشنی کروں گا",
+      "english": "I will light up the way.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جگنو کہتا ہے کہ اندھیری رات کا غم نہ کرو، میں تمھارے راستے میں روشنی کروں گا۔",
+        "english": "Do not worry about the dark night, says the firefly — I will light your way."
+      }
+    },
+    {
+      "urdu": "اللہ نے دی ہے مجھ کو مشعل",
+      "english": "God has given me a torch;",
+      "verse": true
+    },
+    {
+      "urdu": "چمکا کے مجھے دِیا بنایا",
+      "english": "He made me shine and made me a lamp.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "جگنو کہتا ہے کہ اللہ نے مجھے روشنی دی ہے اور مجھے چمکتا ہوا چراغ بنایا ہے۔",
+        "english": "God has given the firefly a torch: He made it glow like a little lamp."
+      }
+    },
+    {
+      "urdu": "ہیں لوگ وہی جہاں میں اچھّے",
+      "english": "Those are the good people in the world",
+      "verse": true
+    },
+    {
+      "urdu": "آتے ہیں جو کام دوسرں کے",
+      "english": "who are of help to others.",
+      "verse": true,
+      "explanation": {
+        "urdu": "آخر میں سبق ہے کہ دنیا میں اچھے لوگ وہی ہیں جو دوسروں کے کام آتے ہیں اور ان کی مدد کرتے ہیں۔",
+        "english": "The moral: the good people in the world are those who help others. (The poem is Iqbal’s adaptation of William Cowper’s “The Nightingale and the Glow-worm”, though Cowper’s nightingale meant to eat the glow-worm.)"
+      }
+    }
+  ],
+  "glossary": {
+    "ٹہنی": [
+      "ṭehni",
+      "branch; twig"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "شجر": [
+      "shajar",
+      "tree (Arabic)"
+    ],
+    "تنہا": [
+      "tanha",
+      "alone"
+    ],
+    "بلبل": [
+      "bulbul",
+      "nightingale (here masculine)"
+    ],
+    "اداس": [
+      "udaas",
+      "sad"
+    ],
+    "بیٹھا": [
+      "baiṭha",
+      "sitting (m.)"
+    ],
+    "کہتا": [
+      "kehta",
+      "saying (m.) (“kehta tha” = was saying)"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "سر": [
+      "sar",
+      "head (“sar pe aana” = to be upon one)"
+    ],
+    "آئی": [
+      "aayi",
+      "came (f.)"
+    ],
+    "اڑنے": [
+      "uṛne",
+      "flying (oblique)"
+    ],
+    "چگنے": [
+      "chugne",
+      "pecking (for grain) (oblique)"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "گزارا": [
+      "guzaara",
+      "spent (time)"
+    ],
+    "پہنچوں": [
+      "pahunchoon",
+      "(shall) I reach"
+    ],
+    "کس": [
+      "kis",
+      "which; what (“kis tarah” = how)"
+    ],
+    "آشیاں": [
+      "aashiyaan",
+      "nest (poetic form of “aashiyaana”)"
+    ],
+    "چیز": [
+      "cheez",
+      "thing"
+    ],
+    "چھا": [
+      "chha",
+      "spread over (“chha gaya” = has covered)"
+    ],
+    "اندھیرا": [
+      "andhera",
+      "darkness"
+    ],
+    "سن": [
+      "sun",
+      "hear (“sun kar” = hearing)"
+    ],
+    "آہ": [
+      "aah",
+      "sigh (“aah-o-zaari” = sighs and cries)"
+    ],
+    "و": [
+      "o",
+      "and (Persian; “aah-o-zaari”, “jaan-o-dil”)"
+    ],
+    "زاری": [
+      "zaari",
+      "weeping; lament"
+    ],
+    "جگنو": [
+      "jugnoo",
+      "firefly"
+    ],
+    "پاس": [
+      "paas",
+      "near (“paas hi se” = from close by)"
+    ],
+    "بولا": [
+      "bola",
+      "spoke; said (m.)"
+    ],
+    "حاضر": [
+      "haazir",
+      "present; ready"
+    ],
+    "مدد": [
+      "madad",
+      "help"
+    ],
+    "جان": [
+      "jaan",
+      "soul; life (“jaan-o-dil se” = with heart and soul)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "کیڑا": [
+      "keeṛa",
+      "insect; bug"
+    ],
+    "اگرچہ": [
+      "agarchi",
+      "although"
+    ],
+    "مَیں": [
+      "main",
+      "I"
+    ],
+    "ذرا": [
+      "zara",
+      "tiny (“zara sa” = tiny)"
+    ],
+    "سا": [
+      "sa",
+      "like; -ish (“zara sa” = tiny)"
+    ],
+    "غم": [
+      "gham",
+      "worry; sorrow"
+    ],
+    "اندھیری": [
+      "andheri",
+      "dark (f.)"
+    ],
+    "راہ": [
+      "raah",
+      "way; path"
+    ],
+    "روشنی": [
+      "raushni",
+      "light"
+    ],
+    "کروں": [
+      "karoon",
+      "(I) will do (“karoon ga” = I will make)"
+    ],
+    "گا": [
+      "ga",
+      "will (future marker)"
+    ],
+    "اللہ": [
+      "allaah",
+      "God"
+    ],
+    "دی": [
+      "di",
+      "gave (f.)"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh ko” = to me)"
+    ],
+    "مشعل": [
+      "mashal",
+      "torch"
+    ],
+    "چمکا": [
+      "chamka",
+      "made shine (“chamka ke” = making (me) shine)"
+    ],
+    "مجھے": [
+      "mujhe",
+      "me"
+    ],
+    "دِیا": [
+      "diya",
+      "lamp"
+    ],
+    "بنایا": [
+      "banaaya",
+      "made"
+    ],
+    "لوگ": [
+      "log",
+      "people"
+    ],
+    "وہی": [
+      "wohi",
+      "those very; only those"
+    ],
+    "جہاں": [
+      "jahaan",
+      "the world"
+    ],
+    "اچھے": [
+      "achchhe",
+      "good"
+    ],
+    "آتے": [
+      "aate",
+      "come (“kaam aana” = to be of use)"
+    ],
+    "کام": [
+      "kaam",
+      "use; work (“kisi ke kaam aana” = to help someone)"
+    ],
+    "دوسرں": [
+      "doosron",
+      "others (pl. oblique; spelled “doosron” in standard Urdu)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "بلبل کیوں اداس تھا؟",
+      "english": "Why was the nightingale sad?",
+      "options": [
+        {
+          "urdu": "کیونکہ وہ بھوکا تھا",
+          "english": "because it was hungry"
+        },
+        {
+          "urdu": "کیونکہ رات ہو گئی تھی اور وہ گھونسلے تک نہیں پہنچ سکتا تھا",
+          "english": "because night had fallen and it couldn’t reach its nest"
+        },
+        {
+          "urdu": "کیونکہ اس کا دوست چلا گیا تھا",
+          "english": "because its friend had left"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "جگنو نے بلبل کی مدد کیسے کی؟",
+      "english": "How did the firefly help the nightingale?",
+      "options": [
+        {
+          "urdu": "راستے میں روشنی کر کے",
+          "english": "by lighting the way"
+        },
+        {
+          "urdu": "اسے کھانا دے کر",
+          "english": "by giving it food"
+        },
+        {
+          "urdu": "اسے گانا سنا کر",
+          "english": "by singing to it"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "نظم کے آخر میں اچھے لوگ کون بتائے گئے ہیں؟",
+      "english": "Who are called good people at the end of the poem?",
+      "options": [
+        {
+          "urdu": "جو امیر ہوں",
+          "english": "those who are rich"
+        },
+        {
+          "urdu": "جو طاقتور ہوں",
+          "english": "those who are powerful"
+        },
+        {
+          "urdu": "جو دوسروں کے کام آئیں",
+          "english": "those who help others"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

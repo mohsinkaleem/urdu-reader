@@ -1,0 +1,383 @@
+{
+  "id": "poem-faraz-ranjish-hi-sahi",
+  "title": {
+    "urdu": "رنجش ہی سہی دل ہی دکھانے کے لیے آ",
+    "english": "Come, Even If Only to Hurt Me"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "source": {
+    "name": "Rekhta: رنجش ہی سہی دل ہی دکھانے کے لیے آ",
+    "url": "https://www.rekhta.org/ghazals/ranjish-hii-sahii-dil-hii-dukhaane-ke-liye-aa-ahmad-faraz-ghazals?lang=ur",
+    "author": "Ahmad Faraz",
+    "license": "Personal use only"
+  },
+  "intro": "Ahmad Faraz (1931–2008) wrote this ghazal of a lover begging an estranged beloved to come back, even if only to hurt him or leave him again. Mehdi Hassan’s recording made it one of the best-known ghazals in Urdu, and Rekhta also lists versions by Farida Khanum, Runa Laila and Asha Bhosle among others. This is the complete ghazal.",
+  "sentences": [
+    {
+      "urdu": "رنجش ہی سہی دل ہی دکھانے کے لیے آ",
+      "english": "Even if it is in resentment — come, if only to hurt my heart;",
+      "verse": true
+    },
+    {
+      "urdu": "آ پھر سے مجھے چھوڑ کے جانے کے لیے آ",
+      "english": "come, if only to leave me once again.",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق کہتا ہے کہ چاہے ناراضی کے ساتھ آؤ، چاہے میرا دل دکھانے کے لیے آؤ، چاہے پھر چھوڑ کر جانے کے لیے آؤ، بس ایک بار آ جاؤ۔",
+        "english": "The lover says: come even in anger, even to hurt me, even to leave me again — just come once."
+      }
+    },
+    {
+      "urdu": "کچھ تو مرے پندار محبت کا بھرم رکھ",
+      "english": "Keep up at least a little of my pride in love;",
+      "verse": true
+    },
+    {
+      "urdu": "تو بھی تو کبھی مجھ کو منانے کے لیے آ",
+      "english": "you too, come sometime to make up with me.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبت میں عاشق کی بھی کچھ عزت ہوتی ہے۔ ہمیشہ میں ہی تمہیں مناتا رہا ہوں، کبھی تم بھی مجھے منانے آؤ تاکہ میری عزت رہ جائے۔",
+        "english": "A lover has his pride too. It is always he who makes up; let the beloved come to make up just once, so that his self-respect is spared."
+      }
+    },
+    {
+      "urdu": "پہلے سے مراسم نہ سہی پھر بھی کبھی تو",
+      "english": "Even if we are not as close as before, still, at least sometimes,",
+      "verse": true
+    },
+    {
+      "urdu": "رسم و رہ دنیا ہی نبھانے کے لیے آ",
+      "english": "come, if only to keep up the customs of the world.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اب ہمارے پہلے جیسے تعلقات نہیں رہے، پھر بھی دنیا کے رسم و رواج کی خاطر ہی کبھی کبھی مل لیا کرو۔",
+        "english": "We are no longer as close as we were, but come sometimes anyway, if only for the sake of social custom."
+      }
+    },
+    {
+      "urdu": "کس کس کو بتائیں گے جدائی کا سبب ہم",
+      "english": "How many people can I tell the reason we parted?",
+      "verse": true
+    },
+    {
+      "urdu": "تو مجھ سے خفا ہے تو زمانے کے لیے آ",
+      "english": "If you are angry with me, then come for the world’s sake.",
+      "verse": true,
+      "explanation": {
+        "urdu": "لوگ بار بار پوچھتے ہیں کہ تم الگ کیوں ہو گئے، اور میں کس کس کو جواب دوں۔ اگر تم مجھ سے ناراض ہو تو بھی لوگوں کو دکھانے کے لیے آ جاؤ۔",
+        "english": "People keep asking why the two of them split up, and he cannot explain it to everyone. Even if the beloved is angry with him, let her come for the sake of appearances."
+      }
+    },
+    {
+      "urdu": "اک عمر سے ہوں لذت گریہ سے بھی محروم",
+      "english": "For ages I have been denied even the comfort of tears;",
+      "verse": true
+    },
+    {
+      "urdu": "اے راحت جاں مجھ کو رلانے کے لیے آ",
+      "english": "O comfort of my soul, come, if only to make me cry.",
+      "verse": true,
+      "explanation": {
+        "urdu": "غم اتنا گہرا ہے کہ اب رونا بھی نہیں آتا۔ عاشق کہتا ہے کہ اے میری جان کے سکون، آ کر مجھے رلا دو تاکہ دل ہلکا ہو جائے۔",
+        "english": "The grief is so deep that even tears no longer come. The lover asks the comfort of his soul to come and make him cry, so that his heart can be lightened."
+      }
+    },
+    {
+      "urdu": "اب تک دل خوش فہم کو تجھ سے ہیں امیدیں",
+      "english": "Even now my hopeful, foolish heart has hopes of you;",
+      "verse": true
+    },
+    {
+      "urdu": "یہ آخری شمعیں بھی بجھانے کے لیے آ",
+      "english": "come, if only to put out these last candles too.",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق کا بھولا دل اب بھی امید رکھتا ہے کہ محبوب لوٹ آئے گا۔ وہ کہتا ہے کہ آ کر امید کی یہ آخری شمعیں بھی بجھا دو تاکہ انتظار ختم ہو جائے۔",
+        "english": "The lover’s naive heart still hopes the beloved will return. He asks her to come and put out these last candles of hope, so that the waiting can end."
+      }
+    }
+  ],
+  "glossary": {
+    "رنجش": [
+      "ranjish",
+      "resentment; ill feeling"
+    ],
+    "ہی": [
+      "hi",
+      "even; only (“ranjish hi sahi” = even if in resentment; “dil hi dukhaane” = if only to hurt)"
+    ],
+    "سہی": [
+      "sahi",
+      "so be it (“ranjish hi sahi” = let it be resentment; “na sahi” = even if not)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "دکھانے": [
+      "dukhaane",
+      "to hurt (“dil dukhaana” = to hurt someone’s feelings)"
+    ],
+    "کے": [
+      "ke",
+      "of (oblique) (“ke liye” = for, in order to); having (done) (“chhor ke” = after leaving)"
+    ],
+    "آ": [
+      "aa",
+      "come (command, intimate)"
+    ],
+    "پھر": [
+      "phir",
+      "again (“phir se” = once again); (“phir bhi” = even so)"
+    ],
+    "چھوڑ": [
+      "chhor",
+      "leave (“chhor ke jaana” = to leave and go)"
+    ],
+    "جانے": [
+      "jaane",
+      "to go"
+    ],
+    "کچھ": [
+      "kuchh",
+      "some (“kuchh to” = at least a little)"
+    ],
+    "تو": [
+      "to / tu",
+      "at least; then (emphasis) / you (intimate: “tu bhi” = you too)"
+    ],
+    "مرے": [
+      "mere",
+      "my (short poetic spelling of “mere”)"
+    ],
+    "پندار": [
+      "pindaar(-e)",
+      "pride; self-respect (“pindaar-e-mohabbat” = pride in love)"
+    ],
+    "محبت": [
+      "mohabbat",
+      "love"
+    ],
+    "بھرم": [
+      "bharam",
+      "appearance; dignity (“bharam rakhna” = to keep up someone’s dignity)"
+    ],
+    "رکھ": [
+      "rakh",
+      "keep (command, intimate)"
+    ],
+    "کبھی": [
+      "kabhi",
+      "sometime (“kabhi to” = at least sometimes)"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh ko” = me; “mujh se” = with me)"
+    ],
+    "منانے": [
+      "manaane",
+      "to win over; to make up with (“manaana” = to appease)"
+    ],
+    "پہلے": [
+      "pehle",
+      "before (“pehle se” = as before)"
+    ],
+    "مراسم": [
+      "maraasim",
+      "close ties; relations"
+    ],
+    "نہ": [
+      "na",
+      "not (“na sahi” = even if not)"
+    ],
+    "رسم": [
+      "rasm",
+      "custom (“rasm-o-rah-e-duniya” = the ways and customs of the world)"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "رہ": [
+      "rah(-e)",
+      "way; manner (short form of “raah”)"
+    ],
+    "دنیا": [
+      "duniya",
+      "the world"
+    ],
+    "نبھانے": [
+      "nibhaane",
+      "to keep up; to fulfil (a custom)"
+    ],
+    "کس": [
+      "kis",
+      "whom (“kis kis ko” = to how many people)"
+    ],
+    "بتائیں": [
+      "bataayen",
+      "tell (“bataayen ge” = will tell)"
+    ],
+    "گے": [
+      "ge",
+      "will (future marker, pl.)"
+    ],
+    "جدائی": [
+      "judaai",
+      "separation; parting"
+    ],
+    "سبب": [
+      "sabab",
+      "reason; cause"
+    ],
+    "ہم": [
+      "hum",
+      "we; I (poets often say “hum” for “I”)"
+    ],
+    "خفا": [
+      "khafa",
+      "angry; upset"
+    ],
+    "زمانے": [
+      "zamaane",
+      "the world; people (oblique) (“zamaane ke liye” = for the world’s sake)"
+    ],
+    "اک": [
+      "ik",
+      "one; a (short form of “ek”) (“ik umr se” = for ages)"
+    ],
+    "عمر": [
+      "umr",
+      "lifetime; age"
+    ],
+    "ہوں": [
+      "hoon",
+      "(I) am"
+    ],
+    "لذت": [
+      "lazzat(-e)",
+      "pleasure; relish (“lazzat-e-girya” = the relief of weeping)"
+    ],
+    "گریہ": [
+      "girya",
+      "weeping"
+    ],
+    "محروم": [
+      "mehroom",
+      "deprived (of)"
+    ],
+    "اے": [
+      "ai",
+      "O (calling out)"
+    ],
+    "راحت": [
+      "raahat(-e)",
+      "comfort (“raahat-e-jaan” = comfort of my soul, my darling)"
+    ],
+    "جاں": [
+      "jaan",
+      "soul; life (poetic short spelling of “jaan”)"
+    ],
+    "رلانے": [
+      "rulaane",
+      "to make (someone) cry"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab tak” = still, even now)"
+    ],
+    "تک": [
+      "tak",
+      "until (“ab tak” = still)"
+    ],
+    "خوش": [
+      "khush",
+      "happy (“khush-fahm” = believing what one wishes, naively hopeful)"
+    ],
+    "فہم": [
+      "fahm",
+      "understanding (“khush-fahm” = naively hopeful)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (intimate) (“tujh se” = from you)"
+    ],
+    "امیدیں": [
+      "ummeeden",
+      "hopes (pl.)"
+    ],
+    "آخری": [
+      "aakhri",
+      "last"
+    ],
+    "شمعیں": [
+      "shamaen",
+      "candles (pl.)"
+    ],
+    "بجھانے": [
+      "bujhaane",
+      "to put out; to extinguish"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "عاشق محبوب کو کس لیے بلا رہا ہے؟",
+      "english": "Why is the lover calling the beloved?",
+      "options": [
+        {
+          "urdu": "کیونکہ اسے پیسوں کی ضرورت ہے",
+          "english": "because he needs money"
+        },
+        {
+          "urdu": "چاہے دل دکھانے یا پھر چھوڑ جانے کے لیے ہی سہی، بس وہ ایک بار آ جائے",
+          "english": "even if only to hurt him or leave him again — he just wants her to come once"
+        },
+        {
+          "urdu": "تاکہ وہ اس سے بدلہ لے سکے",
+          "english": "so that he can take revenge"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "عاشق زمانے کی بات کیوں کرتا ہے؟",
+      "english": "Why does the lover bring up “the world”?",
+      "options": [
+        {
+          "urdu": "کیونکہ لوگ جدائی کی وجہ پوچھتے ہیں اور وہ سب کو جواب نہیں دے سکتا",
+          "english": "because people ask why they parted and he cannot answer them all"
+        },
+        {
+          "urdu": "کیونکہ وہ دنیا کی سیر کرنا چاہتا ہے",
+          "english": "because he wants to travel the world"
+        },
+        {
+          "urdu": "کیونکہ وہ لوگوں سے ناراض ہے",
+          "english": "because he is angry with people"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "آخری شعر میں “آخری شمعیں” کس چیز کی علامت ہیں؟",
+      "english": "In the last couplet, what do “the last candles” stand for?",
+      "options": [
+        {
+          "urdu": "گھر کی روشنی",
+          "english": "the lights of the house"
+        },
+        {
+          "urdu": "سالگرہ کی موم بتیاں",
+          "english": "birthday candles"
+        },
+        {
+          "urdu": "محبوب سے دل کی آخری امیدیں",
+          "english": "the heart’s last hopes of the beloved"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

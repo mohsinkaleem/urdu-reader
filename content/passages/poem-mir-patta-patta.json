@@ -1,0 +1,455 @@
+{
+  "id": "poem-mir-patta-patta",
+  "title": {
+    "urdu": "پتا پتا بوٹا بوٹا حال ہمارا جانے ہے",
+    "english": "Every Leaf, Every Plant Knows My State"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["love", "ghazal"],
+  "source": {
+    "name": "Urdu Wikisource: پتا پتا بوٹا بوٹا حال ہمارا جانے ہے (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D9%BE%D8%AA%D8%A7_%D9%BE%D8%AA%D8%A7_%D8%A8%D9%88%D9%B9%D8%A7_%D8%A8%D9%88%D9%B9%D8%A7_%D8%AD%D8%A7%D9%84_%DB%81%D9%85%D8%A7%D8%B1%D8%A7_%D8%AC%D8%A7%D9%86%DB%92_%DB%81%DB%92",
+    "author": "Mir Taqi Mir",
+    "license": "Public domain"
+  },
+  "intro": "A ghazal by Mir Taqi Mir (1723–1810) in the old Delhi idiom (“jaane hai” for “jaanta hai”): the whole garden knows the lover’s sorrow, except the rose — the beloved. These are the opening six of its seven couplets.",
+  "sentences": [
+    {
+      "urdu": "پتا پتا بوٹا بوٹا حال ہمارا جانے ہے",
+      "english": "Every leaf, every plant knows my condition;",
+      "verse": true
+    },
+    {
+      "urdu": "جانے نہ جانے گل ہی نہ جانے باغ تو سارا جانے ہے",
+      "english": "whether it knows or not — only the rose does not know; the whole garden knows.",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق کا حال سب جانتے ہیں، باغ کا ہر پتا اور ہر پودا بھی۔ صرف پھول یعنی محبوب اس سے بےخبر ہے۔",
+        "english": "Everyone knows the lover's state, even every leaf and plant in the garden. Only the rose — the beloved — is unaware of it."
+      }
+    },
+    {
+      "urdu": "آگے اس متکبر کے ہم خدا خدا کیا کرتے ہیں",
+      "english": "Before that proud one I keep calling on God;",
+      "verse": true
+    },
+    {
+      "urdu": "کب موجود خدا کو وہ مغرور خودآرا جانے ہے",
+      "english": "but when does that vain, self-adoring one even admit that God exists?",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق محبوب کے سامنے بار بار خدا کا واسطہ دیتا ہے۔ مگر مغرور محبوب تو خدا کو بھی نہیں مانتا، اس لیے اس پر کوئی اثر نہیں ہوتا۔",
+        "english": "The lover keeps appealing to the beloved in the name of God. But the proud beloved does not even acknowledge God, so it has no effect."
+      }
+    },
+    {
+      "urdu": "عاشق سا تو سادہ کوئی اور نہ ہوگا دنیا میں",
+      "english": "There can be no one in the world as simple as a lover:",
+      "verse": true
+    },
+    {
+      "urdu": "جی کے زیاں کو عشق میں اس کے، اپنا وارا جانے ہے",
+      "english": "he counts losing his life in love for the beloved as his own gain.",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق بہت بھولا ہوتا ہے۔ محبوب کے عشق میں جان بھی چلی جائے تو وہ اسے اپنا فائدہ سمجھتا ہے۔",
+        "english": "A lover is very innocent: even if he loses his life for love, he considers it a gain."
+      }
+    },
+    {
+      "urdu": "چارہ گری بیماریء دل کی رسمِ شہرِ حسن نہیں",
+      "english": "Healing the sickness of the heart is not the custom in the city of beauty;",
+      "verse": true
+    },
+    {
+      "urdu": "ورنہ دلبر ناداں بھی اس درد کا چارا جانے ہے",
+      "english": "otherwise even the naive beloved knows the remedy for this pain.",
+      "verse": true,
+      "explanation": {
+        "urdu": "حسینوں کی دنیا میں عاشق کے دل کا علاج کرنے کا رواج نہیں۔ ورنہ بھولا محبوب بھی جانتا ہے کہ اس درد کی دوا کیا ہے۔",
+        "english": "In the world of the beautiful it is not the custom to heal a lover's heart. Otherwise even the innocent beloved knows the cure for this pain."
+      }
+    },
+    {
+      "urdu": "مہر و وفا و لطف و عنایت ایک سے واقف ان میں نہیں",
+      "english": "Love, faithfulness, kindness and favour — the beloved knows not one of these;",
+      "verse": true
+    },
+    {
+      "urdu": "اور تو سب کچھ طنز و کنایہ رمز و اشارا جانے ہے",
+      "english": "but everything else — taunts and innuendo, hints and signals — the beloved knows.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب محبت، وفا اور مہربانی میں سے کچھ نہیں جانتا۔ ہاں، طعنے دینا اور اشاروں میں بات کرنا اسے خوب آتا ہے۔",
+        "english": "The beloved knows nothing of love, loyalty or kindness, but is very good at taunts and at speaking in hints."
+      }
+    },
+    {
+      "urdu": "عاشق تو مردہ ہے ہمیشہ جی اٹھتا ہے دیکھے اسے",
+      "english": "The lover is always as good as dead; he comes back to life on seeing the beloved;",
+      "verse": true
+    },
+    {
+      "urdu": "یار کے آ جانے کو یکا یک عمر دوبارا جانے ہے",
+      "english": "he takes the beloved's sudden arrival as a second life.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جدائی میں عاشق مردے کی طرح رہتا ہے۔ جب محبوب اچانک آ جائے تو وہ اسے نئی زندگی سمجھتا ہے۔",
+        "english": "Apart from the beloved, the lover lives like a dead man. When the beloved suddenly arrives, he feels it as a new life."
+      }
+    }
+  ],
+  "glossary": {
+    "پتا": [
+      "patta",
+      "leaf (“patta patta” = every single leaf)"
+    ],
+    "بوٹا": [
+      "boota",
+      "plant; shrub (“boota boota” = every single plant)"
+    ],
+    "حال": [
+      "haal",
+      "state; condition"
+    ],
+    "ہمارا": [
+      "hamaara",
+      "our; my (poetic “hum” = I)"
+    ],
+    "جانے": [
+      "jaane",
+      "knows (old Delhi form: “jaane hai” = jaanta hai; “jaane na jaane” = whether or not (one) knows); also in “aa jaane” = arriving"
+    ],
+    "گل": [
+      "gul",
+      "rose; flower (here: the beloved)"
+    ],
+    "باغ": [
+      "baagh",
+      "garden"
+    ],
+    "تو": [
+      "to",
+      "indeed; as for (emphasis)"
+    ],
+    "سارا": [
+      "saara",
+      "whole; entire"
+    ],
+    "آگے": [
+      "aage",
+      "in front of (“us ke aage” = before that one)"
+    ],
+    "اس": [
+      "us / is",
+      "that (oblique), the beloved (“us ke” = the beloved’s) / this (“is dard” = this pain)"
+    ],
+    "متکبر": [
+      "mutakabbir",
+      "proud; arrogant (person)"
+    ],
+    "ہم": [
+      "hum",
+      "we; I (poets often say “hum” for “I”)"
+    ],
+    "خدا": [
+      "khuda",
+      "God (“khuda khuda karna” = to keep calling on God)"
+    ],
+    "کیا": [
+      "kiya",
+      "did (“kiya karte hain” = keep on doing, habitually)"
+    ],
+    "کرتے": [
+      "karte",
+      "do (pl.)"
+    ],
+    "کب": [
+      "kab",
+      "when (here rhetorical: “kab … jaane hai” = when does (he) ever …? i.e. never)"
+    ],
+    "موجود": [
+      "maujood",
+      "existing; present"
+    ],
+    "مغرور": [
+      "maghroor",
+      "proud; vain"
+    ],
+    "خودآرا": [
+      "khud-aara",
+      "self-adorning; vain about one’s looks"
+    ],
+    "عاشق": [
+      "aashiq",
+      "lover"
+    ],
+    "سا": [
+      "sa",
+      "like; as (“aashiq sa” = like a lover)"
+    ],
+    "سادہ": [
+      "saada",
+      "simple; guileless"
+    ],
+    "کوئی": [
+      "koi",
+      "anyone (“koi aur” = anyone else)"
+    ],
+    "اور": [
+      "aur",
+      "other, else (“koi aur” = anyone else; “aur to sab kuchh” = everything else)"
+    ],
+    "ہوگا": [
+      "hoga",
+      "will be; can be"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "میں": [
+      "mein",
+      "in; among"
+    ],
+    "جی": [
+      "ji",
+      "life; soul (“ji ka ziyaan” = loss of life; “ji uthna” = to come back to life)"
+    ],
+    "زیاں": [
+      "ziyaan",
+      "loss; harm"
+    ],
+    "عشق": [
+      "ishq",
+      "love; passion"
+    ],
+    "اپنا": [
+      "apna",
+      "one’s own"
+    ],
+    "وارا": [
+      "waara",
+      "gain; profit; advantage"
+    ],
+    "چارہ": [
+      "chaara",
+      "remedy (“chaara-gari” = healing)"
+    ],
+    "گری": [
+      "gari",
+      "the work of (“chaara-gari” = healing, curing)"
+    ],
+    "بیماریء": [
+      "beemaari-e",
+      "illness (of …) (izafat written with hamza)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "رسمِ": [
+      "rasm-e",
+      "custom (of …)"
+    ],
+    "شہرِ": [
+      "shehr-e",
+      "city (of …)"
+    ],
+    "حسن": [
+      "husn",
+      "beauty"
+    ],
+    "دلبر": [
+      "dilbar",
+      "beloved (literally “heart-stealer”)"
+    ],
+    "ناداں": [
+      "naadaan",
+      "naive; innocent"
+    ],
+    "درد": [
+      "dard",
+      "pain"
+    ],
+    "چارا": [
+      "chaara",
+      "remedy; cure (= “chaara”, spelled with alif for the rhyme)"
+    ],
+    "مہر": [
+      "mehr",
+      "love; affection"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "وفا": [
+      "wafa",
+      "faithfulness; loyalty"
+    ],
+    "لطف": [
+      "lutf",
+      "kindness; grace"
+    ],
+    "عنایت": [
+      "inaayat",
+      "favour; kindness"
+    ],
+    "ایک": [
+      "ek",
+      "one (“ek se waaqif nahin” = knows not one)"
+    ],
+    "واقف": [
+      "waaqif",
+      "acquainted; familiar (with)"
+    ],
+    "ان": [
+      "un",
+      "those (oblique) (“un mein” = among them)"
+    ],
+    "کچھ": [
+      "kuchh",
+      "something (“sab kuchh” = everything)"
+    ],
+    "طنز": [
+      "tanz",
+      "taunt; sarcasm"
+    ],
+    "کنایہ": [
+      "kinaaya",
+      "innuendo; indirect remark"
+    ],
+    "رمز": [
+      "ramz",
+      "hint; secret sign"
+    ],
+    "اشارا": [
+      "ishaara",
+      "signal; gesture (= “ishaara”, spelled with alif for the rhyme)"
+    ],
+    "مردہ": [
+      "murda",
+      "dead"
+    ],
+    "ہمیشہ": [
+      "hamesha",
+      "always"
+    ],
+    "اٹھتا": [
+      "uthta",
+      "rises (“ji uthta hai” = comes back to life)"
+    ],
+    "دیکھے": [
+      "dekhe",
+      "on seeing (older form: “dekhe use” = on seeing the beloved)"
+    ],
+    "اسے": [
+      "use",
+      "him / her (the beloved)"
+    ],
+    "یار": [
+      "yaar",
+      "beloved; friend"
+    ],
+    "آ": [
+      "aa",
+      "come (“aa jaana” = to arrive)"
+    ],
+    "یکا": [
+      "yakaa",
+      "suddenly (in “yakaa-yak”)"
+    ],
+    "یک": [
+      "yak",
+      "suddenly (in “yakaa-yak”)"
+    ],
+    "عمر": [
+      "umr",
+      "life; lifetime (“umr-e-dobaara” = a second life)"
+    ],
+    "دوبارا": [
+      "dobaara",
+      "second; again (= “dobaara”, spelled with alif for the rhyme)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "باغ میں کون شاعر کا حال نہیں جانتا؟",
+      "english": "Who in the garden does not know the poet's state?",
+      "options": [
+        {
+          "urdu": "ہر پتا",
+          "english": "every leaf"
+        },
+        {
+          "urdu": "ہر بوٹا",
+          "english": "every plant"
+        },
+        {
+          "urdu": "پھول، یعنی محبوب",
+          "english": "the rose, i.e. the beloved"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "شاعر عاشق کو سادہ کیوں کہتا ہے؟",
+      "english": "Why does the poet call the lover simple?",
+      "options": [
+        {
+          "urdu": "کیونکہ وہ محبوب کے لیے جان جانے کو بھی اپنا فائدہ سمجھتا ہے",
+          "english": "because he thinks even losing his life for the beloved is a gain"
+        },
+        {
+          "urdu": "کیونکہ وہ سادہ کپڑے پہنتا ہے",
+          "english": "because he wears plain clothes"
+        },
+        {
+          "urdu": "کیونکہ وہ پڑھنا نہیں جانتا",
+          "english": "because he cannot read"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "محبوب کیا چیز خوب جانتا ہے؟",
+      "english": "What is the beloved good at?",
+      "options": [
+        {
+          "urdu": "وفا اور مہربانی",
+          "english": "loyalty and kindness"
+        },
+        {
+          "urdu": "طعنے اور اشارے",
+          "english": "taunts and hints"
+        },
+        {
+          "urdu": "دل کی بیماری کا علاج",
+          "english": "healing the sickness of the heart"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "محبوب کے اچانک آ جانے کو عاشق کیا سمجھتا ہے؟",
+      "english": "How does the lover see the beloved's sudden arrival?",
+      "options": [
+        {
+          "urdu": "ایک خواب",
+          "english": "a dream"
+        },
+        {
+          "urdu": "ایک مصیبت",
+          "english": "a misfortune"
+        },
+        {
+          "urdu": "دوسری زندگی",
+          "english": "a second life"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

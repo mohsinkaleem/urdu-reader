@@ -1,0 +1,736 @@
+{
+  "id": "poem-iqbal-gaye-aur-bakri-1",
+  "title": {
+    "urdu": "ایک گائے اور بکری",
+    "english": "A Cow and a Goat"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["children", "nature", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: ایک گائے اور بکری (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%A7%DB%8C%DA%A9_%DA%AF%D8%A7%D8%A6%DB%92_%D8%A7%D9%88%D8%B1_%D8%A8%DA%A9%D8%B1%DB%8C",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "From the first part of Iqbal’s Bang-e-Dara (1924), among the poems he wrote for children: a fable in rhyming couplets. In this first part a goat meets a cow in a green pasture, and the cow pours out her complaints against man.",
+  "series": {
+    "id": "poem-iqbal-gaye-aur-bakri",
+    "title": "A Cow and a Goat",
+    "part": 1,
+    "of": 2
+  },
+  "sentences": [
+    {
+      "urdu": "اک چراگہ ہری بھری تھی کہیں",
+      "english": "Somewhere there was a lush green pasture,",
+      "verse": true
+    },
+    {
+      "urdu": "تھی سراپا بہار جس کی زمیں",
+      "english": "whose ground was springtime from end to end.",
+      "verse": true
+    },
+    {
+      "urdu": "کیا سماں اُس بہار کا ہو بیاں",
+      "english": "How can the scene of that spring be described!",
+      "verse": true
+    },
+    {
+      "urdu": "ہر طرف صاف ندّیاں تھیں رواں",
+      "english": "Clear streams were flowing everywhere.",
+      "verse": true,
+      "explanation": {
+        "urdu": "کہیں ایک ہری بھری چراگاہ تھی جہاں ہر طرف بہار تھی اور صاف پانی کی ندیاں بہہ رہی تھیں۔",
+        "english": "The poem opens with a lush pasture in full spring, with clear streams flowing everywhere."
+      }
+    },
+    {
+      "urdu": "تھے اناروں کے بے شمار درخت",
+      "english": "There were countless pomegranate trees",
+      "verse": true
+    },
+    {
+      "urdu": "اور پیپل کے سایہ دار درخت",
+      "english": "and shady peepal trees.",
+      "verse": true
+    },
+    {
+      "urdu": "ٹھنڈی ٹھنڈی ہوائیں آتی تھیں",
+      "english": "Cool, cool breezes would blow,",
+      "verse": true
+    },
+    {
+      "urdu": "طائروں کی صدائیں آتی تھیں",
+      "english": "and the voices of birds could be heard.",
+      "verse": true,
+      "explanation": {
+        "urdu": "وہاں انار اور پیپل کے بہت سے درخت تھے، ٹھنڈی ہوا چلتی تھی اور پرندوں کی آوازیں آتی تھیں۔",
+        "english": "There were many pomegranate and shady peepal trees, cool breezes and birdsong — a picture of peace and plenty."
+      }
+    },
+    {
+      "urdu": "کسی ندّی کے پاس اک بکری",
+      "english": "Near a stream a goat,",
+      "verse": true
+    },
+    {
+      "urdu": "چَرتے چَرتے کہیں سے آ نکلی",
+      "english": "grazing along, turned up from somewhere.",
+      "verse": true
+    },
+    {
+      "urdu": "جب ٹھہر کر اِدھر اُدھر دیکھا",
+      "english": "When she stopped and looked this way and that,",
+      "verse": true
+    },
+    {
+      "urdu": "پاس اک گائے کو کھڑے پایا",
+      "english": "she found a cow standing nearby.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ایک بکری چرتے چرتے ندی کے پاس آئی اور اس نے دیکھا کہ قریب ہی ایک گائے کھڑی ہے۔",
+        "english": "A goat, grazing as she went, came to a stream and saw a cow standing nearby."
+      }
+    },
+    {
+      "urdu": "پہلے جھُک کر اُسے سلام کیا",
+      "english": "First she bowed and greeted her,",
+      "verse": true
+    },
+    {
+      "urdu": "پھر سلیقے سے یوں کلام کیا",
+      "english": "then spoke to her politely like this:",
+      "verse": true
+    },
+    {
+      "urdu": "کیوں بڑی بی! مزاج کیسے ہیں",
+      "english": "“Well, dear lady! How are you keeping?”",
+      "verse": true
+    },
+    {
+      "urdu": "گائے بولی کہ خیر اچھّے ہیں",
+      "english": "The cow said, “Oh, well enough.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بکری نے ادب سے سلام کیا اور گائے کا حال پوچھا۔ گائے نے بے دلی سے کہا کہ ٹھیک ہوں۔",
+        "english": "The goat greets the cow respectfully and asks how she is. The cow answers half-heartedly, “Well enough.”"
+      }
+    },
+    {
+      "urdu": "کٹ رہی ہے بُری بھلی اپنی",
+      "english": "My life is getting by, for better or worse;",
+      "verse": true
+    },
+    {
+      "urdu": "ہے مصیبت میں زندگی اپنی",
+      "english": "my life is full of trouble.",
+      "verse": true
+    },
+    {
+      "urdu": "جان پر آ بنی ہے، کیا کہیے",
+      "english": "My very life is at stake — what can I say!",
+      "verse": true
+    },
+    {
+      "urdu": "اپنی قِسمت بُری ہے، کیا کہیے",
+      "english": "My luck is bad — what can I say!",
+      "verse": true,
+      "explanation": {
+        "urdu": "گائے شکایت کرتی ہے کہ اس کی زندگی مصیبت میں گزر رہی ہے اور اس کی قسمت خراب ہے۔",
+        "english": "The cow starts complaining: her life is a misery and her luck is bad."
+      }
+    },
+    {
+      "urdu": "دیکھتی ہوں خدا کی شان کو مَیں",
+      "english": "I look on at God’s ways,",
+      "verse": true
+    },
+    {
+      "urdu": "رو رہی ہوں بُروں کی جان کو مَیں",
+      "english": "and weep and curse the wicked.",
+      "verse": true
+    },
+    {
+      "urdu": "زور چلتا نہیں غریبوں کا",
+      "english": "The poor have no power;",
+      "verse": true
+    },
+    {
+      "urdu": "پیش آیا لِکھا نصیبوں کا",
+      "english": "what was written in my fate has come to pass.",
+      "verse": true,
+      "explanation": {
+        "urdu": "گائے کہتی ہے کہ میں ظالموں کو رو رہی ہوں۔ غریبوں کا کوئی زور نہیں چلتا، جو قسمت میں لکھا تھا وہی ہوا۔",
+        "english": "She laments the cruelty of the powerful: the weak have no say, and she must accept what fate has written. (“Kisi ki jaan ko rona” means to curse or lament someone who torments you.)"
+      }
+    },
+    {
+      "urdu": "آدمی سے کوئی بھلا نہ کرے",
+      "english": "Let no one ever do a kindness to man;",
+      "verse": true
+    },
+    {
+      "urdu": "اس سے پالا پڑے، خدا نہ کرے",
+      "english": "God forbid anyone should have to deal with him!",
+      "verse": true,
+      "explanation": {
+        "urdu": "گائے کہتی ہے کہ انسان کے ساتھ کبھی بھلائی نہ کرو، اللہ کسی کا اس سے واسطہ نہ ڈالے۔",
+        "english": "The cow says no one should do good to man — God forbid anyone should have to deal with him."
+      }
+    },
+    {
+      "urdu": "دُودھ کم دوں تو بڑبڑاتا ہے",
+      "english": "If I give less milk, he grumbles;",
+      "verse": true
+    },
+    {
+      "urdu": "ہوں جو دُبلی تو بیچ کھاتا ہے",
+      "english": "if I grow thin, he sells me off for money.",
+      "verse": true
+    },
+    {
+      "urdu": "ہتھکنڈوں سے غلام کرتا ہے",
+      "english": "With his tricks he makes us his slaves;",
+      "verse": true
+    },
+    {
+      "urdu": "کِن فریبوں سے رام کرتا ہے",
+      "english": "with what deceptions he tames us!",
+      "verse": true,
+      "explanation": {
+        "urdu": "گائے کہتی ہے کہ دودھ کم ہو تو انسان ناراض ہوتا ہے اور کمزور ہو جاؤں تو مجھے بیچ دیتا ہے۔ وہ چالاکی سے ہمیں غلام بناتا ہے۔",
+        "english": "She lists man’s faults: he grumbles when she gives less milk, sells her when she grows thin, and tames animals by trickery."
+      }
+    },
+    {
+      "urdu": "اس کے بچوں کو پالتی ہوں مَیں",
+      "english": "I raise his children;",
+      "verse": true
+    },
+    {
+      "urdu": "دُودھ سے جان ڈالتی ہوں مَیں",
+      "english": "with my milk I put life into them.",
+      "verse": true
+    },
+    {
+      "urdu": "بدلے نیکی کے یہ بُرائی ہے",
+      "english": "In return for kindness, this cruelty!",
+      "verse": true
+    },
+    {
+      "urdu": "میرے اللہ! تری دُہائی ہے",
+      "english": "O my God, I cry out to You for justice!”",
+      "verse": true,
+      "explanation": {
+        "urdu": "میں انسان کے بچوں کو اپنا دودھ پلا کر پالتی ہوں، اور اس نیکی کا بدلہ مجھے برائی سے ملتا ہے۔ اے اللہ! انصاف کر۔",
+        "english": "She feeds man’s children with her milk, yet is repaid with cruelty — and she cries out to God for justice."
+      }
+    }
+  ],
+  "glossary": {
+    "اک": [
+      "ik",
+      "a; one (short form of “ek”)"
+    ],
+    "چراگہ": [
+      "charaagah",
+      "pasture; meadow (poetic form of “charaagaah”)"
+    ],
+    "ہری": [
+      "hari",
+      "green (f.)"
+    ],
+    "بھری": [
+      "bhari",
+      "full (f.) (“hari bhari” = lush, green)"
+    ],
+    "کہیں": [
+      "kahin",
+      "somewhere"
+    ],
+    "سراپا": [
+      "saraapa",
+      "from head to toe; entirely"
+    ],
+    "بہار": [
+      "bahaar",
+      "spring; bloom"
+    ],
+    "جس": [
+      "jis",
+      "whose; which (“jis ki” = whose)"
+    ],
+    "زمیں": [
+      "zameen",
+      "ground; earth (poetic form of “zameen”)"
+    ],
+    "کیا": [
+      "kya",
+      "what; how (exclamation)"
+    ],
+    "سماں": [
+      "samaan",
+      "scene; spectacle"
+    ],
+    "اُس": [
+      "us",
+      "that; she; he (oblique)"
+    ],
+    "بیاں": [
+      "bayaan",
+      "description (“bayaan ho” = could be described)"
+    ],
+    "طرف": [
+      "taraf",
+      "side; direction (“har taraf” = everywhere)"
+    ],
+    "صاف": [
+      "saaf",
+      "clear; clean"
+    ],
+    "ندیاں": [
+      "nadiyaan",
+      "streams; rivers (pl.)"
+    ],
+    "تھیں": [
+      "theen",
+      "were (f. pl.)"
+    ],
+    "رواں": [
+      "rawaan",
+      "flowing; moving"
+    ],
+    "اناروں": [
+      "anaaron",
+      "pomegranates (pl. oblique)"
+    ],
+    "بے": [
+      "be",
+      "without (“be-shumaar” = countless; “be-zabaan” = dumb, voiceless; “be-maza” = unpleasant)"
+    ],
+    "شمار": [
+      "shumaar",
+      "counting (“be-shumaar” = countless)"
+    ],
+    "درخت": [
+      "darakht",
+      "trees; tree"
+    ],
+    "پیپل": [
+      "peepal",
+      "peepal tree (sacred fig)"
+    ],
+    "سایہ": [
+      "saaya",
+      "shade (“saaya-daar” = shady)"
+    ],
+    "دار": [
+      "daar",
+      "having (“saaya-daar” = shady)"
+    ],
+    "ٹھنڈی": [
+      "ṭhanḍi",
+      "cool (f.)"
+    ],
+    "ہوائیں": [
+      "hawaaen",
+      "breezes; winds (pl.)"
+    ],
+    "آتی": [
+      "aati",
+      "came (habitual, f.) (“aati theen” = would come)"
+    ],
+    "طائروں": [
+      "taairon",
+      "birds (pl. oblique; Arabic)"
+    ],
+    "صدائیں": [
+      "sadaaen",
+      "voices; sounds (pl.)"
+    ],
+    "ندی": [
+      "nadi",
+      "stream; small river"
+    ],
+    "بکری": [
+      "bakri",
+      "goat (f.)"
+    ],
+    "چرتے": [
+      "charte",
+      "grazing (“charte charte” = while grazing along)"
+    ],
+    "آ": [
+      "aa",
+      "come (“aa nikli” = turned up)"
+    ],
+    "نکلی": [
+      "nikli",
+      "came out; turned up (f.)"
+    ],
+    "ٹھہر": [
+      "ṭhehar",
+      "stop (“ṭhehar kar” = stopping)"
+    ],
+    "اِدھر": [
+      "idhar",
+      "here; this way (“idhar udhar” = here and there)"
+    ],
+    "اُدھر": [
+      "udhar",
+      "there; that way (“idhar udhar” = here and there)"
+    ],
+    "دیکھا": [
+      "dekha",
+      "looked; saw"
+    ],
+    "گائے": [
+      "gaaye",
+      "cow (f.)"
+    ],
+    "کھڑے": [
+      "khaṛe",
+      "standing"
+    ],
+    "پایا": [
+      "paaya",
+      "found"
+    ],
+    "پہلے": [
+      "pehle",
+      "first"
+    ],
+    "جھک": [
+      "jhuk",
+      "bow (“jhuk kar” = bowing)"
+    ],
+    "اسے": [
+      "use",
+      "her; him; it"
+    ],
+    "سلام": [
+      "salaam",
+      "greeting"
+    ],
+    "سلیقے": [
+      "saleeqe",
+      "politeness; good manners (“saleeqe se” = politely)"
+    ],
+    "یوں": [
+      "yoon",
+      "like this; thus"
+    ],
+    "کلام": [
+      "kalaam",
+      "speech (“kalaam kiya” = spoke)"
+    ],
+    "کیوں": [
+      "kyoon",
+      "well; why (here a friendly opener)"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big; elder (“baṛi bi” = dear lady, madam)"
+    ],
+    "بی": [
+      "bi",
+      "lady (“baṛi bi” = madam)"
+    ],
+    "مزاج": [
+      "mizaaj",
+      "temper; health (“mizaaj kaise hain” = how are you?)"
+    ],
+    "کیسے": [
+      "kaise",
+      "how"
+    ],
+    "بولی": [
+      "boli",
+      "said (f.)"
+    ],
+    "کہ": [
+      "keh",
+      "or (“A keh B” = A or B); that"
+    ],
+    "خیر": [
+      "khair",
+      "well (“khair achchhe hain” = oh, fine)"
+    ],
+    "اچھے": [
+      "achchhe",
+      "good; fine"
+    ],
+    "کٹ": [
+      "kaṭ",
+      "pass (“kaṭ rahi hai” = (life) is passing)"
+    ],
+    "بری": [
+      "buri",
+      "bad (f.) (“buri bhali” = somehow, for better or worse)"
+    ],
+    "بھلی": [
+      "bhali",
+      "good (f.) (“buri bhali” = somehow; “bhali” = better)"
+    ],
+    "مصیبت": [
+      "museebat",
+      "trouble; misfortune"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "جان": [
+      "jaan",
+      "life (“jaan par aa bani” = life is at stake; “jaan ko rona” = to curse; “jaan ḍaalna” = to put life into)"
+    ],
+    "بنی": [
+      "bani",
+      "came to pass (“jaan par aa bani” = my life is at stake)"
+    ],
+    "کہیے": [
+      "kahiye",
+      "(can one) say (“kya kahiye” = what can one say!)"
+    ],
+    "قسمت": [
+      "qismat",
+      "luck; fate"
+    ],
+    "دیکھتی": [
+      "dekhti",
+      "look on at (f.)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "شان": [
+      "shaan",
+      "ways; glory (“khuda ki shaan” = God’s strange ways)"
+    ],
+    "مَیں": [
+      "main",
+      "I"
+    ],
+    "رو": [
+      "ro",
+      "weep (“ro rahi hoon” = am weeping)"
+    ],
+    "بروں": [
+      "buron",
+      "the wicked (pl. oblique)"
+    ],
+    "زور": [
+      "zor",
+      "force; power (“zor nahin chalta” = have no power)"
+    ],
+    "چلتا": [
+      "chalta",
+      "works; prevails"
+    ],
+    "غریبوں": [
+      "ghareebon",
+      "the poor; the weak (pl. oblique)"
+    ],
+    "پیش": [
+      "pesh",
+      "before (“pesh aaya” = happened, came to pass)"
+    ],
+    "آیا": [
+      "aaya",
+      "came"
+    ],
+    "لکھا": [
+      "likha",
+      "what is written"
+    ],
+    "نصیبوں": [
+      "naseebon",
+      "fate; destiny (pl. oblique)"
+    ],
+    "آدمی": [
+      "aadmi",
+      "man; humankind"
+    ],
+    "کوئی": [
+      "koi",
+      "anyone; no one (with “na”)"
+    ],
+    "بھلا": [
+      "bhala",
+      "good; kindness"
+    ],
+    "کرے": [
+      "kare",
+      "(should) do"
+    ],
+    "اس": [
+      "is",
+      "this; him (oblique)"
+    ],
+    "پالا": [
+      "paala",
+      "contact (“paala paṛna” = to have to deal with)"
+    ],
+    "پڑے": [
+      "paṛe",
+      "(should) befall (“paala paṛe” = should have to deal with)"
+    ],
+    "دودھ": [
+      "doodh",
+      "milk"
+    ],
+    "کم": [
+      "kam",
+      "less"
+    ],
+    "دوں": [
+      "doon",
+      "(if I) give"
+    ],
+    "بڑبڑاتا": [
+      "baṛbaṛaata",
+      "grumbles; mutters"
+    ],
+    "دبلی": [
+      "dubli",
+      "thin (f.)"
+    ],
+    "بیچ": [
+      "bech",
+      "sell (“bech khaana” = sell off for profit)"
+    ],
+    "کھاتا": [
+      "khaata",
+      "eats (“bech khaata hai” = sells off)"
+    ],
+    "ہتھکنڈوں": [
+      "hathkanḍon",
+      "tricks; ploys (pl. oblique)"
+    ],
+    "غلام": [
+      "ghulaam",
+      "slave (“ghulaam karna” = to enslave)"
+    ],
+    "کرتا": [
+      "karta",
+      "does; makes (m.)"
+    ],
+    "کن": [
+      "kin",
+      "which; what (pl. oblique)"
+    ],
+    "فریبوں": [
+      "farebon",
+      "deceptions (pl. oblique)"
+    ],
+    "رام": [
+      "raam",
+      "tame; obedient (“raam karna” = to tame)"
+    ],
+    "بچوں": [
+      "bachchon",
+      "children (pl. oblique)"
+    ],
+    "پالتی": [
+      "paalti",
+      "raise; rear (f.)"
+    ],
+    "ڈالتی": [
+      "ḍaalti",
+      "put (f.) (“jaan ḍaalna” = to give life)"
+    ],
+    "بدلے": [
+      "badle",
+      "in return (“neki ke badle” = in return for kindness)"
+    ],
+    "نیکی": [
+      "neki",
+      "kindness; good deed"
+    ],
+    "برائی": [
+      "buraai",
+      "evil; cruelty"
+    ],
+    "میرے": [
+      "mere",
+      "my"
+    ],
+    "اللہ": [
+      "allaah",
+      "God"
+    ],
+    "تری": [
+      "tiri",
+      "Your (poetic form of “teri”)"
+    ],
+    "دہائی": [
+      "duhaai",
+      "cry for justice (“teri duhaai hai” = I appeal to You)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "چراگاہ کیسی تھی؟",
+      "english": "What was the pasture like?",
+      "options": [
+        {
+          "urdu": "سوکھی اور ویران",
+          "english": "dry and deserted"
+        },
+        {
+          "urdu": "برف سے ڈھکی ہوئی",
+          "english": "covered in snow"
+        },
+        {
+          "urdu": "ہری بھری، ندیوں اور درختوں والی",
+          "english": "lush and green, with streams and trees"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "گائے کس کی شکایت کرتی ہے؟",
+      "english": "Whom does the cow complain about?",
+      "options": [
+        {
+          "urdu": "انسان کی",
+          "english": "man"
+        },
+        {
+          "urdu": "بکری کی",
+          "english": "the goat"
+        },
+        {
+          "urdu": "شیر کی",
+          "english": "the lion"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "گائے کے مطابق جب وہ دبلی ہو جاتی ہے تو انسان کیا کرتا ہے؟",
+      "english": "According to the cow, what does man do when she grows thin?",
+      "options": [
+        {
+          "urdu": "اسے زیادہ کھانا دیتا ہے",
+          "english": "gives her more food"
+        },
+        {
+          "urdu": "اسے بیچ دیتا ہے",
+          "english": "sells her off"
+        },
+        {
+          "urdu": "اسے جنگل میں چھوڑ دیتا ہے",
+          "english": "leaves her in the forest"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

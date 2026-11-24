@@ -1,0 +1,504 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-3",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 3)",
+    "english": "Jawab-e-Shikwa, part 3"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Part 3 of Iqbal’s “Jawab-e-Shikwa” (1913), stanzas 7–9. God turns the complaint back on the Muslims: the idol-breakers’ sons have become idol-makers, they called God “fickle” though He was once their beloved, and they find dawn prayers and the Ramadan fast too heavy a burden.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 3,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "ہاتھ بے زور ہیں، الحاد سے دل خوگر ہیں",
+      "english": "Your hands are powerless, your hearts accustomed to unbelief;",
+      "verse": true
+    },
+    {
+      "urdu": "اُمّتی باعثِ رُسوائیِ پیغمبرؐ ہیں",
+      "english": "the Prophet’s followers have become a cause of disgrace to him.",
+      "verse": true
+    },
+    {
+      "urdu": "بُت شکن اٹھ گئے، باقی جو رہے بُت گر ہیں",
+      "english": "The idol-breakers have departed; those who remain are idol-makers.",
+      "verse": true
+    },
+    {
+      "urdu": "تھا براہیم پدر اور پِسر آزر ہیں",
+      "english": "The father was Abraham, and the sons are Azars.",
+      "verse": true
+    },
+    {
+      "urdu": "بادہ آشام نئے، بادہ نیا، خُم بھی نئے",
+      "english": "The wine-drinkers are new, the wine is new, the wine-jars too are new;",
+      "verse": true
+    },
+    {
+      "urdu": "حَرمِ کعبہ نیا، بُت بھی نئے، تُم بھی نئے",
+      "english": "the sanctuary of the Kaaba is new, the idols are new, and you too are new.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ فرماتا ہے کہ آج کے مسلمانوں کے ہاتھوں میں طاقت نہیں اور دل بے دینی کے عادی ہو گئے ہیں۔ بت توڑنے والے بزرگ چلے گئے، اب ان کی اولاد نئے بت بنا رہی ہے؛ باپ ابراہیمؑ جیسے تھے اور بیٹے آزر جیسے ہیں۔ سب کچھ بدل گیا ہے، یہاں تک کہ تم بھی نئے ہو گئے ہو۔",
+        "english": "God says today’s Muslims have no strength in their hands and their hearts are used to unbelief, so they bring disgrace on the Prophet. The idol-breakers of old are gone and their descendants carve new idols: the forefathers were like Abraham, who smashed idols, the sons like Azar, Abraham’s idol-making father. Everything has changed – drinkers, wine, jars, even the Kaaba with its new idols – and the Muslims themselves are no longer what they were."
+      }
+    },
+    {
+      "urdu": "وہ بھی دن تھے کہ یہی مایۂ رعنائی تھا",
+      "english": "There were days when this very one was the source of all beauty:",
+      "verse": true
+    },
+    {
+      "urdu": "نازشِ موسمِ گُل لالۂ صحرائی تھا",
+      "english": "the desert tulip was the pride of springtime.",
+      "verse": true
+    },
+    {
+      "urdu": "جو مسلمان تھا، اللہ کا سودائی تھا",
+      "english": "Whoever was a Muslim was madly in love with God;",
+      "verse": true
+    },
+    {
+      "urdu": "کبھی محبوب تمھارا یہی ہرجائی تھا",
+      "english": "this very “fickle one” was once your beloved.",
+      "verse": true
+    },
+    {
+      "urdu": "کسی یکجائی سے اب عہدِ غلامی کر لو",
+      "english": "Now go and pledge your servitude to some beloved who stays in one place;",
+      "verse": true
+    },
+    {
+      "urdu": "ملّتِ احمدِؐ مرسَل کو مقامی کر لو!",
+      "english": "make the community of Ahmad the Messenger a local one!",
+      "verse": true,
+      "explanation": {
+        "urdu": "ایک زمانہ تھا جب عرب کا مسلمان، جسے صحرا کا لالہ کہا گیا ہے، دنیا کی شان تھا اور ہر مسلمان اللہ کا عاشق تھا۔ شکوے میں تم نے اللہ کو ہرجائی کہا، حالانکہ وہی کبھی تمھارا محبوب تھا۔ اب طنز سے کہا گیا ہے کہ کسی ایک جگہ والے محبوب کی غلامی کر لو اور اسلام کی عالمی ملت کو مقامی بنا لو۔",
+        "english": "Once the “desert tulip” – the early Muslim of Arabia – was the pride of the season, and every Muslim was madly devoted to God. In “Shikwa” the poet had called God “harjaai”, a fickle lover who favours others; God answers that this same “fickle one” was once their beloved. With bitter irony He says: then pledge yourselves to some beloved who stays in one place, and shrink the Prophet’s worldwide community into a local, territorial one – Iqbal’s criticism of nationalism based on territory."
+      }
+    },
+    {
+      "urdu": "کس قدر تم پہ گراں صبح کی بیداری ہے",
+      "english": "How heavy it is for you to wake at dawn!",
+      "verse": true
+    },
+    {
+      "urdu": "ہم سے کب پیار ہے! ہاں نیند تمھیں پیاری ہے",
+      "english": "When do you love Us? Yes – sleep is what is dear to you.",
+      "verse": true
+    },
+    {
+      "urdu": "طبعِ آزاد پہ قیدِ رمَضاں بھاری ہے",
+      "english": "The restraint of Ramadan weighs heavily on your free nature;",
+      "verse": true
+    },
+    {
+      "urdu": "تمھی کہہ دو، یہی آئینِ وفاداری ہے؟",
+      "english": "tell Me yourselves: is this the law of faithfulness?",
+      "verse": true
+    },
+    {
+      "urdu": "قوم مذہب سے ہے، مذہب جو نہیں، تم بھی نہیں",
+      "english": "A nation exists through its religion; if religion is gone, you are gone too.",
+      "verse": true
+    },
+    {
+      "urdu": "جذبِ باہم جو نہیں، محفلِ انجم بھی نہیں",
+      "english": "If there is no mutual attraction, there is no gathering of stars either.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ فرماتا ہے کہ تمھیں صبح اٹھ کر نماز پڑھنا بھاری لگتا ہے اور رمضان کے روزے تم پر بوجھ ہیں۔ تمھیں ہم سے نہیں، نیند سے پیار ہے۔ قوم مذہب سے بنتی ہے؛ جیسے ستارے آپس کی کشش سے جڑے ہیں، ویسے ہی مذہب نہ رہا تو تم بھی نہ رہو گے۔",
+        "english": "Waking at dawn for the Fajr prayer is a burden to them, and the discipline of the Ramadan fast weighs on their “free” nature – is that faithfulness? They love sleep, not God. A nation exists through its faith: just as the stars hold together by mutual attraction (gravity), a community without religion will fall apart."
+      }
+    }
+  ],
+  "glossary": {
+    "ہاتھ": [
+      "haath",
+      "hands"
+    ],
+    "بے": [
+      "be",
+      "without (“be-zor” = powerless)"
+    ],
+    "زور": [
+      "zor",
+      "strength"
+    ],
+    "الحاد": [
+      "ilhaad",
+      "unbelief; heresy"
+    ],
+    "دل": [
+      "dil",
+      "hearts"
+    ],
+    "خوگر": [
+      "khoogar",
+      "accustomed; used to (“ilhaad se khoogar” = used to unbelief)"
+    ],
+    "اُمّتی": [
+      "ummati",
+      "followers of the Prophet; members of the Ummah"
+    ],
+    "باعثِ": [
+      "baais-e",
+      "cause of"
+    ],
+    "رُسوائیِ": [
+      "ruswaai-e",
+      "disgrace of"
+    ],
+    "پیغمبرؐ": [
+      "paighambar",
+      "the Prophet (ﷺ)"
+    ],
+    "بُت": [
+      "but",
+      "idol (“but-shikan” = idol-breaker; “but-gar” = idol-maker)"
+    ],
+    "شکن": [
+      "shikan",
+      "breaker (suffix: “but-shikan” = idol-breaker)"
+    ],
+    "اٹھ": [
+      "uṭh",
+      "rise (“uṭh gaye” = have departed; have passed away)"
+    ],
+    "گر": [
+      "gar",
+      "maker (suffix: “but-gar” = idol-maker)"
+    ],
+    "براہیم": [
+      "baraaheem",
+      "Abraham (poetic form of “Ibraheem”)"
+    ],
+    "پدر": [
+      "pidar",
+      "father (Persian)"
+    ],
+    "پِسر": [
+      "pisar",
+      "son(s) (Persian)"
+    ],
+    "آزر": [
+      "aazar",
+      "Azar, Abraham’s father, a maker of idols"
+    ],
+    "بادہ": [
+      "baada",
+      "wine (“baada-aashaam” = wine-drinker)"
+    ],
+    "آشام": [
+      "aashaam",
+      "drinker (suffix: “baada-aashaam” = wine-drinker)"
+    ],
+    "نئے": [
+      "naye",
+      "new (pl.)"
+    ],
+    "نیا": [
+      "naya",
+      "new"
+    ],
+    "خُم": [
+      "khum",
+      "wine-jar(s)"
+    ],
+    "حَرمِ": [
+      "haram-e",
+      "sanctuary of (“haram-e kaaba” = the sacred precinct of the Kaaba)"
+    ],
+    "کعبہ": [
+      "kaaba",
+      "the Kaaba in Mecca"
+    ],
+    "تُم": [
+      "tum",
+      "you (pl.)"
+    ],
+    "تم": [
+      "tum",
+      "you (pl.)"
+    ],
+    "دن": [
+      "din",
+      "days"
+    ],
+    "مایۂ": [
+      "maaya-e",
+      "source of; wealth of (“maaya-e raanaai” = source of beauty)"
+    ],
+    "رعنائی": [
+      "raanaai",
+      "beauty; grace"
+    ],
+    "نازشِ": [
+      "naazish-e",
+      "pride of"
+    ],
+    "موسمِ": [
+      "mausam-e",
+      "season of (“mausam-e gul” = the season of roses, spring)"
+    ],
+    "گُل": [
+      "gul",
+      "rose; flower"
+    ],
+    "لالۂ": [
+      "laala-e",
+      "tulip (“laala-e sahraai” = the desert tulip, i.e. the early Arab Muslim)"
+    ],
+    "صحرائی": [
+      "sahraai",
+      "of the desert"
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslim"
+    ],
+    "اللہ": [
+      "allaah",
+      "God"
+    ],
+    "سودائی": [
+      "saudaai",
+      "madly in love; obsessed"
+    ],
+    "کبھی": [
+      "kabhi",
+      "once; at one time"
+    ],
+    "محبوب": [
+      "mehboob",
+      "beloved"
+    ],
+    "تمھارا": [
+      "tumhaara",
+      "your"
+    ],
+    "ہرجائی": [
+      "harjaai",
+      "fickle one; unfaithful lover (what “Shikwa” called God)"
+    ],
+    "یکجائی": [
+      "yakjaai",
+      "one who stays in one place; a constant (local) beloved"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "عہدِ": [
+      "ahd-e",
+      "pledge of (“ahd-e ghulaami” = pledge of servitude)"
+    ],
+    "غلامی": [
+      "ghulaami",
+      "slavery; servitude"
+    ],
+    "لو": [
+      "lo",
+      "take (“kar lo” = go ahead and make)"
+    ],
+    "ملّتِ": [
+      "millat-e",
+      "community of (“millat-e ahmad” = the Prophet’s community)"
+    ],
+    "احمدِؐ": [
+      "ahmad-e",
+      "Ahmad, a name of the Prophet (ﷺ) (“ahmad-e mursal” = Ahmad the Messenger)"
+    ],
+    "مرسَل": [
+      "mursal",
+      "sent (by God); the Messenger"
+    ],
+    "مقامی": [
+      "maqaami",
+      "local"
+    ],
+    "کس": [
+      "kis",
+      "how (“kis qadar” = how very)"
+    ],
+    "قدر": [
+      "qadar",
+      "extent (“kis qadar” = how very)"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "گراں": [
+      "giraan",
+      "heavy; burdensome"
+    ],
+    "بیداری": [
+      "bedaari",
+      "waking; wakefulness"
+    ],
+    "ہم": [
+      "ham",
+      "We (God speaking)"
+    ],
+    "کب": [
+      "kab",
+      "when (“kab pyaar hai!” = when do you love?! – you don’t)"
+    ],
+    "پیار": [
+      "pyaar",
+      "love"
+    ],
+    "ہاں": [
+      "haan",
+      "yes; indeed"
+    ],
+    "نیند": [
+      "neend",
+      "sleep"
+    ],
+    "تمھیں": [
+      "tumhen",
+      "to you"
+    ],
+    "پیاری": [
+      "pyaari",
+      "dear (f.)"
+    ],
+    "طبعِ": [
+      "tab-e",
+      "temperament (“tab-e aazaad” = a free nature)"
+    ],
+    "آزاد": [
+      "aazaad",
+      "free"
+    ],
+    "قیدِ": [
+      "qaid-e",
+      "restraint of; confinement"
+    ],
+    "رمَضاں": [
+      "ramazaan",
+      "Ramadan, the month of fasting"
+    ],
+    "بھاری": [
+      "bhaari",
+      "heavy"
+    ],
+    "تمھی": [
+      "tumhi",
+      "you yourselves"
+    ],
+    "کہہ": [
+      "keh",
+      "say (“keh do” = tell (Me))"
+    ],
+    "دو": [
+      "do",
+      "give (“keh do” = say it, tell)"
+    ],
+    "آئینِ": [
+      "aaeen-e",
+      "law of; rule of"
+    ],
+    "وفاداری": [
+      "wafaadaari",
+      "faithfulness; loyalty"
+    ],
+    "قوم": [
+      "qaum",
+      "nation; community"
+    ],
+    "مذہب": [
+      "mazhab",
+      "religion"
+    ],
+    "جذبِ": [
+      "jazb-e",
+      "attraction (“jazb-e baaham” = mutual attraction)"
+    ],
+    "باہم": [
+      "baaham",
+      "mutual; together"
+    ],
+    "محفلِ": [
+      "mehfil-e",
+      "gathering of"
+    ],
+    "انجم": [
+      "anjum",
+      "stars"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "“بت شکن اٹھ گئے” سے کیا مراد ہے؟",
+      "english": "What is meant by “the idol-breakers have departed”?",
+      "options": [
+        {
+          "urdu": "پرانے سچے مسلمان، جو بت توڑتے تھے، اب نہیں رہے",
+          "english": "The true Muslims of old, who broke idols, are gone"
+        },
+        {
+          "urdu": "بت خود ٹوٹ کر گر گئے",
+          "english": "The idols broke and fell by themselves"
+        },
+        {
+          "urdu": "بت بنانے والے شہر چھوڑ گئے",
+          "english": "The idol-makers left the city"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر نے “شکوہ” میں اللہ کو کیا کہا تھا جس کا یہاں جواب دیا گیا ہے؟",
+      "english": "What had the poet called God in “Shikwa”, which is answered here?",
+      "options": [
+        {
+          "urdu": "سودائی",
+          "english": "Madly in love"
+        },
+        {
+          "urdu": "مقامی",
+          "english": "Local"
+        },
+        {
+          "urdu": "ہرجائی",
+          "english": "Fickle"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "اللہ کے مطابق قوم کس چیز سے قائم رہتی ہے؟",
+      "english": "According to God, what does a nation exist through?",
+      "options": [
+        {
+          "urdu": "دولت سے",
+          "english": "Wealth"
+        },
+        {
+          "urdu": "مذہب سے",
+          "english": "Religion"
+        },
+        {
+          "urdu": "نیند سے",
+          "english": "Sleep"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

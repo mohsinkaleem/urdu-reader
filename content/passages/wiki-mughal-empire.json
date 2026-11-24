@@ -1,0 +1,518 @@
+{
+  "id": "wiki-mughal-empire",
+  "title": {
+    "urdu": "مغلیہ سلطنت",
+    "english": "The Mughal Empire"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "source": {
+    "name": "Urdu Wikipedia: مغلیہ سلطنت",
+    "url": "https://ur.wikipedia.org/wiki/%D9%85%D8%BA%D9%84%DB%8C%DB%81_%D8%B3%D9%84%D8%B7%D9%86%D8%AA",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "The opening of the Urdu Wikipedia article on the Mughal Empire (1526–1857): how Babur founded it, how far it reached under Aurangzeb, how it declined, and how it supported the arts. Sentences 4 and 5 are really one sentence that the source splits with a stray full stop.",
+  "sentences": [
+    {
+      "urdu": "مغلیہ سلطنت 1526ء سے 1857ء تک برصغیر پر حکومت کرنے والی ایک مسلم سلطنت تھی، جس کی بنیاد ظہیر الدین بابر نے 1526ء میں پہلی جنگ پانی پت میں دہلی سلطنت کے آخری سلطان ابراہیم لودھی کو شکست دے کر رکھی تھی۔",
+      "english": "The Mughal Empire was a Muslim empire that ruled the subcontinent from 1526 to 1857. Zahir-ud-Din Babur founded it in 1526 by defeating Ibrahim Lodi, the last sultan of the Delhi Sultanate, at the First Battle of Panipat."
+    },
+    {
+      "urdu": "مغلیہ سلطنت اپنے عروج میں تقریباً پورے برصغیر پر حکومت کرتی تھی، یعنی موجودہ دور کے افغانستان، پاکستان، بھارت اور بنگلہ دیش کے ممالک پر مشتمل خطے پر ان کا دور دورہ تھا۔",
+      "english": "At its height the Mughal Empire ruled almost the whole subcontinent. In other words, it held sway over a region made up of the present-day countries of Afghanistan, Pakistan, India and Bangladesh."
+    },
+    {
+      "urdu": "مغل سلطنت کی بنیاد 1526ء میں بابر نے رکھی، جو آج کے ازبکستان سے ایک سردار تھا، جس نے ہمسایہ صفوی سلطنت اور سلطنت عثمانیہ سے ہندوستان پر حملہ کے لیے مدد لی۔",
+      "english": "The Mughal Empire was founded in 1526 by Babur, a chieftain from present-day Uzbekistan, who got help from the neighbouring Safavid Empire and the Ottoman Empire for his invasion of India."
+    },
+    {
+      "urdu": "مغل شاہی ڈھانچہ بابر سے شروع ہوتا ہے۔",
+      "english": "The Mughal imperial structure begins with Babur…"
+    },
+    {
+      "urdu": "اور 1720ء تک قائم رہا۔",
+      "english": "…and it lasted until 1720."
+    },
+    {
+      "urdu": "مغل سلطنت کے آخری طاقتور شہنشاہ، اورنگ زیب کے دور حکومت میں سلطنت نے اپنی زیادہ سے زیادہ جغرافیائی حد تک رسائی حاصل کی۔",
+      "english": "In the reign of Aurangzeb, the last powerful Mughal emperor, the empire reached its greatest geographical extent."
+    },
+    {
+      "urdu": "اس کے بعد 1760ء تک پرانی دہلی اور اس کے آس پاس کے علاقے میں کمی واقع ہوئی، سلطنت کو 1857 کے ہندوستانی بغاوت کے بعد برطانوی راج نے باضابطہ طور پر تحلیل کر دیا۔",
+      "english": "After that, by 1760 it had shrunk to Old Delhi and the area around it (literally “a decline took place”). After the Indian Rebellion of 1857 the British Raj formally dissolved the empire."
+    },
+    {
+      "urdu": "17ویں صدی میں بحر ہند میں بڑھتی ہوئی یورپی موجودگی اور ہندوستانی خام اور تیار مصنوعات کی بڑھتی ہوئی مانگ نے مغل دربار کے لیے بہت زیادہ دولت پیدا کی۔",
+      "english": "In the 17th century, the growing European presence in the Indian Ocean and the growing demand for Indian raw and finished goods created great wealth for the Mughal court."
+    },
+    {
+      "urdu": "مغل دور میں مصوری، ادبی شکلوں، پارچہ اور فن تعمیر کی زیادہ سرپرستی ہوئی، خاص طور پر شاہ جہاں کے دور حکومت میں۔",
+      "english": "In the Mughal period, painting, literary forms, textiles and architecture received a great deal of patronage, especially in the reign of Shah Jahan."
+    }
+  ],
+  "glossary": {
+    "مغلیہ": [
+      "mughliya",
+      "Mughal (adj.) (“mughliya saltanat” = the Mughal Empire)"
+    ],
+    "سلطنت": [
+      "saltanat",
+      "empire; sultanate (f.)"
+    ],
+    "1526ء": [
+      "1526 eesvi",
+      "1526 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1857ء": [
+      "1857 eesvi",
+      "1857 CE"
+    ],
+    "1720ء": [
+      "1720 eesvi",
+      "1720 CE"
+    ],
+    "1760ء": [
+      "1760 eesvi",
+      "1760 CE"
+    ],
+    "17ویں": [
+      "satrahveen",
+      "17th"
+    ],
+    "برصغیر": [
+      "bar-e-sagheer",
+      "the (Indian) subcontinent"
+    ],
+    "حکومت": [
+      "hukoomat",
+      "rule; government (“hukoomat karna” = to rule; “daur-e-hukoomat” = reign)"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (oblique infinitive) (“hukoomat karne waali” = which ruled)"
+    ],
+    "والی": [
+      "waali",
+      "one who does (f.) (“hukoomat karne waali” = ruling)"
+    ],
+    "مسلم": [
+      "muslim",
+      "Muslim (adj.)"
+    ],
+    "بنیاد": [
+      "buniyaad",
+      "foundation (“buniyaad rakhna” = to found)"
+    ],
+    "ظہیر": [
+      "zaheer",
+      "Zahir (part of the name Zahir-ud-Din Babur)"
+    ],
+    "الدین": [
+      "ud-deen",
+      "-ud-Din, “of the faith” (part of the name)"
+    ],
+    "بابر": [
+      "baabar",
+      "Babur, founder of the Mughal Empire"
+    ],
+    "پہلی": [
+      "pehli",
+      "first (f.) (“pehli jang-e-paani pat” = the First Battle of Panipat)"
+    ],
+    "جنگ": [
+      "jang",
+      "war; battle (f.)"
+    ],
+    "پانی": [
+      "paani",
+      "Pani (part of the place name Panipat)"
+    ],
+    "پت": [
+      "pat",
+      "-pat (part of the place name Panipat)"
+    ],
+    "دہلی": [
+      "dehli",
+      "Delhi (“dehli saltanat” = the Delhi Sultanate)"
+    ],
+    "آخری": [
+      "aakhri",
+      "last"
+    ],
+    "سلطان": [
+      "sultaan",
+      "sultan"
+    ],
+    "ابراہیم": [
+      "ibraaheem",
+      "Ibrahim (Ibrahim Lodi)"
+    ],
+    "لودھی": [
+      "lodhi",
+      "Lodi (the dynasty that ruled Delhi before the Mughals)"
+    ],
+    "شکست": [
+      "shikast",
+      "defeat (“shikast dena” = to defeat)"
+    ],
+    "دے": [
+      "de",
+      "giving (“shikast de kar” = having defeated)"
+    ],
+    "رکھی": [
+      "rakhi",
+      "laid; placed (f.) (“buniyaad rakhi thi” = had founded)"
+    ],
+    "عروج": [
+      "urooj",
+      "peak; height (of power) (“apne urooj mein” = at its height)"
+    ],
+    "تقریباً": [
+      "taqreeban",
+      "almost; approximately"
+    ],
+    "پورے": [
+      "poore",
+      "whole; entire (oblique)"
+    ],
+    "کرتی": [
+      "karti",
+      "used to do (f.) (“hukoomat karti thi” = ruled)"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; in other words"
+    ],
+    "موجودہ": [
+      "maujooda",
+      "present; present-day"
+    ],
+    "دور": [
+      "daur",
+      "era; period; reign (“maujooda daur” = the present day; “daur daura” = sway, dominance)"
+    ],
+    "دورہ": [
+      "daura",
+      "round (“daur daura” = sway; dominance)"
+    ],
+    "افغانستان": [
+      "afghaanistaan",
+      "Afghanistan"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "بھارت": [
+      "bhaarat",
+      "India (the modern state)"
+    ],
+    "بنگلہ": [
+      "bangla",
+      "Bangla (“bangla desh” = Bangladesh)"
+    ],
+    "دیش": [
+      "desh",
+      "country (“bangla desh” = Bangladesh)"
+    ],
+    "ممالک": [
+      "mamaalik",
+      "countries (Arabic pl. of “mulk”)"
+    ],
+    "مشتمل": [
+      "mushtamil",
+      "consisting (“par mushtamil” = made up of)"
+    ],
+    "خطے": [
+      "khitte",
+      "region (oblique)"
+    ],
+    "مغل": [
+      "mughal",
+      "Mughal"
+    ],
+    "ازبکستان": [
+      "uzbekistaan",
+      "Uzbekistan"
+    ],
+    "سردار": [
+      "sardaar",
+      "chief; chieftain"
+    ],
+    "ہمسایہ": [
+      "hamsaaya",
+      "neighbouring; neighbour"
+    ],
+    "صفوی": [
+      "safawi",
+      "Safavid (the dynasty of Iran)"
+    ],
+    "عثمانیہ": [
+      "usmaaniya",
+      "Ottoman (“saltanat-e-usmaaniya” = the Ottoman Empire)"
+    ],
+    "ہندوستان": [
+      "hindustaan",
+      "India; Hindustan (the subcontinent before 1947)"
+    ],
+    "حملہ": [
+      "hamla",
+      "attack; invasion"
+    ],
+    "مدد": [
+      "madad",
+      "help"
+    ],
+    "لی": [
+      "li",
+      "took (f.) (“madad li” = got help)"
+    ],
+    "شاہی": [
+      "shaahi",
+      "royal; imperial"
+    ],
+    "ڈھانچہ": [
+      "ḍhaancha",
+      "structure; framework"
+    ],
+    "شروع": [
+      "shuroo",
+      "beginning (“shuroo hona” = to begin)"
+    ],
+    "قائم": [
+      "qaaim",
+      "established; standing (“qaaim raha” = lasted)"
+    ],
+    "طاقتور": [
+      "taaqatwar",
+      "powerful"
+    ],
+    "شہنشاہ": [
+      "shahanshaah",
+      "emperor"
+    ],
+    "اورنگ": [
+      "aurang",
+      "Aurang- (part of the name Aurangzeb)"
+    ],
+    "زیب": [
+      "zeb",
+      "-zeb (part of the name Aurangzeb)"
+    ],
+    "جغرافیائی": [
+      "jughraafiyaai",
+      "geographical"
+    ],
+    "حد": [
+      "had",
+      "limit; extent (“zyaada se zyaada had” = greatest extent)"
+    ],
+    "رسائی": [
+      "rasaai",
+      "reach; access (“had tak rasaai haasil ki” = reached the extent)"
+    ],
+    "حاصل": [
+      "haasil",
+      "gained (“haasil karna” = to gain, to achieve)"
+    ],
+    "پرانی": [
+      "puraani",
+      "old (f.) (“puraani dehli” = Old Delhi)"
+    ],
+    "آس": [
+      "aas",
+      "(“aas paas” = around; the surroundings)"
+    ],
+    "علاقے": [
+      "ilaaqe",
+      "area (oblique)"
+    ],
+    "کمی": [
+      "kami",
+      "decrease; decline"
+    ],
+    "واقع": [
+      "waaqe",
+      "occurring (“kami waaqe hui” = a decline took place)"
+    ],
+    "ہندوستانی": [
+      "hindustaani",
+      "Indian"
+    ],
+    "بغاوت": [
+      "baghaawat",
+      "rebellion; uprising (f.)"
+    ],
+    "برطانوی": [
+      "bartaanvi",
+      "British"
+    ],
+    "راج": [
+      "raaj",
+      "rule (“bartaanvi raaj” = the British Raj)"
+    ],
+    "باضابطہ": [
+      "baa-zaabita",
+      "formal; official"
+    ],
+    "طور": [
+      "taur",
+      "manner (“baa-zaabita taur par” = formally; “khaas taur par” = especially)"
+    ],
+    "تحلیل": [
+      "tehleel",
+      "dissolution (“tehleel kar dena” = to dissolve)"
+    ],
+    "صدی": [
+      "sadi",
+      "century"
+    ],
+    "بحر": [
+      "behr",
+      "ocean (“behr-e-hind” = the Indian Ocean)"
+    ],
+    "ہند": [
+      "hind",
+      "India (“behr-e-hind” = the Indian Ocean)"
+    ],
+    "بڑھتی": [
+      "baṛhti",
+      "growing (f.) (“baṛhti hui” = growing, increasing)"
+    ],
+    "یورپی": [
+      "yoorpi",
+      "European"
+    ],
+    "موجودگی": [
+      "maujoodgi",
+      "presence"
+    ],
+    "خام": [
+      "khaam",
+      "raw"
+    ],
+    "تیار": [
+      "tayyaar",
+      "ready; finished (“tayyaar masnooaat” = finished goods)"
+    ],
+    "مصنوعات": [
+      "masnooaat",
+      "products; manufactured goods"
+    ],
+    "مانگ": [
+      "maang",
+      "demand (f.)"
+    ],
+    "دربار": [
+      "darbaar",
+      "royal court"
+    ],
+    "دولت": [
+      "daulat",
+      "wealth (f.)"
+    ],
+    "پیدا": [
+      "paida",
+      "created (“paida karna” = to create, to generate)"
+    ],
+    "مصوری": [
+      "musawwiri",
+      "painting (the art)"
+    ],
+    "ادبی": [
+      "adabi",
+      "literary"
+    ],
+    "شکلوں": [
+      "shaklon",
+      "forms (pl. oblique)"
+    ],
+    "پارچہ": [
+      "paarcha",
+      "textiles; cloth"
+    ],
+    "فن": [
+      "fan",
+      "art (“fan-e-taameer” = architecture)"
+    ],
+    "تعمیر": [
+      "taameer",
+      "building (“fan-e-taameer” = architecture)"
+    ],
+    "سرپرستی": [
+      "sarparasti",
+      "patronage (“sarparasti hui” = was patronised)"
+    ],
+    "خاص": [
+      "khaas",
+      "special (“khaas taur par” = especially)"
+    ],
+    "شاہ": [
+      "shaah",
+      "king; Shah (“shaah jahaan” = Shah Jahan)"
+    ],
+    "جہاں": [
+      "jahaan",
+      "world; Jahan (part of the name Shah Jahan)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "مغلیہ سلطنت کی بنیاد کس نے رکھی؟",
+      "english": "Who founded the Mughal Empire?",
+      "options": [
+        {
+          "urdu": "اورنگ زیب",
+          "english": "Aurangzeb"
+        },
+        {
+          "urdu": "بابر",
+          "english": "Babur"
+        },
+        {
+          "urdu": "شاہ جہاں",
+          "english": "Shah Jahan"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "کس بادشاہ کے دور میں سلطنت سب سے زیادہ پھیلی؟",
+      "english": "Under which ruler did the empire reach its largest size?",
+      "options": [
+        {
+          "urdu": "اورنگ زیب",
+          "english": "Aurangzeb"
+        },
+        {
+          "urdu": "ابراہیم لودھی",
+          "english": "Ibrahim Lodi"
+        },
+        {
+          "urdu": "بابر",
+          "english": "Babur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "سترہویں صدی میں مغل دربار کو بہت دولت کیسے ملی؟",
+      "english": "How did the Mughal court become so wealthy in the 17th century?",
+      "options": [
+        {
+          "urdu": "زمین سے سونا نکلنے سے",
+          "english": "Gold was found in the ground"
+        },
+        {
+          "urdu": "عثمانی سلطنت کی مدد سے",
+          "english": "With help from the Ottoman Empire"
+        },
+        {
+          "urdu": "ہندوستانی مصنوعات کی مانگ بڑھنے سے",
+          "english": "Demand for Indian goods grew"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

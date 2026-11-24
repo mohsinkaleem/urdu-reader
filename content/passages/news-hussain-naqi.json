@@ -1,0 +1,536 @@
+{
+  "id": "news-hussain-naqi",
+  "title": {
+    "urdu": "حسین نقی: وہ صحافی جو ہر دور میں جیل گیا",
+    "english": "Hussain Naqi: the journalist jailed under every government"
+  },
+  "category": "news",
+  "level": "medium",
+  "tags": ["people", "politics"],
+  "source": {
+    "name": "BBC Urdu: حسین نقی: وہ صحافی جو ہر دور میں جیل گیا",
+    "url": "https://www.bbc.com/urdu/articles/cqvg2pl2jxmyo",
+    "author": "Umair Salimi",
+    "license": "Personal use only"
+  },
+  "intro": "Published 22 November 2026. An obituary of Hussain Naqi, a veteran Pakistani journalist and human-rights campaigner who was arrested under military and civilian governments alike. The HRCP is the Human Rights Commission of Pakistan, an independent rights body; notice the formal phrases for death and burial, “wafaat paana” (to pass away) and “sipurd-e-khaak karna” (to lay to rest).",
+  "sentences": [
+    {
+      "urdu": "پاکستانی صحافی اور انسانی حقوق کے کارکن حسین نقی 90 برس کی عمر میں وفات پا گئے ہیں۔",
+      "english": "Pakistani journalist and human rights activist Hussain Naqi has passed away at the age of 90."
+    },
+    {
+      "urdu": "لاہور میں ان کی نماز جنازہ میں سیاسی، سماجی اور صحافتی حلقوں سے بڑی تعداد میں لوگوں نے شرکت کی جس کے بعد انھیں سپرد خاک کیا گیا۔",
+      "english": "A large number of people from political, social and journalistic circles attended his funeral prayers in Lahore, after which he was laid to rest."
+    },
+    {
+      "urdu": "پاکستان کے صدر آصف علی زرداری نے ان کی وفات پر افسوس ظاہر کرتے ہوئے ایک پیغام میں کہا ہے کہ ’حسین نقی نے صحافت اور جمہوری اقدار کے فروغ کے لیے نمایاں کردار ادا کیا، ان کی خدمات ہمیشہ یاد رکھی جائیں گی۔‘",
+      "english": "Pakistan's President Asif Ali Zardari, expressing sorrow at his death, said in a message: ‘Hussain Naqi played a prominent role in promoting journalism and democratic values; his services will always be remembered.’"
+    },
+    {
+      "urdu": "حسین نقی مختلف اخباروں کے مدیر رہے جس کے بعد تین دہائیوں تک وہ ہیومن رائٹس کمیشن آف پاکستان (ایچ آر سی پی) سے بھی منسلک رہے۔",
+      "english": "Hussain Naqi was the editor of various newspapers, after which for three decades he was also associated with the Human Rights Commission of Pakistan (HRCP)."
+    },
+    {
+      "urdu": "ایک بیان میں ایچ آر سی پی کا کہنا ہے کہ '70 برس سے زائد عرصے پر محیط اپنے کیریئر میں طالب علم رہنما سے اخبار کے مدیر اور پھر ایچ آر سی پی کے خزانچی تک، متعدد قید و بند اور حکام کی انتقامی کارروائیاں بھی ان کے اس عزم کو کمزور نہ کر سکیں اور وہ طاقتور کے سامنے سچ بولتے رہے۔'",
+      "english": "In a statement the HRCP said: ‘In a career spanning more than 70 years, from student leader to newspaper editor and then HRCP treasurer, repeated imprisonment and the authorities' acts of revenge could not weaken his resolve, and he kept speaking the truth to the powerful.’"
+    },
+    {
+      "urdu": "ایچ آر سی پی نے لکھا کہ 'نقی صاحب نے تین دہائیوں تک مختلف حیثیتوں میں ایچ آر سی پی کی خدمت کی اور اپنی وفات کے وقت کونسل کے ایک سرگرم رکن تھے۔",
+      "english": "The HRCP wrote: ‘Naqi sahib served the HRCP in various capacities for three decades, and at the time of his death he was an active member of its council."
+    },
+    {
+      "urdu": "’پاکستان میں عوامی حقوق اور جمہوریت کے لیے بلند ہونے والی سب سے بڑی آوازوں میں سے ایک اب خاموش ہو گئی ہے۔‘",
+      "english": "One of the biggest voices raised for people's rights and democracy in Pakistan has now fallen silent.’"
+    }
+  ],
+  "glossary": {
+    "پاکستانی": [
+      "paakistaani",
+      "Pakistani"
+    ],
+    "صحافی": [
+      "sahaafi",
+      "journalist"
+    ],
+    "انسانی": [
+      "insaani",
+      "human (“insaani huqooq” = human rights)"
+    ],
+    "حقوق": [
+      "huqooq",
+      "rights (Arabic pl. of “haq”)"
+    ],
+    "کارکن": [
+      "kaarkun",
+      "activist; worker"
+    ],
+    "حسین": [
+      "husain",
+      "Hussain (Hussain Naqi, Pakistani journalist)"
+    ],
+    "نقی": [
+      "naqi",
+      "Naqi (surname of Hussain Naqi)"
+    ],
+    "برس": [
+      "baras",
+      "year(s) (“90 baras ki umr” = the age of 90; “70 baras” = 70 years)"
+    ],
+    "عمر": [
+      "umr",
+      "age"
+    ],
+    "وفات": [
+      "wafaat",
+      "death (formal) (“wafaat paana” = to pass away)"
+    ],
+    "پا": [
+      "paa",
+      "get; attain (“wafaat paa gaye” = passed away)"
+    ],
+    "لاہور": [
+      "laahaur",
+      "Lahore"
+    ],
+    "نماز": [
+      "namaaz",
+      "prayer (“namaaz-e-janaaza” = funeral prayers)"
+    ],
+    "جنازہ": [
+      "janaaza",
+      "funeral; bier"
+    ],
+    "سیاسی": [
+      "siyaasi",
+      "political"
+    ],
+    "سماجی": [
+      "samaaji",
+      "social"
+    ],
+    "صحافتی": [
+      "sahaafati",
+      "journalistic"
+    ],
+    "حلقوں": [
+      "halqon",
+      "circles (pl. oblique)"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big; large (f.) (“baṛi taadaad mein” = in large numbers; “sab se baṛi” = biggest)"
+    ],
+    "تعداد": [
+      "taadaad",
+      "number; count"
+    ],
+    "لوگوں": [
+      "logon",
+      "people (pl. oblique)"
+    ],
+    "شرکت": [
+      "shirkat",
+      "participation (“shirkat karna” = to attend)"
+    ],
+    "جس": [
+      "jis",
+      "which (oblique) (“jis ke baad” = after which)"
+    ],
+    "بعد": [
+      "baad",
+      "after (“ke baad” = after)"
+    ],
+    "انھیں": [
+      "unhen",
+      "him (respectful)"
+    ],
+    "سپرد": [
+      "sipurd",
+      "entrusted (“sipurd-e-khaak karna” = to commit to the earth, i.e. to bury)"
+    ],
+    "خاک": [
+      "khaak",
+      "earth; dust (“sipurd-e-khaak” = laid to rest)"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "صدر": [
+      "sadr",
+      "president"
+    ],
+    "آصف": [
+      "aasif",
+      "Asif (Asif Ali Zardari, President of Pakistan)"
+    ],
+    "علی": [
+      "ali",
+      "Ali"
+    ],
+    "زرداری": [
+      "zardaari",
+      "Zardari (family name)"
+    ],
+    "افسوس": [
+      "afsos",
+      "sorrow; regret (“afsos zaahir karna” = to express sorrow)"
+    ],
+    "ظاہر": [
+      "zaahir",
+      "visible; expressed (“zaahir karna” = to express)"
+    ],
+    "کرتے": [
+      "karte",
+      "doing (“zaahir karte hue” = expressing)"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“karte hue” = while doing)"
+    ],
+    "پیغام": [
+      "paighaam",
+      "message"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "صحافت": [
+      "sahaafat",
+      "journalism"
+    ],
+    "جمہوری": [
+      "jamhoori",
+      "democratic"
+    ],
+    "اقدار": [
+      "aqdaar",
+      "values (Arabic pl. of “qadr”)"
+    ],
+    "فروغ": [
+      "farogh",
+      "promotion; growth (“ke farogh ke liye” = to promote)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for; in order to)"
+    ],
+    "نمایاں": [
+      "numaayaan",
+      "prominent"
+    ],
+    "کردار": [
+      "kirdaar",
+      "role (“kirdaar ada karna” = to play a role)"
+    ],
+    "ادا": [
+      "ada",
+      "performed (“ada karna” = to perform; to fulfil)"
+    ],
+    "خدمات": [
+      "khidmaat",
+      "services (Arabic pl. of “khidmat”)"
+    ],
+    "ہمیشہ": [
+      "hamesha",
+      "always"
+    ],
+    "یاد": [
+      "yaad",
+      "memory (“yaad rakhna” = to remember)"
+    ],
+    "رکھی": [
+      "rakhi",
+      "kept (f.) (“yaad rakhi jaaengi” = will be remembered)"
+    ],
+    "جائیں": [
+      "jaaen",
+      "(passive) (“rakhi jaaengi” = will be kept)"
+    ],
+    "گی": [
+      "gi",
+      "will (f., future marker)"
+    ],
+    "مختلف": [
+      "mukhtalif",
+      "various; different"
+    ],
+    "اخباروں": [
+      "akhbaaron",
+      "newspapers (pl. oblique)"
+    ],
+    "مدیر": [
+      "mudeer",
+      "editor (formal)"
+    ],
+    "رہے": [
+      "rahe",
+      "remained; was (respectful) (“mudeer rahe” = was an editor; “bolte rahe” = kept speaking)"
+    ],
+    "دہائیوں": [
+      "dahaaiyon",
+      "decades (pl. oblique)"
+    ],
+    "ہیومن": [
+      "hyooman",
+      "Human (English, in “Human Rights Commission of Pakistan”)"
+    ],
+    "رائٹس": [
+      "raaiṭs",
+      "Rights (English)"
+    ],
+    "کمیشن": [
+      "kameeshan",
+      "Commission"
+    ],
+    "آف": [
+      "of",
+      "of (English)"
+    ],
+    "ایچ": [
+      "ech",
+      "H (“ech aar si pi” = HRCP, Human Rights Commission of Pakistan)"
+    ],
+    "آر": [
+      "aar",
+      "R (in HRCP)"
+    ],
+    "سی": [
+      "si",
+      "C (in HRCP)"
+    ],
+    "پی": [
+      "pi",
+      "P (in HRCP)"
+    ],
+    "منسلک": [
+      "munsalik",
+      "associated; attached (formal)"
+    ],
+    "کہنا": [
+      "kehna",
+      "to say (“X ka kehna hai” = X says)"
+    ],
+    "زائد": [
+      "zaaid",
+      "more (“se zaaid” = more than)"
+    ],
+    "عرصے": [
+      "arse",
+      "period (of time) (oblique)"
+    ],
+    "محیط": [
+      "muheet",
+      "spanning; covering (“… par muheet” = spanning …)"
+    ],
+    "کیریئر": [
+      "kairiyar",
+      "career"
+    ],
+    "طالب": [
+      "taalib",
+      "seeker (“taalib ilm” = student)"
+    ],
+    "علم": [
+      "ilm",
+      "knowledge (“taalib ilm” = student)"
+    ],
+    "رہنما": [
+      "rehnuma",
+      "leader"
+    ],
+    "اخبار": [
+      "akhbaar",
+      "newspaper"
+    ],
+    "خزانچی": [
+      "khazaanchi",
+      "treasurer"
+    ],
+    "متعدد": [
+      "mutaaddid",
+      "numerous; repeated"
+    ],
+    "قید": [
+      "qaid",
+      "imprisonment (“qaid-o-band” = imprisonment and confinement)"
+    ],
+    "و": [
+      "o",
+      "and (joins a pair: “qaid-o-band”)"
+    ],
+    "بند": [
+      "band",
+      "confinement; shut (“qaid-o-band” = imprisonment)"
+    ],
+    "حکام": [
+      "hukkaam",
+      "authorities; officials (Arabic pl. of “haakim”)"
+    ],
+    "انتقامی": [
+      "intiqaami",
+      "retaliatory; vengeful"
+    ],
+    "کارروائیاں": [
+      "kaarrawaaiyaan",
+      "actions (f. pl.) (“intiqaami kaarrawaaiyaan” = acts of revenge)"
+    ],
+    "عزم": [
+      "azm",
+      "resolve; determination"
+    ],
+    "کمزور": [
+      "kamzor",
+      "weak (“kamzor karna” = to weaken)"
+    ],
+    "سکیں": [
+      "sakeen",
+      "could (f. pl.) (“kamzor na kar sakeen” = could not weaken)"
+    ],
+    "طاقتور": [
+      "taaqatwar",
+      "powerful (“taaqatwar ke saamne” = to the powerful)"
+    ],
+    "سامنے": [
+      "saamne",
+      "in front (“ke saamne” = before, facing)"
+    ],
+    "سچ": [
+      "sach",
+      "truth"
+    ],
+    "بولتے": [
+      "bolte",
+      "speaking (“sach bolte rahe” = kept speaking the truth)"
+    ],
+    "لکھا": [
+      "likha",
+      "wrote"
+    ],
+    "صاحب": [
+      "saahib",
+      "sahib; Mr (respectful title after a name)"
+    ],
+    "حیثیتوں": [
+      "haisiyaton",
+      "capacities; roles (pl. oblique)"
+    ],
+    "خدمت": [
+      "khidmat",
+      "service (“khidmat karna” = to serve)"
+    ],
+    "وقت": [
+      "waqt",
+      "time (“wafaat ke waqt” = at the time of death)"
+    ],
+    "کونسل": [
+      "kaunsil",
+      "council"
+    ],
+    "سرگرم": [
+      "sargarm",
+      "active"
+    ],
+    "رکن": [
+      "rukn",
+      "member"
+    ],
+    "عوامی": [
+      "awaami",
+      "people's; public"
+    ],
+    "جمہوریت": [
+      "jamhooriyat",
+      "democracy"
+    ],
+    "بلند": [
+      "buland",
+      "high; raised (“buland hona” = to be raised)"
+    ],
+    "ہونے": [
+      "hone",
+      "being (“buland hone waali” = raised)"
+    ],
+    "والی": [
+      "waali",
+      "(-ing, f.) (“buland hone waali aawaazen” = voices that were raised)"
+    ],
+    "سب": [
+      "sab",
+      "all (“sab se baṛi” = the biggest)"
+    ],
+    "آوازوں": [
+      "aawaazon",
+      "voices (pl. oblique) (“aawaazon mein se ek” = one of the voices)"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "خاموش": [
+      "khaamosh",
+      "silent (“khaamosh ho gayi” = fell silent)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "حسین نقی کس عمر میں وفات پا گئے؟",
+      "english": "At what age did Hussain Naqi pass away?",
+      "options": [
+        {
+          "urdu": "70 برس",
+          "english": "70"
+        },
+        {
+          "urdu": "90 برس",
+          "english": "90"
+        },
+        {
+          "urdu": "30 برس",
+          "english": "30"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "حسین نقی تین دہائیوں تک کس ادارے سے منسلک رہے؟",
+      "english": "Which organisation was Hussain Naqi associated with for three decades?",
+      "options": [
+        {
+          "urdu": "پنجاب حکومت",
+          "english": "The Punjab government"
+        },
+        {
+          "urdu": "ایک غیر ملکی اخبار",
+          "english": "A foreign newspaper"
+        },
+        {
+          "urdu": "ہیومن رائٹس کمیشن آف پاکستان",
+          "english": "The Human Rights Commission of Pakistan"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "ایچ آر سی پی کے مطابق قید و بند کا ان پر کیا اثر ہوا؟",
+      "english": "According to the HRCP, what effect did imprisonment have on him?",
+      "options": [
+        {
+          "urdu": "اس سے ان کا عزم کمزور نہیں ہوا",
+          "english": "It did not weaken his resolve"
+        },
+        {
+          "urdu": "انھوں نے صحافت چھوڑ دی",
+          "english": "He gave up journalism"
+        },
+        {
+          "urdu": "وہ ملک سے باہر چلے گئے",
+          "english": "He left the country"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

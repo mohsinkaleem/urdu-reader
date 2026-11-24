@@ -1,0 +1,484 @@
+{
+  "id": "poem-iqbal-shikwa-6",
+  "title": {
+    "urdu": "شکوہ (حصہ 6)",
+    "english": "Shikwa, part 6"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Allama Iqbal’s “Shikwa” (The Complaint, 1911, later collected in Bang-e-Dara) is a bold complaint to God on behalf of the Muslims, who served Him faithfully yet now suffer. In stanzas 16–18 the poet protests that unbelievers enjoy the world while Muslims are poor and despised, and warns that if Muslims vanish, God’s name will vanish with them.",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 6,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "یہ شکایت نہیں، ہیں اُن کے خزانے معمور",
+      "english": "This is no complaint: their treasuries are full,",
+      "verse": true
+    },
+    {
+      "urdu": "نہیں محفل میں جنھیں بات بھی کرنے کا شعور",
+      "english": "those who have not even the sense to speak in company;",
+      "verse": true
+    },
+    {
+      "urdu": "قہر تو یہ ہے کہ کافر کو ملیں حُور و قصور",
+      "english": "the outrage is that the unbeliever gets houris and palaces,",
+      "verse": true
+    },
+    {
+      "urdu": "اور بیچارے مسلماں کو فقط وعدۂ حور",
+      "english": "and the poor Muslim only the promise of houris.",
+      "verse": true
+    },
+    {
+      "urdu": "اب وہ الطاف نہیں، ہم پہ عنایات نہیں",
+      "english": "Now there are none of those kindnesses, no favours for us;",
+      "verse": true
+    },
+    {
+      "urdu": "بات یہ کیا ہے کہ پہلی سی مدارات نہیں",
+      "english": "what is this, that we no longer get the welcome of old?",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہمیں اس بات کا گلہ نہیں کہ نادان لوگ امیر ہیں۔ دکھ یہ ہے کہ کافروں کو دنیا ہی میں جنت جیسی نعمتیں مل رہی ہیں اور مسلمانوں کو صرف آخرت کا وعدہ ملا ہے۔ اب اللہ کی وہ پہلی سی مہربانیاں ہم پر کیوں نہیں رہیں؟",
+        "english": "The poet says he does not mind that foolish people are rich. What hurts is that unbelievers enjoy paradise-like comforts (houris and palaces) in this world, while Muslims are left with only the promise of houris in the next. Why has God's old kindness towards Muslims ended?"
+      }
+    },
+    {
+      "urdu": "کیوں مسلماں میں ہے دولتِ دنیا نایاب",
+      "english": "Why is worldly wealth so scarce among Muslims,",
+      "verse": true
+    },
+    {
+      "urdu": "تیری قدرت تو ہے وہ جس کی نہ حد ہے نہ حساب",
+      "english": "when Your power is such that it has neither limit nor measure?",
+      "verse": true
+    },
+    {
+      "urdu": "تُو جو چاہے تو اُٹھے سینۂ صحرا سے حباب",
+      "english": "If You wished, bubbles would rise from the breast of the desert,",
+      "verse": true
+    },
+    {
+      "urdu": "رہروِ دشت ہو سیلی زدۂ موجِ سراب",
+      "english": "and the desert traveller would be slapped by the waves of the mirage.",
+      "verse": true
+    },
+    {
+      "urdu": "طعنِ اغیار ہے، رسوائی ہے،ناداری ہے",
+      "english": "Yet we face the taunts of strangers, disgrace and poverty:",
+      "verse": true
+    },
+    {
+      "urdu": "کیا تیرے نام پہ مرنے کا عوض خواری ہے؟",
+      "english": "is humiliation the reward for dying in Your name?",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ کی قدرت کی کوئی حد نہیں، وہ چاہے تو صحرا میں بھی پانی بہا دے اور سراب کو سچ مچ کا دریا بنا دے۔ پھر مسلمان غریب اور رسوا کیوں ہیں؟ کیا اللہ کے نام پر جان دینے کا یہی بدلہ ہے؟",
+        "english": "God's power is limitless: He could make water bubble up in the desert, so that the mirage a traveller sees becomes real waves that strike him. So why are Muslims poor and mocked by others? Is disgrace really the reward for dying for God?"
+      }
+    },
+    {
+      "urdu": "بنی اغیار کی چاہنے والی دنیا",
+      "english": "The world has become the lover of strangers;",
+      "verse": true
+    },
+    {
+      "urdu": "رہ گئی اپنے لیے ایک خیالی دنیا",
+      "english": "for us there remains only a world of dreams.",
+      "verse": true
+    },
+    {
+      "urdu": "ہم تو رخصت ہوئے اوروں نے سنبھالی دنیا",
+      "english": "We have departed, and others have taken hold of the world;",
+      "verse": true
+    },
+    {
+      "urdu": "پھر نہ کہنا ہوئی توحید سے حالی دنیا",
+      "english": "then don't say the world has become empty of belief in the One God.",
+      "verse": true
+    },
+    {
+      "urdu": "ہم تو جیتے ہیں کہ دنیا میں تیرا نام رہے",
+      "english": "We live only so that Your name may remain in the world;",
+      "verse": true
+    },
+    {
+      "urdu": "کہیں ممکن ہے کہ ساقی نہ رہے، جام رہے؟",
+      "english": "can it ever be that the cup-bearer is gone and the cup remains?",
+      "verse": true,
+      "explanation": {
+        "urdu": "دنیا اب دوسروں کی ہو گئی ہے اور مسلمانوں کے پاس صرف خواب رہ گئے ہیں۔ شاعر کہتا ہے کہ اگر ہم مٹ گئے تو پھر شکایت نہ کرنا کہ دنیا میں توحید نہیں رہی، کیونکہ ہم ہی تیرا نام زندہ رکھتے ہیں۔ ساقی نہ رہے تو جام کیسے رہے گا؟",
+        "english": "The world now favours others, and Muslims are left only with dreams. If Muslims disappear, God should not complain that no one believes in Him any more, for it is they who keep His name alive. The image: Muslims are the saqi who pours the wine of tauheed (God's oneness); without the saqi, the cup cannot last."
+      }
+    }
+  ],
+  "glossary": {
+    "شکایت": [
+      "shikaayat",
+      "complaint"
+    ],
+    "ان": [
+      "un",
+      "them; their (oblique of “woh”: “un ke” = their)"
+    ],
+    "خزانے": [
+      "khazaane",
+      "treasuries; treasures (pl.)"
+    ],
+    "معمور": [
+      "maamoor",
+      "full; filled"
+    ],
+    "محفل": [
+      "mehfil",
+      "gathering; company"
+    ],
+    "جنھیں": [
+      "jinhein",
+      "who; those who (“jinhein … shaoor nahin” = who have no sense)"
+    ],
+    "بات": [
+      "baat",
+      "talk; matter (“baat yeh kya hai” = what is this)"
+    ],
+    "کرنے": [
+      "karne",
+      "to do (oblique: “baat karne ka shaoor” = the sense to speak)"
+    ],
+    "شعور": [
+      "shaoor",
+      "sense; awareness"
+    ],
+    "قہر": [
+      "qahr",
+      "outrage; calamity (“qahr to yeh hai” = the outrage is this)"
+    ],
+    "تو": [
+      "to / tu",
+      "indeed; then (emphasis) / you (God)"
+    ],
+    "کافر": [
+      "kaafir",
+      "unbeliever"
+    ],
+    "ملیں": [
+      "milein",
+      "should get; receive (subjunctive)"
+    ],
+    "حور": [
+      "hoor",
+      "houri(s), maidens of paradise"
+    ],
+    "قصور": [
+      "qusoor",
+      "palaces (pl. of “qasr”)"
+    ],
+    "بیچارے": [
+      "bechaare",
+      "poor; helpless"
+    ],
+    "مسلماں": [
+      "musalmaan",
+      "Muslim(s) (poetic form)"
+    ],
+    "فقط": [
+      "faqat",
+      "only"
+    ],
+    "وعدۂ": [
+      "waada-e-",
+      "promise of"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "الطاف": [
+      "altaaf",
+      "kindnesses (pl. of “lutf”)"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "عنایات": [
+      "inaayaat",
+      "favours; gifts (pl.)"
+    ],
+    "پہلی": [
+      "pehli",
+      "first; former (“pehli si” = as before)"
+    ],
+    "سی": [
+      "si",
+      "like (f.)"
+    ],
+    "مدارات": [
+      "mudaaraat",
+      "courtesy; hospitality"
+    ],
+    "کیوں": [
+      "kyun",
+      "why"
+    ],
+    "دولت": [
+      "daulat-e-",
+      "wealth of (“daulat-e-duniya” = worldly wealth)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "نایاب": [
+      "naayaab",
+      "rare; scarce"
+    ],
+    "تیری": [
+      "teri",
+      "your (f.)"
+    ],
+    "قدرت": [
+      "qudrat",
+      "power"
+    ],
+    "جس": [
+      "jis",
+      "which (oblique: “jis ki” = whose)"
+    ],
+    "حد": [
+      "hadd",
+      "limit"
+    ],
+    "حساب": [
+      "hisaab",
+      "count; measure"
+    ],
+    "جو": [
+      "jo",
+      "if; who (“tu jo chaahe” = if You wish)"
+    ],
+    "چاہے": [
+      "chaahe",
+      "(You) wish"
+    ],
+    "اٹھے": [
+      "uṭhe",
+      "would rise"
+    ],
+    "سینۂ": [
+      "seena-e-",
+      "breast of"
+    ],
+    "صحرا": [
+      "sehra",
+      "desert"
+    ],
+    "حباب": [
+      "habaab",
+      "bubble(s)"
+    ],
+    "رہرو": [
+      "rahrau-e-",
+      "traveller of (“rahrau-e-dasht” = desert traveller)"
+    ],
+    "دشت": [
+      "dasht",
+      "desert; wilderness"
+    ],
+    "سیلی": [
+      "seeli",
+      "slap (“seeli-zada” = slapped)"
+    ],
+    "زدۂ": [
+      "zada-e-",
+      "struck by (“seeli-zada-e-mauj” = slapped by the wave of)"
+    ],
+    "موج": [
+      "mauj-e-",
+      "wave of"
+    ],
+    "سراب": [
+      "saraab",
+      "mirage"
+    ],
+    "طعن": [
+      "taan-e-",
+      "taunt(s) of"
+    ],
+    "اغیار": [
+      "aghyaar",
+      "strangers; others (pl. of “ghair”)"
+    ],
+    "رسوائی": [
+      "ruswaai",
+      "disgrace"
+    ],
+    "تیرے": [
+      "tere",
+      "your"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "مرنے": [
+      "marne",
+      "dying (oblique infinitive)"
+    ],
+    "عوض": [
+      "evaz",
+      "reward; recompense"
+    ],
+    "خواری": [
+      "khwaari",
+      "humiliation; misery"
+    ],
+    "بنی": [
+      "bani",
+      "became (f.)"
+    ],
+    "چاہنے": [
+      "chaahne",
+      "loving (“chaahne waali” = lover, f.)"
+    ],
+    "والی": [
+      "waali",
+      "one who (f.) (“chaahne waali” = lover)"
+    ],
+    "رہ": [
+      "reh",
+      "remain (“reh gayi” = was left)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“apne liye” = for ourselves)"
+    ],
+    "خیالی": [
+      "khayaali",
+      "imaginary"
+    ],
+    "رخصت": [
+      "rukhsat",
+      "departure (“rukhsat hue” = departed)"
+    ],
+    "اوروں": [
+      "auron",
+      "others (oblique pl.)"
+    ],
+    "سنبھالی": [
+      "sanbhaali",
+      "took hold of; took charge of (f.)"
+    ],
+    "کہنا": [
+      "kehna",
+      "to say (“na kehna” = don't say)"
+    ],
+    "توحید": [
+      "tauheed",
+      "belief in the oneness of God"
+    ],
+    "حالی": [
+      "khaali",
+      "empty (spelled حالی in this source; the usual text has خالی)"
+    ],
+    "جیتے": [
+      "jeete",
+      "live"
+    ],
+    "تیرا": [
+      "tera",
+      "your (m.)"
+    ],
+    "کہیں": [
+      "kahin",
+      "ever (“kahin mumkin hai” = can it possibly be)"
+    ],
+    "ممکن": [
+      "mumkin",
+      "possible"
+    ],
+    "ساقی": [
+      "saaqi",
+      "cup-bearer"
+    ],
+    "جام": [
+      "jaam",
+      "cup; goblet"
+    ],
+    "ناداری": [
+      "naadaari",
+      "poverty; destitution"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کے مطابق اصل دکھ کی بات کیا ہے؟",
+      "english": "According to the poet, what is the real grievance?",
+      "options": [
+        {
+          "urdu": "کافروں کے پاس خزانے ہیں",
+          "english": "Unbelievers have treasuries"
+        },
+        {
+          "urdu": "کافروں کو دنیا میں نعمتیں ملیں اور مسلمانوں کو صرف وعدہ",
+          "english": "Unbelievers get blessings in this world, Muslims only a promise"
+        },
+        {
+          "urdu": "مسلمان محفل میں بات نہیں کرتے",
+          "english": "Muslims do not speak in company"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعر اللہ کی قدرت کی مثال کیسے دیتا ہے؟",
+      "english": "How does the poet illustrate God's power?",
+      "options": [
+        {
+          "urdu": "وہ صحرا میں بھی پانی کے بلبلے اٹھا سکتا ہے",
+          "english": "He can make bubbles rise even in the desert"
+        },
+        {
+          "urdu": "وہ پہاڑوں کو ہلا سکتا ہے",
+          "english": "He can move mountains"
+        },
+        {
+          "urdu": "وہ سمندر کو خشک کر سکتا ہے",
+          "english": "He can dry up the sea"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "\"ساقی نہ رہے، جام رہے\" سے شاعر کیا کہنا چاہتا ہے؟",
+      "english": "What does the poet mean by “the saqi gone, the cup remaining”?",
+      "options": [
+        {
+          "urdu": "شراب ختم ہو گئی ہے",
+          "english": "The wine has run out"
+        },
+        {
+          "urdu": "دنیا کو نئے ساقی کی ضرورت ہے",
+          "english": "The world needs a new saqi"
+        },
+        {
+          "urdu": "مسلمان مٹ گئے تو اللہ کا نام بھی نہیں رہے گا",
+          "english": "If Muslims vanish, God's name will not remain either"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

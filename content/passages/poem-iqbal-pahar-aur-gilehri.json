@@ -1,0 +1,624 @@
+{
+  "id": "poem-iqbal-pahar-aur-gilehri",
+  "title": {
+    "urdu": "ایک پہاڑ اور گلہری",
+    "english": "A Mountain and a Squirrel"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["children", "nature", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: ایک پہاڑ اور گلہری (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%A7%DB%8C%DA%A9_%D9%BE%DB%81%D8%A7%DA%91_%D8%A7%D9%88%D8%B1_%DA%AF%D9%84%DB%81%D8%B1%DB%8C",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "From the first part of Iqbal’s Bang-e-Dara (1924), among the poems he wrote for children; it is adapted from Ralph Waldo Emerson’s fable “The Mountain and the Squirrel”. A proud mountain sneers at a squirrel, and the squirrel answers. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "کوئی پہاڑ یہ کہتا تھا اک گلہری سے",
+      "english": "A mountain was saying this to a squirrel:",
+      "verse": true
+    },
+    {
+      "urdu": "تجھے ہو شرم تو پانی میں جا کے ڈوب مرے",
+      "english": "“If you had any shame, you would go and drown yourself in water.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پہاڑ گلہری کو بڑے غرور سے ڈانٹتا ہے کہ اگر تم میں ذرا بھی شرم ہو تو جا کر پانی میں ڈوب مرو۔",
+        "english": "The mountain scolds the squirrel arrogantly: if she had any shame she would go and drown herself (an idiom for “you should be ashamed of yourself”)."
+      }
+    },
+    {
+      "urdu": "ذرا سی چیز ہے، اس پر غرور، کیا کہنا",
+      "english": "You are such a tiny thing, and so proud — how remarkable!",
+      "verse": true
+    },
+    {
+      "urdu": "یہ عقل اور یہ سمجھ، یہ شعور، کیا کہنا!",
+      "english": "Such brains, such understanding, such sense — how remarkable!",
+      "verse": true,
+      "explanation": {
+        "urdu": "پہاڑ طنز کرتا ہے کہ تم اتنی چھوٹی سی ہو پھر بھی مغرور ہو، اور اپنی عقل پر ناز کرتی ہو۔",
+        "english": "The mountain mocks her: such a tiny creature, and so proud of her intelligence. “Kya kehna” (how remarkable!) is said sarcastically."
+      }
+    },
+    {
+      "urdu": "خدا کی شان ہے ناچیز چیز بن بیٹھیں",
+      "english": "It is God’s wonder that worthless things set themselves up as something,",
+      "verse": true
+    },
+    {
+      "urdu": "جو بے شعور ہوں یوں باتمیز بن بیٹھیں",
+      "english": "that those who have no sense pose as so refined.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پہاڑ کہتا ہے کہ یہ عجیب بات ہے کہ معمولی چیزیں خود کو بڑا سمجھنے لگیں اور بے عقل لوگ عقل مند بننے لگیں۔",
+        "english": "He says it is strange how worthless, senseless things start acting important and well-mannered."
+      }
+    },
+    {
+      "urdu": "تری بساط ہے کیا میری شان کے آگے",
+      "english": "What is your standing next to my grandeur?",
+      "verse": true
+    },
+    {
+      "urdu": "زمیں ہے پست مری آن بان کے آگے",
+      "english": "Even the earth is low before my splendour.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پہاڑ کہتا ہے کہ میری شان کے سامنے تمھاری کوئی حیثیت نہیں، زمین بھی میرے سامنے نیچی ہے۔",
+        "english": "The mountain boasts that the squirrel is nothing beside his greatness; even the earth lies low before him."
+      }
+    },
+    {
+      "urdu": "جو بات مجھ میں ہے، تجھ کو وہ ہے نصیب کہاں",
+      "english": "What I have — how could that ever fall to your lot?",
+      "verse": true
+    },
+    {
+      "urdu": "بھلا پہاڑ کہاں، جانور غریب کہاں!",
+      "english": "Come now, how can a mountain be compared with a poor little animal!”",
+      "verse": true,
+      "explanation": {
+        "urdu": "پہاڑ کہتا ہے کہ میری جیسی خوبیاں تمھیں کہاں مل سکتی ہیں، پہاڑ اور ایک غریب جانور کا کیا مقابلہ!",
+        "english": "He ends by saying there is no comparison between a mighty mountain and a poor little animal."
+      }
+    },
+    {
+      "urdu": "کہا یہ سُن کے گلہری نے، مُنہ سنبھال ذرا",
+      "english": "Hearing this, the squirrel said, “Mind your tongue a little!",
+      "verse": true
+    },
+    {
+      "urdu": "یہ کچّی باتیں ہیں دل سے انھیں نکال ذرا",
+      "english": "These are childish words; put them out of your mind.",
+      "verse": true,
+      "explanation": {
+        "urdu": "گلہری جواب دیتی ہے کہ زبان سنبھال کر بات کرو، یہ بچکانہ باتیں دل سے نکال دو۔",
+        "english": "The squirrel answers back: watch your tongue, and get these immature ideas out of your head."
+      }
+    },
+    {
+      "urdu": "جو مَیں بڑی نہیں تیری طرح تو کیا پروا",
+      "english": "If I am not big like you, what does it matter?",
+      "verse": true
+    },
+    {
+      "urdu": "نہیں ہے تُو بھی تو آخر مری طرح چھوٹا",
+      "english": "After all, you are not small like me either.",
+      "verse": true,
+      "explanation": {
+        "urdu": "گلہری کہتی ہے کہ اگر میں تمھاری طرح بڑی نہیں تو کیا ہوا، تم بھی تو میری طرح چھوٹے نہیں ہو۔",
+        "english": "She says: so what if I am not big like you? You are not small like me either — each is what it is."
+      }
+    },
+    {
+      "urdu": "ہر ایک چیز سے پیدا خدا کی قدرت ہے",
+      "english": "God’s power shows itself in every single thing;",
+      "verse": true
+    },
+    {
+      "urdu": "کوئی بڑا، کوئی چھوٹا، یہ اُس کی حکمت ہے",
+      "english": "some big, some small — that is His wisdom.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہر چیز میں اللہ کی قدرت نظر آتی ہے۔ کسی کو بڑا اور کسی کو چھوٹا بنانا اس کی حکمت ہے۔",
+        "english": "God’s power is visible in everything; making some things big and others small is part of His wisdom."
+      }
+    },
+    {
+      "urdu": "بڑا جہان میں تجھ کو بنا دیا اُس نے",
+      "english": "He made you big in the world;",
+      "verse": true
+    },
+    {
+      "urdu": "مجھے درخت پہ چڑھنا سِکھا دیا اُس نے",
+      "english": "He taught me to climb trees.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ نے پہاڑ کو بڑا بنایا اور گلہری کو درخت پر چڑھنا سکھایا۔ ہر ایک کو الگ خوبی دی۔",
+        "english": "God made the mountain big and taught the squirrel to climb trees: each was given its own gift."
+      }
+    },
+    {
+      "urdu": "قدم اُٹھانے کی طاقت نہیں ذرا تجھ میں",
+      "english": "You don’t have the strength to take a single step;",
+      "verse": true
+    },
+    {
+      "urdu": "نِری بڑائی ہے، خوبی ہے اور کیا تجھ میں",
+      "english": "there is mere bigness in you — what other virtue do you have?",
+      "verse": true,
+      "explanation": {
+        "urdu": "گلہری کہتی ہے کہ تم میں ایک قدم چلنے کی بھی طاقت نہیں۔ تمھارے پاس صرف بڑائی ہے، اور کوئی خوبی نہیں۔",
+        "english": "The squirrel points out that the mountain cannot even take a step: all he has is size, and no other virtue."
+      }
+    },
+    {
+      "urdu": "جو تُو بڑا ہے تو مجھ سا ہُنر دِکھا مجھ کو",
+      "english": "If you are so big, show me a skill like mine:",
+      "verse": true
+    },
+    {
+      "urdu": "یہ چھالیا ہی ذرا توڑ کر دِکھا مجھ کو",
+      "english": "just crack this betel nut and show me.",
+      "verse": true,
+      "explanation": {
+        "urdu": "گلہری کہتی ہے کہ اگر تم واقعی بڑے ہو تو میری طرح کوئی ہنر دکھاؤ، ذرا یہ چھالیا ہی توڑ کر دکھا دو۔",
+        "english": "She challenges him: if you are so great, show a skill like mine — just crack this betel nut. (In Emerson’s original the squirrel says, “Neither can you crack a nut.”)"
+      }
+    },
+    {
+      "urdu": "نہیں ہے چیز نِکمّی کوئی زمانے میں",
+      "english": "Nothing in the world is useless;",
+      "verse": true
+    },
+    {
+      "urdu": "کوئی بُرا نہیں قُدرت کے کارخانے میں",
+      "english": "nothing is bad in Nature’s workshop.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "آخر میں سبق ہے کہ دنیا میں کوئی چیز بے کار نہیں، اللہ کے کارخانے میں ہر چیز کا اپنا کام ہے۔",
+        "english": "The moral: nothing in the world is useless; in Nature’s (God’s) workshop everything has its purpose."
+      }
+    }
+  ],
+  "glossary": {
+    "پہاڑ": [
+      "pahaaṛ",
+      "mountain"
+    ],
+    "کہتا": [
+      "kehta",
+      "saying (m.) (“kehta tha” = was saying)"
+    ],
+    "اک": [
+      "ik",
+      "a; one (short form of “ek”)"
+    ],
+    "گلہری": [
+      "gilehri",
+      "squirrel (f.)"
+    ],
+    "تجھے": [
+      "tujhe",
+      "you (informal; to you)"
+    ],
+    "ہو": [
+      "ho",
+      "(if there) be; are"
+    ],
+    "شرم": [
+      "sharm",
+      "shame"
+    ],
+    "تو": [
+      "to",
+      "then; so"
+    ],
+    "پانی": [
+      "paani",
+      "water"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "جا": [
+      "ja",
+      "go (“ja ke” = going)"
+    ],
+    "کے": [
+      "ke",
+      "of; (“ja ke” = having gone)"
+    ],
+    "ڈوب": [
+      "ḍoob",
+      "drown (“ḍoob mare” = should drown oneself; idiom for “be ashamed”)"
+    ],
+    "مرے": [
+      "mare",
+      "(should) die; (“ḍoob mare” = drown oneself)"
+    ],
+    "ذرا": [
+      "zara",
+      "a little; tiny (“zara si” = tiny; “zara” = just, a bit)"
+    ],
+    "سی": [
+      "si",
+      "like; -ish (“zara si” = tiny)"
+    ],
+    "چیز": [
+      "cheez",
+      "thing"
+    ],
+    "اس": [
+      "is",
+      "this (oblique) (“is par” = on top of that)"
+    ],
+    "غرور": [
+      "ghuroor",
+      "pride; arrogance"
+    ],
+    "کہنا": [
+      "kehna",
+      "to say (“kya kehna” = how remarkable! — often sarcastic)"
+    ],
+    "عقل": [
+      "aql",
+      "intelligence; brains"
+    ],
+    "سمجھ": [
+      "samajh",
+      "understanding"
+    ],
+    "شعور": [
+      "shaoor",
+      "awareness; sense"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "شان": [
+      "shaan",
+      "glory; grandeur (“khuda ki shaan” = God’s wonder — how strange!)"
+    ],
+    "ناچیز": [
+      "naacheez",
+      "worthless; insignificant"
+    ],
+    "بن": [
+      "ban",
+      "become (“ban baiṭhna” = to set oneself up as)"
+    ],
+    "بیٹھیں": [
+      "baiṭhen",
+      "(they) set themselves up as (“ban baiṭhen”)"
+    ],
+    "بے": [
+      "be",
+      "without (“be-shaoor” = senseless)"
+    ],
+    "ہوں": [
+      "hon",
+      "(they) are; (I) am"
+    ],
+    "یوں": [
+      "yoon",
+      "like this; thus"
+    ],
+    "باتمیز": [
+      "baa-tameez",
+      "well-mannered; refined"
+    ],
+    "تری": [
+      "tiri",
+      "your (informal; poetic form of “teri”)"
+    ],
+    "بساط": [
+      "bisaat",
+      "standing; capacity; worth"
+    ],
+    "میری": [
+      "meri",
+      "my"
+    ],
+    "آگے": [
+      "aage",
+      "before; in front of"
+    ],
+    "زمیں": [
+      "zameen",
+      "earth; ground (poetic form of “zameen”)"
+    ],
+    "پست": [
+      "past",
+      "low"
+    ],
+    "مری": [
+      "miri",
+      "my (poetic form of “meri”)"
+    ],
+    "آن": [
+      "aan",
+      "pride (“aan baan” = splendour, pomp)"
+    ],
+    "بان": [
+      "baan",
+      "(“aan baan” = splendour, pomp)"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh mein” = in me; “mujh sa” = like me)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (informal) (“tujh ko” = to you; “tujh mein” = in you)"
+    ],
+    "نصیب": [
+      "naseeb",
+      "fate; one’s lot (“naseeb hona” = to fall to one’s lot)"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where (“A kahaan, B kahaan” = A and B can’t be compared)"
+    ],
+    "بھلا": [
+      "bhala",
+      "come now; really (rhetorical)"
+    ],
+    "جانور": [
+      "jaanwar",
+      "animal"
+    ],
+    "غریب": [
+      "ghareeb",
+      "poor; humble"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "سن": [
+      "sun",
+      "hear (“sun ke” = hearing)"
+    ],
+    "منہ": [
+      "munh",
+      "mouth (“munh sambhaal” = mind your tongue)"
+    ],
+    "سنبھال": [
+      "sambhaal",
+      "control; keep in check"
+    ],
+    "کچی": [
+      "kachchi",
+      "unripe; immature; childish (f.)"
+    ],
+    "باتیں": [
+      "baaten",
+      "words; talk (pl.)"
+    ],
+    "دل": [
+      "dil",
+      "heart; mind"
+    ],
+    "انھیں": [
+      "unhen",
+      "them"
+    ],
+    "نکال": [
+      "nikaal",
+      "take out; remove"
+    ],
+    "مَیں": [
+      "main",
+      "I"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big (f.)"
+    ],
+    "تیری": [
+      "teri",
+      "your (informal)"
+    ],
+    "طرح": [
+      "tarah",
+      "way (“teri tarah” = like you)"
+    ],
+    "پروا": [
+      "parwa",
+      "care (“kya parwa” = what does it matter?)"
+    ],
+    "تُو": [
+      "too",
+      "you (informal)"
+    ],
+    "آخر": [
+      "aakhir",
+      "after all"
+    ],
+    "چھوٹا": [
+      "chhoṭa",
+      "small (m.)"
+    ],
+    "ہر": [
+      "har",
+      "every (“har ek” = every single)"
+    ],
+    "پیدا": [
+      "paida",
+      "visible; produced (“paida hai” = is manifest)"
+    ],
+    "قدرت": [
+      "qudrat",
+      "power; Nature (God’s creative power)"
+    ],
+    "بڑا": [
+      "baṛa",
+      "big"
+    ],
+    "اُس": [
+      "us",
+      "His; that (oblique)"
+    ],
+    "حکمت": [
+      "hikmat",
+      "wisdom"
+    ],
+    "جہان": [
+      "jahaan",
+      "the world"
+    ],
+    "بنا": [
+      "bana",
+      "made (“bana diya” = made)"
+    ],
+    "دیا": [
+      "diya",
+      "gave; (completes the action: “bana diya” = made)"
+    ],
+    "مجھے": [
+      "mujhe",
+      "me"
+    ],
+    "درخت": [
+      "darakht",
+      "tree"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "چڑھنا": [
+      "chaṛhna",
+      "to climb"
+    ],
+    "سکھا": [
+      "sikha",
+      "taught (“sikha diya”)"
+    ],
+    "قدم": [
+      "qadam",
+      "step; foot"
+    ],
+    "اٹھانے": [
+      "uṭhaane",
+      "lifting (“qadam uṭhaana” = to take a step)"
+    ],
+    "طاقت": [
+      "taaqat",
+      "strength"
+    ],
+    "نری": [
+      "niri",
+      "mere; nothing but"
+    ],
+    "بڑائی": [
+      "baṛaai",
+      "bigness; greatness"
+    ],
+    "خوبی": [
+      "khoobi",
+      "virtue; good quality"
+    ],
+    "سا": [
+      "sa",
+      "like (“mujh sa” = like mine)"
+    ],
+    "ہنر": [
+      "hunar",
+      "skill"
+    ],
+    "دکھا": [
+      "dikha",
+      "show (“toṛ kar dikha” = crack it and show me)"
+    ],
+    "چھالیا": [
+      "chhaaliya",
+      "betel nut; areca nut"
+    ],
+    "توڑ": [
+      "toṛ",
+      "break; crack (“toṛ kar” = cracking)"
+    ],
+    "نکمی": [
+      "nikammi",
+      "useless; good-for-nothing (f.)"
+    ],
+    "زمانے": [
+      "zamaane",
+      "the world (oblique)"
+    ],
+    "برا": [
+      "bura",
+      "bad"
+    ],
+    "کارخانے": [
+      "kaarkhaane",
+      "workshop; factory (oblique)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہاڑ گلہری سے کیسا سلوک کرتا ہے؟",
+      "english": "How does the mountain treat the squirrel?",
+      "options": [
+        {
+          "urdu": "اس سے پیار سے بات کرتا ہے",
+          "english": "he speaks to her kindly"
+        },
+        {
+          "urdu": "اسے حقیر سمجھ کر اس کا مذاق اڑاتا ہے",
+          "english": "he looks down on her and mocks her"
+        },
+        {
+          "urdu": "اس سے مدد مانگتا ہے",
+          "english": "he asks her for help"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "گلہری کے مطابق کسی کو بڑا اور کسی کو چھوٹا کیوں بنایا گیا؟",
+      "english": "According to the squirrel, why are some things made big and some small?",
+      "options": [
+        {
+          "urdu": "یہ اللہ کی حکمت ہے",
+          "english": "it is God’s wisdom"
+        },
+        {
+          "urdu": "یہ اتفاق ہے",
+          "english": "it is by chance"
+        },
+        {
+          "urdu": "یہ ان کی سزا ہے",
+          "english": "it is a punishment"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "گلہری پہاڑ کو کیا کر کے دکھانے کو کہتی ہے؟",
+      "english": "What does the squirrel challenge the mountain to do?",
+      "options": [
+        {
+          "urdu": "درخت پر چڑھ کر",
+          "english": "climb a tree"
+        },
+        {
+          "urdu": "دریا پار کر کے",
+          "english": "cross a river"
+        },
+        {
+          "urdu": "چھالیا توڑ کر",
+          "english": "crack a betel nut"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

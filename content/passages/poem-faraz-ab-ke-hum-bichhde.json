@@ -1,0 +1,411 @@
+{
+  "id": "poem-faraz-ab-ke-hum-bichhde",
+  "title": {
+    "urdu": "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
+    "english": "If We Part This Time"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "source": {
+    "name": "Rekhta: اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
+    "url": "https://www.rekhta.org/ghazals/ab-ke-ham-bichhde-to-shaayad-kabhii-khvaabon-men-milen-ahmad-faraz-ghazals?lang=ur",
+    "author": "Ahmad Faraz",
+    "license": "Personal use only"
+  },
+  "intro": "One of Ahmad Faraz’s most famous ghazals, about lovers who sense that their next parting may be their last. Mehdi Hassan’s recording is the best known, and Rekhta also lists versions by Iqbal Bano and Jagjit Singh. This is the complete ghazal.",
+  "sentences": [
+    {
+      "urdu": "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
+      "english": "If we part this time, perhaps we will meet only in dreams,",
+      "verse": true
+    },
+    {
+      "urdu": "جس طرح سوکھے ہوئے پھول کتابوں میں ملیں",
+      "english": "the way dried flowers turn up in books.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ اگر ہم اس بار جدا ہوئے تو شاید پھر صرف خوابوں میں ملیں گے، جیسے کتابوں میں رکھے سوکھے پھول کبھی کبھی اچانک مل جاتے ہیں — پرانی یادوں کی طرح۔",
+        "english": "If we part this time, perhaps we will meet only in dreams — the way dried flowers pressed in books turn up unexpectedly, like old memories."
+      }
+    },
+    {
+      "urdu": "ڈھونڈ اجڑے ہوئے لوگوں میں وفا کے موتی",
+      "english": "Look for the pearls of faithfulness among ruined people;",
+      "verse": true
+    },
+    {
+      "urdu": "یہ خزانے تجھے ممکن ہے خرابوں میں ملیں",
+      "english": "it may be that you will find these treasures in ruins.",
+      "verse": true,
+      "explanation": {
+        "urdu": "وفاداری جیسی قیمتی چیز اکثر ان لوگوں میں ملتی ہے جو زندگی میں برباد ہو چکے ہیں، جیسے خزانے اکثر کھنڈروں میں دبے ہوتے ہیں۔",
+        "english": "Something as precious as loyalty is often found among people whose lives have been ruined, just as treasure is often buried in ruins."
+      }
+    },
+    {
+      "urdu": "غم دنیا بھی غم یار میں شامل کر لو",
+      "english": "Add the sorrows of the world to the sorrow of love as well;",
+      "verse": true
+    },
+    {
+      "urdu": "نشہ بڑھتا ہے شرابیں جو شرابوں میں ملیں",
+      "english": "the intoxication grows when wines are mixed with wines.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ صرف محبوب کا غم نہیں، دنیا کے غم بھی اپنے دل میں جگہ دو۔ جیسے شرابیں ملانے سے نشہ بڑھتا ہے، ویسے ہی دونوں غم مل کر زندگی کو اور گہرا بنا دیتے ہیں۔",
+        "english": "Make room in your heart not only for the sorrow of love but for the world’s sorrows too. Just as mixing wines strengthens the intoxication, the two sorrows together make life deeper."
+      }
+    },
+    {
+      "urdu": "تو خدا ہے نہ مرا عشق فرشتوں جیسا",
+      "english": "You are not God, nor is my love like an angel’s;",
+      "verse": true
+    },
+    {
+      "urdu": "دونوں انساں ہیں تو کیوں اتنے حجابوں میں ملیں",
+      "english": "we are both human, so why should we meet behind so many veils?",
+      "verse": true,
+      "explanation": {
+        "urdu": "نہ محبوب خدا ہے اور نہ عاشق فرشتہ۔ دونوں عام انسان ہیں، اس لیے اتنے پردوں اور تکلفات کے ساتھ ملنے کی کیا ضرورت ہے۔",
+        "english": "The beloved is not God and the lover is no angel. Both are ordinary humans, so why meet behind so many veils and formalities?"
+      }
+    },
+    {
+      "urdu": "آج ہم دار پہ کھینچے گئے جن باتوں پر",
+      "english": "The words for which we were hanged on the gallows today —",
+      "verse": true
+    },
+    {
+      "urdu": "کیا عجب کل وہ زمانے کو نصابوں میں ملیں",
+      "english": "no wonder if tomorrow the world finds them in its textbooks.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جن سچی باتوں کی وجہ سے آج ہمیں سزا دی گئی، ہو سکتا ہے کل وہی باتیں اسکولوں کی کتابوں میں پڑھائی جائیں۔ یعنی آج کا باغی کل کا ہیرو ہوتا ہے۔",
+        "english": "The truths for which we are punished today may well be taught in schoolbooks tomorrow: today’s rebel is tomorrow’s hero."
+      }
+    },
+    {
+      "urdu": "اب نہ وہ میں نہ وہ تو ہے نہ وہ ماضی ہے فرازؔ",
+      "english": "Now I am not that I, nor you that you, nor the past that past, Faraz;",
+      "verse": true
+    },
+    {
+      "urdu": "جیسے دو شخص تمنا کے سرابوں میں ملیں",
+      "english": "it is like two people meeting in the mirages of desire.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اب نہ میں پہلے جیسا ہوں، نہ تم، نہ وہ پرانا وقت۔ اب ہمارا ملنا ایسا ہے جیسے دو لوگ ریگستان کے سراب میں ملیں، یعنی یہ ملاقات بھی ایک دھوکا ہے۔",
+        "english": "Neither I nor you nor the past is what it was. Our meeting now is like two people meeting in a desert mirage — an illusion."
+      }
+    }
+  ],
+  "glossary": {
+    "اب": [
+      "ab",
+      "now (“ab ke” = this time)"
+    ],
+    "کے": [
+      "ke",
+      "of (oblique); (“ab ke” = this time)"
+    ],
+    "ہم": [
+      "hum",
+      "we"
+    ],
+    "بچھڑے": [
+      "bichhre",
+      "parted; were separated"
+    ],
+    "تو": [
+      "to / tu",
+      "then; so / you (intimate: “tu khuda hai” = you are God)"
+    ],
+    "شاید": [
+      "shaayad",
+      "perhaps"
+    ],
+    "کبھی": [
+      "kabhi",
+      "sometime; ever"
+    ],
+    "خوابوں": [
+      "khwaabon",
+      "dreams (pl. oblique)"
+    ],
+    "میں": [
+      "mein / main",
+      "in / I (“na woh main” = nor am I that I)"
+    ],
+    "ملیں": [
+      "milen",
+      "(may) meet; be found"
+    ],
+    "جس": [
+      "jis",
+      "which (“jis tarah” = just as, the way)"
+    ],
+    "سوکھے": [
+      "sookhe",
+      "dried"
+    ],
+    "ہوئے": [
+      "hue",
+      "(-ed) (“sookhe hue” = dried; “ujre hue” = ruined)"
+    ],
+    "پھول": [
+      "phool",
+      "flowers"
+    ],
+    "کتابوں": [
+      "kitaabon",
+      "books (pl. oblique)"
+    ],
+    "ڈھونڈ": [
+      "dhoondh",
+      "search; look for (command, intimate)"
+    ],
+    "اجڑے": [
+      "ujre",
+      "ruined; desolate"
+    ],
+    "لوگوں": [
+      "logon",
+      "people (pl. oblique)"
+    ],
+    "وفا": [
+      "wafa",
+      "faithfulness; loyalty"
+    ],
+    "موتی": [
+      "moti",
+      "pearls"
+    ],
+    "خزانے": [
+      "khazaane",
+      "treasures"
+    ],
+    "تجھے": [
+      "tujhe",
+      "to you (intimate)"
+    ],
+    "ممکن": [
+      "mumkin",
+      "possible (“mumkin hai” = it may be that)"
+    ],
+    "خرابوں": [
+      "kharaabon",
+      "ruins (pl. oblique)"
+    ],
+    "غم": [
+      "gham(-e)",
+      "sorrow (“gham-e-duniya” = sorrow of the world; “gham-e-yaar” = sorrow of love)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "یار": [
+      "yaar",
+      "beloved; friend"
+    ],
+    "شامل": [
+      "shaamil",
+      "included (“shaamil kar lo” = add, include)"
+    ],
+    "لو": [
+      "lo",
+      "(for yourself) (“kar lo” = do it, add it)"
+    ],
+    "نشہ": [
+      "nasha",
+      "intoxication"
+    ],
+    "بڑھتا": [
+      "barhta",
+      "grows; increases"
+    ],
+    "شرابیں": [
+      "sharaaben",
+      "wines (pl.)"
+    ],
+    "جو": [
+      "jo",
+      "when; if (“jo … milen” = when they are mixed)"
+    ],
+    "شرابوں": [
+      "sharaabon",
+      "wines (pl. oblique)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "نہ": [
+      "na",
+      "not; nor (“na … na” = neither … nor)"
+    ],
+    "مرا": [
+      "mera",
+      "my (short poetic spelling of “mera”)"
+    ],
+    "عشق": [
+      "ishq",
+      "love; passion"
+    ],
+    "فرشتوں": [
+      "farishton",
+      "angels (pl. oblique)"
+    ],
+    "جیسا": [
+      "jaisa",
+      "like"
+    ],
+    "دونوں": [
+      "donon",
+      "both"
+    ],
+    "انساں": [
+      "insaan",
+      "human beings (poetic short spelling of “insaan”)"
+    ],
+    "اتنے": [
+      "itne",
+      "so many"
+    ],
+    "حجابوں": [
+      "hijaabon",
+      "veils (pl. oblique)"
+    ],
+    "دار": [
+      "daar",
+      "gallows"
+    ],
+    "پہ": [
+      "pe",
+      "on (short form of “par”)"
+    ],
+    "کھینچے": [
+      "khenche",
+      "pulled; hoisted (“daar pe khenche gaye” = were hanged)"
+    ],
+    "جن": [
+      "jin",
+      "which (pl. oblique) (“jin baaton par” = for which words)"
+    ],
+    "باتوں": [
+      "baaton",
+      "words; things said (pl. oblique)"
+    ],
+    "پر": [
+      "par",
+      "on; for (“jin baaton par” = for which words)"
+    ],
+    "کیا": [
+      "kya",
+      "what (“kya ajab” = no wonder)"
+    ],
+    "عجب": [
+      "ajab",
+      "strange (“kya ajab” = it would be no wonder)"
+    ],
+    "کل": [
+      "kal",
+      "tomorrow"
+    ],
+    "وہ": [
+      "woh",
+      "those; that (“na woh main” = I am not that same I)"
+    ],
+    "زمانے": [
+      "zamaane",
+      "the world; the age (oblique)"
+    ],
+    "نصابوں": [
+      "nisaabon",
+      "syllabuses; textbooks (pl. oblique)"
+    ],
+    "ماضی": [
+      "maazi",
+      "the past"
+    ],
+    "فراز": [
+      "faraz",
+      "Faraz (the poet’s pen name, addressing himself)"
+    ],
+    "جیسے": [
+      "jaise",
+      "like; as if"
+    ],
+    "شخص": [
+      "shakhs",
+      "persons; people"
+    ],
+    "تمنا": [
+      "tamanna",
+      "desire; longing"
+    ],
+    "سرابوں": [
+      "saraabon",
+      "mirages (pl. oblique)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر میں شاعر جدائی کے بعد ملنے کو کس چیز سے تشبیہ دیتا ہے؟",
+      "english": "In the first couplet, what does the poet compare meeting after parting to?",
+      "options": [
+        {
+          "urdu": "بارش کے بعد دھوپ سے",
+          "english": "sunshine after rain"
+        },
+        {
+          "urdu": "کتابوں میں رکھے سوکھے پھولوں سے",
+          "english": "dried flowers kept in books"
+        },
+        {
+          "urdu": "دریا کے کنارے سے",
+          "english": "a riverbank"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعر کے مطابق وفا کے موتی کہاں مل سکتے ہیں؟",
+      "english": "According to the poet, where can the pearls of loyalty be found?",
+      "options": [
+        {
+          "urdu": "اجڑے ہوئے لوگوں میں",
+          "english": "among ruined people"
+        },
+        {
+          "urdu": "بادشاہوں کے محلوں میں",
+          "english": "in kings’ palaces"
+        },
+        {
+          "urdu": "سمندر کی تہہ میں",
+          "english": "at the bottom of the sea"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "“دار پہ کھینچے گئے” والے شعر کا کیا مطلب ہے؟",
+      "english": "What does the couplet about being hanged on the gallows mean?",
+      "options": [
+        {
+          "urdu": "کہ سچ بولنے والوں کو ہمیشہ بھلا دیا جاتا ہے",
+          "english": "that truth-tellers are always forgotten"
+        },
+        {
+          "urdu": "کہ شاعر کو کتابیں پسند ہیں",
+          "english": "that the poet likes books"
+        },
+        {
+          "urdu": "کہ جن باتوں پر آج سزا ملتی ہے، کل وہی پڑھائی جا سکتی ہیں",
+          "english": "that words punished today may be taught tomorrow"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

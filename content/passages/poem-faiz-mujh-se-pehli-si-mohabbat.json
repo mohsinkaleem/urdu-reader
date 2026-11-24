@@ -1,0 +1,551 @@
+{
+  "id": "poem-faiz-mujh-se-pehli-si-mohabbat",
+  "title": {
+    "urdu": "مجھ سے پہلی سی محبت مری محبوب نہ مانگ",
+    "english": "Do Not Ask Me, My Love, for That Love Again"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "source": {
+    "name": "Rekhta: مجھ سے پہلی سی محبت مری محبوب نہ مانگ",
+    "url": "https://www.rekhta.org/nazms/mujh-se-pahlii-sii-mohabbat-mirii-mahbuub-na-maang-mujh-se-pahlii-sii-mohabbat-mirii-mahbuub-na-maang-faiz-ahmad-faiz-nazms?lang=ur",
+    "author": "Faiz Ahmad Faiz",
+    "license": "Personal use only"
+  },
+  "intro": "Faiz Ahmad Faiz (1911–1984) placed this nazm at the head of the second part of his first collection, Naqsh-e-Faryadi (1941). It marks his turn from romantic poetry to a poetry of social conscience: the poet tells his beloved he can no longer love her as he once did, because the suffering of the world has claimed his heart too. Noor Jehan’s sung version made it famous. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "مجھ سے پہلی سی محبت مری محبوب نہ مانگ",
+      "english": "Do not ask me, my love, for the love I once gave you.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر اپنی محبوبہ سے کہتا ہے کہ مجھ سے پہلے جیسی محبت کی امید نہ رکھو۔ اب میرا دل صرف تمہارا نہیں رہا۔",
+        "english": "The poet tells his beloved not to expect the same love from him as before. His heart no longer belongs to her alone."
+      }
+    },
+    {
+      "urdu": "میں نے سمجھا تھا کہ تو ہے تو درخشاں ہے حیات",
+      "english": "I had believed that if you were there, life would be radiant;",
+      "verse": true
+    },
+    {
+      "urdu": "تیرا غم ہے تو غم دہر کا جھگڑا کیا ہے",
+      "english": "if I had the sorrow of loving you, why worry about the sorrows of the world?",
+      "verse": true,
+      "explanation": {
+        "urdu": "جوانی میں شاعر سمجھتا تھا کہ اگر محبوب ساتھ ہو تو زندگی روشن ہے۔ محبوب کا غم دل میں ہو تو دنیا کے باقی غموں کی کوئی پروا نہیں۔",
+        "english": "When young, the poet believed that if the beloved was with him, life was bright. With the sorrow of love in his heart, the rest of the world’s sorrows did not matter."
+      }
+    },
+    {
+      "urdu": "تیری صورت سے ہے عالم میں بہاروں کو ثبات",
+      "english": "Your face is what keeps the spring seasons alive in the world;",
+      "verse": true
+    },
+    {
+      "urdu": "تیری آنکھوں کے سوا دنیا میں رکھا کیا ہے",
+      "english": "what is there in the world besides your eyes?",
+      "verse": true,
+      "explanation": {
+        "urdu": "اس کے خیال میں محبوب کے چہرے کی وجہ سے ہی دنیا میں بہار قائم ہے، اور اس کی آنکھوں کے سوا دنیا میں کچھ دیکھنے کے لائق نہیں۔",
+        "english": "He thought the beloved’s face was what kept spring alive in the world, and that nothing in the world was worth looking at except her eyes."
+      }
+    },
+    {
+      "urdu": "تو جو مل جائے تو تقدیر نگوں ہو جائے",
+      "english": "If only you were mine, fate itself would bow its head.",
+      "verse": true
+    },
+    {
+      "urdu": "یوں نہ تھا میں نے فقط چاہا تھا یوں ہو جائے",
+      "english": "It was not so; I had only wished it would be so.",
+      "verse": true,
+      "explanation": {
+        "urdu": "وہ سمجھتا تھا کہ محبوب مل جائے تو قسمت بھی اس کے آگے جھک جائے گی۔ مگر اب وہ مانتا ہے کہ ایسا نہیں تھا، یہ صرف اس کی خواہش تھی۔",
+        "english": "He thought that if he won her, even fate would bow before him. Now he admits it was never so; it was only his wish."
+      }
+    },
+    {
+      "urdu": "اور بھی دکھ ہیں زمانے میں محبت کے سوا",
+      "english": "There are other sorrows in the world besides love,",
+      "verse": true
+    },
+    {
+      "urdu": "راحتیں اور بھی ہیں وصل کی راحت کے سوا",
+      "english": "and other comforts besides the comfort of union.",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہ نظم کا سب سے مشہور شعر ہے: دنیا میں محبت کے غم کے علاوہ اور بھی بہت سے دکھ ہیں، اور محبوب سے ملنے کی خوشی کے علاوہ اور بھی خوشیاں ہیں۔",
+        "english": "This is the poem’s most famous couplet: the world holds many sorrows besides the sorrow of love, and many joys besides the joy of being with the beloved."
+      }
+    },
+    {
+      "urdu": "ان گنت صدیوں کے تاریک بہیمانہ طلسم",
+      "english": "The dark, brutal spell of countless centuries,",
+      "verse": true
+    },
+    {
+      "urdu": "ریشم و اطلس و کمخاب میں بنوائے ہوئے",
+      "english": "woven into silk, satin and brocade;",
+      "verse": true,
+      "explanation": {
+        "urdu": "اب شاعر کی نظر معاشرے کے ظلم پر ہے۔ صدیوں سے ظلم کا ایک اندھیرا اور وحشیانہ جادو چلا آ رہا ہے، اور امیروں کے ریشم اور کمخاب کے قیمتی کپڑے بھی اسی ظلم سے بنے ہیں۔",
+        "english": "Now the poet looks at the cruelty of society. For countless centuries a dark, savage spell of oppression has held sway, and even the silk and brocade of the rich are woven out of it."
+      }
+    },
+    {
+      "urdu": "جا بہ جا بکتے ہوئے کوچہ و بازار میں جسم",
+      "english": "bodies being sold everywhere, in lanes and markets,",
+      "verse": true
+    },
+    {
+      "urdu": "خاک میں لتھڑے ہوئے خون میں نہلائے ہوئے",
+      "english": "smeared with dust, bathed in blood;",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر دیکھتا ہے کہ گلیوں اور بازاروں میں جگہ جگہ انسانوں کے جسم بکتے ہیں، جو مٹی میں لتھڑے اور خون میں نہائے ہوئے ہیں۔ یعنی غریبوں کو بیچا اور لوٹا جا رہا ہے۔",
+        "english": "He sees human bodies being sold everywhere in lanes and markets, smeared with dust and bathed in blood: the poor are being bought, sold and exploited."
+      }
+    },
+    {
+      "urdu": "جسم نکلے ہوئے امراض کے تنوروں سے",
+      "english": "bodies emerging from the ovens of disease,",
+      "verse": true
+    },
+    {
+      "urdu": "پیپ بہتی ہوئی گلتے ہوئے ناسوروں سے",
+      "english": "pus flowing from festering sores —",
+      "verse": true,
+      "explanation": {
+        "urdu": "وہ بیمار اور بھوکے لوگوں کو دیکھتا ہے جن کے جسم بیماریوں کی آگ میں جل رہے ہیں اور جن کے زخموں سے پیپ بہہ رہی ہے۔",
+        "english": "He sees the sick and the starving, their bodies burning in the furnace of disease, pus flowing from their festering wounds."
+      }
+    },
+    {
+      "urdu": "لوٹ جاتی ہے ادھر کو بھی نظر کیا کیجے",
+      "english": "my gaze turns that way too; what can I do?",
+      "verse": true
+    },
+    {
+      "urdu": "اب بھی دل کش ہے ترا حسن مگر کیا کیجے",
+      "english": "Your beauty is still enchanting, but what can I do?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ میری نظر بار بار ان دکھوں کی طرف بھی جاتی ہے، میں کیا کروں۔ تمہارا حسن اب بھی دل کو کھینچتا ہے، مگر میں مجبور ہوں۔",
+        "english": "The poet says his gaze keeps turning to this suffering too — what can he do? Her beauty still draws his heart, but he cannot help it."
+      }
+    },
+    {
+      "urdu": "اور بھی دکھ ہیں زمانے میں محبت کے سوا",
+      "english": "There are other sorrows in the world besides love,",
+      "verse": true
+    },
+    {
+      "urdu": "راحتیں اور بھی ہیں وصل کی راحت کے سوا",
+      "english": "and other comforts besides the comfort of union.",
+      "verse": true
+    },
+    {
+      "urdu": "مجھ سے پہلی سی محبت مری محبوب نہ مانگ",
+      "english": "Do not ask me, my love, for the love I once gave you.",
+      "verse": true,
+      "explanation": {
+        "urdu": "نظم انہی مصرعوں پر ختم ہوتی ہے جن سے شروع ہوئی تھی۔ شاعر اب بھی محبوبہ سے محبت کرتا ہے، مگر اب اس کے دل میں پوری انسانیت کا دکھ بھی ہے۔",
+        "english": "The poem ends with the lines it began with. The poet still loves her, but now his heart also carries the suffering of all humanity."
+      }
+    }
+  ],
+  "glossary": {
+    "مجھ": [
+      "mujh",
+      "me (“mujh se” = from me)"
+    ],
+    "سے": [
+      "se",
+      "from (“mujh se” = from me); because of (“teri soorat se” = because of your face); (“ke siwa” = besides)"
+    ],
+    "پہلی": [
+      "pehli",
+      "first; earlier (f.) (“pehli si” = as before)"
+    ],
+    "سی": [
+      "si",
+      "like (f.) (“pehli si mohabbat” = love like before)"
+    ],
+    "محبت": [
+      "mohabbat",
+      "love"
+    ],
+    "مری": [
+      "meri",
+      "my (f.; short poetic spelling of “meri”)"
+    ],
+    "محبوب": [
+      "mehboob",
+      "beloved"
+    ],
+    "نہ": [
+      "na",
+      "don’t (with a command: “na maang” = don’t ask); not"
+    ],
+    "مانگ": [
+      "maang",
+      "ask for; demand (command, intimate)"
+    ],
+    "میں": [
+      "main / mein",
+      "I (“main ne” = I) / in (“aalam mein” = in the world)"
+    ],
+    "سمجھا": [
+      "samjha",
+      "understood; believed (“samjha tha” = had believed)"
+    ],
+    "تو": [
+      "tu / to",
+      "you (intimate) / then (“tu hai to” = if you are there, then)"
+    ],
+    "درخشاں": [
+      "darakhshaan",
+      "radiant; shining"
+    ],
+    "حیات": [
+      "hayaat",
+      "life"
+    ],
+    "تیرا": [
+      "tera",
+      "your (m., intimate)"
+    ],
+    "غم": [
+      "gham(-e)",
+      "sorrow (“gham-e-dehr” = the sorrows of the world)"
+    ],
+    "دہر": [
+      "dehr",
+      "the world; time (Persian)"
+    ],
+    "جھگڑا": [
+      "jhagra",
+      "quarrel; bother (“jhagra kya hai” = why fuss over)"
+    ],
+    "کیا": [
+      "kya",
+      "what (“rakha kya hai” = what is there; “kya kiije” = what can one do)"
+    ],
+    "تیری": [
+      "teri",
+      "your (f., intimate)"
+    ],
+    "صورت": [
+      "soorat",
+      "face"
+    ],
+    "عالم": [
+      "aalam",
+      "the world"
+    ],
+    "بہاروں": [
+      "bahaaron",
+      "springs; spring seasons (pl. oblique)"
+    ],
+    "ثبات": [
+      "sabaat",
+      "permanence; staying power"
+    ],
+    "آنکھوں": [
+      "aankhon",
+      "eyes (pl. oblique)"
+    ],
+    "سوا": [
+      "siwa",
+      "except; besides (“ke siwa” = besides)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "رکھا": [
+      "rakha",
+      "kept (“rakha kya hai” = what is there in it, what is it worth)"
+    ],
+    "جو": [
+      "jo",
+      "if (“tu jo mil jaaye” = if you were to be mine)"
+    ],
+    "مل": [
+      "mil",
+      "be found; be won (“mil jaaye” = were to be mine)"
+    ],
+    "جائے": [
+      "jaaye",
+      "would go (completes the verb: “mil jaaye”, “ho jaaye”)"
+    ],
+    "تقدیر": [
+      "taqdeer",
+      "fate; destiny"
+    ],
+    "نگوں": [
+      "nigoon",
+      "bowed; upside down (“nigoon ho jaana” = to bow down, be overturned)"
+    ],
+    "ہو": [
+      "ho",
+      "be; become (“ho jaaye” = would become)"
+    ],
+    "یوں": [
+      "yoon",
+      "so; like this"
+    ],
+    "فقط": [
+      "faqat",
+      "only; merely"
+    ],
+    "چاہا": [
+      "chaaha",
+      "wished; wanted (“chaaha tha” = had wished)"
+    ],
+    "اور": [
+      "aur",
+      "other; more (“aur bhi” = other … too); and"
+    ],
+    "دکھ": [
+      "dukh",
+      "sorrows; pains"
+    ],
+    "زمانے": [
+      "zamaane",
+      "the world; the age (oblique)"
+    ],
+    "راحتیں": [
+      "raahaten",
+      "comforts; joys (pl.)"
+    ],
+    "وصل": [
+      "wasl",
+      "union (with the beloved)"
+    ],
+    "راحت": [
+      "raahat",
+      "comfort; relief"
+    ],
+    "ان": [
+      "an",
+      "un- (“an-ginat” = countless)"
+    ],
+    "گنت": [
+      "ginat",
+      "counting (“an-ginat” = countless)"
+    ],
+    "صدیوں": [
+      "sadiyon",
+      "centuries (pl. oblique)"
+    ],
+    "تاریک": [
+      "taareek",
+      "dark"
+    ],
+    "بہیمانہ": [
+      "baheemaana",
+      "brutal; savage (literally “beast-like”)"
+    ],
+    "طلسم": [
+      "tilism",
+      "magic spell; enchantment"
+    ],
+    "ریشم": [
+      "resham",
+      "silk"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "اطلس": [
+      "atlas",
+      "satin"
+    ],
+    "کمخاب": [
+      "kamkhaab",
+      "brocade (rich silk woven with gold thread)"
+    ],
+    "بنوائے": [
+      "banwaaye",
+      "had woven; had made (“banwaaye hue” = woven, made to order)"
+    ],
+    "ہوئے": [
+      "hue",
+      "(-ed / -ing) (makes a participle: “bikte hue” = being sold)"
+    ],
+    "جا": [
+      "ja",
+      "place (“ja-ba-ja” = everywhere)"
+    ],
+    "بہ": [
+      "ba",
+      "to (Persian; “ja-ba-ja” = from place to place, everywhere)"
+    ],
+    "بکتے": [
+      "bikte",
+      "being sold"
+    ],
+    "کوچہ": [
+      "koocha",
+      "lane; street (“koocha-o-bazaar” = streets and markets)"
+    ],
+    "بازار": [
+      "bazaar",
+      "market"
+    ],
+    "جسم": [
+      "jism",
+      "body; bodies"
+    ],
+    "خاک": [
+      "khaak",
+      "dust"
+    ],
+    "لتھڑے": [
+      "lithre",
+      "smeared; soiled"
+    ],
+    "خون": [
+      "khoon",
+      "blood"
+    ],
+    "نہلائے": [
+      "nehlaaye",
+      "bathed (“nehlaaye hue” = bathed)"
+    ],
+    "نکلے": [
+      "nikle",
+      "come out (“nikle hue” = emerging)"
+    ],
+    "امراض": [
+      "amraaz",
+      "diseases (Arabic pl. of “marz”)"
+    ],
+    "تنوروں": [
+      "tanooron",
+      "ovens; furnaces (pl. oblique)"
+    ],
+    "پیپ": [
+      "peep",
+      "pus"
+    ],
+    "بہتی": [
+      "behti",
+      "flowing (f.)"
+    ],
+    "ہوئی": [
+      "hui",
+      "(-ing, f.) (“behti hui” = flowing)"
+    ],
+    "گلتے": [
+      "galte",
+      "rotting; festering"
+    ],
+    "ناسوروں": [
+      "naasooron",
+      "festering sores; ulcers (pl. oblique)"
+    ],
+    "لوٹ": [
+      "laut",
+      "turn back (“laut jaati hai” = keeps going back)"
+    ],
+    "جاتی": [
+      "jaati",
+      "goes (f.)"
+    ],
+    "ادھر": [
+      "udhar",
+      "that way (“udhar ko bhi” = towards that too)"
+    ],
+    "نظر": [
+      "nazar",
+      "gaze; eye"
+    ],
+    "کیجے": [
+      "kiije",
+      "one might do (polite, old form: “kya kiije” = what can one do)"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab bhi” = even now, still)"
+    ],
+    "دل": [
+      "dil",
+      "heart (“dil-kash” = attractive, literally “heart-pulling”)"
+    ],
+    "کش": [
+      "kash",
+      "pulling (“dil-kash” = enchanting)"
+    ],
+    "ترا": [
+      "tera",
+      "your (m.; short poetic spelling of “tera”)"
+    ],
+    "حسن": [
+      "husn",
+      "beauty"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شاعر محبت کے بارے میں کیا سمجھتا تھا؟",
+      "english": "What did the poet once believe about love?",
+      "options": [
+        {
+          "urdu": "کہ محبت وقت کا ضیاع ہے",
+          "english": "that love is a waste of time"
+        },
+        {
+          "urdu": "کہ محبوب ساتھ ہو تو زندگی روشن ہے اور باقی غموں کی پروا نہیں",
+          "english": "that with the beloved by his side life was radiant, and other sorrows did not matter"
+        },
+        {
+          "urdu": "کہ دولت محبت سے زیادہ ضروری ہے",
+          "english": "that wealth matters more than love"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعر اب پہلے جیسی محبت کیوں نہیں کر سکتا؟",
+      "english": "Why can’t the poet love as he did before?",
+      "options": [
+        {
+          "urdu": "کیونکہ محبوبہ اب خوب صورت نہیں رہی",
+          "english": "because the beloved is no longer beautiful"
+        },
+        {
+          "urdu": "کیونکہ اسے کسی اور سے محبت ہو گئی ہے",
+          "english": "because he has fallen for someone else"
+        },
+        {
+          "urdu": "کیونکہ اس کی نظر دنیا کے ظلم اور غریبوں کے دکھ کی طرف بھی جاتی ہے",
+          "english": "because his eyes are also drawn to the cruelty of the world and the suffering of the poor"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "کیا شاعر کے خیال میں محبوبہ کا حسن ختم ہو گیا ہے؟",
+      "english": "Does the poet think the beloved’s beauty has faded?",
+      "options": [
+        {
+          "urdu": "نہیں، وہ کہتا ہے کہ اس کا حسن اب بھی دل کش ہے",
+          "english": "No, he says her beauty is still enchanting"
+        },
+        {
+          "urdu": "ہاں، وہ کہتا ہے کہ وہ اب بوڑھی ہو گئی ہے",
+          "english": "Yes, he says she has grown old"
+        },
+        {
+          "urdu": "وہ اس بارے میں کچھ نہیں کہتا",
+          "english": "He says nothing about it"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

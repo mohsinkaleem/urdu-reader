@@ -1,0 +1,434 @@
+{
+  "id": "wiki-nusrat-fateh-ali-khan",
+  "title": {
+    "urdu": "نصرت فتح علی خان",
+    "english": "Nusrat Fateh Ali Khan"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "source": {
+    "name": "Urdu Wikipedia: نصرت فتح علی خان",
+    "url": "https://ur.wikipedia.org/wiki/%D9%86%D8%B5%D8%B1%D8%AA_%D9%81%D8%AA%D8%AD_%D8%B9%D9%84%DB%8C_%D8%AE%D8%A7%D9%86",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "The opening of the Urdu Wikipedia article on Nusrat Fateh Ali Khan, the qawwali singer who brought Sufi music to audiences around the world. Look out for the English loanwords (“parfaarmans”, “album”, “rileez”) mixed into formal Urdu.",
+  "sentences": [
+    {
+      "urdu": "استاد نصرت فتح علی خان ( 13 اکتوبر 1948ء -16 اگست 1997ء)، عظیم پاکستانی قوال، موسیقار، موسیقی ہدایت کار اور بنیادی طور پر قوالی کے گلوکار تھے۔",
+      "english": "Ustad Nusrat Fateh Ali Khan (13 October 1948 – 16 August 1997) was a great Pakistani qawwal, musician and music director, and above all a singer of qawwali."
+    },
+    {
+      "urdu": "نصرت فتح علی خان کو اردو زبان میں صوفی گلوکار اور جنوبی ایشیاء کے سب سے بڑے قوالی کے گلوکار کے طور پر جانا جاتا ہے۔",
+      "english": "In Urdu, Nusrat Fateh Ali Khan is known as a Sufi singer and as the greatest qawwali singer of South Asia."
+    },
+    {
+      "urdu": "انھوں نے پاپ و کلاسیکی موسیقی کو یک جاں کرکے موسیقی کو نئی جہت بخشی۔",
+      "english": "By fusing pop and classical music, he gave music a new dimension."
+    },
+    {
+      "urdu": "انھیں \"شہنشاہ قوالی\" بھی کہا جاتا ہے۔",
+      "english": "He is also called “Shahenshah-e-Qawwali”, the King of Qawwali."
+    },
+    {
+      "urdu": "انھوں نے اپنی پہلی پرفارمنس ریڈیو پاکستان کے سالانہ موسیقی کے پروگرام ’جشن بہاراں‘ کے ذریعے دی۔",
+      "english": "He gave his first performance on Radio Pakistan's annual music programme “Jashn-e-Baharan”."
+    },
+    {
+      "urdu": "ان کی پہلی کامیاب قوالی ’’حق علی علی‘‘ تھی جو دنیا بھر میں ان کی شناخت کا باعث بنی۔",
+      "english": "His first successful qawwali was “Haq Ali Ali”, which made him known all over the world."
+    },
+    {
+      "urdu": "نصرت فتح علی خان زیادہ تر اُردو، پنجابی جبکہ کبھی کبھی فارسی، برج بھاشہ اور ہندی زبان میں بھی گاتے تھے۔",
+      "english": "Nusrat Fateh Ali Khan sang mostly in Urdu and Punjabi, and sometimes also in Persian, Braj Bhasha and Hindi."
+    },
+    {
+      "urdu": "انھوں نے اپنی زندگی میں متعدد البم ریلیز کیے، جس میں قوالی کے 125 آڈیو البم شامل ہیں۔",
+      "english": "In his lifetime he released many albums, including 125 audio albums of qawwali."
+    },
+    {
+      "urdu": "جس کی وجہ سے ان کا نام گنیز بک آف ورلڈ ریکارڈ میں بھی درج کیا گیا۔",
+      "english": "Because of this his name was also entered in the Guinness Book of World Records."
+    }
+  ],
+  "glossary": {
+    "استاد": [
+      "ustaad",
+      "Ustad, “master” (title for a master musician)"
+    ],
+    "نصرت": [
+      "nusrat",
+      "Nusrat"
+    ],
+    "فتح": [
+      "fateh",
+      "Fateh"
+    ],
+    "علی": [
+      "ali",
+      "Ali"
+    ],
+    "خان": [
+      "khaan",
+      "Khan"
+    ],
+    "اکتوبر": [
+      "aktoobar",
+      "October"
+    ],
+    "اگست": [
+      "agast",
+      "August"
+    ],
+    "1948ء": [
+      "1948 eesvi",
+      "1948 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1997ء": [
+      "1997 eesvi",
+      "1997 CE"
+    ],
+    "عظیم": [
+      "azeem",
+      "great"
+    ],
+    "پاکستانی": [
+      "paakistaani",
+      "Pakistani"
+    ],
+    "قوال": [
+      "qawwaal",
+      "qawwal, a singer of qawwali"
+    ],
+    "موسیقار": [
+      "mauseeqaar",
+      "musician; composer"
+    ],
+    "موسیقی": [
+      "mauseeqi",
+      "music"
+    ],
+    "ہدایت": [
+      "hidaayat",
+      "direction; guidance (“hidaayat kaar” = director)"
+    ],
+    "کار": [
+      "kaar",
+      "doer; -er (“hidaayat kaar” = director)"
+    ],
+    "بنیادی": [
+      "buniyaadi",
+      "basic (“buniyaadi taur par” = basically, above all)"
+    ],
+    "طور": [
+      "taur",
+      "manner (“buniyaadi taur par” = basically; “ke taur par” = as)"
+    ],
+    "قوالی": [
+      "qawwaali",
+      "qawwali, Sufi devotional singing"
+    ],
+    "گلوکار": [
+      "gulookaar",
+      "singer"
+    ],
+    "اردو": [
+      "urdu",
+      "Urdu"
+    ],
+    "زبان": [
+      "zabaan",
+      "language"
+    ],
+    "صوفی": [
+      "soofi",
+      "Sufi"
+    ],
+    "جنوبی": [
+      "junoobi",
+      "southern (“junoobi eshiya” = South Asia)"
+    ],
+    "ایشیاء": [
+      "eshiya",
+      "Asia (spelt here with a final ء)"
+    ],
+    "بڑے": [
+      "baṛe",
+      "big (oblique) (“sab se baṛe” = the greatest)"
+    ],
+    "جانا": [
+      "jaana",
+      "known (from “jaanna”, to know) (“jaana jaata hai” = is known)"
+    ],
+    "انھوں": [
+      "unhon",
+      "he (respectful, with “ne”)"
+    ],
+    "پاپ": [
+      "pop",
+      "pop (music)"
+    ],
+    "کلاسیکی": [
+      "klaaseeki",
+      "classical"
+    ],
+    "یک": [
+      "yak",
+      "one (“yak jaan karna” = to unite, to fuse)"
+    ],
+    "جاں": [
+      "jaan",
+      "life; soul (“yak jaan karna” = to unite, to fuse)"
+    ],
+    "کرکے": [
+      "kar ke",
+      "by doing; having done (“yak jaan kar ke” = by fusing)"
+    ],
+    "نئی": [
+      "nai",
+      "new (f.)"
+    ],
+    "جہت": [
+      "jehat",
+      "dimension; direction"
+    ],
+    "بخشی": [
+      "bakhshi",
+      "gave; bestowed (f.)"
+    ],
+    "انھیں": [
+      "unhen",
+      "him (respectful) (“unhen … kaha jaata hai” = he is called)"
+    ],
+    "شہنشاہ": [
+      "shahanshaah",
+      "emperor; king of kings (“shahanshaah-e-qawwaali” = King of Qawwali)"
+    ],
+    "کہا": [
+      "kaha",
+      "said (“kaha jaata hai” = is called)"
+    ],
+    "پہلی": [
+      "pehli",
+      "first (f.)"
+    ],
+    "پرفارمنس": [
+      "parfaarmans",
+      "performance"
+    ],
+    "ریڈیو": [
+      "reḍiyo",
+      "radio"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "سالانہ": [
+      "saalaana",
+      "annual"
+    ],
+    "پروگرام": [
+      "prograam",
+      "programme"
+    ],
+    "جشن": [
+      "jashn",
+      "celebration; festival (“jashn-e-bahaaraan” = Festival of Spring)"
+    ],
+    "بہاراں": [
+      "bahaaraan",
+      "springtime (poetic) (“jashn-e-bahaaraan” = Festival of Spring)"
+    ],
+    "ذریعے": [
+      "zariye",
+      "means (“ke zariye” = through, by means of)"
+    ],
+    "دی": [
+      "di",
+      "gave (f.)"
+    ],
+    "کامیاب": [
+      "kaamyaab",
+      "successful"
+    ],
+    "حق": [
+      "haq",
+      "truth; the Truth, i.e. God (“haq ali ali” = the qawwali's title)"
+    ],
+    "دنیا": [
+      "dunya",
+      "world (“dunya bhar mein” = all over the world)"
+    ],
+    "بھر": [
+      "bhar",
+      "whole (“dunya bhar mein” = throughout the world)"
+    ],
+    "شناخت": [
+      "shanaakht",
+      "recognition; identity"
+    ],
+    "باعث": [
+      "baais",
+      "cause (“ka baais bana” = became the cause of)"
+    ],
+    "بنی": [
+      "bani",
+      "became (f.)"
+    ],
+    "تر": [
+      "tar",
+      "(“zyaada tar” = mostly)"
+    ],
+    "پنجابی": [
+      "panjaabi",
+      "Punjabi"
+    ],
+    "جبکہ": [
+      "jabkeh",
+      "while; whereas"
+    ],
+    "کبھی": [
+      "kabhi",
+      "sometimes (“kabhi kabhi” = sometimes)"
+    ],
+    "فارسی": [
+      "faarsi",
+      "Persian"
+    ],
+    "برج": [
+      "braj",
+      "Braj (“braj bhaasha” = Braj Bhasha, an old literary dialect of Hindi)"
+    ],
+    "بھاشہ": [
+      "bhaasha",
+      "language (“braj bhaasha” = Braj Bhasha)"
+    ],
+    "ہندی": [
+      "hindi",
+      "Hindi"
+    ],
+    "گاتے": [
+      "gaate",
+      "sang (habitual) (“gaate the” = used to sing)"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "متعدد": [
+      "mutaaddid",
+      "numerous; many"
+    ],
+    "البم": [
+      "album",
+      "album(s)"
+    ],
+    "ریلیز": [
+      "rileez",
+      "release (“rileez karna” = to release)"
+    ],
+    "کیے": [
+      "kiye",
+      "did (pl.)"
+    ],
+    "آڈیو": [
+      "aaḍiyo",
+      "audio"
+    ],
+    "شامل": [
+      "shaamil",
+      "included"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason (“jis ki wajah se” = because of which)"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "گنیز": [
+      "ginees",
+      "Guinness"
+    ],
+    "بک": [
+      "buk",
+      "book (English)"
+    ],
+    "آف": [
+      "of",
+      "of (English)"
+    ],
+    "ورلڈ": [
+      "warlḍ",
+      "world (English)"
+    ],
+    "ریکارڈ": [
+      "rikaarḍ",
+      "record(s)"
+    ],
+    "درج": [
+      "darj",
+      "entered; recorded (“darj karna” = to enter, to record)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "نصرت فتح علی خان کو کس لقب سے بھی پکارا جاتا ہے؟",
+      "english": "What title is Nusrat Fateh Ali Khan also known by?",
+      "options": [
+        {
+          "urdu": "ملکہ ترنم",
+          "english": "Queen of Melody"
+        },
+        {
+          "urdu": "شہنشاہ قوالی",
+          "english": "King of Qawwali"
+        },
+        {
+          "urdu": "شاعر مشرق",
+          "english": "Poet of the East"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "ان کی پہلی کامیاب قوالی کون سی تھی؟",
+      "english": "What was his first successful qawwali?",
+      "options": [
+        {
+          "urdu": "حق علی علی",
+          "english": "Haq Ali Ali"
+        },
+        {
+          "urdu": "جشن بہاراں",
+          "english": "Jashn-e-Baharan"
+        },
+        {
+          "urdu": "شہنشاہ قوالی",
+          "english": "Shahenshah-e-Qawwali"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "ان کا نام گنیز بک آف ورلڈ ریکارڈ میں کیوں درج ہوا؟",
+      "english": "Why was his name entered in the Guinness Book of World Records?",
+      "options": [
+        {
+          "urdu": "سب سے لمبی قوالی گانے کی وجہ سے",
+          "english": "For singing the longest qawwali"
+        },
+        {
+          "urdu": "سب سے زیادہ زبانیں بولنے کی وجہ سے",
+          "english": "For speaking the most languages"
+        },
+        {
+          "urdu": "قوالی کے بہت سے البم ریلیز کرنے کی وجہ سے",
+          "english": "For releasing a great many qawwali albums"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "id": "poem-iqbal-shikwa-5",
+  "title": {
+    "urdu": "شکوہ (حصہ 5)",
+    "english": "Shikwa, part 5"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Stanzas 13–15 of “Shikwa”: after all this service, the poet complains, God accuses the Muslims of disloyalty; His mercies fall on other nations while lightning strikes the Muslims, and the idols rejoice that the guardians of the Ka'ba are gone.",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 5,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "صفحۂ دۃر سے باطل سے کومٹایا ہم نے",
+      "english": "We wiped falsehood from the page of time;",
+      "verse": true
+    },
+    {
+      "urdu": "نوعِ انساں کو غلامی سے چھڑایا ہم نے",
+      "english": "we freed mankind from slavery.",
+      "verse": true
+    },
+    {
+      "urdu": "تیرے کعبے کو جبینوں سے بسایا ہم نے",
+      "english": "We filled Your Ka'ba with bowing foreheads;",
+      "verse": true
+    },
+    {
+      "urdu": "تیرے قرآن کو سینوں سے لگایا ہم نے",
+      "english": "we held Your Quran close to our hearts.",
+      "verse": true
+    },
+    {
+      "urdu": "پھر بھی ہم سے یہ گِلا ہے کہ وفادار نہیں",
+      "english": "And still You complain of us that we are not faithful;",
+      "verse": true
+    },
+    {
+      "urdu": "ہم وفادار نہیں،تُو بھی تو دِلدار نہیں!",
+      "english": "if we are not faithful, You are not loving either!",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم نے دنیا سے جھوٹ اور باطل کو مٹایا اور انسانوں کو غلامی سے آزاد کیا۔ ہم نے تیرے کعبے کو سجدہ کرنے والوں سے آباد کیا اور قرآن کو دل سے لگایا۔ پھر بھی تجھے ہم سے شکایت ہے کہ ہم وفادار نہیں؛ شاعر کہتا ہے کہ اگر ہم وفادار نہیں تو تُو بھی ہم پر مہربان نہیں۔",
+        "english": "The Muslims wiped falsehood off the page of history, freed mankind from slavery, filled the Ka'ba with bowed foreheads and held the Quran to their hearts. Yet God complains that they are unfaithful. The poet's bold reply: if we are not faithful, You are not kind to us either."
+      }
+    },
+    {
+      "urdu": "اُمتیں اور بھی ہیں، اُن میں گناہگار بھی ہیں",
+      "english": "There are other nations too, and among them are sinners too;",
+      "verse": true
+    },
+    {
+      "urdu": "عجز والے بھی ہیں، مست مئے پندار بھی ہیں",
+      "english": "there are the humble, and those drunk on the wine of pride;",
+      "verse": true
+    },
+    {
+      "urdu": "ان میں کاہل بھی ہیں،غافل بھی ہیں،ہشیار بھی ہیں",
+      "english": "among them are the lazy, the heedless, and the clever too;",
+      "verse": true
+    },
+    {
+      "urdu": "سینکڑوں ہیں کہ ترے نام سے بیزار بھی ہیں",
+      "english": "hundreds of them even scorn Your name.",
+      "verse": true
+    },
+    {
+      "urdu": "رحمتیں ہیں تری اغیار کے کاشنوں پر",
+      "english": "Your mercies rain on the homes of others,",
+      "verse": true
+    },
+    {
+      "urdu": "برق گرتی ہے تو بیچارے مسلمانوں پر",
+      "english": "while the lightning falls on the poor Muslims.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دنیا میں اور قومیں بھی ہیں جن میں گناہ گار، عاجز، مغرور، سست، غافل اور ہوشیار سب طرح کے لوگ ہیں، بلکہ بہت سے لوگ تیرے نام سے بیزار بھی ہیں۔ پھر بھی تیری رحمتیں ان غیروں کے گھروں پر ہیں، اور مصیبت کی بجلی صرف بیچارے مسلمانوں پر گرتی ہے۔",
+        "english": "Other nations have sinners, humble and arrogant people, the lazy, the heedless and the clever; many even dislike God's name. Yet God's blessings fall on the homes of these outsiders, while the lightning of misfortune strikes only the poor Muslims."
+      }
+    },
+    {
+      "urdu": "بُت صنم خانوں مین کہتے ہیں مسلماں گئے",
+      "english": "In the idol-houses the idols say, “The Muslims are gone!”",
+      "verse": true
+    },
+    {
+      "urdu": "ہے خوشی ان کو کہ کعبے کے نگہبان گئے",
+      "english": "They are glad that the guardians of the Ka'ba are gone.",
+      "verse": true
+    },
+    {
+      "urdu": "منزلِ دہر سے اونٹوں کے حدی خواں گئی",
+      "english": "From the world's road the camel-drivers' singers have gone;",
+      "verse": true
+    },
+    {
+      "urdu": "اپنی بغلوں میں دبائے ہوئے قرآن گئے",
+      "english": "they went, pressing the Quran under their arms.",
+      "verse": true
+    },
+    {
+      "urdu": "خندہ زن ہے کُفر،احساس تجھے ہے کے نہیں",
+      "english": "Unbelief is laughing — do You feel it or not?",
+      "verse": true
+    },
+    {
+      "urdu": "اپنی توحید کا کچھ پاس تجھے ہے کہ نہیں",
+      "english": "Have You any regard for Your own oneness or not?",
+      "verse": true,
+      "explanation": {
+        "urdu": "بت خانوں میں بت خوش ہیں کہ مسلمان اور کعبے کے نگہبان چلے گئے۔ اونٹوں کے قافلے گیت گاتے ہوئے دنیا سے رخصت ہو گئے اور قرآن بغل میں دبا کر چلے گئے۔ کفر ہنس رہا ہے؛ شاعر پوچھتا ہے کہ اے خدا، کیا تجھے اس کا احساس ہے اور اپنی توحید کا کچھ خیال ہے یا نہیں؟",
+        "english": "The idols in their temples rejoice that the Muslims, guardians of the Ka'ba, have gone. The caravans, whose drivers sang “hudi” songs to their camels, have left the world's stage, carrying the Quran under their arms. Unbelief is laughing, and the poet asks God whether He feels it at all, and whether He has any regard for His own oneness, which the Muslims defended."
+      }
+    }
+  ],
+  "glossary": {
+    "صفحۂ": [
+      "safha-e",
+      "page of"
+    ],
+    "دۃر": [
+      "dahr",
+      "time, the world (misspelling of دہر)"
+    ],
+    "باطل": [
+      "baatil",
+      "falsehood"
+    ],
+    "کومٹایا": [
+      "ko miṭaaya",
+      "erased, wiped out (کو + مٹایا, run together)"
+    ],
+    "ہم": [
+      "ham",
+      "we; (in “ham-nava”) fellow-"
+    ],
+    "نوع": [
+      "nau-e",
+      "kind of (“nau-e-insaan” = mankind)"
+    ],
+    "انساں": [
+      "insaan",
+      "man, mankind (poetic form)"
+    ],
+    "غلامی": [
+      "ghulaami",
+      "slavery"
+    ],
+    "چھڑایا": [
+      "chhuṛaaya",
+      "freed"
+    ],
+    "تیرے": [
+      "tere",
+      "your"
+    ],
+    "کعبے": [
+      "kaabe",
+      "the Ka'ba (oblique)"
+    ],
+    "جبینوں": [
+      "jabeenon",
+      "foreheads (oblique pl.)"
+    ],
+    "بسایا": [
+      "basaaya",
+      "populated, filled"
+    ],
+    "قرآن": [
+      "quraan",
+      "the Quran"
+    ],
+    "سینوں": [
+      "seenon",
+      "chests, hearts (oblique pl.) (“seene se lagaana” = to hold dear)"
+    ],
+    "لگایا": [
+      "lagaaya",
+      "(“seenon se lagaaya” = held close)"
+    ],
+    "پھر": [
+      "phir",
+      "(“phir bhi” = even so, still)"
+    ],
+    "گلا": [
+      "gila",
+      "complaint (another spelling of گلہ)"
+    ],
+    "کہ": [
+      "keh",
+      "that; (“hai keh nahin” = … or not)"
+    ],
+    "وفادار": [
+      "wafaadaar",
+      "faithful, loyal"
+    ],
+    "تو": [
+      "to",
+      "then; too (“tu bhi to” = You too)"
+    ],
+    "دلدار": [
+      "dildaar",
+      "loving, kind (one who holds the heart)"
+    ],
+    "امتیں": [
+      "ummaten",
+      "nations, communities (pl.)"
+    ],
+    "ان": [
+      "un",
+      "them (“un ko” = they; “un mein” = among them)"
+    ],
+    "گناہگار": [
+      "gunaahgaar",
+      "sinners"
+    ],
+    "عجز": [
+      "ijz",
+      "humility (“ijz waale” = the humble)"
+    ],
+    "والے": [
+      "waale",
+      "people with (“ijz waale” = humble ones)"
+    ],
+    "مست": [
+      "mast-e",
+      "drunk on"
+    ],
+    "مئے": [
+      "mai-e",
+      "wine of (poetic)"
+    ],
+    "پندار": [
+      "pindaar",
+      "pride, conceit"
+    ],
+    "کاہل": [
+      "kaahil",
+      "lazy"
+    ],
+    "سینکڑوں": [
+      "saikṛon",
+      "hundreds"
+    ],
+    "ترے": [
+      "tere",
+      "your (poetic)"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "بیزار": [
+      "bezaar",
+      "averse to, fed up with"
+    ],
+    "رحمتیں": [
+      "rahmaten",
+      "mercies, blessings"
+    ],
+    "تری": [
+      "teri",
+      "your (poetic)"
+    ],
+    "اغیار": [
+      "aghyaar",
+      "others, strangers (pl. of ghair)"
+    ],
+    "کے": [
+      "ke",
+      "of (m. pl. / oblique); in “hai ke nahin” spelled for کہ (whether … or not)"
+    ],
+    "کاشنوں": [
+      "kaashaanon",
+      "homes, dwellings (oblique pl.; spelled here for کاشانوں)"
+    ],
+    "پر": [
+      "par",
+      "on"
+    ],
+    "برق": [
+      "barq",
+      "lightning"
+    ],
+    "گرتی": [
+      "girti",
+      "falls (f.)"
+    ],
+    "بیچارے": [
+      "bechaare",
+      "poor, helpless"
+    ],
+    "مسلمانوں": [
+      "musalmaanon",
+      "Muslims (oblique pl.)"
+    ],
+    "بت": [
+      "but",
+      "idol(s)"
+    ],
+    "صنم": [
+      "sanam",
+      "idol (“sanam-khaana” = idol-house, temple)"
+    ],
+    "خانوں": [
+      "khaanon",
+      "houses (oblique pl.; “sanam-khaana” = idol-house, temple)"
+    ],
+    "مین": [
+      "mein",
+      "in (old spelling of میں)"
+    ],
+    "کہتے": [
+      "kehte",
+      "say"
+    ],
+    "مسلماں": [
+      "musalmaan",
+      "the Muslims (poetic form)"
+    ],
+    "خوشی": [
+      "khushi",
+      "happiness, joy"
+    ],
+    "نگہبان": [
+      "nigahbaan",
+      "guardians"
+    ],
+    "منزل": [
+      "manzil-e",
+      "stage, journey of"
+    ],
+    "دہر": [
+      "dahr",
+      "the world; time"
+    ],
+    "اونٹوں": [
+      "oonṭon",
+      "camels (oblique pl.)"
+    ],
+    "حدی": [
+      "hudi",
+      "camel-driver's song (“hudi-khwaan” = one who sings it)"
+    ],
+    "خواں": [
+      "khwaan",
+      "singer (“hudi-khwaan” = singer of camel songs)"
+    ],
+    "گئی": [
+      "gayi",
+      "went (f.); here for “gaye” (went, pl.)"
+    ],
+    "بغلوں": [
+      "baghlon",
+      "armpits (oblique pl.; “baghal mein dabaana” = to carry under the arm)"
+    ],
+    "دبائے": [
+      "dabaaye",
+      "pressing, holding"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“tapte hue” = burning; “dabaaye hue” = pressing)"
+    ],
+    "خندہ": [
+      "khanda",
+      "laughter (“khanda-zan” = laughing, mocking)"
+    ],
+    "زن": [
+      "zan",
+      "doing (“khanda-zan” = laughing)"
+    ],
+    "تجھے": [
+      "tujhe",
+      "to You (“tujhe hai” = do You have)"
+    ],
+    "توحید": [
+      "tauheed",
+      "the oneness of God"
+    ],
+    "غافل": [
+      "ghaafil",
+      "heedless; careless"
+    ],
+    "ہشیار": [
+      "hoshyaar",
+      "clever; alert"
+    ],
+    "کفر": [
+      "kufr",
+      "unbelief"
+    ],
+    "احساس": [
+      "ehsaas",
+      "feeling; awareness (“ehsaas hai” = do You feel it)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کے مطابق اللہ کی رحمتیں کن پر ہیں؟",
+      "english": "According to the poet, on whom do God's mercies fall?",
+      "options": [
+        {
+          "urdu": "صرف مسلمانوں پر",
+          "english": "Only on the Muslims"
+        },
+        {
+          "urdu": "غیروں کے گھروں پر",
+          "english": "On the homes of others"
+        },
+        {
+          "urdu": "کسی پر نہیں",
+          "english": "On no one"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "تیرہویں بند کے آخر میں شاعر خدا سے کیا کہتا ہے؟",
+      "english": "At the end of the thirteenth stanza, what does the poet tell God?",
+      "options": [
+        {
+          "urdu": "ہم ہمیشہ وفادار رہیں گے",
+          "english": "We will always be faithful"
+        },
+        {
+          "urdu": "ہمیں کوئی شکایت نہیں",
+          "english": "We have no complaint"
+        },
+        {
+          "urdu": "اگر ہم وفادار نہیں تو تُو بھی دلدار نہیں",
+          "english": "If we are not faithful, You are not loving either"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "بت خانوں میں بت کیوں خوش ہیں؟",
+      "english": "Why are the idols in the idol-houses happy?",
+      "options": [
+        {
+          "urdu": "کیونکہ نئے بت بنائے گئے",
+          "english": "Because new idols were made"
+        },
+        {
+          "urdu": "کیونکہ مسلمان، کعبے کے نگہبان، چلے گئے",
+          "english": "Because the Muslims, guardians of the Ka'ba, are gone"
+        },
+        {
+          "urdu": "کیونکہ بارش ہوئی",
+          "english": "Because it rained"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

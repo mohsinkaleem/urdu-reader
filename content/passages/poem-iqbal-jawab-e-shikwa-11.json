@@ -1,0 +1,472 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-11",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 11)",
+    "english": "Jawab-e-Shikwa, part 11"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Iqbal’s “Jawab-e-Shikwa” (1913, later in Bang-e-Dara) is God’s answer to his earlier poem “Shikwa”, in which he had complained to God on behalf of the Muslims. In this part (stanzas 31–33) God tells the Muslims that the world still needs them, urges them to spread like fragrance out of the bud, and praises the name of the Prophet Muhammad, for whose sake the universe exists.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 11,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "چشمِ اقوام سے مخفی ہے حقیقت تیری",
+      "english": "Your reality is hidden from the eyes of the nations;",
+      "verse": true
+    },
+    {
+      "urdu": "ہے ابھی محفلِ ہستی کو ضرورت تیری",
+      "english": "the gathering of existence still needs you.",
+      "verse": true
+    },
+    {
+      "urdu": "زندہ رکھتی ہے زمانے کو حرارت تیری",
+      "english": "Your warmth keeps the age alive;",
+      "verse": true
+    },
+    {
+      "urdu": "کوکبِ قسمتِ امکاں ہے خلافت تیری",
+      "english": "your vicegerency is the lucky star of the whole created world.",
+      "verse": true
+    },
+    {
+      "urdu": "وقتِ فُرصت ہے کہاں، کام ابھی باقی ہے",
+      "english": "Where is the time for rest? The work still remains:",
+      "verse": true
+    },
+    {
+      "urdu": "نُورِ توحید کا اِتمام ابھی باقی ہے",
+      "english": "the light of God’s oneness has yet to be completed.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دوسری قومیں تیری اصل حقیقت نہیں جانتیں۔ دنیا کو ابھی تیری ضرورت ہے اور تیری گرمی زمانے کو زندہ رکھتی ہے۔ تیری خلافت دنیا کی قسمت کا ستارا ہے۔ ابھی آرام کا وقت نہیں، توحید کا نور پوری دنیا تک پہنچانے کا کام ابھی باقی ہے۔",
+        "english": "The nations do not see what the Muslim community really is. The world still needs it; its warmth keeps the age alive, and its role as God’s vicegerent (khilafat) is the lucky star of the whole created world. There is no time to rest: the light of God’s oneness is not yet complete — an echo of Quran 61:8, ‘God will complete His light’."
+      }
+    },
+    {
+      "urdu": "مثلِ بُو قید ہے غُنچے میں، پریشاں ہوجا",
+      "english": "Like fragrance you are imprisoned in the bud: scatter abroad;",
+      "verse": true
+    },
+    {
+      "urdu": "رخت بردوش ہوائے چَمنِستاں ہوجا",
+      "english": "pack your baggage on your shoulder and become the breeze of the garden.",
+      "verse": true
+    },
+    {
+      "urdu": "ہے تنک مایہ تو ذرّے سے بیاباں ہوجا",
+      "english": "If you are of slight substance, grow from a speck of dust into a desert;",
+      "verse": true
+    },
+    {
+      "urdu": "نغمۂ موج سے ہنگامۂ طُوفاں ہوجا!",
+      "english": "from the song of a ripple become the tumult of a storm!",
+      "verse": true
+    },
+    {
+      "urdu": "قُوّتِ عشق سے ہر پست کو بالا کر دے",
+      "english": "With the power of love raise every low thing high;",
+      "verse": true
+    },
+    {
+      "urdu": "دہر میں اسمِ محمّدؐ سے اُجالا کر دے",
+      "english": "fill the world with light through the name of Muhammad.",
+      "verse": true,
+      "explanation": {
+        "urdu": "تُو کلی میں بند خوشبو کی طرح ہے، باہر نکل کر ہر طرف پھیل جا اور باغ کی ہوا بن کر سفر کر۔ اگر تو چھوٹا ہے تو ذرّے سے صحرا بن جا، اور چھوٹی لہر سے طوفان بن جا۔ عشق کی طاقت سے ہر نیچی چیز کو اونچا کر دے اور حضرت محمدؐ کے نام سے دنیا روشن کر دے۔",
+        "english": "You are like fragrance trapped in a bud: break out and spread everywhere, travel like the garden breeze. If you are small, grow from a speck of dust into a desert, from a ripple into a storm. With the power of love lift up everything that is low, and fill the world with light through the name of Muhammad."
+      }
+    },
+    {
+      "urdu": "ہو نہ یہ پھُول تو بُلبل کا ترنُّم بھی نہ ہو",
+      "english": "If this flower did not exist, there would be no nightingale’s song,",
+      "verse": true
+    },
+    {
+      "urdu": "چَمنِ دہر میں کلیوں کا تبسّم بھی نہ ہو",
+      "english": "no smiling of the buds in the garden of the world;",
+      "verse": true
+    },
+    {
+      "urdu": "یہ نہ ساقی ہو تو پھرمے بھی نہ ہو، خُم بھی نہ ہو",
+      "english": "if this cupbearer did not exist, there would be no wine and no wine-jar,",
+      "verse": true
+    },
+    {
+      "urdu": "بزمِ توحید بھی دنیا میں نہ ہو، تم بھی نہ ہو",
+      "english": "no gathering of God’s oneness in the world — and no you.",
+      "verse": true
+    },
+    {
+      "urdu": "خیمہ افلاک کا اِستادہ اسی نام سے ہے",
+      "english": "The tent of the heavens stands upright by this very name;",
+      "verse": true
+    },
+    {
+      "urdu": "نبضِ ہستی تپش آمادہ اسی نام سے ہے",
+      "english": "the pulse of existence beats because of this very name.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر یہ پھول یعنی رسول اللہؐ نہ ہوتے تو نہ بلبل گاتی نہ کلیاں مسکراتیں۔ یہ ساقی نہ ہوتے تو نہ شراب ہوتی نہ مٹکا، نہ دنیا میں توحید کی محفل ہوتی اور نہ تم ہوتے۔ آسمان کا خیمہ اور زندگی کی دھڑکن اسی نام کی وجہ سے قائم ہیں۔",
+        "english": "The Prophet is the flower without which the nightingale would not sing nor the buds smile, the cupbearer without whom there would be no wine and no wine-jar — no gathering of believers in one God, and no you. The tent of the heavens stands, and the pulse of life beats, because of his name. This echoes the tradition ‘Were it not for you, I would not have created the heavens’."
+      }
+    }
+  ],
+  "glossary": {
+    "چشم": [
+      "chashm-e",
+      "eye (of)"
+    ],
+    "اقوام": [
+      "aqwaam-e",
+      "nations (pl.) (“aqwaam-e kuhan” = the ancient nations)"
+    ],
+    "مخفی": [
+      "makhfi",
+      "hidden"
+    ],
+    "حقیقت": [
+      "haqeeqat",
+      "reality; true nature"
+    ],
+    "تیری": [
+      "teri",
+      "your (f.)"
+    ],
+    "ابھی": [
+      "abhi",
+      "still; yet"
+    ],
+    "محفل": [
+      "mehfil-e",
+      "gathering (of)"
+    ],
+    "ہستی": [
+      "hasti",
+      "existence; being"
+    ],
+    "ضرورت": [
+      "zaroorat",
+      "need"
+    ],
+    "زندہ": [
+      "zinda",
+      "alive"
+    ],
+    "رکھتی": [
+      "rakhti",
+      "keeps (f.)"
+    ],
+    "زمانے": [
+      "zamaane",
+      "the world; the age (oblique) (“zamaane mein” = in the world)"
+    ],
+    "حرارت": [
+      "haraarat",
+      "warmth; heat"
+    ],
+    "کوکب": [
+      "kaukab-e",
+      "star (of) (“kaukab-e ghuncha” = the star of a bud)"
+    ],
+    "قسمت": [
+      "qismat-e",
+      "fortune; destiny (of)"
+    ],
+    "امکاں": [
+      "imkaan",
+      "possibility; (here) the whole created world"
+    ],
+    "خلافت": [
+      "khilaafat",
+      "vicegerency; leadership on God’s behalf"
+    ],
+    "وقت": [
+      "waqt-e",
+      "time (of)"
+    ],
+    "فرصت": [
+      "fursat",
+      "leisure; rest"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where"
+    ],
+    "نور": [
+      "noor-e",
+      "light (of)"
+    ],
+    "توحید": [
+      "tauheed",
+      "the oneness of God"
+    ],
+    "اتمام": [
+      "itmaam",
+      "completion"
+    ],
+    "مثل": [
+      "misl-e",
+      "like"
+    ],
+    "بو": [
+      "boo",
+      "fragrance"
+    ],
+    "قید": [
+      "qaid",
+      "imprisoned; confined"
+    ],
+    "غنچے": [
+      "ghunche",
+      "bud (oblique)"
+    ],
+    "پریشاں": [
+      "pareshaan",
+      "scattered; spread out (“pareshaan ho ja” = spread out everywhere)"
+    ],
+    "ہوجا": [
+      "ho ja",
+      "become! (command)"
+    ],
+    "رخت": [
+      "rakht",
+      "baggage; belongings"
+    ],
+    "بردوش": [
+      "bar-dosh",
+      "on the shoulder (“rakht bar-dosh” = baggage on shoulder, ready to set out)"
+    ],
+    "ہوائے": [
+      "hawaa-e",
+      "breeze (of)"
+    ],
+    "چمنستاں": [
+      "chamanistaan",
+      "flower garden"
+    ],
+    "تنک": [
+      "tunak",
+      "slight; thin (“tunak-maaya” = of little substance)"
+    ],
+    "مایہ": [
+      "maaya",
+      "capital; substance"
+    ],
+    "تو": [
+      "to",
+      "then (“hai tunak-maaya to” = if you are of little substance, then)"
+    ],
+    "ذرے": [
+      "zarre",
+      "speck of dust (oblique)"
+    ],
+    "بیاباں": [
+      "bayaabaan",
+      "wilderness; desert (poetic spelling)"
+    ],
+    "نغمۂ": [
+      "naghma-e",
+      "song (of)"
+    ],
+    "موج": [
+      "mauj",
+      "wave; ripple"
+    ],
+    "ہنگامۂ": [
+      "hangaama-e",
+      "tumult (of)"
+    ],
+    "طوفاں": [
+      "toofaan",
+      "storm (poetic spelling)"
+    ],
+    "قوت": [
+      "quwwat-e",
+      "strength; power (of)"
+    ],
+    "عشق": [
+      "ishq",
+      "love"
+    ],
+    "پست": [
+      "past",
+      "low"
+    ],
+    "بالا": [
+      "baala",
+      "high (“baala kar de” = raise up)"
+    ],
+    "دے": [
+      "de",
+      "(“kar de” = do it; make)"
+    ],
+    "دہر": [
+      "dahr",
+      "the world; time"
+    ],
+    "اسم": [
+      "ism-e",
+      "name (of)"
+    ],
+    "محمد": [
+      "muhammad",
+      "Muhammad, the Prophet (peace be upon him)"
+    ],
+    "اجالا": [
+      "ujaala",
+      "light"
+    ],
+    "ہو": [
+      "ho",
+      "be; were (“ho na yeh phool” = if this flower did not exist)"
+    ],
+    "پھول": [
+      "phool",
+      "flower (here, the Prophet)"
+    ],
+    "بلبل": [
+      "bulbul",
+      "nightingale"
+    ],
+    "ترنم": [
+      "tarannum",
+      "song; melody"
+    ],
+    "چمن": [
+      "chaman",
+      "garden"
+    ],
+    "کلیوں": [
+      "kaliyon",
+      "buds (pl. oblique)"
+    ],
+    "تبسم": [
+      "tabassum",
+      "smile"
+    ],
+    "ساقی": [
+      "saaqi",
+      "cupbearer (here, the Prophet)"
+    ],
+    "پھرمے": [
+      "phir mai",
+      "then wine (“phir” + “mai”, run together in the source)"
+    ],
+    "خم": [
+      "khum",
+      "wine-jar; vat"
+    ],
+    "بزم": [
+      "bazm-e",
+      "assembly; gathering (of)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "تم": [
+      "tum",
+      "you (pl.)"
+    ],
+    "خیمہ": [
+      "khaima",
+      "tent"
+    ],
+    "افلاک": [
+      "aflaak",
+      "the heavens; skies (pl.)"
+    ],
+    "استادہ": [
+      "istaada",
+      "standing; upright"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "نبض": [
+      "nabz-e",
+      "pulse (of)"
+    ],
+    "تپش": [
+      "tapish",
+      "throbbing; restless heat"
+    ],
+    "آمادہ": [
+      "aamaada",
+      "ready (“tapish-aamaada” = ready to throb, beating)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "مسلمان کے لیے ابھی آرام کا وقت کیوں نہیں؟",
+      "english": "Why is there no time yet for the Muslim to rest?",
+      "options": [
+        {
+          "urdu": "کیونکہ دشمن قریب ہیں",
+          "english": "because the enemy is near"
+        },
+        {
+          "urdu": "کیونکہ توحید کا نور ابھی پورا نہیں ہوا",
+          "english": "because the light of God’s oneness is not yet complete"
+        },
+        {
+          "urdu": "کیونکہ رات ہو گئی ہے",
+          "english": "because night has fallen"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "’مثلِ بُو قید ہے غنچے میں‘ میں مسلمان کو کیا کرنے کو کہا گیا ہے؟",
+      "english": "In “like fragrance imprisoned in the bud”, what is the Muslim told to do?",
+      "options": [
+        {
+          "urdu": "کلی میں چھپے رہنا",
+          "english": "stay hidden in the bud"
+        },
+        {
+          "urdu": "باغ چھوڑ کر سو جانا",
+          "english": "leave the garden and sleep"
+        },
+        {
+          "urdu": "باہر نکل کر ہر طرف پھیل جانا",
+          "english": "break out and spread everywhere"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "آسمان کا خیمہ کس کی وجہ سے کھڑا ہے؟",
+      "english": "Because of what does the tent of the heavens stand?",
+      "options": [
+        {
+          "urdu": "حضرت محمدؐ کے نام کی وجہ سے",
+          "english": "the name of Muhammad"
+        },
+        {
+          "urdu": "بلبل کے گانے کی وجہ سے",
+          "english": "the nightingale’s song"
+        },
+        {
+          "urdu": "ساقی کی شراب کی وجہ سے",
+          "english": "the cupbearer’s wine"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

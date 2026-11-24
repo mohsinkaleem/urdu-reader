@@ -1,0 +1,500 @@
+{
+  "id": "poem-iqbal-shikwa-4",
+  "title": {
+    "urdu": "شکوہ (حصہ 4)",
+    "english": "Shikwa, part 4"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Stanzas 10–12 of “Shikwa”: which nation sought God alone, bowed in prayer in the middle of battle with king and slave in one row, and carried His message across mountains, deserts and even the Atlantic?",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 4,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "کون سی قوم فقط تیری طلبگار ہوئی",
+      "english": "Which nation became a seeker of You alone,",
+      "verse": true
+    },
+    {
+      "urdu": "اور تیرے لیے زحمت کشِ پیکار ہوئی",
+      "english": "and bore the toil of battle for You?",
+      "verse": true
+    },
+    {
+      "urdu": "کِس کی شمشیر جہاں گیر،جہاں دار ہوئی",
+      "english": "Whose sword conquered the world and ruled it?",
+      "verse": true
+    },
+    {
+      "urdu": "کس کی تکبیر سے دنیا تری بیدار ہوئی",
+      "english": "By whose takbeer did Your world awaken?",
+      "verse": true
+    },
+    {
+      "urdu": "کس کی ہیبت سے صنم سہمے ہوئے رہتے تھے",
+      "english": "From whose awe did the idols stay terrified,",
+      "verse": true
+    },
+    {
+      "urdu": "مُنہ کے بَل گر کے \"ھُوَ اللہُ اَحَد\"کہتے تھے",
+      "english": "falling on their faces and saying, “He, Allah, is One”?",
+      "verse": true,
+      "explanation": {
+        "urdu": "کون سی قوم صرف تجھے چاہتی تھی اور تیرے لیے جنگ کی تکلیفیں اٹھاتی رہی؟ کس کی تلوار نے دنیا فتح کی اور کس کے اللہ اکبر کے نعرے نے دنیا کو جگایا؟ کس کے ڈر سے بت سہمے رہتے اور منہ کے بل گر کر خدا کو ایک کہتے تھے؟",
+        "english": "Which nation sought God alone and bore the toil of war for Him? Whose sword conquered and ruled the world, and whose takbeer (the cry “Allahu Akbar”) woke it up? Whose awe made the idols tremble, fall on their faces and confess “He, Allah, is One” — the opening words of Surah al-Ikhlas?"
+      }
+    },
+    {
+      "urdu": "آگیا عین لڑائی میں اگر وقتِ نماز",
+      "english": "If, in the very midst of battle, the time of prayer came,",
+      "verse": true
+    },
+    {
+      "urdu": "قبلہ رُو ہو کے زمیں بوس ہوئی قومِ حجاز",
+      "english": "the people of Hijaz turned to the qibla and bowed to the ground.",
+      "verse": true
+    },
+    {
+      "urdu": "ایک ہی صف میں کھڑے ہو گئے محمود و ایاز",
+      "english": "Mahmud and Ayaz stood in one and the same row;",
+      "verse": true
+    },
+    {
+      "urdu": "نہ کوئی بندہ رہا اور نہ هي کوئی بندہ نواز",
+      "english": "no one remained a servant, nor a master.",
+      "verse": true
+    },
+    {
+      "urdu": "بندہ و صاحب و محتاج و غنی ایک ہوئے",
+      "english": "Servant and lord, the needy and the rich became one;",
+      "verse": true
+    },
+    {
+      "urdu": "تیری سرکار میں پہنچے تو سبھی ایک ہوئے",
+      "english": "when they reached Your court, all became one.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر لڑائی کے بیچ میں نماز کا وقت آ جاتا تو عرب مسلمان قبلے کی طرف منہ کر کے سجدے میں گر جاتے۔ بادشاہ محمود اور اس کا غلام ایاز ایک ہی صف میں کھڑے ہو جاتے، کوئی مالک یا غلام نہیں رہتا۔ تیرے دربار میں غریب، امیر، غلام اور آقا سب برابر ہو جاتے۔",
+        "english": "Even in the middle of battle, when prayer time came, the people of Hijaz (the Arabs) faced the qibla and bowed to the ground. Sultan Mahmud of Ghazni and his slave Ayaz stood in the same row, so master and servant were no longer different. In God's presence, slave and master, poor and rich all became equal."
+      }
+    },
+    {
+      "urdu": "محفلِ کون و مکاں میں سحر و شام پھرے",
+      "english": "Through the gathering of the universe we roamed, morning and evening;",
+      "verse": true
+    },
+    {
+      "urdu": "مئے توحید کو لے کر صفتِ جام پھرے",
+      "english": "carrying the wine of Your oneness, we went round like a cup.",
+      "verse": true
+    },
+    {
+      "urdu": "کوہ میں، دشت میں لے کر ترا پیغام پھرے",
+      "english": "Through mountains and deserts we roamed with Your message,",
+      "verse": true
+    },
+    {
+      "urdu": "اور معلوم ہے تجھ کو،کبھی ناکام پھرے",
+      "english": "and You know it: did we ever come back defeated?",
+      "verse": true
+    },
+    {
+      "urdu": "دشت تو دشت ہیں ،دریا بھی نہ چھوڑے ہم نے",
+      "english": "Deserts aside, we did not spare even the seas;",
+      "verse": true
+    },
+    {
+      "urdu": "بحرِ ظلمات میں دوڑا دیے گھوڑے ہم نے",
+      "english": "we galloped our horses into the Sea of Darkness.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم صبح شام پوری دنیا میں توحید کا پیغام لے کر پھرے، جیسے جام محفل میں گھومتا ہے۔ پہاڑوں اور صحراؤں میں تیرا پیغام پہنچایا اور کبھی ناکام نہیں لوٹے۔ صحرا تو کیا، ہم نے سمندر بھی نہیں چھوڑے اور بحرِ ظلمات میں گھوڑے دوڑا دیے۔",
+        "english": "Like a wine-cup passed around a gathering, the Muslims carried the “wine” of tauheed through the whole world, morning and evening, across mountains and deserts, and never came back defeated. Not even the seas stopped them: they rode their horses into the “Sea of Darkness” (the Atlantic). This alludes to the general Uqba ibn Nafi, who is said to have ridden into the Atlantic when he reached the western end of North Africa."
+      }
+    }
+  ],
+  "glossary": {
+    "کون": [
+      "kaun",
+      "which (“kaun si” = which); also “kaun” = existence, in “kaun-o-makaan” = the universe"
+    ],
+    "سی": [
+      "si",
+      "(“kaun si” = which (f.))"
+    ],
+    "قوم": [
+      "qaum",
+      "nation, people"
+    ],
+    "فقط": [
+      "faqat",
+      "only"
+    ],
+    "تیری": [
+      "teri",
+      "your"
+    ],
+    "طلبگار": [
+      "talabgaar",
+      "seeker"
+    ],
+    "تیرے": [
+      "tere",
+      "your"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye”)"
+    ],
+    "زحمت": [
+      "zahmat",
+      "toil (“zahmat-kash” = one who endures toil)"
+    ],
+    "کش": [
+      "kash-e",
+      "bearer of (“zahmat-kash-e-paikaar” = enduring the toil of battle)"
+    ],
+    "پیکار": [
+      "paikaar",
+      "battle, war"
+    ],
+    "کس": [
+      "kis",
+      "who, whose (oblique); “kis tarah” = how"
+    ],
+    "شمشیر": [
+      "shamsheer",
+      "sword"
+    ],
+    "جہاں": [
+      "jahaan",
+      "world (“jahaan-daar” = world-ruler)"
+    ],
+    "دار": [
+      "daar",
+      "holding (“jahaan-daar” = world-ruling)"
+    ],
+    "تکبیر": [
+      "takbeer",
+      "the cry “Allahu Akbar”"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "تری": [
+      "teri",
+      "your (poetic)"
+    ],
+    "بیدار": [
+      "bedaar",
+      "awake"
+    ],
+    "ہیبت": [
+      "haibat",
+      "awe, dread"
+    ],
+    "صنم": [
+      "sanam",
+      "idol(s)"
+    ],
+    "سہمے": [
+      "sehme",
+      "frightened"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“tapte hue” = burning; “dabaaye hue” = pressing)"
+    ],
+    "رہتے": [
+      "rehte",
+      "stayed, remained"
+    ],
+    "منہ": [
+      "munh",
+      "face, mouth (“munh ke bal” = face down)"
+    ],
+    "بل": [
+      "bal",
+      "(“munh ke bal” = face down)"
+    ],
+    "گر": [
+      "gir",
+      "(“gir ke” = falling)"
+    ],
+    "ھو": [
+      "huwa",
+      "He (Arabic, “huwa allaahu ahad” = He, Allah, is One)"
+    ],
+    "اللہ": [
+      "allaahu",
+      "Allah (Arabic, “huwa allaahu ahad” = He, Allah, is One)"
+    ],
+    "آگیا": [
+      "aa gaya",
+      "came, arrived"
+    ],
+    "عین": [
+      "ain",
+      "very (“ain laṛaai mein” = in the very midst of battle)"
+    ],
+    "لڑائی": [
+      "laṛaai",
+      "battle, fighting"
+    ],
+    "وقت": [
+      "waqt-e",
+      "time of"
+    ],
+    "نماز": [
+      "namaaz",
+      "prayer"
+    ],
+    "قبلہ": [
+      "qibla",
+      "the qibla, direction of the Ka'ba"
+    ],
+    "رو": [
+      "roo",
+      "facing (“qibla-roo” = facing the qibla)"
+    ],
+    "زمیں": [
+      "zameen",
+      "ground (“zameen-bos” = kissing the ground)"
+    ],
+    "بوس": [
+      "bos",
+      "kissing (“zameen-bos hui” = bowed to the ground)"
+    ],
+    "حجاز": [
+      "hijaaz",
+      "Hijaz (western Arabia); “qaum-e-hijaaz” = the Arabs"
+    ],
+    "صف": [
+      "saf",
+      "row (of worshippers)"
+    ],
+    "کھڑے": [
+      "khaṛe",
+      "standing"
+    ],
+    "محمود": [
+      "mahmood",
+      "Mahmud (Sultan Mahmud of Ghazni)"
+    ],
+    "ایاز": [
+      "ayaaz",
+      "Ayaz (Mahmud's slave and favourite)"
+    ],
+    "بندہ": [
+      "banda",
+      "servant, slave (“banda-nawaaz” = master, one who cherishes servants)"
+    ],
+    "نواز": [
+      "nawaaz",
+      "cherishing (“banda-nawaaz” = master)"
+    ],
+    "صاحب": [
+      "saahib",
+      "master, lord"
+    ],
+    "محتاج": [
+      "mohtaaj",
+      "needy, poor"
+    ],
+    "غنی": [
+      "ghani",
+      "rich"
+    ],
+    "سرکار": [
+      "sarkaar",
+      "court, presence"
+    ],
+    "پہنچے": [
+      "pahunche",
+      "arrived, reached"
+    ],
+    "تو": [
+      "to",
+      "then; (“dasht to dasht” = deserts aside, let alone deserts)"
+    ],
+    "سبھی": [
+      "sabhi",
+      "all, everyone"
+    ],
+    "محفل": [
+      "mehfil-e",
+      "gathering of"
+    ],
+    "مکاں": [
+      "makaan",
+      "space (“kaun-o-makaan” = existence and space, the universe)"
+    ],
+    "سحر": [
+      "sehar",
+      "morning, dawn"
+    ],
+    "پھرے": [
+      "phire",
+      "roamed; came back (“naakaam phire” = returned defeated)"
+    ],
+    "مئے": [
+      "mai-e",
+      "wine of (poetic)"
+    ],
+    "توحید": [
+      "tauheed",
+      "the oneness of God"
+    ],
+    "لے": [
+      "le",
+      "(“le kar” = carrying)"
+    ],
+    "صفت": [
+      "sifat-e",
+      "like, in the manner of (“sifat-e-jaam” = like a cup)"
+    ],
+    "جام": [
+      "jaam",
+      "wine-cup, goblet"
+    ],
+    "کوہ": [
+      "koh",
+      "mountain(s)"
+    ],
+    "ترا": [
+      "tera",
+      "your (poetic)"
+    ],
+    "پیغام": [
+      "paighaam",
+      "message"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (to God) (“tujh ko” = to You)"
+    ],
+    "ناکام": [
+      "naakaam",
+      "unsuccessful, defeated"
+    ],
+    "دریا": [
+      "dariya",
+      "rivers, seas"
+    ],
+    "چھوڑے": [
+      "chhoṛe",
+      "spared, left (pl.)"
+    ],
+    "ہم": [
+      "ham",
+      "we; (in “ham-nava”) fellow-"
+    ],
+    "بحر": [
+      "bahr-e",
+      "sea of"
+    ],
+    "ظلمات": [
+      "zulmaat",
+      "darkness (“bahr-e-zulmaat” = the Sea of Darkness, the Atlantic)"
+    ],
+    "دوڑا": [
+      "dauṛa",
+      "(“dauṛa diye” = galloped, sent running)"
+    ],
+    "دیے": [
+      "diye",
+      "(compound) “rakh diye” = finished off; “dauṛa diye” = sent galloping"
+    ],
+    "گھوڑے": [
+      "ghoṛe",
+      "horses"
+    ],
+    "گیر": [
+      "geer",
+      "seizing (“jahaan-geer” = world-conquering)"
+    ],
+    "احد": [
+      "ahad",
+      "One (Arabic: “huwa allaahu ahad” = He, Allah, is One)"
+    ],
+    "کہتے": [
+      "kehte",
+      "saying (“kehte the” = used to say)"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever (“kabhi … phire?” = did we ever come back …?)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "محمود و ایاز کے ایک ہی صف میں کھڑے ہونے سے کیا ظاہر ہوتا ہے؟",
+      "english": "What does Mahmud and Ayaz standing in one row show?",
+      "options": [
+        {
+          "urdu": "ایاز بادشاہ بن گیا",
+          "english": "Ayaz became king"
+        },
+        {
+          "urdu": "خدا کے سامنے بادشاہ اور غلام برابر ہیں",
+          "english": "Before God, king and slave are equal"
+        },
+        {
+          "urdu": "محمود نماز نہیں پڑھتا تھا",
+          "english": "Mahmud did not pray"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "اگر لڑائی کے دوران نماز کا وقت آ جاتا تو مسلمان کیا کرتے؟",
+      "english": "If prayer time came during a battle, what did the Muslims do?",
+      "options": [
+        {
+          "urdu": "لڑائی جاری رکھتے",
+          "english": "They kept fighting"
+        },
+        {
+          "urdu": "نماز چھوڑ دیتے",
+          "english": "They skipped the prayer"
+        },
+        {
+          "urdu": "قبلے کی طرف منہ کر کے سجدہ کرتے",
+          "english": "They faced the qibla and bowed to the ground"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "”بحرِ ظلمات میں دوڑا دیے گھوڑے ہم نے“ سے شاعر کیا کہنا چاہتا ہے؟",
+      "english": "What does the poet mean by “we galloped our horses into the Sea of Darkness”?",
+      "options": [
+        {
+          "urdu": "مسلمانوں کو سمندر بھی نہیں روک سکا",
+          "english": "Not even the sea could stop the Muslims"
+        },
+        {
+          "urdu": "مسلمانوں کے گھوڑے ڈوب گئے",
+          "english": "The Muslims' horses drowned"
+        },
+        {
+          "urdu": "مسلمان صرف رات کو سفر کرتے تھے",
+          "english": "The Muslims travelled only at night"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

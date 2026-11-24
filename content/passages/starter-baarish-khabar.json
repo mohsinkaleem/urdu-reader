@@ -1,0 +1,233 @@
+{
+  "id": "starter-baarish-khabar",
+  "title": {
+    "urdu": "شہر میں شدید بارش",
+    "english": "Heavy rain in the city (news)"
+  },
+  "category": "starter",
+  "level": "medium",
+  "tags": ["everyday", "nature"],
+  "source": {
+    "name": "Written for this app"
+  },
+  "intro": "A short news-style report written for this app, using the formal vocabulary of weather and government announcements.",
+  "sentences": [
+    {
+      "urdu": "محکمہ موسمیات کے مطابق آئندہ تین دنوں تک شہر میں شدید بارش کا امکان ہے۔",
+      "english": "According to the Meteorological Department, heavy rain is expected in the city for the next three days."
+    },
+    {
+      "urdu": "صوبائی حکومت نے تمام سرکاری اور نجی اسکولوں میں چھٹی کا اعلان کر دیا ہے۔",
+      "english": "The provincial government has announced a holiday in all public and private schools."
+    },
+    {
+      "urdu": "گزشتہ رات کی بارش سے کئی علاقوں میں پانی جمع ہو گیا۔",
+      "english": "Last night’s rain left water standing in several areas."
+    },
+    {
+      "urdu": "ذرائع کے مطابق ایک حادثے میں دو افراد زخمی ہوئے۔",
+      "english": "According to sources, two people were injured in an accident."
+    },
+    {
+      "urdu": "انتظامیہ نے شہریوں سے درخواست کی ہے کہ وہ غیر ضروری سفر سے گریز کریں۔",
+      "english": "The administration has asked citizens to avoid unnecessary travel."
+    }
+  ],
+  "glossary": {
+    "محکمہ": [
+      "mehkama",
+      "department"
+    ],
+    "موسمیات": [
+      "mausamiyaat",
+      "meteorology"
+    ],
+    "مطابق": [
+      "mutaabiq",
+      "according to (with “ke”)"
+    ],
+    "آئندہ": [
+      "aainda",
+      "coming; next"
+    ],
+    "دنوں": [
+      "dinon",
+      "days"
+    ],
+    "شہر": [
+      "shehar",
+      "city"
+    ],
+    "شدید": [
+      "shadeed",
+      "severe; heavy"
+    ],
+    "بارش": [
+      "baarish",
+      "rain"
+    ],
+    "امکان": [
+      "imkaan",
+      "likelihood; possibility"
+    ],
+    "صوبائی": [
+      "soobaai",
+      "provincial"
+    ],
+    "حکومت": [
+      "hukoomat",
+      "government"
+    ],
+    "تمام": [
+      "tamaam",
+      "all"
+    ],
+    "سرکاری": [
+      "sarkaari",
+      "government-run; official"
+    ],
+    "نجی": [
+      "niji",
+      "private"
+    ],
+    "اسکولوں": [
+      "iskoolon",
+      "schools"
+    ],
+    "چھٹی": [
+      "chhuṭṭi",
+      "holiday; day off"
+    ],
+    "اعلان": [
+      "elaan",
+      "announcement"
+    ],
+    "گزشتہ": [
+      "guzishta",
+      "last; previous"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "علاقوں": [
+      "ilaaqon",
+      "areas"
+    ],
+    "پانی": [
+      "paani",
+      "water"
+    ],
+    "جمع": [
+      "jama",
+      "gathered; collected"
+    ],
+    "ذرائع": [
+      "zaraaye",
+      "sources"
+    ],
+    "حادثے": [
+      "haadse",
+      "accident (oblique)"
+    ],
+    "افراد": [
+      "afraad",
+      "persons; people"
+    ],
+    "زخمی": [
+      "zakhmi",
+      "injured"
+    ],
+    "انتظامیہ": [
+      "intezaamiya",
+      "administration"
+    ],
+    "شہریوں": [
+      "shehriyon",
+      "citizens"
+    ],
+    "درخواست": [
+      "darkhwaast",
+      "request; application"
+    ],
+    "غیر": [
+      "ghair",
+      "non-; un-"
+    ],
+    "ضروری": [
+      "zaroori",
+      "necessary"
+    ],
+    "سفر": [
+      "safar",
+      "travel; journey"
+    ],
+    "گریز": [
+      "gurez",
+      "avoidance (“gurez karna” = to avoid)"
+    ],
+    "کریں": [
+      "karein",
+      "(they) should do"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "بارش کا امکان کتنے دنوں تک ہے؟",
+      "english": "For how long is rain expected?",
+      "options": [
+        {
+          "urdu": "دو دن",
+          "english": "Two days"
+        },
+        {
+          "urdu": "ایک ہفتہ",
+          "english": "One week"
+        },
+        {
+          "urdu": "تین دن",
+          "english": "Three days"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "حکومت نے کیا اعلان کیا؟",
+      "english": "What did the government announce?",
+      "options": [
+        {
+          "urdu": "اسکولوں میں چھٹی",
+          "english": "A school holiday"
+        },
+        {
+          "urdu": "نیا بجٹ",
+          "english": "A new budget"
+        },
+        {
+          "urdu": "انتخابات",
+          "english": "Elections"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "انتظامیہ نے شہریوں سے کیا درخواست کی؟",
+      "english": "What did the administration ask citizens to do?",
+      "options": [
+        {
+          "urdu": "بازار بند کریں",
+          "english": "Close the markets"
+        },
+        {
+          "urdu": "غیر ضروری سفر نہ کریں",
+          "english": "Avoid unnecessary travel"
+        },
+        {
+          "urdu": "اسکول جائیں",
+          "english": "Go to school"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

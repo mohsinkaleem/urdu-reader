@@ -1,0 +1,510 @@
+{
+  "id": "poem-faiz-hum-dekhenge",
+  "title": {
+    "urdu": "ہم دیکھیں گے",
+    "english": "We Shall See"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "source": {
+    "name": "Rekhta: و یبقٰی وجہ ربک(ہم دیکھیں گے)",
+    "url": "https://www.rekhta.org/nazms/va-yabqaa-vajh-o-rabbik-hum-dekhenge-ham-dekhenge-faiz-ahmad-faiz-nazms?lang=ur",
+    "author": "Faiz Ahmad Faiz",
+    "license": "Personal use only"
+  },
+  "intro": "Faiz Ahmad Faiz wrote “Hum Dekhenge” (We Shall See) in 1979, under General Zia-ul-Haq’s military rule. Rekhta titles it with its Quranic epigraph, “Wa yabqa wajhu rabbik” (“and the face of your Lord remains”, 55:27), and its images of the Day of Judgement become a promise that tyranny will fall. After Faiz’s death, Iqbal Bano sang it in Lahore in 1986, wearing a black sari in defiance of Zia’s ban on saris, while the huge crowd chanted “Inquilab zindabad” — the performance that turned it into an anthem of resistance. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "ہم دیکھیں گے",
+      "english": "We shall see;",
+      "verse": true
+    },
+    {
+      "urdu": "لازم ہے کہ ہم بھی دیکھیں گے",
+      "english": "it is certain that we too shall see",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر یقین سے کہتا ہے کہ ہم بھی وہ دن ضرور دیکھیں گے۔",
+        "english": "The poet says with certainty that we too will surely live to see that day."
+      }
+    },
+    {
+      "urdu": "وہ دن کہ جس کا وعدہ ہے",
+      "english": "that day which has been promised,",
+      "verse": true
+    },
+    {
+      "urdu": "جو لوح ازل میں لکھا ہے",
+      "english": "which is written on the tablet of eternity;",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہ وہ دن ہے جس کا وعدہ کیا گیا ہے اور جو شروع سے تقدیر میں لکھا ہوا ہے۔ یہاں قیامت یعنی انصاف کے دن کی طرف اشارہ ہے۔",
+        "english": "It is the promised day, written in destiny from the very beginning — an allusion to the Day of Judgement, the day of justice."
+      }
+    },
+    {
+      "urdu": "جب ظلم و ستم کے کوہ گراں",
+      "english": "when the heavy mountains of tyranny and oppression",
+      "verse": true
+    },
+    {
+      "urdu": "روئی کی طرح اڑ جائیں گے",
+      "english": "will blow away like cotton wool;",
+      "verse": true,
+      "explanation": {
+        "urdu": "ظلم کے بھاری پہاڑ روئی کی طرح ہوا میں اڑ جائیں گے۔ یہ تصویر قرآن میں قیامت کے بیان سے لی گئی ہے۔",
+        "english": "The heavy mountains of tyranny will blow away like cotton wool — an image taken from the Quran’s description of the Day of Judgement."
+      }
+    },
+    {
+      "urdu": "ہم محکوموں کے پاؤں تلے",
+      "english": "when beneath the feet of us, the ruled,",
+      "verse": true
+    },
+    {
+      "urdu": "جب دھرتی دھڑ دھڑ دھڑکے گی",
+      "english": "the earth will throb and pound,",
+      "verse": true
+    },
+    {
+      "urdu": "اور اہل حکم کے سر اوپر",
+      "english": "and above the heads of those who rule",
+      "verse": true
+    },
+    {
+      "urdu": "جب بجلی کڑ کڑ کڑکے گی",
+      "english": "lightning will crash and crackle;",
+      "verse": true,
+      "explanation": {
+        "urdu": "جن پر حکومت کی جاتی ہے، ان کے پاؤں کے نیچے زمین کانپے گی، اور حکمرانوں کے سروں پر بجلی کڑکے گی۔ یعنی عوام اٹھیں گے اور ظالم حکمران ڈریں گے۔",
+        "english": "The earth will shake under the feet of the ruled, and lightning will crash above the heads of the rulers: the people will rise and the tyrants will tremble."
+      }
+    },
+    {
+      "urdu": "جب ارض خدا کے کعبے سے",
+      "english": "when from the Kaaba of God’s earth",
+      "verse": true
+    },
+    {
+      "urdu": "سب بت اٹھوائے جائیں گے",
+      "english": "all the idols will be removed;",
+      "verse": true,
+      "explanation": {
+        "urdu": "جیسے فتح مکہ کے دن کعبے سے بت ہٹائے گئے تھے، ویسے ہی خدا کی زمین سے جھوٹے خدا یعنی ظالم حکمران ہٹا دیے جائیں گے۔",
+        "english": "Just as the idols were removed from the Kaaba when Mecca was conquered, the false gods — the tyrants — will be removed from God’s earth."
+      }
+    },
+    {
+      "urdu": "ہم اہل صفا مردود حرم",
+      "english": "we, the pure of heart, cast out of the sanctuary,",
+      "verse": true
+    },
+    {
+      "urdu": "مسند پہ بٹھائے جائیں گے",
+      "english": "will be seated in the place of honour;",
+      "verse": true,
+      "explanation": {
+        "urdu": "جن صاف دل لوگوں کو آج مقدس جگہوں سے نکال دیا گیا ہے، انہیں عزت کی جگہ پر بٹھایا جائے گا۔",
+        "english": "The pure-hearted, who today are driven out of the holy places, will be given the seats of honour."
+      }
+    },
+    {
+      "urdu": "سب تاج اچھالے جائیں گے",
+      "english": "all crowns will be tossed away,",
+      "verse": true
+    },
+    {
+      "urdu": "سب تخت گرائے جائیں گے",
+      "english": "all thrones will be toppled.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بادشاہوں کے تاج اچھال دیے جائیں گے اور ان کے تخت گرا دیے جائیں گے۔",
+        "english": "The crowns of kings will be tossed away and their thrones brought down."
+      }
+    },
+    {
+      "urdu": "بس نام رہے گا اللہ کا",
+      "english": "Only the name of God will remain,",
+      "verse": true
+    },
+    {
+      "urdu": "جو غائب بھی ہے حاضر بھی",
+      "english": "who is unseen and yet present,",
+      "verse": true
+    },
+    {
+      "urdu": "جو منظر بھی ہے ناظر بھی",
+      "english": "who is both the sight and the seer.",
+      "verse": true,
+      "explanation": {
+        "urdu": "آخر میں صرف خدا کا نام باقی رہے گا، جو نظر نہیں آتا مگر ہر جگہ موجود ہے، جو خود منظر بھی ہے اور دیکھنے والا بھی۔",
+        "english": "In the end only God’s name will remain — unseen yet present everywhere, both the scene and the one who sees it."
+      }
+    },
+    {
+      "urdu": "اٹھے گا انا الحق کا نعرہ",
+      "english": "The cry of “I am the Truth” will rise,",
+      "verse": true
+    },
+    {
+      "urdu": "جو میں بھی ہوں اور تم بھی ہو",
+      "english": "which is I, and which is you too;",
+      "verse": true,
+      "explanation": {
+        "urdu": "انا الحق یعنی “میں حق ہوں” صوفی منصور حلاج کا نعرہ تھا۔ شاعر کہتا ہے کہ یہ نعرہ ہم سب کا ہوگا، یعنی ہر انسان سچ کا حصہ ہے۔",
+        "english": "“Ana’l-Haq” (“I am the Truth”) was the cry of the Sufi Mansur al-Hallaj. The poet says this cry will belong to all of us: every human being shares in the truth."
+      }
+    },
+    {
+      "urdu": "اور راج کرے گی خلق خدا",
+      "english": "and God’s people will rule,",
+      "verse": true
+    },
+    {
+      "urdu": "جو میں بھی ہوں اور تم بھی ہو",
+      "english": "which is I, and which is you too.",
+      "verse": true,
+      "explanation": {
+        "urdu": "آخر میں خدا کی مخلوق یعنی عام لوگ حکومت کریں گے، اور یہ عام لوگ میں بھی ہوں اور تم بھی۔",
+        "english": "Finally, God’s people — ordinary people — will rule, and those people are you and me."
+      }
+    }
+  ],
+  "glossary": {
+    "ہم": [
+      "hum",
+      "we"
+    ],
+    "دیکھیں": [
+      "dekhen",
+      "see (“dekhen ge” = will see)"
+    ],
+    "گے": [
+      "ge",
+      "will (future marker, pl.: “dekhen ge” = will see)"
+    ],
+    "لازم": [
+      "laazim",
+      "certain; bound to happen"
+    ],
+    "وہ": [
+      "woh",
+      "that"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "جس": [
+      "jis",
+      "which (“jis ka” = of which)"
+    ],
+    "وعدہ": [
+      "waada",
+      "promise"
+    ],
+    "جو": [
+      "jo",
+      "which; who"
+    ],
+    "لوح": [
+      "lauh(-e)",
+      "tablet (“lauh-e-azal” = the tablet of eternity, where fate is written)"
+    ],
+    "ازل": [
+      "azal",
+      "eternity before time; the very beginning"
+    ],
+    "میں": [
+      "mein / main",
+      "in / I (“jo main bhi hoon” = which I too am)"
+    ],
+    "لکھا": [
+      "likha",
+      "written"
+    ],
+    "ظلم": [
+      "zulm",
+      "cruelty; injustice"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "ستم": [
+      "sitam",
+      "oppression; tyranny"
+    ],
+    "کوہ": [
+      "koh(-e)",
+      "mountain (“koh-e-giraan” = heavy mountain)"
+    ],
+    "گراں": [
+      "giraan",
+      "heavy; massive"
+    ],
+    "روئی": [
+      "rooi",
+      "cotton wool"
+    ],
+    "اڑ": [
+      "ur",
+      "fly (“ur jaayen ge” = will fly away)"
+    ],
+    "جائیں": [
+      "jaayen",
+      "go (helper: “ur jaayen ge” = will fly away; “uthwaaye jaayen ge” = will be removed)"
+    ],
+    "محکوموں": [
+      "mehkoomon",
+      "the ruled; subjects (pl. oblique)"
+    ],
+    "پاؤں": [
+      "paaon",
+      "feet"
+    ],
+    "تلے": [
+      "tale",
+      "under; beneath"
+    ],
+    "دھرتی": [
+      "dharti",
+      "earth; land"
+    ],
+    "دھڑ": [
+      "dhar",
+      "thump (sound word: “dhar dhar” = pounding)"
+    ],
+    "دھڑکے": [
+      "dharke",
+      "throb; pound (“dharke gi” = will pound)"
+    ],
+    "گی": [
+      "gi",
+      "will (future marker, f.)"
+    ],
+    "اہل": [
+      "ahl(-e)",
+      "people of (“ahl-e-hukm” = those in power; “ahl-e-safa” = the pure)"
+    ],
+    "حکم": [
+      "hukm",
+      "command; authority"
+    ],
+    "سر": [
+      "sar",
+      "heads"
+    ],
+    "اوپر": [
+      "oopar",
+      "above (“sar oopar” = above the heads)"
+    ],
+    "بجلی": [
+      "bijli",
+      "lightning"
+    ],
+    "کڑ": [
+      "kar",
+      "crack (sound word: “kar kar” = crash, crackle)"
+    ],
+    "کڑکے": [
+      "karke",
+      "crack; crash (“karke gi” = will crash)"
+    ],
+    "ارض": [
+      "arz(-e)",
+      "earth; land (“arz-e-khuda” = God’s earth)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "کعبے": [
+      "kaabe",
+      "the Kaaba (oblique)"
+    ],
+    "بت": [
+      "but",
+      "idols"
+    ],
+    "اٹھوائے": [
+      "uthwaaye",
+      "had removed (“uthwaaye jaayen ge” = will be removed)"
+    ],
+    "صفا": [
+      "safa",
+      "purity (“ahl-e-safa” = the pure of heart)"
+    ],
+    "مردود": [
+      "mardood(-e)",
+      "rejected; cast out (“mardood-e-haram” = cast out of the sanctuary)"
+    ],
+    "حرم": [
+      "haram",
+      "sanctuary; holy precinct"
+    ],
+    "مسند": [
+      "masnad",
+      "seat of honour; throne"
+    ],
+    "پہ": [
+      "pe",
+      "on (short form of “par”)"
+    ],
+    "بٹھائے": [
+      "bithaaye",
+      "seated (“bithaaye jaayen ge” = will be seated)"
+    ],
+    "تاج": [
+      "taaj",
+      "crowns"
+    ],
+    "اچھالے": [
+      "uchhaale",
+      "tossed (in the air) (“uchhaale jaayen ge” = will be tossed)"
+    ],
+    "تخت": [
+      "takht",
+      "thrones"
+    ],
+    "گرائے": [
+      "giraaye",
+      "brought down (“giraaye jaayen ge” = will be toppled)"
+    ],
+    "بس": [
+      "bas",
+      "only; just"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "رہے": [
+      "rahe",
+      "remain (“rahe ga” = will remain)"
+    ],
+    "گا": [
+      "ga",
+      "will (future marker, m.)"
+    ],
+    "اللہ": [
+      "allah",
+      "God"
+    ],
+    "غائب": [
+      "ghaaib",
+      "absent; unseen"
+    ],
+    "حاضر": [
+      "haazir",
+      "present"
+    ],
+    "منظر": [
+      "manzar",
+      "scene; sight (what is seen)"
+    ],
+    "ناظر": [
+      "naazir",
+      "seer; the one who watches"
+    ],
+    "اٹھے": [
+      "uthe",
+      "rise (“uthe ga” = will rise)"
+    ],
+    "انا": [
+      "ana",
+      "I (Arabic; “ana’l-haq” = I am the Truth)"
+    ],
+    "الحق": [
+      "al-haq",
+      "the Truth; God (Arabic; “ana’l-haq” = I am the Truth)"
+    ],
+    "نعرہ": [
+      "naara",
+      "cry; slogan"
+    ],
+    "ہوں": [
+      "hoon",
+      "am"
+    ],
+    "تم": [
+      "tum",
+      "you"
+    ],
+    "ہو": [
+      "ho",
+      "are (with “tum”)"
+    ],
+    "راج": [
+      "raaj",
+      "rule (“raaj karna” = to rule)"
+    ],
+    "کرے": [
+      "kare",
+      "do (“raaj kare gi” = will rule)"
+    ],
+    "خلق": [
+      "khalq(-e)",
+      "creation; people (“khalq-e-khuda” = God’s people)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کس دن کی بات کر رہا ہے؟",
+      "english": "Which day is the poet talking about?",
+      "options": [
+        {
+          "urdu": "عید کے دن کی",
+          "english": "the day of Eid"
+        },
+        {
+          "urdu": "اس دن کی جب ظلم ختم ہوگا اور عام لوگ حکومت کریں گے",
+          "english": "the day when oppression ends and ordinary people rule"
+        },
+        {
+          "urdu": "اپنی شادی کے دن کی",
+          "english": "his wedding day"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "نظم کے مطابق اس دن تاجوں اور تختوں کا کیا ہوگا؟",
+      "english": "According to the poem, what will happen to crowns and thrones on that day?",
+      "options": [
+        {
+          "urdu": "انہیں اچھال دیا جائے گا اور گرا دیا جائے گا",
+          "english": "they will be tossed away and toppled"
+        },
+        {
+          "urdu": "انہیں سونے سے سجایا جائے گا",
+          "english": "they will be decorated with gold"
+        },
+        {
+          "urdu": "انہیں عجائب گھر میں رکھا جائے گا",
+          "english": "they will be put in a museum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "نظم کے آخر میں کون راج کرے گا؟",
+      "english": "At the end of the poem, who will rule?",
+      "options": [
+        {
+          "urdu": "بادشاہ اور امیر لوگ",
+          "english": "kings and the rich"
+        },
+        {
+          "urdu": "صرف شاعر",
+          "english": "the poet alone"
+        },
+        {
+          "urdu": "خلق خدا، یعنی میں بھی اور تم بھی",
+          "english": "God’s people — you and I"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

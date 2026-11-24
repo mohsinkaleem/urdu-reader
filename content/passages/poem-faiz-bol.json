@@ -1,0 +1,331 @@
+{
+  "id": "poem-faiz-bol",
+  "title": {
+    "urdu": "بول",
+    "english": "Speak"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "source": {
+    "name": "Rekhta: بول",
+    "url": "https://www.rekhta.org/nazms/bol-bol-ki-lab-aazaad-hain-tere-faiz-ahmad-faiz-nazms?lang=ur",
+    "author": "Faiz Ahmad Faiz",
+    "license": "Personal use only"
+  },
+  "intro": "Faiz Ahmad Faiz’s “Bol” (Speak), from his first collection Naqsh-e-Faryadi (1941), is one of the most quoted calls for free speech in Urdu, recited at protests and gatherings across Pakistan and India. Rekhta has recordings of Faiz and of Zehra Nigah reading it. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "بول کہ لب آزاد ہیں تیرے",
+      "english": "Speak, for your lips are free;",
+      "verse": true
+    },
+    {
+      "urdu": "بول زباں اب تک تیری ہے",
+      "english": "speak, your tongue is still your own.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ بولو، کیونکہ تمہارے ہونٹ ابھی آزاد ہیں اور تمہاری زبان پر ابھی کسی کا قبضہ نہیں۔",
+        "english": "The poet urges: speak, because your lips are still free and no one yet controls your tongue."
+      }
+    },
+    {
+      "urdu": "تیرا ستواں جسم ہے تیرا",
+      "english": "Your upright body is your own;",
+      "verse": true
+    },
+    {
+      "urdu": "بول کہ جاں اب تک تیری ہے",
+      "english": "speak, your life is still your own.",
+      "verse": true,
+      "explanation": {
+        "urdu": "تمہارا مضبوط اور سیدھا جسم اور تمہاری جان ابھی تمہاری اپنی ہے، اس لیے ڈرو نہیں اور بولو۔",
+        "english": "Your strong, upright body and your life are still your own, so don’t be afraid — speak."
+      }
+    },
+    {
+      "urdu": "دیکھ کہ آہن گر کی دکاں میں",
+      "english": "See how, in the blacksmith’s shop,",
+      "verse": true
+    },
+    {
+      "urdu": "تند ہیں شعلے سرخ ہے آہن",
+      "english": "the flames are fierce and the iron is red-hot;",
+      "verse": true,
+      "explanation": {
+        "urdu": "لوہار کی دکان میں آگ تیز ہے اور لوہا لال ہو گیا ہے۔ یعنی حالات گرم ہیں اور تبدیلی کا وقت قریب ہے۔",
+        "english": "In the blacksmith’s shop the fire is fierce and the iron glows red: the times are heating up and change is near."
+      }
+    },
+    {
+      "urdu": "کھلنے لگے قفلوں کے دہانے",
+      "english": "the mouths of the padlocks have begun to open,",
+      "verse": true
+    },
+    {
+      "urdu": "پھیلا ہر اک زنجیر کا دامن",
+      "english": "every chain’s loop has spread wide.",
+      "verse": true,
+      "explanation": {
+        "urdu": "تالے کھلنے لگے ہیں اور زنجیریں ڈھیلی ہو رہی ہیں۔ یعنی غلامی اور پابندیوں کا زمانہ ختم ہونے والا ہے۔",
+        "english": "Padlocks are beginning to open and chains are loosening: the age of bondage and restriction is about to end."
+      }
+    },
+    {
+      "urdu": "بول یہ تھوڑا وقت بہت ہے",
+      "english": "Speak: this little time is plenty",
+      "verse": true
+    },
+    {
+      "urdu": "جسم و زباں کی موت سے پہلے",
+      "english": "before the death of body and tongue.",
+      "verse": true,
+      "explanation": {
+        "urdu": "تمہارے پاس وقت کم ہے، مگر یہ تھوڑا وقت بھی کافی ہے۔ جسم اور زبان کے ختم ہونے سے پہلے سچ کہہ دو۔",
+        "english": "You have little time, but even this little is enough. Say the truth before your body and voice are silenced."
+      }
+    },
+    {
+      "urdu": "بول کہ سچ زندہ ہے اب تک",
+      "english": "Speak, for truth is still alive;",
+      "verse": true
+    },
+    {
+      "urdu": "بول جو کچھ کہنا ہے کہہ لے",
+      "english": "speak — say whatever you have to say.",
+      "verse": true,
+      "explanation": {
+        "urdu": "سچ ابھی زندہ ہے، اس لیے جو کچھ کہنا ہے ابھی کہہ دو۔",
+        "english": "Truth is still alive, so say now whatever you have to say."
+      }
+    }
+  ],
+  "glossary": {
+    "بول": [
+      "bol",
+      "speak! (command, intimate)"
+    ],
+    "کہ": [
+      "keh",
+      "for; because (“bol keh …” = speak, for …); that (“dekh keh” = see how)"
+    ],
+    "لب": [
+      "lab",
+      "lips"
+    ],
+    "آزاد": [
+      "aazaad",
+      "free"
+    ],
+    "تیرے": [
+      "tere",
+      "your (m. pl., intimate)"
+    ],
+    "زباں": [
+      "zabaan",
+      "tongue (poetic short spelling of “zabaan”)"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab tak” = still, even now)"
+    ],
+    "تک": [
+      "tak",
+      "until (“ab tak” = still)"
+    ],
+    "تیری": [
+      "teri",
+      "your; yours (f., intimate) (“teri hai” = is yours)"
+    ],
+    "تیرا": [
+      "tera",
+      "your; yours (m., intimate)"
+    ],
+    "ستواں": [
+      "sutwaan",
+      "straight; upright; finely shaped"
+    ],
+    "جسم": [
+      "jism",
+      "body"
+    ],
+    "جاں": [
+      "jaan",
+      "life (poetic short spelling of “jaan”)"
+    ],
+    "دیکھ": [
+      "dekh",
+      "look; see (command, intimate)"
+    ],
+    "آہن": [
+      "aahan",
+      "iron (“aahan-gar” = blacksmith)"
+    ],
+    "گر": [
+      "gar",
+      "maker; worker (suffix: “aahan-gar” = ironworker, blacksmith)"
+    ],
+    "دکاں": [
+      "dukaan",
+      "shop (poetic short spelling of “dukaan”)"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "تند": [
+      "tund",
+      "fierce; violent"
+    ],
+    "شعلے": [
+      "shole",
+      "flames (pl.)"
+    ],
+    "سرخ": [
+      "surkh",
+      "red; red-hot"
+    ],
+    "کھلنے": [
+      "khulne",
+      "to open (“khulne lage” = began to open)"
+    ],
+    "لگے": [
+      "lage",
+      "began (“khulne lage” = began to open)"
+    ],
+    "قفلوں": [
+      "quflon",
+      "padlocks (pl. oblique)"
+    ],
+    "دہانے": [
+      "dahaane",
+      "mouths; openings"
+    ],
+    "پھیلا": [
+      "phaila",
+      "spread out; widened"
+    ],
+    "ہر": [
+      "har",
+      "every (“har ik” = every single)"
+    ],
+    "اک": [
+      "ik",
+      "one (short form of “ek”)"
+    ],
+    "زنجیر": [
+      "zanjeer",
+      "chain"
+    ],
+    "دامن": [
+      "daaman",
+      "hem; skirt (here the loop or span of the chain)"
+    ],
+    "تھوڑا": [
+      "thora",
+      "little; short"
+    ],
+    "وقت": [
+      "waqt",
+      "time"
+    ],
+    "بہت": [
+      "bohat",
+      "a lot; (here) plenty (“bohat hai” = is enough)"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "موت": [
+      "maut",
+      "death"
+    ],
+    "پہلے": [
+      "pehle",
+      "before (“se pehle” = before)"
+    ],
+    "سچ": [
+      "sach",
+      "truth"
+    ],
+    "زندہ": [
+      "zinda",
+      "alive"
+    ],
+    "جو": [
+      "jo",
+      "whatever (“jo kuchh” = whatever)"
+    ],
+    "کہنا": [
+      "kehna",
+      "to say (“kehna hai” = have to say)"
+    ],
+    "کہہ": [
+      "keh",
+      "say (“keh le” = say it, get it said)"
+    ],
+    "لے": [
+      "le",
+      "(for yourself) (“keh le” = say it now)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کس بات پر زور دیتا ہے؟",
+      "english": "What does the poet urge?",
+      "options": [
+        {
+          "urdu": "خاموش رہنے اور انتظار کرنے پر",
+          "english": "keeping quiet and waiting"
+        },
+        {
+          "urdu": "ظلم کے خلاف سچ بولنے پر",
+          "english": "speaking the truth against oppression"
+        },
+        {
+          "urdu": "لوہار کا کام سیکھنے پر",
+          "english": "learning the blacksmith’s trade"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "لوہار کی دکان میں تیز آگ اور سرخ لوہا کس چیز کی علامت ہیں؟",
+      "english": "What do the fierce fire and the red-hot iron in the blacksmith’s shop stand for?",
+      "options": [
+        {
+          "urdu": "کہ تبدیلی کا وقت قریب ہے",
+          "english": "that the time for change is near"
+        },
+        {
+          "urdu": "کہ لوہا بہت مہنگا ہو گیا ہے",
+          "english": "that iron has become expensive"
+        },
+        {
+          "urdu": "کہ گرمی کا موسم آ گیا ہے",
+          "english": "that summer has arrived"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر کے مطابق ابھی بولنا کیوں ضروری ہے؟",
+      "english": "According to the poet, why must one speak now?",
+      "options": [
+        {
+          "urdu": "کیونکہ کل چھٹی ہے",
+          "english": "because tomorrow is a holiday"
+        },
+        {
+          "urdu": "کیونکہ زنجیریں اور مضبوط ہو رہی ہیں",
+          "english": "because the chains are getting stronger"
+        },
+        {
+          "urdu": "کیونکہ وقت کم ہے اور سچ ابھی زندہ ہے",
+          "english": "because time is short and truth is still alive"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

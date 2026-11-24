@@ -1,0 +1,568 @@
+{
+  "id": "poem-iqbal-shikwa-9",
+  "title": {
+    "urdu": "شکوہ (حصہ 9)",
+    "english": "Shikwa, part 9"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Iqbal’s “Shikwa” (1911), a complaint to God on behalf of the Muslims, turns from complaint to prayer. In stanzas 25–27 strangers enjoy the garden while God’s lovers wait apart; the nation is ready to return to Hijaz, and the poet prays for the ummah, ending with a Persian couplet.",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 9,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "بادہ کش غیر ہیں گلشن میں لبِ جُو بیٹھے",
+      "english": "Strangers sit drinking wine in the garden by the stream,",
+      "verse": true
+    },
+    {
+      "urdu": "سُنتے ہیں جام بکف نغمۂ کُو کُو بیٹے",
+      "english": "cup in hand, listening to the ring-dove's “koo koo”;",
+      "verse": true
+    },
+    {
+      "urdu": "دور ہنگامۂ گُلزار سے یک سُو بیٹھے",
+      "english": "far from the bustle of the garden, sitting apart,",
+      "verse": true
+    },
+    {
+      "urdu": "تیرے دیوانے بھی ہیں مُنتظر \"ھُو\" بیٹھے",
+      "english": "Your madmen too are sitting, waiting for the cry of “Hu”.",
+      "verse": true
+    },
+    {
+      "urdu": "اپنے پروانوں کی پھر ذوقِ خُود افروزی دے",
+      "english": "Give Your moths again the zest for setting themselves alight;",
+      "verse": true
+    },
+    {
+      "urdu": "برقِ دیرینہ کو فرمانِ جگر سوزی دے",
+      "english": "give the ancient lightning the command to burn hearts.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دوسرے لوگ باغ میں مزے کر رہے ہیں جبکہ تیرے عاشق الگ بیٹھے تیری پکار کا انتظار کر رہے ہیں۔ شاعر دعا کرتا ہے کہ اپنے پروانوں میں پھر جلنے کا شوق پیدا کر اور عشق کی پرانی بجلی کو پھر دلوں کو جلانے کا حکم دے۔",
+        "english": "Others enjoy the pleasures of the world (the garden), while God's lovers sit apart waiting for “Hu” (“He”, the Sufi cry for God). Iqbal prays that God rekindle in His moths the passion to burn themselves in the flame of love, and command the old lightning of divine love, like the light that struck Mount Sinai, to set hearts on fire again."
+      }
+    },
+    {
+      "urdu": "قوم آوارہ عناں تاب ہے پھر سُوئے حجاز",
+      "english": "The wandering nation turns its reins again towards Hijaz;",
+      "verse": true
+    },
+    {
+      "urdu": "لے اُرا بلبلِ بے پر کو مذاقِ پرواز",
+      "english": "the love of flight has carried off the wingless nightingale.",
+      "verse": true
+    },
+    {
+      "urdu": "مضطرب باغ کے ہر غنچے میں ہے، بُوئے نیاز",
+      "english": "In every bud of the garden the scent of devotion is restless;",
+      "verse": true
+    },
+    {
+      "urdu": "تُو ذرا چھیڑ تو دے، تشنۂ مضراب ہے ساز",
+      "english": "just strike it once: the instrument is thirsting for the plectrum.",
+      "verse": true
+    },
+    {
+      "urdu": "نغمے بیتاب ہیں تاروں سے نلکنے کے لیے",
+      "english": "The melodies are impatient to burst from the strings;",
+      "verse": true
+    },
+    {
+      "urdu": "طُور مضطر ہے اُسی آگ میں جلنے کے لیے",
+      "english": "Sinai is restless to burn in that same fire.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بھٹکی ہوئی مسلمان قوم پھر حجاز یعنی اسلام کے مرکز کی طرف لوٹنا چاہتی ہے۔ وہ ایک ساز کی طرح ہے جو بجنے کے لیے تیار ہے، بس اللہ کے ذرا سے اشارے کی ضرورت ہے۔ طور پہاڑ پھر اسی آگ میں جلنے کو بےچین ہے۔",
+        "english": "The scattered Muslim nation is ready to turn back to Hijaz (the region of Mecca and Medina, the heart of Islam); even the wingless nightingale longs to fly. They are like an instrument waiting to be played: God need only touch the strings. Mount Tur (Sinai), where Moses saw God's light and the mountain burned, longs to burn in that fire again."
+      }
+    },
+    {
+      "urdu": "مُشکلیں اُمّتِ مرحوم کی آساں کر دے",
+      "english": "Make easy the hardships of the community that has known Your mercy;",
+      "verse": true
+    },
+    {
+      "urdu": "مُورِ بے مایہ کو ہمدوشِ سلیماں کر دے",
+      "english": "make the humble ant the equal of Solomon;",
+      "verse": true
+    },
+    {
+      "urdu": "جنس نایابِ محبّت کو پھر ارزاں کر دے",
+      "english": "make the rare goods of love cheap again;",
+      "verse": true
+    },
+    {
+      "urdu": "ہند کے دَیر نشینوں کو مسلماں کر دے",
+      "english": "make the temple-dwellers of India Muslims.",
+      "verse": true
+    },
+    {
+      "urdu": "جُوئے خوں می چکدا از حسرتِ دیرینہ ما",
+      "english": "(Persian) A stream of blood drips from our age-old longing;",
+      "verse": true
+    },
+    {
+      "urdu": "می تپد نالۂ بہ نشتر کدۂ سینۂ ما",
+      "english": "a lament throbs in the lancet-pierced chamber of our breast.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر دعا کرتا ہے کہ امت کی مشکلیں آسان کر، کمزور کو طاقتور بنا، محبت کو پھر عام کر اور ہندوستان کے بت پرستوں کو مسلمان کر دے۔ آخری فارسی شعر میں کہتا ہے کہ ہماری پرانی حسرت سے خون ٹپکتا ہے اور ہمارا زخمی سینہ فریاد سے تڑپ رہا ہے۔",
+        "english": "A prayer: ease the troubles of the Muslim ummah, raise the weak ant to the level of Solomon (an allusion to the Quranic story of Solomon and the ant), make love plentiful again, and guide India's idol-worshippers to Islam. The Persian couplet says their old longing drips blood and their breast, as if full of lancets, throbs with lament."
+      }
+    }
+  ],
+  "glossary": {
+    "بادہ": [
+      "baada",
+      "wine"
+    ],
+    "کش": [
+      "kash",
+      "drinker (“baada-kash” = wine-drinker)"
+    ],
+    "غیر": [
+      "ghair",
+      "strangers; others"
+    ],
+    "گلشن": [
+      "gulshan",
+      "garden"
+    ],
+    "لب": [
+      "lab-e-",
+      "edge; bank of (“lab-e-joo” = by the stream)"
+    ],
+    "جو": [
+      "joo",
+      "stream"
+    ],
+    "بیٹھے": [
+      "baiṭhe",
+      "sitting"
+    ],
+    "سنتے": [
+      "sunte",
+      "listen"
+    ],
+    "جام": [
+      "jaam",
+      "cup"
+    ],
+    "بکف": [
+      "ba-kaf",
+      "in hand (“jaam ba-kaf” = cup in hand)"
+    ],
+    "نغمۂ": [
+      "naghma-e-",
+      "song of"
+    ],
+    "کو": [
+      "ko / koo",
+      "to (object marker) / “koo koo” = the cooing of the ring-dove"
+    ],
+    "بیٹے": [
+      "baiṭhe",
+      "sitting (spelled بیٹے in this source; normally بیٹھے)"
+    ],
+    "دور": [
+      "door",
+      "far"
+    ],
+    "ہنگامۂ": [
+      "hangaama-e-",
+      "bustle; uproar of"
+    ],
+    "گلزار": [
+      "gulzaar",
+      "garden"
+    ],
+    "یک": [
+      "yak",
+      "one (“yak-soo” = aside, apart)"
+    ],
+    "سو": [
+      "soo",
+      "side (“yak-soo” = aside, apart)"
+    ],
+    "تیرے": [
+      "tere",
+      "your"
+    ],
+    "دیوانے": [
+      "deewaane",
+      "madmen; devotees"
+    ],
+    "منتظر": [
+      "muntazir",
+      "waiting (for)"
+    ],
+    "ھو": [
+      "hoo",
+      "“Hu” (He = God, the Sufi cry)"
+    ],
+    "پروانوں": [
+      "parwaanon",
+      "moths (oblique pl.)"
+    ],
+    "ذوق": [
+      "zauq-e-",
+      "taste; zest for"
+    ],
+    "خود": [
+      "khud",
+      "self"
+    ],
+    "افروزی": [
+      "afrozi",
+      "kindling (“khud-afrozi” = setting oneself alight)"
+    ],
+    "دے": [
+      "de",
+      "give (“kar de” = make; “chheṛ to de” = just strike)"
+    ],
+    "برق": [
+      "barq-e-",
+      "lightning"
+    ],
+    "دیرینہ": [
+      "dereena",
+      "old; ancient; age-old"
+    ],
+    "فرمان": [
+      "farmaan-e-",
+      "command for"
+    ],
+    "جگر": [
+      "jigar",
+      "liver; heart"
+    ],
+    "سوزی": [
+      "sozi",
+      "burning (“jigar-sozi” = burning of hearts)"
+    ],
+    "قوم": [
+      "qaum",
+      "nation"
+    ],
+    "آوارہ": [
+      "aawaara",
+      "wandering; astray"
+    ],
+    "عناں": [
+      "inaan",
+      "reins"
+    ],
+    "تاب": [
+      "taab",
+      "turning (“inaan-taab” = turning the reins)"
+    ],
+    "سوئے": [
+      "su-e-",
+      "towards"
+    ],
+    "حجاز": [
+      "hijaaz",
+      "Hijaz (region of Mecca and Medina)"
+    ],
+    "لے": [
+      "le",
+      "take (“le uṛa” = carried off)"
+    ],
+    "ارا": [
+      "uṛa",
+      "flew (“le uṛa” = carried off; spelled اُرا in this source, normally اُڑا)"
+    ],
+    "بلبل": [
+      "bulbul-e-",
+      "nightingale"
+    ],
+    "بے": [
+      "be",
+      "without (“be-par” = wingless; “be-maaya” = poor)"
+    ],
+    "پر": [
+      "par",
+      "wing (“be-par” = wingless)"
+    ],
+    "مذاق": [
+      "mazaaq-e-",
+      "taste; love of"
+    ],
+    "پرواز": [
+      "parwaaz",
+      "flight"
+    ],
+    "مضطرب": [
+      "muztarib",
+      "restless"
+    ],
+    "باغ": [
+      "baagh",
+      "garden"
+    ],
+    "غنچے": [
+      "ghunche",
+      "bud (oblique)"
+    ],
+    "بوئے": [
+      "boo-e-",
+      "scent of"
+    ],
+    "نیاز": [
+      "niyaaz",
+      "devotion; humble longing"
+    ],
+    "تو": [
+      "tu / to",
+      "You (God) / just; then (emphasis)"
+    ],
+    "ذرا": [
+      "zara",
+      "just; a little"
+    ],
+    "چھیڑ": [
+      "chheṛ",
+      "touch; strike (strings)"
+    ],
+    "تشنۂ": [
+      "tishna-e-",
+      "thirsty for"
+    ],
+    "مضراب": [
+      "mizraab",
+      "plectrum"
+    ],
+    "ساز": [
+      "saaz",
+      "musical instrument"
+    ],
+    "نغمے": [
+      "naghme",
+      "melodies; songs"
+    ],
+    "بیتاب": [
+      "betaab",
+      "impatient; restless"
+    ],
+    "تاروں": [
+      "taaron",
+      "strings (oblique pl.)"
+    ],
+    "نلکنے": [
+      "nikalne",
+      "to come out (spelled نلکنے in this source; normally نکلنے)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for)"
+    ],
+    "طور": [
+      "toor",
+      "Mount Tur (Sinai), where Moses saw God's light"
+    ],
+    "مضطر": [
+      "muztar",
+      "restless; anxious"
+    ],
+    "اسی": [
+      "usi",
+      "that same"
+    ],
+    "آگ": [
+      "aag",
+      "fire"
+    ],
+    "جلنے": [
+      "jalne",
+      "to burn"
+    ],
+    "مشکلیں": [
+      "mushkilein",
+      "difficulties; hardships"
+    ],
+    "امت": [
+      "ummat-e-",
+      "community of (the Muslim ummah)"
+    ],
+    "مرحوم": [
+      "marhoom",
+      "one shown mercy (“ummat-e-marhoom” = the community favoured with God's mercy)"
+    ],
+    "آساں": [
+      "aasaan",
+      "easy"
+    ],
+    "مور": [
+      "mor-e-",
+      "ant"
+    ],
+    "مایہ": [
+      "maaya",
+      "wealth; worth (“be-maaya” = poor, humble)"
+    ],
+    "ہمدوش": [
+      "hamdosh-e-",
+      "shoulder to shoulder with; equal to"
+    ],
+    "سلیماں": [
+      "sulaimaan",
+      "Solomon"
+    ],
+    "جنس": [
+      "jins-e-",
+      "goods; commodity"
+    ],
+    "نایاب": [
+      "naayaab-e-",
+      "rare (“jins-e-naayaab-e-mohabbat” = the rare goods of love)"
+    ],
+    "محبت": [
+      "mohabbat",
+      "love"
+    ],
+    "ارزاں": [
+      "arzaan",
+      "cheap; plentiful"
+    ],
+    "ہند": [
+      "hind",
+      "India"
+    ],
+    "دیر": [
+      "dair",
+      "temple"
+    ],
+    "نشینوں": [
+      "nasheenon",
+      "dwellers (oblique pl.) (“dair-nasheen” = temple-dweller)"
+    ],
+    "مسلماں": [
+      "musalmaan",
+      "Muslim(s)"
+    ],
+    "جوئے": [
+      "joo-e-",
+      "stream of (Persian)"
+    ],
+    "خوں": [
+      "khoon",
+      "blood"
+    ],
+    "می": [
+      "mi",
+      "(Persian verb prefix: “mi-chakad” = drips, “mi-tapad” = throbs)"
+    ],
+    "چکدا": [
+      "chakad",
+      "drips (Persian “mi-chakad”; spelled چکدا in this source)"
+    ],
+    "از": [
+      "az",
+      "from (Persian)"
+    ],
+    "حسرت": [
+      "hasrat-e-",
+      "longing; regret"
+    ],
+    "ما": [
+      "maa",
+      "our (Persian)"
+    ],
+    "تپد": [
+      "tapad",
+      "throbs (Persian “mi-tapad”)"
+    ],
+    "نالۂ": [
+      "naala",
+      "lament; cry"
+    ],
+    "بہ": [
+      "ba",
+      "in (Persian)"
+    ],
+    "نشتر": [
+      "nishtar",
+      "lancet"
+    ],
+    "کدۂ": [
+      "kada-e-",
+      "house of (“nishtar-kada” = a place full of lancets)"
+    ],
+    "سینۂ": [
+      "seena-e-",
+      "breast; heart"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "جب غیر باغ میں شراب پی رہے ہیں تو اللہ کے دیوانے کیا کر رہے ہیں؟",
+      "english": "While strangers drink wine in the garden, what are God's madmen doing?",
+      "options": [
+        {
+          "urdu": "وہ بھی شراب پی رہے ہیں",
+          "english": "They are drinking wine too"
+        },
+        {
+          "urdu": "وہ فاختہ کا گیت سن رہے ہیں",
+          "english": "They are listening to the dove's song"
+        },
+        {
+          "urdu": "الگ بیٹھے \"ھو\" کا انتظار کر رہے ہیں",
+          "english": "Sitting apart, waiting for “Hu”"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "شاعر مسلمان قوم کو کس چیز سے تشبیہ دیتا ہے جو بس چھیڑنے کی منتظر ہے؟",
+      "english": "What does the poet compare the Muslim nation to, waiting only to be touched?",
+      "options": [
+        {
+          "urdu": "ایک ساز سے",
+          "english": "A musical instrument"
+        },
+        {
+          "urdu": "ایک چراغ سے",
+          "english": "A lamp"
+        },
+        {
+          "urdu": "ایک دریا سے",
+          "english": "A river"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر چیونٹی کے لیے کیا دعا کرتا ہے؟",
+      "english": "What does the poet pray for the ant?",
+      "options": [
+        {
+          "urdu": "کہ اسے پر مل جائیں",
+          "english": "That it may get wings"
+        },
+        {
+          "urdu": "کہ وہ سلیمان کے برابر ہو جائے",
+          "english": "That it may become Solomon's equal"
+        },
+        {
+          "urdu": "کہ وہ حجاز پہنچ جائے",
+          "english": "That it may reach Hijaz"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

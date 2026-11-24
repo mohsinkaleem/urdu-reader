@@ -1,0 +1,488 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-9",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 9)",
+    "english": "Jawab-e-Shikwa, part 9"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Iqbal’s “Jawab-e-Shikwa” (1913, later in Bang-e-Dara) is God’s answer to his earlier poem “Shikwa”, in which he had complained to God on behalf of the Muslims. In this part (stanzas 25–27) the tone turns from rebuke to hope: the new age burns everything like lightning, but the martyrs’ blood is preparing a new spring, and the tree of Islam is the fruit of centuries.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 9,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "عہدِ نَو برق ہے، آتش زنِ ہر خرمن ہے",
+      "english": "The new age is lightning, setting fire to every harvest;",
+      "verse": true
+    },
+    {
+      "urdu": "ایمن اس سے کوئی صحرا نہ کوئی گُلشن ہے",
+      "english": "no desert and no garden is safe from it.",
+      "verse": true
+    },
+    {
+      "urdu": "اس نئی آگ کا اقوامِ کُہن ایندھن ہے",
+      "english": "The ancient nations are the fuel of this new fire;",
+      "verse": true
+    },
+    {
+      "urdu": "ملّتِ ختمِ رُسُلؐ شُعلہ بہ پیراہن ہے",
+      "english": "the community of the Seal of the Prophets has flames in its robe.",
+      "verse": true
+    },
+    {
+      "urdu": "آج بھی ہو جو براہیمؑ کا ایماں پیدا",
+      "english": "If even today the faith of Abraham is born,",
+      "verse": true
+    },
+    {
+      "urdu": "آگ کر سکتی ہے اندازِ گُلستاں پیدا",
+      "english": "fire can take on the look of a garden.",
+      "verse": true,
+      "explanation": {
+        "urdu": "نیا دور بجلی کی طرح ہے جو ہر کھلیان کو جلا دیتی ہے، اس سے کوئی جگہ محفوظ نہیں۔ پرانی قومیں اس آگ کا ایندھن بن رہی ہیں اور مسلمان قوم بھی جل رہی ہے۔ لیکن اگر آج بھی حضرت ابراہیمؑ جیسا ایمان پیدا ہو جائے تو آگ باغ بن سکتی ہے۔",
+        "english": "The modern age is like lightning that burns every harvest; no place, desert or garden, is safe. The old nations are fuel for this new fire, and the community of the Prophet (the ‘Seal of the Prophets’) is in flames. But if the faith of Abraham is born again, the fire can become a garden — an allusion to the fire of Nimrod, which God made cool and safe for Abraham (Quran 21:69)."
+      }
+    },
+    {
+      "urdu": "دیکھ کر رنگِ چمن ہو نہ پریشاں مالی",
+      "english": "Gardener, do not be distressed at the state of the garden:",
+      "verse": true
+    },
+    {
+      "urdu": "کوکبِ غُنچہ سے شاخیں ہیں چمکنے والی",
+      "english": "the branches are about to shine with the stars of buds.",
+      "verse": true
+    },
+    {
+      "urdu": "خس و خاشاک سے ہوتا ہے گُلستاں خالی",
+      "english": "The garden is being cleared of weeds and rubbish;",
+      "verse": true
+    },
+    {
+      "urdu": "گُل بر انداز ہے خُونِ شُہَدا کی لالی",
+      "english": "the redness of the martyrs’ blood is making flowers bloom.",
+      "verse": true
+    },
+    {
+      "urdu": "رنگ گردُوں کا ذرا دیکھ تو عُنّابی ہے",
+      "english": "Just look at the colour of the sky: it is crimson —",
+      "verse": true
+    },
+    {
+      "urdu": "یہ نِکلتے ہوئے سُورج کی اُفُق تابی ہے",
+      "english": "this is the rising sun lighting up the horizon.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ باغ کے مالی، یعنی مسلمانوں سے کہتا ہے کہ باغ کا حال دیکھ کر پریشان نہ ہو۔ جلد شاخوں پر کلیاں ستاروں کی طرح چمکیں گی۔ باغ سے کوڑا کرکٹ صاف ہو رہا ہے اور شہیدوں کا خون نئے پھول کھلا رہا ہے۔ آسمان کا لال رنگ ڈوبتے نہیں بلکہ نکلتے سورج کا ہے۔",
+        "english": "Here the tone turns hopeful. The gardener (the Muslim community) should not despair at the garden’s state: soon buds will shine like stars on its branches. The garden is being cleared of weeds, and the blood of the martyrs (of the wars of 1911–13) is bringing forth flowers. The red sky is not a sunset but the dawn of a rising sun."
+      }
+    },
+    {
+      "urdu": "اُمّتیں گُلشنِ ہستی میں ثمر چیدہ بھی ہیں",
+      "english": "In the garden of existence some nations have gathered their fruit,",
+      "verse": true
+    },
+    {
+      "urdu": "اور محرومِ ثمر بھی ہیں، خزاں دیدہ بھی ہیں",
+      "english": "and some are deprived of fruit, struck by autumn.",
+      "verse": true
+    },
+    {
+      "urdu": "سینکڑوں نخل ہیں، کاہیدہ بھی، بالیدہ بھی ہیں",
+      "english": "There are hundreds of trees, some withered, some flourishing;",
+      "verse": true
+    },
+    {
+      "urdu": "سینکڑوں بطنِ چمن میں ابھی پوشیدہ بھی ہیں",
+      "english": "and hundreds still lie hidden in the garden’s womb.",
+      "verse": true
+    },
+    {
+      "urdu": "نخلِ اسلام نمونہ ہے برومندی کا",
+      "english": "The tree of Islam is a model of fruitfulness;",
+      "verse": true
+    },
+    {
+      "urdu": "پھل ہے یہ سینکڑوں صدیوں کی چمن بندی کا",
+      "english": "it is the fruit of hundreds of centuries of gardening.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دنیا کے باغ میں کچھ قوموں نے پھل پا لیا، کچھ محروم رہیں اور خزاں کا شکار ہو گئیں۔ سینکڑوں درخت سوکھ رہے ہیں، سینکڑوں بڑھ رہے ہیں اور بہت سے ابھی پیدا ہونے ہیں۔ اسلام کا درخت پھل دار ہونے کی مثال ہے اور یہ صدیوں کی محنت کا نتیجہ ہے۔",
+        "english": "In the garden of the world, some nations have gathered their fruit while others are fruitless and autumn-stricken; hundreds of trees are withering or growing, and hundreds more are not yet born. The tree of Islam is a model of fruitfulness, the product of centuries of care, so it will not easily be destroyed."
+      }
+    }
+  ],
+  "glossary": {
+    "عہد": [
+      "ahd-e",
+      "age; era (“ahd-e nau” = the new age)"
+    ],
+    "نو": [
+      "nau",
+      "new"
+    ],
+    "برق": [
+      "barq",
+      "lightning"
+    ],
+    "آتش": [
+      "aatish",
+      "fire (“aatish-zan” = setting fire)"
+    ],
+    "زن": [
+      "zan-e",
+      "setter (of) (“aatish-zan-e har khirman” = setting fire to every harvest)"
+    ],
+    "خرمن": [
+      "khirman",
+      "harvest; heap of grain"
+    ],
+    "ایمن": [
+      "aiman",
+      "safe"
+    ],
+    "کوئی": [
+      "koi",
+      "some; any; someone (“har koi” = everyone)"
+    ],
+    "صحرا": [
+      "sehra",
+      "desert"
+    ],
+    "گلشن": [
+      "gulshan",
+      "garden"
+    ],
+    "نئی": [
+      "nayi",
+      "new (f.)"
+    ],
+    "آگ": [
+      "aag",
+      "fire"
+    ],
+    "اقوام": [
+      "aqwaam-e",
+      "nations (pl.) (“aqwaam-e kuhan” = the ancient nations)"
+    ],
+    "کہن": [
+      "kuhan",
+      "old; ancient"
+    ],
+    "ایندھن": [
+      "eendhan",
+      "fuel"
+    ],
+    "ملت": [
+      "millat-e",
+      "community; nation (of)"
+    ],
+    "ختم": [
+      "khatm-e",
+      "the seal (of) (“khatm-e rusul” = the Seal of the Prophets, Muhammad)"
+    ],
+    "رسل": [
+      "rusul",
+      "messengers; prophets (pl.)"
+    ],
+    "شعلہ": [
+      "shola",
+      "flame (“shola ba-pairaahan” = with flames in its robe, on fire)"
+    ],
+    "بہ": [
+      "ba",
+      "in; with (Persian)"
+    ],
+    "پیراہن": [
+      "pairaahan",
+      "robe; shirt"
+    ],
+    "جو": [
+      "jo",
+      "if (“ho jo… paida” = if there should arise)"
+    ],
+    "براہیم": [
+      "baraaheem",
+      "Abraham (poetic form of “Ibraaheem”)"
+    ],
+    "ایماں": [
+      "eemaan",
+      "faith (poetic spelling)"
+    ],
+    "پیدا": [
+      "paida",
+      "born; produced (“paida karna” = to produce, create)"
+    ],
+    "سکتی": [
+      "sakti",
+      "can (f.)"
+    ],
+    "انداز": [
+      "andaaz-e",
+      "manner; style (of)"
+    ],
+    "گلستاں": [
+      "gulistaan",
+      "rose garden; garden"
+    ],
+    "دیکھ": [
+      "dekh",
+      "see; look (“dekh kar” = seeing)"
+    ],
+    "رنگ": [
+      "rang",
+      "colour; state (“rang-e chaman” = the state of the garden)"
+    ],
+    "چمن": [
+      "chaman",
+      "garden"
+    ],
+    "پریشاں": [
+      "pareshaan",
+      "troubled; distressed"
+    ],
+    "مالی": [
+      "maali",
+      "gardener"
+    ],
+    "کوکب": [
+      "kaukab-e",
+      "star (of) (“kaukab-e ghuncha” = the star of a bud)"
+    ],
+    "غنچہ": [
+      "ghuncha",
+      "bud"
+    ],
+    "شاخیں": [
+      "shaakhen",
+      "branches"
+    ],
+    "چمکنے": [
+      "chamakne",
+      "shining (“chamakne waali hain” = are about to shine)"
+    ],
+    "والی": [
+      "waali",
+      "about to; (one) who (f.)"
+    ],
+    "خس": [
+      "khas",
+      "straw; weeds"
+    ],
+    "خاشاک": [
+      "khaashaak",
+      "rubbish; sweepings (“khas o khaashaak” = weeds and debris)"
+    ],
+    "ہوتا": [
+      "hota",
+      "is becoming (“khaali hota hai” = is being emptied)"
+    ],
+    "خالی": [
+      "khaali",
+      "empty; cleared"
+    ],
+    "گل": [
+      "gul",
+      "flower; rose"
+    ],
+    "بر": [
+      "bar",
+      "(“gul-bar-andaaz” = scattering flowers, making flowers bloom)"
+    ],
+    "خون": [
+      "khoon-e",
+      "blood (of)"
+    ],
+    "شہدا": [
+      "shuhada",
+      "martyrs (pl.)"
+    ],
+    "لالی": [
+      "laali",
+      "redness"
+    ],
+    "گردوں": [
+      "gardoon",
+      "the sky; the heavens"
+    ],
+    "ذرا": [
+      "zara",
+      "just; a little"
+    ],
+    "تو": [
+      "to",
+      "just (“zara dekh to” = just look)"
+    ],
+    "عنابی": [
+      "unnaabi",
+      "crimson; deep red (colour of the jujube fruit)"
+    ],
+    "نکلتے": [
+      "nikalte",
+      "rising (“nikalte hue” = rising)"
+    ],
+    "سورج": [
+      "sooraj",
+      "sun"
+    ],
+    "افق": [
+      "ufuq",
+      "horizon (“ufuq-e qaum” = the nation’s horizon)"
+    ],
+    "تابی": [
+      "taabi",
+      "shining (“ufuq-taabi” = lighting up the horizon)"
+    ],
+    "امتیں": [
+      "ummaten",
+      "nations; religious communities (pl.)"
+    ],
+    "ہستی": [
+      "hasti",
+      "existence; being"
+    ],
+    "ثمر": [
+      "samar",
+      "fruit"
+    ],
+    "چیدہ": [
+      "cheeda",
+      "picked (“samar-cheeda” = having gathered their fruit)"
+    ],
+    "محروم": [
+      "mahroom-e",
+      "deprived (of)"
+    ],
+    "خزاں": [
+      "khizaan",
+      "autumn"
+    ],
+    "دیدہ": [
+      "deeda",
+      "seen; suffered (“khizaan-deeda” = autumn-stricken)"
+    ],
+    "سینکڑوں": [
+      "sainkaṛon",
+      "hundreds"
+    ],
+    "نخل": [
+      "nakhl",
+      "tree; palm (“nakhl-e islaam” = the tree of Islam)"
+    ],
+    "کاہیدہ": [
+      "kaaheeda",
+      "withered; wasted"
+    ],
+    "بالیدہ": [
+      "baaleeda",
+      "grown; flourishing"
+    ],
+    "بطن": [
+      "batn-e",
+      "womb (of)"
+    ],
+    "ابھی": [
+      "abhi",
+      "still; yet"
+    ],
+    "پوشیدہ": [
+      "posheeda",
+      "hidden"
+    ],
+    "اسلام": [
+      "islaam",
+      "Islam"
+    ],
+    "نمونہ": [
+      "namoona",
+      "example; model"
+    ],
+    "برومندی": [
+      "baroomandi",
+      "fruitfulness; prosperity"
+    ],
+    "پھل": [
+      "phal",
+      "fruit"
+    ],
+    "صدیوں": [
+      "sadiyon",
+      "centuries (pl. oblique)"
+    ],
+    "بندی": [
+      "bandi",
+      "(“chaman-bandi” = laying out and tending a garden)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "اگر آج بھی ابراہیمؑ جیسا ایمان پیدا ہو جائے تو کیا ہو سکتا ہے؟",
+      "english": "What can happen if the faith of Abraham is born again today?",
+      "options": [
+        {
+          "urdu": "بجلی ہر کھلیان جلا دے گی",
+          "english": "lightning will burn every harvest"
+        },
+        {
+          "urdu": "آگ باغ بن سکتی ہے",
+          "english": "fire can become a garden"
+        },
+        {
+          "urdu": "باغ جل جائے گا",
+          "english": "the garden will burn"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "آسمان کا لال رنگ کس چیز کی نشانی ہے؟",
+      "english": "What does the red colour of the sky signify?",
+      "options": [
+        {
+          "urdu": "ڈوبتا ہوا سورج",
+          "english": "the setting sun"
+        },
+        {
+          "urdu": "آنے والی آندھی",
+          "english": "a coming storm"
+        },
+        {
+          "urdu": "نکلتا ہوا سورج، یعنی نئی صبح",
+          "english": "the rising sun, a new dawn"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "اسلام کے درخت کو کس چیز کا پھل کہا گیا ہے؟",
+      "english": "What is the tree of Islam said to be the fruit of?",
+      "options": [
+        {
+          "urdu": "صدیوں کی باغبانی کا",
+          "english": "centuries of gardening"
+        },
+        {
+          "urdu": "ایک دن کی محنت کا",
+          "english": "a single day’s work"
+        },
+        {
+          "urdu": "بادشاہوں کی دولت کا",
+          "english": "the wealth of kings"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

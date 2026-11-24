@@ -1,0 +1,512 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-2",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 2)",
+    "english": "Jawab-e-Shikwa, part 2"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Part 2 of Iqbal’s “Jawab-e-Shikwa” (1913), stanzas 4–6. The angels marvel that Adam, to whom they once bowed, now speaks so boldly to God; then God’s own voice begins the answer: the complaint was beautifully made, but God is always ready to give and to guide – it is people who no longer ask or seek.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 2,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "اس قدر شوخ کہ اللہ سے بھی برہم ہے",
+      "english": "So bold that he is angry even with God!",
+      "verse": true
+    },
+    {
+      "urdu": "تھا جو مسجودِ ملائک، یہ وہی آدم ہے!",
+      "english": "Is this the same Adam to whom the angels bowed?",
+      "verse": true
+    },
+    {
+      "urdu": "عالِمِ کیف ہے، دانائے رموزِ کم ہے",
+      "english": "He knows the nature of things, he is wise in the secrets of quantity,",
+      "verse": true
+    },
+    {
+      "urdu": "ہاں مگر عجز کے اسرار سے نامحرم ہے",
+      "english": "yes – but he is a stranger to the secrets of humility.",
+      "verse": true
+    },
+    {
+      "urdu": "ناز ہے طاقتِ گفتار پہ انسانوں کو",
+      "english": "Human beings are proud of their power of speech,",
+      "verse": true
+    },
+    {
+      "urdu": "بات کرنے کا سلیقہ نہیں نادانوں کو",
+      "english": "yet these ignorant ones do not know how to speak properly.",
+      "verse": true,
+      "explanation": {
+        "urdu": "فرشتے کہتے ہیں کہ یہ وہی آدم ہے جسے فرشتوں نے سجدہ کیا تھا، مگر اب اتنا گستاخ ہے کہ اللہ سے ناراض ہے۔ انسان بہت علم رکھتا ہے مگر عاجزی نہیں جانتا۔ اسے بولنے پر ناز ہے مگر بات کرنے کا ڈھنگ نہیں آتا۔",
+        "english": "The angels marvel that this is the same Adam before whom they were commanded to bow (Quran 2:34), yet he is now bold enough to be angry with God. Man has mastered the sciences – the knowledge of “how” (quality) and “how much” (quantity) – but not humility; he is proud of his gift of speech yet does not know how to speak respectfully."
+      }
+    },
+    {
+      "urdu": "آئی آواز، غم انگیز ہے افسانہ ترا",
+      "english": "A voice came: “Your tale is full of sorrow;",
+      "verse": true
+    },
+    {
+      "urdu": "اشکِ بے تاب سے لبریز ہے پیمانہ ترا",
+      "english": "your cup brims over with restless tears.",
+      "verse": true
+    },
+    {
+      "urdu": "آسماں گیر ہُوا نعرۂ مستانہ ترا",
+      "english": "Your ecstatic cry has filled the sky;",
+      "verse": true
+    },
+    {
+      "urdu": "کس قدر شوخ زباں ہے دلِ دیوانہ ترا",
+      "english": "how bold-tongued your love-crazed heart is!",
+      "verse": true
+    },
+    {
+      "urdu": "شُکر شکوے کو کِیا حُسنِ ادا سے تو نے",
+      "english": "With the grace of your expression you turned complaint into thanks;",
+      "verse": true
+    },
+    {
+      "urdu": "ہم سخن کر دیا بندوں کو خدا سے تو نے",
+      "english": "you made servants able to converse with God.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اب اللہ کی طرف سے آواز آتی ہے کہ تیری کہانی دکھ بھری ہے اور تیری آنکھیں آنسوؤں سے بھری ہیں۔ تیرا نعرہ آسمان تک پہنچ گیا۔ تو نے اپنے خوب صورت انداز سے شکایت کو بھی شکر بنا دیا اور بندوں کو خدا سے بات کرنے والا بنا دیا۔",
+        "english": "Now God’s voice replies. It acknowledges that the poet’s tale is full of grief and his cup of tears overflows, and that his bold cry has filled the sky. Because of its beautiful expression the complaint has in effect become thanks, and it has let human beings speak directly with God."
+      }
+    },
+    {
+      "urdu": "ہم تو مائل بہ کرم ہیں، کوئی سائل ہی نہیں",
+      "english": "We are inclined to be generous – but there is no one who asks;",
+      "verse": true
+    },
+    {
+      "urdu": "راہ دِکھلائیں کسے، رہروِ منزل ہی نہیں",
+      "english": "whom should We show the way? There is no traveller seeking the goal.",
+      "verse": true
+    },
+    {
+      "urdu": "تربیت عام تو ہے، جوہرِ قابل ہی نہیں",
+      "english": "Our nurture is open to all, but there is no worthy material;",
+      "verse": true
+    },
+    {
+      "urdu": "جس سے تعمیر ہو آدم کی، یہ وہ گِل ہی نہیں",
+      "english": "this is not the clay from which Adam can be built.",
+      "verse": true
+    },
+    {
+      "urdu": "کوئی قابل ہو تو ہم شانِ کئی دیتے ہیں",
+      "english": "If someone is worthy, We give him the glory of the Kayani kings;",
+      "verse": true
+    },
+    {
+      "urdu": "ڈھُونڈنے والوں کو دنیا بھی نئی دیتے ہیں",
+      "english": "to those who search We give even a new world.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ فرماتا ہے کہ ہم تو مہربانی کرنے کو تیار ہیں مگر کوئی مانگنے والا نہیں، راستہ دکھانے کو تیار ہیں مگر کوئی منزل کا مسافر نہیں۔ جو قابل ہو اسے ہم بادشاہوں جیسی شان دیتے ہیں، اور ڈھونڈنے والوں کو نئی دنیا بھی دے دیتے ہیں۔",
+        "english": "God says He is always ready to be generous and to guide, but no one asks and no one is travelling toward the goal. His nurture is open to everyone, yet there is no worthy clay left to shape a true human being from. To the worthy He gives the glory of Kai – the ancient Kayani kings of Persia – and to those who search He gives even a new world, a hint at Columbus reaching America."
+      }
+    }
+  ],
+  "glossary": {
+    "قدر": [
+      "qadar",
+      "extent (“is qadar” = so much; “kis qadar” = how very)"
+    ],
+    "شوخ": [
+      "shokh",
+      "bold; impudent (“shokh zabaan” = bold-tongued)"
+    ],
+    "اللہ": [
+      "allaah",
+      "God"
+    ],
+    "برہم": [
+      "barham",
+      "angry; displeased"
+    ],
+    "جو": [
+      "jo",
+      "who (“tha jo” = he who was)"
+    ],
+    "مسجودِ": [
+      "masjood-e",
+      "one bowed down to by (“masjood-e malaaik” = the one the angels bowed to)"
+    ],
+    "ملائک": [
+      "malaaik",
+      "angels (Arabic pl.)"
+    ],
+    "وہی": [
+      "wahi",
+      "the very same"
+    ],
+    "آدم": [
+      "aadam",
+      "Adam; man"
+    ],
+    "عالِمِ": [
+      "aalim-e",
+      "knower of (“aalim-e kaif” = knower of the nature of things)"
+    ],
+    "کیف": [
+      "kaif",
+      "“how”: quality, the nature of things (philosophical term)"
+    ],
+    "دانائے": [
+      "daana-e",
+      "one wise in (“daana-e rumooz-e kam” = expert in the secrets of quantity)"
+    ],
+    "رموزِ": [
+      "rumooz-e",
+      "secrets of (pl. of “ramz”)"
+    ],
+    "کم": [
+      "kam",
+      "“how much”: quantity (philosophical term; not “less” here)"
+    ],
+    "ہاں": [
+      "haan",
+      "yes; indeed"
+    ],
+    "عجز": [
+      "ijz",
+      "humility; helplessness"
+    ],
+    "اسرار": [
+      "asraar",
+      "secrets; mysteries"
+    ],
+    "نامحرم": [
+      "naa-mahram",
+      "a stranger; uninitiated (“naa-mahram hai” = knows nothing of)"
+    ],
+    "ناز": [
+      "naaz",
+      "pride (“… ko naaz hai” = … are proud)"
+    ],
+    "طاقتِ": [
+      "taaqat-e",
+      "power of (“taaqat-e guftaar” = power of speech)"
+    ],
+    "گفتار": [
+      "guftaar",
+      "speech"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "انسانوں": [
+      "insaanon",
+      "human beings (oblique pl.)"
+    ],
+    "بات": [
+      "baat",
+      "talk (“baat karna” = to speak)"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (“baat karne ka saleeqa” = the art of speaking)"
+    ],
+    "سلیقہ": [
+      "saleeqa",
+      "skill; good manners"
+    ],
+    "نادانوں": [
+      "naadaanon",
+      "ignorant ones (oblique pl.)"
+    ],
+    "آئی": [
+      "aayi",
+      "came (f.)"
+    ],
+    "آواز": [
+      "aawaaz",
+      "voice"
+    ],
+    "غم": [
+      "gham",
+      "sorrow (“gham-angez” = sorrowful)"
+    ],
+    "انگیز": [
+      "angez",
+      "arousing (suffix: “gham-angez” = full of sorrow)"
+    ],
+    "افسانہ": [
+      "afsaana",
+      "story; tale"
+    ],
+    "ترا": [
+      "tera",
+      "your (poetic form of “tera”)"
+    ],
+    "اشکِ": [
+      "ashk-e",
+      "tears (“ashk-e be-taab” = restless tears)"
+    ],
+    "بے": [
+      "be",
+      "without (“be-taab” = restless)"
+    ],
+    "تاب": [
+      "taab",
+      "endurance (“be-taab” = restless, impatient)"
+    ],
+    "لبریز": [
+      "labrez",
+      "brimming; full to the brim"
+    ],
+    "پیمانہ": [
+      "paimaana",
+      "cup; wine-glass"
+    ],
+    "آسماں": [
+      "aasmaan",
+      "sky (“aasmaan-geer” = filling the sky)"
+    ],
+    "گیر": [
+      "geer",
+      "seizing (suffix: “aasmaan-geer” = sky-seizing)"
+    ],
+    "ہُوا": [
+      "hua",
+      "became"
+    ],
+    "نعرۂ": [
+      "naara-e",
+      "cry; shout (“naara-e mastaana” = ecstatic cry)"
+    ],
+    "مستانہ": [
+      "mastaana",
+      "intoxicated; ecstatic"
+    ],
+    "کس": [
+      "kis",
+      "how (“kis qadar” = how very)"
+    ],
+    "زباں": [
+      "zabaan",
+      "tongue (“shokh zabaan” = bold-tongued)"
+    ],
+    "دلِ": [
+      "dil-e",
+      "heart (“dil-e deewaana” = love-crazed heart)"
+    ],
+    "دیوانہ": [
+      "deewaana",
+      "mad; crazed with love"
+    ],
+    "شُکر": [
+      "shukr",
+      "thanks; gratitude"
+    ],
+    "شکوے": [
+      "shikwe",
+      "complaint (oblique) (“shikwe ko shukr kiya” = turned the complaint into thanks)"
+    ],
+    "کِیا": [
+      "kiya",
+      "made; did"
+    ],
+    "حُسنِ": [
+      "husn-e",
+      "beauty of (“husn-e adaa” = grace of expression)"
+    ],
+    "ادا": [
+      "adaa",
+      "style; manner of expression"
+    ],
+    "تو": [
+      "tu / to",
+      "you (familiar) / then"
+    ],
+    "ہم": [
+      "ham",
+      "We (God speaking); also in “ham-sukhan” = one who converses with"
+    ],
+    "سخن": [
+      "sukhan",
+      "speech (“ham-sukhan kar diya” = made able to converse)"
+    ],
+    "بندوں": [
+      "bandon",
+      "servants (of God); human beings (oblique pl.)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "مائل": [
+      "maail",
+      "inclined (“maail ba karam” = inclined to kindness)"
+    ],
+    "بہ": [
+      "ba",
+      "to; towards (Persian)"
+    ],
+    "کرم": [
+      "karam",
+      "kindness; generosity"
+    ],
+    "سائل": [
+      "saail",
+      "one who asks; beggar"
+    ],
+    "راہ": [
+      "raah",
+      "way; path"
+    ],
+    "دِکھلائیں": [
+      "dikhlaayen",
+      "should (We) show"
+    ],
+    "کسے": [
+      "kise",
+      "to whom"
+    ],
+    "رہروِ": [
+      "rahrau-e",
+      "traveller towards (“rahrau-e manzil” = traveller bound for the goal)"
+    ],
+    "منزل": [
+      "manzil",
+      "destination; goal"
+    ],
+    "تربیت": [
+      "tarbiyat",
+      "nurture; training"
+    ],
+    "عام": [
+      "aam",
+      "common; open to all"
+    ],
+    "جوہرِ": [
+      "jauhar-e",
+      "essence; inner quality (“jauhar-e qaabil” = worthy material)"
+    ],
+    "قابل": [
+      "qaabil",
+      "worthy; capable"
+    ],
+    "جس": [
+      "jis",
+      "which (“jis se” = from which)"
+    ],
+    "تعمیر": [
+      "taameer",
+      "building; construction"
+    ],
+    "ہو": [
+      "ho",
+      "may be; is (“taameer ho” = could be built; “qaabil ho” = is worthy)"
+    ],
+    "گِل": [
+      "gil",
+      "clay; mud (not “gul”, flower)"
+    ],
+    "شانِ": [
+      "shaan-e",
+      "glory of (“shaan-e Kai” = the splendour of the Kayani kings)"
+    ],
+    "کئی": [
+      "kai",
+      "Kai (Kay), the legendary dynasty of ancient Persian kings – not “several” here"
+    ],
+    "دیتے": [
+      "dete",
+      "give (pl.)"
+    ],
+    "ڈھُونڈنے": [
+      "ḍhoonḍhne",
+      "seeking (“ḍhoonḍhne waalon” = those who search)"
+    ],
+    "والوں": [
+      "waalon",
+      "those who (oblique pl.)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "نئی": [
+      "nai",
+      "new (f.)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "فرشتوں کے نزدیک انسان کس چیز سے ناواقف ہے؟",
+      "english": "According to the angels, what does man know nothing of?",
+      "options": [
+        {
+          "urdu": "علم اور سائنس سے",
+          "english": "Knowledge and science"
+        },
+        {
+          "urdu": "عاجزی کے رازوں سے",
+          "english": "The secrets of humility"
+        },
+        {
+          "urdu": "بولنے کی طاقت سے",
+          "english": "The power of speech"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "اللہ کے مطابق شاعر نے اپنے شکوے سے کیا کیا؟",
+      "english": "According to God, what did the poet achieve with his complaint?",
+      "options": [
+        {
+          "urdu": "شکایت کو شکر بنا دیا اور بندوں کو خدا سے ہم کلام کر دیا",
+          "english": "He turned complaint into thanks and let servants speak with God"
+        },
+        {
+          "urdu": "فرشتوں کو ناراض کر دیا",
+          "english": "He made the angels angry"
+        },
+        {
+          "urdu": "جنت دوبارہ حاصل کر لی",
+          "english": "He won back Paradise"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "اللہ کس بات پر افسوس کرتا ہے؟",
+      "english": "What does God regret?",
+      "options": [
+        {
+          "urdu": "کہ اس کے پاس دینے کو کچھ نہیں",
+          "english": "That He has nothing to give"
+        },
+        {
+          "urdu": "کہ دنیا بہت پرانی ہو گئی ہے",
+          "english": "That the world has grown very old"
+        },
+        {
+          "urdu": "کہ کوئی مانگنے والا اور منزل کا مسافر نہیں",
+          "english": "That no one asks and no one travels toward the goal"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

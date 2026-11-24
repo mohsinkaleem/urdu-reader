@@ -1,0 +1,504 @@
+{
+  "id": "poem-iqbal-shikwa-2",
+  "title": {
+    "urdu": "شکوہ (حصہ 2)",
+    "english": "Shikwa, part 2"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Stanzas 4–6 of “Shikwa”: before Islam, the poet says, people worshipped stones and trees, and among all the nations of the world only the Muslims raised the sword for God's name, calling the azaan from Europe to Africa.",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 2,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "ہم سے پہلے تھا عجب تیرے جہان کا منظر",
+      "english": "Before us, Your world was a strange sight:",
+      "verse": true
+    },
+    {
+      "urdu": "کہیں مسجود تھے پتّھر، کہیں معبود شجر",
+      "english": "in some places stones were bowed to, in others trees were worshipped.",
+      "verse": true
+    },
+    {
+      "urdu": "خُوگرِ پیکرِ محسوس تھی اِنساں کی نظر",
+      "english": "Man's eye was used to forms it could see and touch;",
+      "verse": true
+    },
+    {
+      "urdu": "مانتا پھر کوئی اَن دیکھے خدا کو کیونکر",
+      "english": "how, then, would anyone accept an unseen God?",
+      "verse": true
+    },
+    {
+      "urdu": "تجھ کو معلوم ہے لیتا تھا کوئی نام ترا؟",
+      "english": "You know it — did anyone even take Your name?",
+      "verse": true
+    },
+    {
+      "urdu": "قوّتِ بازوئے مسلم نے کیا کام ترا",
+      "english": "It was the strength of the Muslim's arm that did Your work.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مسلمانوں سے پہلے دنیا میں کہیں پتھروں کی پوجا ہوتی تھی اور کہیں درختوں کی۔ انسان صرف وہ چیز مانتا تھا جو آنکھ سے نظر آئے، اس لیے ان دیکھے خدا کو کون مانتا؟ مسلمانوں کی طاقت نے ہی دنیا کو تیرا نام سکھایا۔",
+        "english": "Before the Muslims, people worshipped stones in some places and trees in others. Human eyes were used to gods they could see and touch, so who would accept an unseen God? It was the strength of the Muslims' arms that made God's name known."
+      }
+    },
+    {
+      "urdu": "بس رہے تھے یہیں سلجوق بھی ،تُورانی بھی",
+      "english": "The Seljuks lived right here, and the Turanians too;",
+      "verse": true
+    },
+    {
+      "urdu": "اہلِ چیں چین میں، ایران میں ساسانی بھی",
+      "english": "the Chinese in China, and in Iran the Sassanians;",
+      "verse": true
+    },
+    {
+      "urdu": "اِسی معمورے میں آباد تھے یونانی بھی",
+      "english": "in this same inhabited world the Greeks were settled too;",
+      "verse": true
+    },
+    {
+      "urdu": "اِسی دُنیا میں یہودی بھی تھے،نصرانی بھی",
+      "english": "in this same world there were Jews, and Christians too.",
+      "verse": true
+    },
+    {
+      "urdu": "پر ترے نام پہ تلوار اُٹھائی کس نے",
+      "english": "But who raised the sword in Your name?",
+      "verse": true
+    },
+    {
+      "urdu": "بات جو بگڑی ہوئی تھی، وہ بنائی کس نے",
+      "english": "Who set right the matter that had gone wrong?",
+      "verse": true,
+      "explanation": {
+        "urdu": "دنیا میں سلجوق، تورانی، چینی، ساسانی ایرانی، یونانی، یہودی اور عیسائی سب قومیں آباد تھیں۔ لیکن ان میں سے کس نے تیرے نام کے لیے تلوار اٹھائی؟ شاعر کہتا ہے کہ بگڑی ہوئی دنیا کو مسلمانوں نے ہی سنوارا۔",
+        "english": "Many peoples lived in the world: Seljuks, Turanians, Chinese, Sassanian Persians, Greeks, Jews and Christians. But which of them raised a sword for God's name? The poet's answer is that only the Muslims put right a world that had gone wrong."
+      }
+    },
+    {
+      "urdu": "تھے ہمیں ایک ترے معرکہ آراؤں میں",
+      "english": "We alone were among Your warriors,",
+      "verse": true
+    },
+    {
+      "urdu": "خشکیوں میں کبھی لڑتے ،کبھی دریاؤں میں",
+      "english": "fighting now on dry land, now on the seas.",
+      "verse": true
+    },
+    {
+      "urdu": "دِیں اذانیں کبھی یورپ کے کلیساؤں میں",
+      "english": "Sometimes we called the azaan in the churches of Europe,",
+      "verse": true
+    },
+    {
+      "urdu": "کبھی افریقہ کے تپتے ہوئے صحراؤں میں",
+      "english": "sometimes in the burning deserts of Africa.",
+      "verse": true
+    },
+    {
+      "urdu": "شان آنکھوں میں نہ جچتی تھی جہاں داروں کی",
+      "english": "The splendour of the world's rulers did not impress our eyes;",
+      "verse": true
+    },
+    {
+      "urdu": "کلمہ پڑھتے تھے ہم چھاؤں میں تلواروں کی",
+      "english": "we recited the kalima in the shade of swords.",
+      "verse": true,
+      "explanation": {
+        "urdu": "تیری خاطر صرف ہم لڑے، کبھی خشکی پر اور کبھی سمندروں میں۔ ہم نے یورپ کے گرجا گھروں میں بھی اذانیں دیں اور افریقہ کے گرم صحراؤں میں بھی۔ بادشاہوں کی شان ہمیں متاثر نہیں کرتی تھی، ہم تلواروں کے سائے میں بھی کلمہ پڑھتے تھے۔",
+        "english": "Only the Muslims fought for God, on land and at sea. They called the azaan in the churches of Europe (as in Spain and Sicily) and in the burning deserts of Africa. The pomp of kings did not impress them; they recited the kalima, the declaration of faith, even under the shadow of swords."
+      }
+    }
+  ],
+  "glossary": {
+    "ہم": [
+      "ham",
+      "we; (in “ham-nava”) fellow-"
+    ],
+    "پہلے": [
+      "pehle",
+      "before"
+    ],
+    "عجب": [
+      "ajab",
+      "strange, wondrous"
+    ],
+    "تیرے": [
+      "tere",
+      "your"
+    ],
+    "جہان": [
+      "jahaan",
+      "world"
+    ],
+    "منظر": [
+      "manzar",
+      "sight, scene"
+    ],
+    "کہیں": [
+      "kaheen",
+      "somewhere; in some places"
+    ],
+    "مسجود": [
+      "masjood",
+      "bowed down to, worshipped"
+    ],
+    "پتھر": [
+      "patthar",
+      "stones"
+    ],
+    "معبود": [
+      "maabood",
+      "worshipped (as a god)"
+    ],
+    "شجر": [
+      "shajar",
+      "trees (poetic)"
+    ],
+    "خوگر": [
+      "khoogar-e",
+      "one accustomed to (“khoogar-e-hamd” = one used to praising)"
+    ],
+    "پیکر": [
+      "paikar",
+      "form, figure; image (“paikar-e-mahsoos” = a form one can see and touch)"
+    ],
+    "محسوس": [
+      "mahsoos",
+      "perceptible, tangible"
+    ],
+    "انساں": [
+      "insaan",
+      "man, mankind (poetic form)"
+    ],
+    "نظر": [
+      "nazar",
+      "eye, sight"
+    ],
+    "مانتا": [
+      "maanta",
+      "would accept, believe in"
+    ],
+    "پھر": [
+      "phir",
+      "then; again (“phir bhi” = even so)"
+    ],
+    "ان": [
+      "an / un",
+      "un- (“an-dekhe” = unseen); them, those"
+    ],
+    "دیکھے": [
+      "dekhe",
+      "seen (“an-dekhe” = unseen)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "کیونکر": [
+      "kyoonkar",
+      "how? (literary)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (to God) (“tujh ko” = to You)"
+    ],
+    "لیتا": [
+      "leta",
+      "took (“naam leta tha” = used to take Your name)"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "ترا": [
+      "tera",
+      "your (poetic)"
+    ],
+    "قوت": [
+      "quvvat-e",
+      "strength of"
+    ],
+    "بازوئے": [
+      "baazoo-e",
+      "arm of"
+    ],
+    "مسلم": [
+      "muslim",
+      "Muslim"
+    ],
+    "کیا": [
+      "kiya",
+      "did (“kaam kiya” = did the work)"
+    ],
+    "بس": [
+      "bas",
+      "(“bas rahe the” = were living, were settled)"
+    ],
+    "رہے": [
+      "rahe",
+      "(“bas rahe the” = were living)"
+    ],
+    "یہیں": [
+      "yaheen",
+      "right here"
+    ],
+    "سلجوق": [
+      "saljooq",
+      "Seljuks (a Turkic dynasty)"
+    ],
+    "تورانی": [
+      "tooraani",
+      "Turanians (peoples of Central Asia)"
+    ],
+    "اہل": [
+      "ahl-e",
+      "people of (“ahl-e-cheen” = the Chinese)"
+    ],
+    "چیں": [
+      "cheen",
+      "China (poetic form)"
+    ],
+    "چین": [
+      "cheen",
+      "China"
+    ],
+    "ایران": [
+      "eeraan",
+      "Iran, Persia"
+    ],
+    "ساسانی": [
+      "saasaani",
+      "Sassanians (pre-Islamic Persian dynasty)"
+    ],
+    "معمورے": [
+      "maamoore",
+      "inhabited world (oblique)"
+    ],
+    "آباد": [
+      "aabaad",
+      "settled, inhabited"
+    ],
+    "یونانی": [
+      "yoonaani",
+      "Greeks"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "یہودی": [
+      "yahoodi",
+      "Jews"
+    ],
+    "پر": [
+      "par",
+      "but (poetic)"
+    ],
+    "ترے": [
+      "tere",
+      "your (poetic)"
+    ],
+    "پہ": [
+      "pe",
+      "on (= par)"
+    ],
+    "تلوار": [
+      "talvaar",
+      "sword"
+    ],
+    "اٹھائی": [
+      "uṭhaai",
+      "raised (f.)"
+    ],
+    "کس": [
+      "kis",
+      "who, whose (oblique); “kis tarah” = how"
+    ],
+    "بگڑی": [
+      "bigṛi",
+      "gone wrong (f.)"
+    ],
+    "ہوئی": [
+      "hui",
+      "(“bigṛi hui” = that had gone wrong); became (f.)"
+    ],
+    "بنائی": [
+      "banaai",
+      "made, set right (“baat banaana” = to put matters right)"
+    ],
+    "ہمیں": [
+      "hameen",
+      "we alone (emphatic, poetic)"
+    ],
+    "معرکہ": [
+      "maarka",
+      "battle (“maarka-aara” = warrior)"
+    ],
+    "آراؤں": [
+      "aaraaon",
+      "arrangers (oblique pl.; “maarka-aaraaon” = warriors)"
+    ],
+    "خشکیوں": [
+      "khushkiyon",
+      "dry lands (oblique pl.)"
+    ],
+    "کبھی": [
+      "kabhi",
+      "sometimes; ever"
+    ],
+    "لڑتے": [
+      "laṛte",
+      "fighting"
+    ],
+    "دریاؤں": [
+      "dariyaaon",
+      "rivers, seas (oblique pl.)"
+    ],
+    "دیں": [
+      "deen",
+      "gave (“azaanen deen” = called the azaan)"
+    ],
+    "اذانیں": [
+      "azaanen",
+      "calls to prayer (pl.)"
+    ],
+    "یورپ": [
+      "yoorap",
+      "Europe"
+    ],
+    "کلیساؤں": [
+      "kaleesaaon",
+      "churches (oblique pl.)"
+    ],
+    "افریقہ": [
+      "afreeqa",
+      "Africa"
+    ],
+    "تپتے": [
+      "tapte",
+      "burning, scorching"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“tapte hue” = burning; “dabaaye hue” = pressing)"
+    ],
+    "صحراؤں": [
+      "sahraaon",
+      "deserts (oblique pl.)"
+    ],
+    "شان": [
+      "shaan",
+      "splendour, grandeur"
+    ],
+    "آنکھوں": [
+      "aankhon",
+      "eyes (oblique pl.)"
+    ],
+    "جچتی": [
+      "jachti",
+      "impressed, seemed fine (f.) (“aankhon mein jachna” = to impress)"
+    ],
+    "جہاں": [
+      "jahaan",
+      "world (“jahaan-daar” = world-ruler)"
+    ],
+    "داروں": [
+      "daaron",
+      "holders (oblique pl.; “jahaan-daaron” = world-rulers)"
+    ],
+    "کلمہ": [
+      "kalima",
+      "the kalima, the declaration of faith"
+    ],
+    "پڑھتے": [
+      "paṛhte",
+      "recited"
+    ],
+    "چھاؤں": [
+      "chhaaon",
+      "shade, shadow"
+    ],
+    "تلواروں": [
+      "talvaaron",
+      "swords (oblique pl.)"
+    ],
+    "نصرانی": [
+      "nasraani",
+      "Christians"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کے مطابق مسلمانوں سے پہلے لوگ کس کی پوجا کرتے تھے؟",
+      "english": "According to the poet, what did people worship before the Muslims?",
+      "options": [
+        {
+          "urdu": "سورج اور چاند کی",
+          "english": "The sun and the moon"
+        },
+        {
+          "urdu": "پتھروں اور درختوں کی",
+          "english": "Stones and trees"
+        },
+        {
+          "urdu": "کسی کی نہیں",
+          "english": "Nothing at all"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعر کے مطابق یونانیوں، یہودیوں اور عیسائیوں نے کیا نہیں کیا؟",
+      "english": "According to the poet, what did the Greeks, Jews and Christians not do?",
+      "options": [
+        {
+          "urdu": "خدا کے نام پر تلوار نہیں اٹھائی",
+          "english": "They did not raise the sword in God's name"
+        },
+        {
+          "urdu": "شہروں میں نہیں رہے",
+          "english": "They did not live in cities"
+        },
+        {
+          "urdu": "تجارت نہیں کی",
+          "english": "They did not trade"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "مسلمان کلمہ کہاں پڑھتے تھے؟",
+      "english": "Where did the Muslims recite the kalima?",
+      "options": [
+        {
+          "urdu": "صرف مسجد میں",
+          "english": "Only in the mosque"
+        },
+        {
+          "urdu": "بادشاہوں کے محل میں",
+          "english": "In kings' palaces"
+        },
+        {
+          "urdu": "تلواروں کی چھاؤں میں",
+          "english": "In the shade of swords"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "id": "story-toba-tek-singh-2",
+  "title": {
+    "urdu": "ٹوبہ ٹیک سنگھ (۲)",
+    "english": "Toba Tek Singh (2)"
+  },
+  "category": "stories",
+  "level": "medium",
+  "tags": ["history", "society"],
+  "source": {
+    "name": "Urdu Wikisource: ٹوبہ ٹیک سنگھ",
+    "url": "https://ur.wikisource.org/wiki/ٹوبہ_ٹیک_سنگھ",
+    "author": "Saadat Hasan Manto",
+    "license": "Public domain"
+  },
+  "intro": "News of the exchange reaches the lunatic asylum in Lahore, and the inmates try to make sense of “Pakistan” and “Hindustan”. Manto writes their speech the way they would say it, so some words are colloquial or Punjabi-flavoured.",
+  "series": {
+    "id": "story-toba-tek-singh",
+    "title": "Toba Tek Singh",
+    "part": 2,
+    "of": 3
+  },
+  "sentences": [
+    {
+      "urdu": "ادھر کا معلوم نہیں، لیکن ادھر لاہور کے پاگل خانے میں جب اس تبادلے کی خبر پہنچی تو بڑی دلچسپ چہ میگوئیاں ہونے لگیں۔",
+      "english": "Who knows about over there, but here, in the Lahore lunatic asylum, when news of this exchange arrived, there was a great deal of interesting gossip."
+    },
+    {
+      "urdu": "ایک مسلمان پاگل جو بارہ برس سے ہر روز باقاعدگی کے ساتھ ’زمیندار‘ پڑھتا تھا، اس سے جب اس کے ایک دوست نے پوچھا، ’’مولبی ساب! یہ پاکستان کیا ہوتا ہے؟‘‘",
+      "english": "A Muslim lunatic had been reading the ‘Zamindar’ regularly every day for twelve years. When a friend of his asked him, “Maulvi sahib! What is this Pakistan?”"
+    },
+    {
+      "urdu": "تو اس نے بڑے غور و فکر کے بعد جواب دیا، ’’ہندوستان میں ایک ایسی جگہ ہے جہاں استرے بنتے ہیں۔‘‘",
+      "english": "he thought long and hard and replied, “It’s a place in India where razors are made.”"
+    },
+    {
+      "urdu": "یہ جواب سن کر اس کا دوست مطمئن ہوگیا۔",
+      "english": "Hearing this answer, his friend was satisfied."
+    },
+    {
+      "urdu": "اسی طرح ایک سکھ پاگل نے ایک دوسرے سکھ پاگل سے پوچھا، ’’سردار جی ہمیں ہندوستان کیوں بھیجا رہا ہے۔۔۔ ہمیں تو وہاں کی بولی نہیں آتی۔‘‘",
+      "english": "In the same way, one Sikh lunatic asked another Sikh lunatic, “Sardar ji, why are we being sent to India… we don’t even know the language there.”"
+    },
+    {
+      "urdu": "دوسرا مسکرایا، ’’مجھے تو ہندوستوڑوں کی بولی آتی ہے۔۔۔ ہندوستانی بڑے شیطانی، اکڑ اکڑ پھرتے ہیں۔‘‘",
+      "english": "The other smiled, “I know the language of the Hindustoras… those Hindustanis are real devils, they strut about so arrogantly.”"
+    }
+  ],
+  "glossary": {
+    "ادھر": [
+      "udhar / idhar",
+      "over there / here (“udhar ka maaloom nahin, lekin idhar” = who knows about over there, but here)"
+    ],
+    "معلوم": [
+      "maaloom",
+      "known (“maaloom nahin” = (one) doesn’t know)"
+    ],
+    "لاہور": [
+      "laahaur",
+      "Lahore"
+    ],
+    "پاگل": [
+      "paagal",
+      "mad; lunatic (“paagal khaana” = lunatic asylum)"
+    ],
+    "خانے": [
+      "khaane",
+      "house (oblique; “paagal khaane” = lunatic asylum)"
+    ],
+    "تبادلے": [
+      "tabaadle",
+      "exchange (oblique)"
+    ],
+    "خبر": [
+      "khabar",
+      "news"
+    ],
+    "پہنچی": [
+      "pahunchi",
+      "arrived; reached (f.)"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big; a great deal of (f.)"
+    ],
+    "دلچسپ": [
+      "dilchasp",
+      "interesting"
+    ],
+    "چہ": [
+      "che",
+      "(in “che megoiyaan” = whispered gossip)"
+    ],
+    "میگوئیاں": [
+      "megoiyaan",
+      "(“che megoiyaan” = whispering, gossip; from Persian “what are they saying”)"
+    ],
+    "ہونے": [
+      "hone",
+      "to happen (oblique; “hone lagin” = began to happen)"
+    ],
+    "لگیں": [
+      "lagin",
+      "began (f. pl.)"
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslim"
+    ],
+    "بارہ": [
+      "baara",
+      "twelve"
+    ],
+    "برس": [
+      "baras",
+      "years"
+    ],
+    "روز": [
+      "roz",
+      "day (“har roz” = every day)"
+    ],
+    "باقاعدگی": [
+      "baaqaaidagi",
+      "regularity (“baaqaaidagi ke saath” = regularly)"
+    ],
+    "ساتھ": [
+      "saath",
+      "with (“ke saath” = with)"
+    ],
+    "زمیندار": [
+      "zameendaar",
+      "‘Zamindar’, a Lahore Urdu newspaper (the word means “landowner”)"
+    ],
+    "پڑھتا": [
+      "paṛhta",
+      "read (habitually, m.)"
+    ],
+    "دوست": [
+      "dost",
+      "friend"
+    ],
+    "پوچھا": [
+      "poochha",
+      "asked"
+    ],
+    "مولبی": [
+      "maulbi",
+      "Maulvi (a religious scholar; here a nickname, in a rustic pronunciation of “maulvi”)"
+    ],
+    "ساب": [
+      "saab",
+      "sir (colloquial form of “saahib”)"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "ہوتا": [
+      "hota",
+      "is (“kya hota hai” = what is it, what does it mean)"
+    ],
+    "بڑے": [
+      "baṛe",
+      "great; very (m. pl. / oblique; “baṛe ghaur o fikr ke baad” = after much thought)"
+    ],
+    "غور": [
+      "ghaur",
+      "consideration (“ghaur o fikr” = deep thought)"
+    ],
+    "فکر": [
+      "fikr",
+      "thought"
+    ],
+    "بعد": [
+      "baad",
+      "after (“ke baad” = after)"
+    ],
+    "جواب": [
+      "jawaab",
+      "answer"
+    ],
+    "ہندوستان": [
+      "hindustaan",
+      "India (Hindustan)"
+    ],
+    "جہاں": [
+      "jahaan",
+      "where"
+    ],
+    "استرے": [
+      "ustre",
+      "razors"
+    ],
+    "بنتے": [
+      "bante",
+      "are made (pl.)"
+    ],
+    "سن": [
+      "sun",
+      "hear (“sun kar” = on hearing)"
+    ],
+    "مطمئن": [
+      "mutmain",
+      "satisfied"
+    ],
+    "اسی": [
+      "isi",
+      "this same (“isi tarah” = in the same way)"
+    ],
+    "سکھ": [
+      "sikh",
+      "Sikh"
+    ],
+    "سردار": [
+      "sardaar",
+      "Sardar (respectful address for a Sikh man)"
+    ],
+    "جی": [
+      "ji",
+      "(respectful suffix: “sardaar ji”)"
+    ],
+    "ہمیں": [
+      "hamen",
+      "us; to us"
+    ],
+    "کیوں": [
+      "kyun",
+      "why"
+    ],
+    "بھیجا": [
+      "bheja",
+      "sent (“bheja raha hai” = is being sent; standard Urdu would be “bheja ja raha hai”)"
+    ],
+    "رہا": [
+      "raha",
+      "(continuous action: “is being”)"
+    ],
+    "وہاں": [
+      "wahaan",
+      "there"
+    ],
+    "بولی": [
+      "boli",
+      "language; dialect"
+    ],
+    "آتی": [
+      "aati",
+      "comes (“boli aana” = to know a language; “hamen boli nahin aati” = we don’t know the language)"
+    ],
+    "دوسرا": [
+      "doosra",
+      "the other (one)"
+    ],
+    "مسکرایا": [
+      "muskuraaya",
+      "smiled"
+    ],
+    "ہندوستوڑوں": [
+      "hindustoṛon",
+      "‘Hindustoras’ (oblique pl.; a mocking, made-up form of “Hindustanis”)"
+    ],
+    "ہندوستانی": [
+      "hindustaani",
+      "Hindustanis; Indians"
+    ],
+    "شیطانی": [
+      "shaitaani",
+      "devilish; real devils"
+    ],
+    "اکڑ": [
+      "akaṛ",
+      "swagger (“akaṛ akaṛ phirna” = to strut about arrogantly)"
+    ],
+    "پھرتے": [
+      "phirte",
+      "go about (pl.)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "”زمیندار“ پڑھنے والے پاگل کے مطابق پاکستان کیا ہے؟",
+      "english": "According to the lunatic who reads the ‘Zamindar’, what is Pakistan?",
+      "options": [
+        {
+          "urdu": "ایک نیا ملک",
+          "english": "A new country"
+        },
+        {
+          "urdu": "ہندوستان میں ایک جگہ جہاں استرے بنتے ہیں",
+          "english": "A place in India where razors are made"
+        },
+        {
+          "urdu": "ایک اخبار کا نام",
+          "english": "The name of a newspaper"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "پہلا سکھ پاگل ہندوستان جانے سے کیوں پریشان ہے؟",
+      "english": "Why is the first Sikh lunatic worried about going to India?",
+      "options": [
+        {
+          "urdu": "اسے وہاں کی بولی نہیں آتی",
+          "english": "He doesn’t know the language there"
+        },
+        {
+          "urdu": "وہاں اس کا کوئی دوست نہیں",
+          "english": "He has no friends there"
+        },
+        {
+          "urdu": "وہاں بہت گرمی ہے",
+          "english": "It is very hot there"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "ان باتوں سے پاگلوں کے بارے میں کیا پتا چلتا ہے؟",
+      "english": "What do these conversations show about the lunatics?",
+      "options": [
+        {
+          "urdu": "وہ سیاست کے ماہر ہیں",
+          "english": "They are experts in politics"
+        },
+        {
+          "urdu": "وہ تبادلے سے بہت خوش ہیں",
+          "english": "They are very happy about the exchange"
+        },
+        {
+          "urdu": "وہ نہیں سمجھتے کہ پاکستان اور ہندوستان کیا ہیں",
+          "english": "They don’t understand what Pakistan and India are"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

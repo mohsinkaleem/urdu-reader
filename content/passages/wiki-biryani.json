@@ -1,0 +1,499 @@
+{
+  "id": "wiki-biryani",
+  "title": {
+    "urdu": "بریانی کے اجزا",
+    "english": "What goes into biryani"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": ["culture"],
+  "source": {
+    "name": "Urdu Wikipedia: بریانی",
+    "url": "https://ur.wikipedia.org/wiki/%D8%A8%D8%B1%DB%8C%D8%A7%D9%86%DB%8C",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "From the “Ingredients” section of the Urdu Wikipedia article on biryani: the spices that go into it and how it differs from pulao. Lots of kitchen vocabulary.",
+  "sentences": [
+    {
+      "urdu": "بریانی میں جو اجزا اور مصالحہ جات ڈالے جاتے ہیں وہ کسی مخصوص ترکیب کے لحاظ سے کم یا زیادہ ہو سکتے ہیں۔",
+      "english": "The ingredients and spices that go into biryani can be more or fewer depending on the particular recipe."
+    },
+    {
+      "urdu": "تاہم عموماً ڈالے جانے والے اجزاء میں چاول، گھی، جائفل، جاوتری، زیرہ، مرچ، لونگ، دار چینی، الائچی، کری پتا / تیز پات، دھنیا، پودینہ، ادرک، لہسن اور پیاز شامل ہیں۔",
+      "english": "However, the ingredients usually added include rice, ghee, nutmeg, mace, cumin, chilli, cloves, cinnamon, cardamom, curry leaves / bay leaves, coriander, mint, ginger, garlic and onion."
+    },
+    {
+      "urdu": "اس کے علاوہ زعفران بھی ڈالا جاتا ہے۔",
+      "english": "Saffron is also added besides these."
+    },
+    {
+      "urdu": "چاولوں کے ساتھ ایک اہم جزو بھیڑ، بکرے، گائے یا مرغی کا گوشت، مچھلی یا جھینگا وغیرہ بھی شامل کیا جا سکتا ہے۔",
+      "english": "Along with the rice, a main ingredient can also be included: lamb, goat, beef or chicken, fish or prawns, and so on."
+    },
+    {
+      "urdu": "گوشت کے بغیر بھی بریانی کی کئی اقسام بنائی جاتی ہیں۔",
+      "english": "Many kinds of biryani are also made without meat."
+    },
+    {
+      "urdu": "بریانی عام طور پر دہی، رائتہ، چٹنی اور اسی قسم کی دوسری چیزوں کے ساتھ پیش کی جاتی ہے۔",
+      "english": "Biryani is usually served with yoghurt, raita, chutney and other things of that kind."
+    },
+    {
+      "urdu": "بریانی اور پلاؤ میں فرق یہ ہے کہ پلاؤ میں گوشت اور چاول باقی تمام اجزاء کے ساتھ ملا کر پکائے جاتے ہیں، جبکہ بریانی میں چاول (تڑکے والے یا سادہ) الگ سے پکائے جاتے ہیں اور گوشت یا سبزی جس میں خوب مصالحے ہوتے ہیں اسے الگ پکایا جاتا ہے۔",
+      "english": "The difference between biryani and pulao is that in pulao the meat and rice are cooked mixed together with all the other ingredients, whereas in biryani the rice (tempered or plain) is cooked separately, and the meat or vegetables, which have plenty of spices, are cooked separately."
+    },
+    {
+      "urdu": "اس کے بعد چاولوں اور گوشت یا سبزی کو تہوں کی صورت میں ایک برتن میں لگایا جاتا ہے، جس سے سادہ، خوشبودار اور مصالحے والے چاولوں کا حسین امتزاج بن جاتا ہے۔",
+      "english": "After that the rice and the meat or vegetables are arranged in layers in one pot, which creates a lovely mix of plain, fragrant and spiced rice."
+    },
+    {
+      "urdu": "یہی امتزاج بریانی کا خاصہ ہے۔",
+      "english": "This very mix is what makes biryani special."
+    }
+  ],
+  "glossary": {
+    "بریانی": [
+      "biryaani",
+      "biryani"
+    ],
+    "جو": [
+      "jo",
+      "which (“jo … woh” = the ones which … they)"
+    ],
+    "اجزا": [
+      "ajza",
+      "ingredients (pl.)"
+    ],
+    "مصالحہ": [
+      "masaala",
+      "spice (“masaala jaat” = spices)"
+    ],
+    "جات": [
+      "jaat",
+      "plural suffix (“masaala jaat” = spices)"
+    ],
+    "ڈالے": [
+      "ḍaale",
+      "put in; added (m. pl.) (“ḍaale jaate hain” = are added)"
+    ],
+    "جاتے": [
+      "jaate",
+      "(passive helper, m. pl.) (“ḍaale jaate hain” = are added)"
+    ],
+    "مخصوص": [
+      "makhsoos",
+      "particular; specific"
+    ],
+    "ترکیب": [
+      "tarkeeb",
+      "recipe; method"
+    ],
+    "لحاظ": [
+      "lihaaz",
+      "regard (“ke lihaaz se” = according to; depending on)"
+    ],
+    "کم": [
+      "kam",
+      "less; fewer"
+    ],
+    "یا": [
+      "ya",
+      "or"
+    ],
+    "سکتے": [
+      "sakte",
+      "can (pl.) (“ho sakte hain” = can be)"
+    ],
+    "تاہم": [
+      "taaham",
+      "however"
+    ],
+    "عموماً": [
+      "umooman",
+      "usually; generally"
+    ],
+    "جانے": [
+      "jaane",
+      "(passive helper, oblique) (“ḍaale jaane waale” = which are added)"
+    ],
+    "والے": [
+      "waale",
+      "(“-ne waale” = which do / which are; “taṛke waale” = with tempering; “masaale waale” = spiced)"
+    ],
+    "اجزاء": [
+      "ajza",
+      "ingredients (pl.; spelled with a final hamza)"
+    ],
+    "چاول": [
+      "chaawal",
+      "rice"
+    ],
+    "گھی": [
+      "ghee",
+      "ghee; clarified butter"
+    ],
+    "جائفل": [
+      "jaaiphal",
+      "nutmeg"
+    ],
+    "جاوتری": [
+      "jaawitri",
+      "mace (the spice)"
+    ],
+    "زیرہ": [
+      "zeera",
+      "cumin"
+    ],
+    "مرچ": [
+      "mirch",
+      "chilli; pepper"
+    ],
+    "لونگ": [
+      "laung",
+      "cloves"
+    ],
+    "دار": [
+      "daar",
+      "(part of “daar cheeni” = cinnamon)"
+    ],
+    "چینی": [
+      "cheeni",
+      "(part of “daar cheeni” = cinnamon; on its own “cheeni” = sugar)"
+    ],
+    "الائچی": [
+      "ilaaichi",
+      "cardamom"
+    ],
+    "کری": [
+      "kari",
+      "curry (“kari patta” = curry leaf)"
+    ],
+    "پتا": [
+      "patta",
+      "leaf (“kari patta” = curry leaves)"
+    ],
+    "تیز": [
+      "tez",
+      "sharp; strong (“tez paat” = bay leaf)"
+    ],
+    "پات": [
+      "paat",
+      "leaf (“tez paat” = bay leaf)"
+    ],
+    "دھنیا": [
+      "dhaniya",
+      "coriander"
+    ],
+    "پودینہ": [
+      "podeena",
+      "mint"
+    ],
+    "ادرک": [
+      "adrak",
+      "ginger"
+    ],
+    "لہسن": [
+      "lehsan",
+      "garlic"
+    ],
+    "پیاز": [
+      "pyaaz",
+      "onion"
+    ],
+    "شامل": [
+      "shaamil",
+      "included (“shaamil hain” = include; “shaamil karna” = to add in)"
+    ],
+    "علاوہ": [
+      "alaawa",
+      "besides (“is ke alaawa” = in addition to this)"
+    ],
+    "زعفران": [
+      "zaafraan",
+      "saffron"
+    ],
+    "ڈالا": [
+      "ḍaala",
+      "put in; added (m.) (“ḍaala jaata hai” = is added)"
+    ],
+    "جاتا": [
+      "jaata",
+      "(passive helper, m.) (“ḍaala jaata hai” = is added)"
+    ],
+    "چاولوں": [
+      "chaawalon",
+      "rice (pl. oblique)"
+    ],
+    "ساتھ": [
+      "saath",
+      "with (“ke saath” = along with)"
+    ],
+    "اہم": [
+      "aham",
+      "important; main"
+    ],
+    "جزو": [
+      "juzv",
+      "ingredient; component"
+    ],
+    "بھیڑ": [
+      "bheṛ",
+      "sheep (“bheṛ ka gosht” = lamb; mutton)"
+    ],
+    "بکرے": [
+      "bakre",
+      "goat (oblique) (“bakre ka gosht” = goat meat)"
+    ],
+    "گائے": [
+      "gaaye",
+      "cow (“gaaye ka gosht” = beef)"
+    ],
+    "مرغی": [
+      "murghi",
+      "chicken; hen"
+    ],
+    "گوشت": [
+      "gosht",
+      "meat"
+    ],
+    "مچھلی": [
+      "machhli",
+      "fish"
+    ],
+    "جھینگا": [
+      "jheenga",
+      "prawn; shrimp"
+    ],
+    "وغیرہ": [
+      "waghaira",
+      "etc.; and so on"
+    ],
+    "جا": [
+      "ja",
+      "(passive helper) (“shaamil kiya ja sakta hai” = can be included)"
+    ],
+    "سکتا": [
+      "sakta",
+      "can (m.)"
+    ],
+    "بغیر": [
+      "baghair",
+      "without (“ke baghair”)"
+    ],
+    "اقسام": [
+      "aqsaam",
+      "kinds; types (Arabic pl. of “qism”)"
+    ],
+    "بنائی": [
+      "banaai",
+      "made (f.) (“banaai jaati hain” = are made)"
+    ],
+    "جاتی": [
+      "jaati",
+      "(passive helper, f.) (“pesh ki jaati hai” = is served)"
+    ],
+    "عام": [
+      "aam",
+      "general (“aam taur par” = usually)"
+    ],
+    "طور": [
+      "taur",
+      "manner (“aam taur par” = usually)"
+    ],
+    "دہی": [
+      "dahi",
+      "yoghurt"
+    ],
+    "رائتہ": [
+      "raaita",
+      "raita (spiced yoghurt side dish)"
+    ],
+    "چٹنی": [
+      "chaṭni",
+      "chutney"
+    ],
+    "اسی": [
+      "isi",
+      "this very; the same (“isi qism ki” = of this same kind)"
+    ],
+    "قسم": [
+      "qism",
+      "kind; type"
+    ],
+    "دوسری": [
+      "doosri",
+      "other (f.)"
+    ],
+    "چیزوں": [
+      "cheezon",
+      "things (pl. oblique)"
+    ],
+    "پیش": [
+      "pesh",
+      "presented (“pesh karna” = to serve; to present)"
+    ],
+    "پلاؤ": [
+      "pulaao",
+      "pulao (rice cooked together with meat and stock)"
+    ],
+    "فرق": [
+      "farq",
+      "difference"
+    ],
+    "تمام": [
+      "tamaam",
+      "all"
+    ],
+    "ملا": [
+      "mila",
+      "mixed (“mila kar” = mixing together)"
+    ],
+    "پکائے": [
+      "pakaaye",
+      "cooked (m. pl.) (“pakaaye jaate hain” = are cooked)"
+    ],
+    "جبکہ": [
+      "jabke",
+      "whereas"
+    ],
+    "تڑکے": [
+      "taṛke",
+      "tempering (frying spices in hot oil) (“taṛke waale” = tempered)"
+    ],
+    "سادہ": [
+      "saada",
+      "plain; simple"
+    ],
+    "الگ": [
+      "alag",
+      "separate (“alag se” = separately)"
+    ],
+    "سبزی": [
+      "sabzi",
+      "vegetable(s)"
+    ],
+    "جس": [
+      "jis",
+      "which (oblique) (“jis mein” = in which; “jis se” = from which)"
+    ],
+    "خوب": [
+      "khoob",
+      "plenty of; well"
+    ],
+    "مصالحے": [
+      "masaale",
+      "spices (pl.)"
+    ],
+    "ہوتے": [
+      "hote",
+      "are (habitual, m. pl.)"
+    ],
+    "اسے": [
+      "use",
+      "it (object form)"
+    ],
+    "پکایا": [
+      "pakaaya",
+      "cooked (m.) (“pakaaya jaata hai” = is cooked)"
+    ],
+    "بعد": [
+      "baad",
+      "after (“is ke baad” = after that)"
+    ],
+    "تہوں": [
+      "tahon",
+      "layers (pl. oblique) (“tahon ki soorat mein” = in layers)"
+    ],
+    "صورت": [
+      "soorat",
+      "form (“ki soorat mein” = in the form of)"
+    ],
+    "برتن": [
+      "bartan",
+      "pot; vessel"
+    ],
+    "لگایا": [
+      "lagaaya",
+      "arranged; set (m.) (“lagaaya jaata hai” = is arranged)"
+    ],
+    "خوشبودار": [
+      "khushboodaar",
+      "fragrant"
+    ],
+    "حسین": [
+      "haseen",
+      "beautiful; lovely"
+    ],
+    "امتزاج": [
+      "imtizaaj",
+      "blend; combination"
+    ],
+    "بن": [
+      "ban",
+      "become; be formed (“ban jaata hai” = is created)"
+    ],
+    "خاصہ": [
+      "khaasa",
+      "distinctive feature; hallmark"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "بریانی اور پلاؤ میں کیا فرق ہے؟",
+      "english": "What is the difference between biryani and pulao?",
+      "options": [
+        {
+          "urdu": "بریانی میں چاول نہیں ہوتے",
+          "english": "Biryani has no rice"
+        },
+        {
+          "urdu": "بریانی میں چاول اور گوشت الگ الگ پکائے جاتے ہیں",
+          "english": "In biryani the rice and meat are cooked separately"
+        },
+        {
+          "urdu": "پلاؤ میں زعفران ڈالا جاتا ہے",
+          "english": "Saffron is added to pulao"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "بریانی عام طور پر کس کے ساتھ پیش کی جاتی ہے؟",
+      "english": "What is biryani usually served with?",
+      "options": [
+        {
+          "urdu": "روٹی اور دال",
+          "english": "Roti and lentils"
+        },
+        {
+          "urdu": "چائے اور بسکٹ",
+          "english": "Tea and biscuits"
+        },
+        {
+          "urdu": "دہی، رائتہ اور چٹنی",
+          "english": "Yoghurt, raita and chutney"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "کیا گوشت کے بغیر بریانی بنائی جا سکتی ہے؟",
+      "english": "Can biryani be made without meat?",
+      "options": [
+        {
+          "urdu": "ہاں، اس کی کئی اقسام گوشت کے بغیر بنتی ہیں",
+          "english": "Yes, many kinds are made without meat"
+        },
+        {
+          "urdu": "نہیں، کبھی نہیں",
+          "english": "No, never"
+        },
+        {
+          "urdu": "صرف مچھلی کے ساتھ",
+          "english": "Only with fish"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

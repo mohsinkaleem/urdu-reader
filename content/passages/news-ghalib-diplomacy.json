@@ -1,0 +1,564 @@
+{
+  "id": "news-ghalib-diplomacy",
+  "title": {
+    "urdu": "مصدق ملک کی غالب ڈپلومیسی",
+    "english": "Musadik Malik's “Ghalib diplomacy”"
+  },
+  "category": "news",
+  "level": "medium",
+  "tags": ["politics", "language"],
+  "source": {
+    "name": "BBC Urdu: ’ماننا پڑے گا کہ پاکستان نے بہترین انتخاب کیا‘: انڈیا میں مصدق ملک کی ’غالب ڈپلومیسی‘ کا چرچا",
+    "url": "https://www.bbc.com/urdu/articles/cqx2wr9ed721o",
+    "author": "Shakeel Akhtar",
+    "license": "Personal use only"
+  },
+  "intro": "Published 20 November 2026. At a Shanghai Cooperation Organisation (SCO) forum in Delhi, Pakistani minister Musadik Malik switched from English to Urdu and spoke about Mirza Ghalib, the great 19th-century poet of Delhi, and the speech was praised on social media in both countries. Ghalib is buried in Delhi's Nizamuddin neighbourhood; notice the respectful “daada huzoor” and “tashreef laana” in his speech.",
+  "sentences": [
+    {
+      "urdu": "’سیاست کبھی بھی ادب، شاعری، موسیقی، ثقافت، کھانوں، فیشن اور زبان پر ہمارے مشترکہ فخر کو ہم سے چھین نہیں سکتی۔",
+      "english": "‘Politics can never snatch from us our shared pride in literature, poetry, music, culture, food, fashion and language."
+    },
+    {
+      "urdu": "کہنا پڑے گا کہ پاکستان نے اپنی نمائندگی کے لیے بہترین انتخاب کیا ہے۔‘",
+      "english": "It has to be said that Pakistan has made the best choice for its representation.’"
+    },
+    {
+      "urdu": "یہ کہنا ہے کہ انڈین صحافی اور مصنف غزالہ وہاب کا جو تین برسوں میں انڈیا کا دورہ پہلے پاکستانی وزیر مصدق ملک کی ایک ویڈیو پر تبصرہ کر رہی تھیں۔",
+      "english": "So says the Indian journalist and author Ghazala Wahab, who was commenting on a video of Musadik Malik, the first Pakistani minister to visit India in three years."
+    },
+    {
+      "urdu": "پاکستان کے وفاقی وزیر برائے موسمیاتی تبدیلی مصدق ملک شنگھائی تعاون تنظیم (ایس سی او) کے پہلے تہذیبی مکالمے (سولائزیشن ڈائیلاگ فورم) میں شرکت کے لیے دلی میں موجود ہیں۔",
+      "english": "Pakistan's Federal Minister for Climate Change, Musadik Malik, is in Delhi to take part in the first civilisational dialogue (the Civilisation Dialogue Forum) of the Shanghai Cooperation Organisation (SCO)."
+    },
+    {
+      "urdu": "سنیچر کے روز کانفرنس کے دوران ان کے خطاب کی ایک ویڈیو سوشل میڈیا پر موضوعِ بحث بنی رہی۔",
+      "english": "On Saturday a video of his speech during the conference remained a topic of discussion on social media."
+    },
+    {
+      "urdu": "ایس سی او سولائزیشن ڈائیلاگ فورم سے خطاب کرتے ہوئے مصدق ملک نے کہا ’بڑا عجیب سا لگا کہ چند کوس دور غالب کے مقبرے سے یہاں بیٹھ کر میں انگریزی میں بات کر رہا ہوں۔‘",
+      "english": "Addressing the SCO Civilisation Dialogue Forum, Musadik Malik said: ‘It felt rather strange that, sitting here a few kos from Ghalib's tomb, I am speaking in English.’"
+    },
+    {
+      "urdu": "’جی میں یہی سمایا کہ آج آپ سے اپنے دل کی آواز اردو میں بات کروں۔‘",
+      "english": "‘So it came into my heart that today I should speak to you in Urdu, in the voice of my own heart.’"
+    },
+    {
+      "urdu": "مصدق ملک نے اپنی بات جاری رکھتے ہوئے کہا کہ ’اور کیسی عجیب سی بات ہے کہ غالب، جن کے دادا حضور سمر قند سے تشریف لائے تھے، یہاں نظام الدین آپ کے پہلو میں ان کی تدفین ہے، اور غالب جو اپنے آپ کو فارسی کا بہت بڑا شاعر جانتے تھے، ان کو پوری دنیا اردو کی وجہ سے پہچانتی ہے آج۔‘",
+      "english": "Continuing, Musadik Malik said: ‘And how strange it is that Ghalib, whose revered grandfather came from Samarkand, is buried here at Nizamuddin, right beside you, and that Ghalib, who considered himself a very great poet of Persian, is known to the whole world today because of Urdu.’"
+    }
+  ],
+  "glossary": {
+    "سیاست": [
+      "siyaasat",
+      "politics"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever (“kabhi bhi … nahin” = never)"
+    ],
+    "ادب": [
+      "adab",
+      "literature"
+    ],
+    "شاعری": [
+      "shaairi",
+      "poetry"
+    ],
+    "موسیقی": [
+      "mauseeqi",
+      "music"
+    ],
+    "ثقافت": [
+      "saqaafat",
+      "culture"
+    ],
+    "کھانوں": [
+      "khaanon",
+      "foods; cuisine (pl. oblique)"
+    ],
+    "فیشن": [
+      "faishan",
+      "fashion"
+    ],
+    "زبان": [
+      "zabaan",
+      "language"
+    ],
+    "ہمارے": [
+      "hamaare",
+      "our (oblique)"
+    ],
+    "مشترکہ": [
+      "mushtarka",
+      "shared; joint"
+    ],
+    "ہم": [
+      "ham",
+      "us; we"
+    ],
+    "چھین": [
+      "chheen",
+      "snatch (“chheen nahin sakti” = cannot snatch away)"
+    ],
+    "سکتی": [
+      "sakti",
+      "can (f., agreeing with “siyaasat”)"
+    ],
+    "کہنا": [
+      "kehna",
+      "to say (“kehna paṛe ga” = it has to be said; “yeh kehna hai … ka” = this is what … says)"
+    ],
+    "پڑے": [
+      "paṛe",
+      "(“kehna paṛe ga” = one will have to say)"
+    ],
+    "گا": [
+      "ga",
+      "will (m., future marker)"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "نمائندگی": [
+      "numaaindagi",
+      "representation"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for; in order to)"
+    ],
+    "بہترین": [
+      "behtareen",
+      "best"
+    ],
+    "انتخاب": [
+      "intikhaab",
+      "choice; selection (“intikhaab karna” = to choose)"
+    ],
+    "انڈین": [
+      "inḍiyan",
+      "Indian"
+    ],
+    "صحافی": [
+      "sahaafi",
+      "journalist"
+    ],
+    "مصنف": [
+      "musannif",
+      "author; writer"
+    ],
+    "غزالہ": [
+      "ghazaala",
+      "Ghazala (Ghazala Wahab, Indian journalist and author)"
+    ],
+    "وہاب": [
+      "wahaab",
+      "Wahab (surname)"
+    ],
+    "برسوں": [
+      "barson",
+      "years (pl. oblique)"
+    ],
+    "انڈیا": [
+      "inḍiya",
+      "India"
+    ],
+    "دورہ": [
+      "daura",
+      "visit (“X ka daura karna” = to visit X)"
+    ],
+    "پہلے": [
+      "pehle",
+      "first (oblique) (“pehle paakistaani wazeer” = the first Pakistani minister)"
+    ],
+    "پاکستانی": [
+      "paakistaani",
+      "Pakistani"
+    ],
+    "وزیر": [
+      "wazeer",
+      "minister"
+    ],
+    "مصدق": [
+      "musaddiq",
+      "Musadik (Musadik Malik, Pakistan's federal minister for climate change)"
+    ],
+    "ملک": [
+      "malik",
+      "Malik (surname of Musadik Malik)"
+    ],
+    "ویڈیو": [
+      "viḍiyo",
+      "video"
+    ],
+    "تبصرہ": [
+      "tabsira",
+      "comment (“tabsira karna” = to comment)"
+    ],
+    "رہی": [
+      "rahi",
+      "(continuous / “remained”, f.) (“kar rahi theen” = was doing; “bani rahi” = remained)"
+    ],
+    "تھیں": [
+      "theen",
+      "was / were (f. pl.; respectful)"
+    ],
+    "وفاقی": [
+      "wifaaqi",
+      "federal"
+    ],
+    "برائے": [
+      "baraa-e",
+      "for (formal: “wazeer baraa-e …” = minister for …)"
+    ],
+    "موسمیاتی": [
+      "mausamiyaati",
+      "climatic; of the climate"
+    ],
+    "تبدیلی": [
+      "tabdeeli",
+      "change (“mausamiyaati tabdeeli” = climate change)"
+    ],
+    "شنگھائی": [
+      "shanghaai",
+      "Shanghai (“shanghaai taawun tanzeem” = Shanghai Cooperation Organisation, SCO)"
+    ],
+    "تعاون": [
+      "taawun",
+      "cooperation"
+    ],
+    "تنظیم": [
+      "tanzeem",
+      "organisation"
+    ],
+    "ایس": [
+      "es",
+      "S (“es si o” = SCO)"
+    ],
+    "سی": [
+      "si",
+      "C (in “es si o”, SCO)"
+    ],
+    "او": [
+      "o",
+      "O (in “es si o”, SCO)"
+    ],
+    "تہذیبی": [
+      "tehzeebi",
+      "civilisational; cultural"
+    ],
+    "مکالمے": [
+      "mukaalime",
+      "dialogue (oblique)"
+    ],
+    "سولائزیشن": [
+      "solaaizeshan",
+      "civilisation (English word)"
+    ],
+    "ڈائیلاگ": [
+      "ḍaayalaag",
+      "dialogue (English word)"
+    ],
+    "فورم": [
+      "foram",
+      "forum (English word)"
+    ],
+    "شرکت": [
+      "shirkat",
+      "participation (“shirkat ke liye” = to take part)"
+    ],
+    "دلی": [
+      "dilli",
+      "Delhi (the Urdu name of the city)"
+    ],
+    "موجود": [
+      "maujood",
+      "present (“maujood hain” = is there, is present)"
+    ],
+    "سنیچر": [
+      "sanichar",
+      "Saturday"
+    ],
+    "روز": [
+      "roz",
+      "day (“sanichar ke roz” = on Saturday)"
+    ],
+    "کانفرنس": [
+      "kaanfarans",
+      "conference"
+    ],
+    "دوران": [
+      "dauraan",
+      "course (“ke dauraan” = during)"
+    ],
+    "خطاب": [
+      "khitaab",
+      "address; speech (“X se khitaab karna” = to address X)"
+    ],
+    "سوشل": [
+      "soshal",
+      "social (“soshal meeḍiya” = social media)"
+    ],
+    "میڈیا": [
+      "meeḍiya",
+      "media"
+    ],
+    "موضوعِ": [
+      "mauzoo-e",
+      "topic of (“mauzoo-e behas” = topic of discussion)"
+    ],
+    "بحث": [
+      "behas",
+      "discussion; debate"
+    ],
+    "بنی": [
+      "bani",
+      "became (f.) (“bani rahi” = remained)"
+    ],
+    "کرتے": [
+      "karte",
+      "doing (“khitaab karte hue” = while addressing)"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“karte hue” = while doing; “jaari rakhte hue” = continuing)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "بڑا": [
+      "baṛa",
+      "big; great; very (“baṛa ajeeb sa” = rather strange; “bohat baṛa shaair” = a very great poet)"
+    ],
+    "عجیب": [
+      "ajeeb",
+      "strange"
+    ],
+    "سا": [
+      "sa",
+      "-ish; rather (m.) (“ajeeb sa” = rather strange)"
+    ],
+    "لگا": [
+      "laga",
+      "felt; seemed (m.)"
+    ],
+    "چند": [
+      "chand",
+      "a few"
+    ],
+    "کوس": [
+      "kos",
+      "kos (an old measure of distance, about 3 km)"
+    ],
+    "دور": [
+      "door",
+      "far (“chand kos door” = a few kos away)"
+    ],
+    "غالب": [
+      "ghaalib",
+      "Ghalib (Mirza Ghalib, 19th-century Urdu and Persian poet of Delhi)"
+    ],
+    "مقبرے": [
+      "maqbare",
+      "tomb; mausoleum (oblique)"
+    ],
+    "یہاں": [
+      "yahaan",
+      "here"
+    ],
+    "بیٹھ": [
+      "baiṭh",
+      "sit (“baiṭh kar” = sitting)"
+    ],
+    "انگریزی": [
+      "angrezi",
+      "English (language)"
+    ],
+    "بات": [
+      "baat",
+      "talk; matter (“baat karna” = to talk; “ajeeb si baat” = a strange thing)"
+    ],
+    "رہا": [
+      "raha",
+      "(continuous, m.) (“kar raha hoon” = am doing)"
+    ],
+    "جی": [
+      "jee",
+      "heart; mind (“jee mein samaana” = to come into one's heart)"
+    ],
+    "سمایا": [
+      "samaaya",
+      "filled; entered (“jee mein yahi samaaya” = this is what came into my heart)"
+    ],
+    "آپ": [
+      "aap",
+      "you (respectful); self (“apne aap ko” = himself)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "آواز": [
+      "aawaaz",
+      "voice"
+    ],
+    "اردو": [
+      "urdu",
+      "Urdu"
+    ],
+    "کروں": [
+      "karoon",
+      "(that) I do (subjunctive) (“baat karoon” = that I should speak)"
+    ],
+    "جاری": [
+      "jaari",
+      "continuing (“jaari rakhna” = to continue)"
+    ],
+    "رکھتے": [
+      "rakhte",
+      "keeping (“jaari rakhte hue” = continuing)"
+    ],
+    "کیسی": [
+      "kaisi",
+      "how; what a (f.) (“kaisi ajeeb si baat” = how strange a thing)"
+    ],
+    "جن": [
+      "jin",
+      "whom; whose (pl. / respectful, oblique) (“jin ke daada” = whose grandfather)"
+    ],
+    "دادا": [
+      "daada",
+      "grandfather (father's father)"
+    ],
+    "حضور": [
+      "huzoor",
+      "honoured sir (respectful title; “daada huzoor” = revered grandfather)"
+    ],
+    "سمر": [
+      "samar",
+      "Samar (“samar qand” = Samarkand, city in Central Asia)"
+    ],
+    "قند": [
+      "qand",
+      "-kand (“samar qand” = Samarkand)"
+    ],
+    "تشریف": [
+      "tashreef",
+      "presence (polite) (“tashreef laana” = to come, honorific)"
+    ],
+    "لائے": [
+      "laaye",
+      "brought (“tashreef laaye the” = had come, honorific)"
+    ],
+    "نظام": [
+      "nizaam",
+      "Nizam (“nizaam ud-deen” = Nizamuddin, the Delhi neighbourhood around the Sufi shrine of Nizamuddin Auliya)"
+    ],
+    "الدین": [
+      "ud-deen",
+      "-uddin (“nizaam ud-deen” = Nizamuddin)"
+    ],
+    "پہلو": [
+      "pahloo",
+      "side (“aap ke pahloo mein” = right beside you)"
+    ],
+    "تدفین": [
+      "tadfeen",
+      "burial (formal) (“un ki tadfeen hai” = he is buried)"
+    ],
+    "فارسی": [
+      "faarsi",
+      "Persian (language)"
+    ],
+    "شاعر": [
+      "shaair",
+      "poet"
+    ],
+    "جانتے": [
+      "jaante",
+      "knew; considered (“apne aap ko … jaante the” = considered himself)"
+    ],
+    "پوری": [
+      "poori",
+      "whole; entire (f.)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason (“ki wajah se” = because of)"
+    ],
+    "پہچانتی": [
+      "pehchaanti",
+      "recognises; knows (f., agreeing with “duniya”)"
+    ],
+    "ان": [
+      "un",
+      "his; him (respectful, oblique) (“un ke khitaab” = his speech; “un ko” = him)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "غزالہ وہاب کے مطابق سیاست ہم سے کیا نہیں چھین سکتی؟",
+      "english": "According to Ghazala Wahab, what can politics not take away from us?",
+      "options": [
+        {
+          "urdu": "ادب، شاعری اور زبان پر ہمارا مشترکہ فخر",
+          "english": "Our shared pride in literature, poetry and language"
+        },
+        {
+          "urdu": "ہمارے شہر اور سڑکیں",
+          "english": "Our cities and roads"
+        },
+        {
+          "urdu": "کرکٹ کے میچ",
+          "english": "Cricket matches"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "مصدق ملک کو کون سی بات عجیب لگی؟",
+      "english": "What did Musadik Malik find strange?",
+      "options": [
+        {
+          "urdu": "کہ کانفرنس سنیچر کو تھی",
+          "english": "That the conference was on a Saturday"
+        },
+        {
+          "urdu": "کہ غالب کے مقبرے کے قریب بیٹھ کر وہ انگریزی میں بات کر رہے تھے",
+          "english": "That he was speaking English while sitting near Ghalib's tomb"
+        },
+        {
+          "urdu": "کہ دلی میں بہت سردی تھی",
+          "english": "That it was very cold in Delhi"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "مصدق ملک کے مطابق آج دنیا غالب کو کس وجہ سے پہچانتی ہے؟",
+      "english": "According to Musadik Malik, why does the world know Ghalib today?",
+      "options": [
+        {
+          "urdu": "فارسی شاعری کی وجہ سے",
+          "english": "Because of his Persian poetry"
+        },
+        {
+          "urdu": "سمر قند کی وجہ سے",
+          "english": "Because of Samarkand"
+        },
+        {
+          "urdu": "اردو کی وجہ سے",
+          "english": "Because of Urdu"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

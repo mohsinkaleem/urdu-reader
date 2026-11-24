@@ -1,0 +1,512 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-10",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 10)",
+    "english": "Jawab-e-Shikwa, part 10"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Iqbal’s “Jawab-e-Shikwa” (1913, later in Bang-e-Dara) is God’s answer to his earlier poem “Shikwa”, in which he had complained to God on behalf of the Muslims. In this part (stanzas 28–30) God comforts the Muslim community: it is bound to no homeland, it outlived the Mongols, and the Balkan War of 1912 is a test, not an end. Stanza 28 ends with a Persian couplet.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 10,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "پاک ہے گردِ وطن سے سرِ داماں تیرا",
+      "english": "The hem of your robe is free of the dust of any homeland;",
+      "verse": true
+    },
+    {
+      "urdu": "تُو وہ یوسف ہے کہ ہر مصر ہے کنعاں تیرا",
+      "english": "you are that Joseph for whom every Egypt is his Canaan.",
+      "verse": true
+    },
+    {
+      "urdu": "قافلہ ہو نہ سکے گا کبھی ویراں تیرا",
+      "english": "Your caravan can never be laid waste;",
+      "verse": true
+    },
+    {
+      "urdu": "غیرِ یک بانگِ درا کچھ نہیں ساماں تیرا",
+      "english": "you carry nothing but the single call of the caravan bell.",
+      "verse": true
+    },
+    {
+      "urdu": "نخلِ شمع استی و درشعلہ دوَد ریشۂ تو",
+      "english": "(Persian) You are the stem of a candle, and your root runs into the flame;",
+      "verse": true
+    },
+    {
+      "urdu": "عاقبت سوز بوَد سایۂ اندیشۂ تو",
+      "english": "(Persian) the very shadow of your thought burns away the end.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اے مسلمان! تیرا دامن وطن کی مٹی سے پاک ہے، یعنی تو کسی ایک ملک تک محدود نہیں۔ تو حضرت یوسفؑ کی طرح ہے جس کے لیے پردیس بھی وطن بن گیا۔ تیرا قافلہ کبھی برباد نہیں ہوگا، کیونکہ تیرے پاس قافلے کی گھنٹی یعنی حق کی پکار ہے۔ آخری شعر فارسی میں ہے: تو شمع کی طرح ہے جس کی جڑ شعلے میں ہے، اور تیری سوچ کا سایہ بھی انجام کو جلا دیتا ہے، یعنی تجھے کوئی ختم نہیں کر سکتا۔",
+        "english": "God tells the Muslim community that its faith is not tied to any one homeland. Like the prophet Joseph, taken from Canaan to Egypt where he rose to greatness, it can make every foreign land its home. Its caravan will never be lost, for its only provision is the call of the caravan bell, the call of truth (Iqbal later used ‘Bang-e-Dara’ as the title of his first Urdu collection). The closing couplet is in Persian: you are a candle whose root runs into the flame — you live by burning — and even the shadow of your thought burns up ‘the end’, so nothing can finish you."
+      }
+    },
+    {
+      "urdu": "تُو نہ مِٹ جائے گا ایران کے مِٹ جانے سے",
+      "english": "You will not be wiped out by the wiping out of Iran;",
+      "verse": true
+    },
+    {
+      "urdu": "نشّۂ مے کو تعلّق نہیں پیمانے سے",
+      "english": "the intoxication of wine does not depend on the cup.",
+      "verse": true
+    },
+    {
+      "urdu": "ہے عیاں یورشِ تاتار کے افسانے سے",
+      "english": "It is plain from the tale of the Tatar onslaught",
+      "verse": true
+    },
+    {
+      "urdu": "پاسباں مِل گئے کعبے کو صنَم خانے سے",
+      "english": "that the Kaaba found its guardians in the idol-house.",
+      "verse": true
+    },
+    {
+      "urdu": "کشتیِ حق کا زمانے میں سہارا تُو ہے",
+      "english": "In this world you are the support of the ship of truth;",
+      "verse": true
+    },
+    {
+      "urdu": "عصرِ نَو رات ہے، دھُندلا سا ستارا تُو ہے",
+      "english": "the new age is night, and you are its dimly shining star.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر ایران مٹ بھی جائے تو تُو نہیں مٹے گا، جیسے پیالہ ٹوٹنے سے شراب کا نشہ ختم نہیں ہوتا۔ تاتاریوں کی کہانی سے صاف ہے کہ جنہوں نے بغداد برباد کیا، انہی کی اولاد مسلمان ہو کر کعبے کی محافظ بن گئی۔ اس اندھیرے نئے دور میں تُو ہی سچائی کی کشتی کا سہارا ہے۔",
+        "english": "Even if Iran is destroyed (in Iqbal’s time it was being divided between Russian and British control), Islam will not be: wine’s intoxication does not depend on the cup. History proves it: the Mongols (Tatars) who sacked Baghdad in 1258 later became Muslims themselves, so the Kaaba found guardians among idol-worshippers. In the night of the modern age, you are the dim star that guides the ship of truth."
+      }
+    },
+    {
+      "urdu": "ہے جو ہنگامہ بپا یورشِ بلغاری کا",
+      "english": "The uproar raised by the Bulgarian onslaught",
+      "verse": true
+    },
+    {
+      "urdu": "غافلوں کے لیے پیغام ہے بیداری کا",
+      "english": "is a message of awakening for the heedless.",
+      "verse": true
+    },
+    {
+      "urdu": "تُو سمجھتا ہے یہ ساماں ہے دل آزاری کا",
+      "english": "You think it is a means of wounding your heart;",
+      "verse": true
+    },
+    {
+      "urdu": "امتحاں ہے ترے ایثار کا، خودداری کا",
+      "english": "it is a test of your self-sacrifice and your self-respect.",
+      "verse": true
+    },
+    {
+      "urdu": "کیوں ہراساں ہے صَہیِلِ فرَسِ اعدا سے",
+      "english": "Why are you frightened by the neighing of the enemies’ horses?",
+      "verse": true
+    },
+    {
+      "urdu": "نُورِ حق بُجھ نہ سکے گا نفَسِ اعدا سے",
+      "english": "The light of Truth can never be blown out by the enemies’ breath.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بلغاریہ کے حملے (بلقان کی جنگ ۱۹۱۲ء) کا شور سوئے ہوئے مسلمانوں کو جگانے کا پیغام ہے۔ تُو سمجھتا ہے کہ یہ تجھے دکھ دینے کے لیے ہے، لیکن یہ تیری قربانی اور خودداری کا امتحان ہے۔ دشمن کے گھوڑوں سے مت ڈر، اللہ کا نور دشمنوں کی پھونکوں سے نہیں بجھ سکتا۔",
+        "english": "In the Balkan War of 1912 Bulgaria advanced on the Ottoman Empire almost to Istanbul. God says this uproar is a wake-up call for the heedless, not a sign of His anger: it tests their sacrifice and self-respect. Do not fear the neighing of enemy horses; the light of Truth cannot be blown out by their breath — an echo of Quran 61:8, ‘they wish to put out God’s light with their mouths’."
+      }
+    }
+  ],
+  "glossary": {
+    "پاک": [
+      "paak",
+      "pure; free (of)"
+    ],
+    "گرد": [
+      "gard-e",
+      "dust (of)"
+    ],
+    "وطن": [
+      "watan",
+      "homeland"
+    ],
+    "سر": [
+      "sar-e",
+      "edge; tip (of) (“sar-e daamaan” = the hem of the robe)"
+    ],
+    "داماں": [
+      "daamaan",
+      "robe; skirt (poetic form of “daaman”)"
+    ],
+    "تیرا": [
+      "tera",
+      "your"
+    ],
+    "تُو": [
+      "tu",
+      "you (singular; used in addressing God or the community)"
+    ],
+    "یوسف": [
+      "yoosuf",
+      "Joseph, the prophet, taken from Canaan to Egypt"
+    ],
+    "مصر": [
+      "misr",
+      "Egypt"
+    ],
+    "کنعاں": [
+      "kanaan",
+      "Canaan, Joseph’s homeland"
+    ],
+    "قافلہ": [
+      "qaafila",
+      "caravan"
+    ],
+    "سکے": [
+      "sake",
+      "can (“ho na sake ga” = will never be able to become)"
+    ],
+    "گا": [
+      "ga",
+      "will (future marker)"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever (“kabhi na” = never)"
+    ],
+    "ویراں": [
+      "veeraan",
+      "ruined; deserted"
+    ],
+    "غیر": [
+      "ghair-e",
+      "except; other than"
+    ],
+    "یک": [
+      "yak",
+      "one; a single"
+    ],
+    "بانگ": [
+      "baang-e",
+      "call; cry (of)"
+    ],
+    "درا": [
+      "dara",
+      "caravan bell (“baang-e dara” = the call of the caravan bell)"
+    ],
+    "ساماں": [
+      "saamaan",
+      "provisions; baggage; also a means or cause (“saamaan hai dil-aazaari ka” = is a means of hurting you)"
+    ],
+    "نخل": [
+      "nakhl",
+      "tree; palm (“nakhl-e islaam” = the tree of Islam)"
+    ],
+    "شمع": [
+      "shama",
+      "candle (“nakhl-e shama” = the candle’s stem)"
+    ],
+    "استی": [
+      "asti",
+      "you are (Persian)"
+    ],
+    "درشعلہ": [
+      "dar shola",
+      "into the flame (Persian; written as one word here)"
+    ],
+    "دود": [
+      "davad",
+      "runs (Persian)"
+    ],
+    "ریشۂ": [
+      "resha-e",
+      "root; fibre (of)"
+    ],
+    "تو": [
+      "tu",
+      "your (Persian, after izafat: “resha-e tu” = your root)"
+    ],
+    "عاقبت": [
+      "aaqibat",
+      "the end; the outcome"
+    ],
+    "سوز": [
+      "soz",
+      "burning (“aaqibat-soz” = burning away the end)"
+    ],
+    "بود": [
+      "buvad",
+      "is (Persian)"
+    ],
+    "سایۂ": [
+      "saaya-e",
+      "shadow (of)"
+    ],
+    "اندیشۂ": [
+      "andesha-e",
+      "thought (of)"
+    ],
+    "مٹ": [
+      "miṭ",
+      "be erased (“miṭ jaana” = to be wiped out)"
+    ],
+    "جائے": [
+      "jaaye",
+      "(“miṭ jaaye ga” = will be wiped out)"
+    ],
+    "ایران": [
+      "eeraan",
+      "Iran"
+    ],
+    "جانے": [
+      "jaane",
+      "going (oblique) (“miṭ jaane se” = by being wiped out)"
+    ],
+    "نشۂ": [
+      "nasha-e",
+      "intoxication (of)"
+    ],
+    "مے": [
+      "mai",
+      "wine"
+    ],
+    "تعلق": [
+      "taalluq",
+      "connection; dependence"
+    ],
+    "پیمانے": [
+      "paimaane",
+      "cup; goblet (oblique)"
+    ],
+    "عیاں": [
+      "ayaan",
+      "evident; clear"
+    ],
+    "یورش": [
+      "yoorish-e",
+      "onslaught; invasion (of)"
+    ],
+    "تاتار": [
+      "taataar",
+      "the Tatars (the Mongols)"
+    ],
+    "افسانے": [
+      "afsaane",
+      "story; tale (oblique)"
+    ],
+    "پاسباں": [
+      "paasbaan",
+      "guardians; protectors"
+    ],
+    "مل": [
+      "mil",
+      "(“mil gaye” = were found)"
+    ],
+    "کعبے": [
+      "kaabe",
+      "the Kaaba (oblique)"
+    ],
+    "صنم": [
+      "sanam",
+      "idol (“sanam-khaana” = idol house)"
+    ],
+    "خانے": [
+      "khaane",
+      "house (oblique) (“sanam-khaane” = idol house)"
+    ],
+    "کشتی": [
+      "kashti-e",
+      "boat; ship (of)"
+    ],
+    "حق": [
+      "haq",
+      "truth; God"
+    ],
+    "زمانے": [
+      "zamaane",
+      "the world; the age (oblique) (“zamaane mein” = in the world)"
+    ],
+    "سہارا": [
+      "sahaara",
+      "support"
+    ],
+    "عصر": [
+      "asr-e",
+      "age; era (“asr-e nau” = the modern age)"
+    ],
+    "نو": [
+      "nau",
+      "new"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "دھندلا": [
+      "dhundla",
+      "dim; hazy"
+    ],
+    "سا": [
+      "sa",
+      "-ish; rather (“dhundla sa” = dimly shining)"
+    ],
+    "ستارا": [
+      "sitaara",
+      "star"
+    ],
+    "جو": [
+      "jo",
+      "which (“hai jo hangaama bapa” = the uproar that has been raised)"
+    ],
+    "ہنگامہ": [
+      "hangaama",
+      "uproar; tumult"
+    ],
+    "بپا": [
+      "bapa",
+      "raised; stirred up"
+    ],
+    "بلغاری": [
+      "bulghaari",
+      "Bulgarian"
+    ],
+    "غافلوں": [
+      "ghaafilon",
+      "the heedless (pl. oblique)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for)"
+    ],
+    "پیغام": [
+      "paighaam",
+      "message"
+    ],
+    "بیداری": [
+      "bedaari",
+      "awakening"
+    ],
+    "سمجھتا": [
+      "samajhta",
+      "think; suppose"
+    ],
+    "دل": [
+      "dil",
+      "heart (“dil-aazaari” = hurting the heart)"
+    ],
+    "آزاری": [
+      "aazaari",
+      "hurting (“dil-aazaari” = wounding, causing heartache)"
+    ],
+    "امتحاں": [
+      "imtihaan",
+      "test (poetic spelling)"
+    ],
+    "ترے": [
+      "tire",
+      "your (poetic form of “tere”)"
+    ],
+    "ایثار": [
+      "eesaar",
+      "self-sacrifice"
+    ],
+    "خودداری": [
+      "khud-daari",
+      "self-respect"
+    ],
+    "ہراساں": [
+      "haraasaan",
+      "frightened"
+    ],
+    "صہیل": [
+      "saheel-e",
+      "neighing (of)"
+    ],
+    "فرس": [
+      "faras-e",
+      "horse (of) (“faras-e aada” = the enemies’ horses)"
+    ],
+    "اعدا": [
+      "aada",
+      "enemies (pl.)"
+    ],
+    "نور": [
+      "noor-e",
+      "light (of)"
+    ],
+    "بجھ": [
+      "bujh",
+      "be put out (“bujh na sake ga” = can never be put out)"
+    ],
+    "نفس": [
+      "nafas-e",
+      "breath (of)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر نے مسلمان کو حضرت یوسفؑ سے کیوں ملایا ہے؟",
+      "english": "Why is the Muslim compared to Joseph?",
+      "options": [
+        {
+          "urdu": "کیونکہ وہ بہت خوب صورت ہے",
+          "english": "because he is very handsome"
+        },
+        {
+          "urdu": "کیونکہ ہر ملک اس کا وطن بن سکتا ہے",
+          "english": "because every land can become his home"
+        },
+        {
+          "urdu": "کیونکہ وہ مصر کا بادشاہ ہے",
+          "english": "because he is the king of Egypt"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "تاتاریوں کی کہانی سے کیا ثابت ہوتا ہے؟",
+      "english": "What does the tale of the Tatars prove?",
+      "options": [
+        {
+          "urdu": "کعبے کو بت خانے سے محافظ مل گئے",
+          "english": "the Kaaba found guardians from the idol-house"
+        },
+        {
+          "urdu": "تاتاری کبھی نہیں ہارے",
+          "english": "the Tatars were never defeated"
+        },
+        {
+          "urdu": "ایران ہمیشہ کے لیے مٹ گیا",
+          "english": "Iran was wiped out forever"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "اللہ بلغاریہ کے حملے کو کیا کہتا ہے؟",
+      "english": "What does God call the Bulgarian onslaught?",
+      "options": [
+        {
+          "urdu": "اپنی ناراضی کی نشانی",
+          "english": "a sign of His anger"
+        },
+        {
+          "urdu": "مسلمانوں کا انجام",
+          "english": "the end of the Muslims"
+        },
+        {
+          "urdu": "جاگنے کا پیغام اور امتحان",
+          "english": "a call to wake up, and a test"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

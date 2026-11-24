@@ -1,0 +1,528 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-6",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 6)",
+    "english": "Jawab-e-Shikwa, part 6"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Part 6 of Iqbal’s “Jawab-e-Shikwa” (1913), stanzas 16–18. God laments that preachers have lost their fire and mosques their worshippers, asks whether Muslims who dress and live like others are Muslims at all, and contrasts them with the truthful, just and selfless Muslim of old; the part ends with a couplet in Persian.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 6,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "واعظِ قوم کی وہ پُختہ خیالی نہ رہی",
+      "english": "The nation’s preacher no longer has that maturity of thought;",
+      "verse": true
+    },
+    {
+      "urdu": "برق طبعی نہ رہی، شُعلہ مقالی نہ رہی",
+      "english": "gone is his lightning-quick spirit, gone his fiery eloquence.",
+      "verse": true
+    },
+    {
+      "urdu": "رہ گئی رسمِ اذاں، رُوحِ بِلالی نہ رہی",
+      "english": "The ritual of the call to prayer remains; the spirit of Bilal is gone.",
+      "verse": true
+    },
+    {
+      "urdu": "فلسفہ رہ گیا، تلقینِ غزالی نہ رہی",
+      "english": "Philosophy remains; the teaching of Ghazali is gone.",
+      "verse": true
+    },
+    {
+      "urdu": "مسجدیں مرثیہ خواں ہیں کہ نمازی نہ رہے",
+      "english": "The mosques are mourning that the worshippers are no more –",
+      "verse": true
+    },
+    {
+      "urdu": "یعنی وہ صاحبِ اوصافِ حجازی نہ رہے",
+      "english": "that is, those who had the qualities of the people of Hijaz are no more.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اب قوم کے واعظ میں نہ پختہ سوچ رہی، نہ جوش اور نہ آگ جیسی تقریر۔ اذان کی رسم تو باقی ہے مگر حضرت بلالؓ جیسا جذبہ نہیں رہا، فلسفہ باقی ہے مگر امام غزالیؒ جیسی سچی تعلیم نہیں رہی۔ مسجدیں افسوس کر رہی ہیں کہ پہلے مسلمانوں جیسی خوبیوں والے نمازی نہیں رہے۔",
+        "english": "The preachers have lost their depth of thought, their fire and their eloquence. The ritual of the azan remains, but not the spirit of Bilal, the Prophet’s first muezzin; philosophy remains, but not the living teaching of Imam al-Ghazali (d. 1111). The mosques mourn because worshippers with the qualities of the early Muslims of Hijaz (Arabia) are gone."
+      }
+    },
+    {
+      "urdu": "شور ہے، ہو گئے دنیا سے مسلماں نابود",
+      "english": "There is an outcry: “Muslims have vanished from the world!”",
+      "verse": true
+    },
+    {
+      "urdu": "ہم یہ کہتے ہیں کہ تھے بھی کہیں مسلم موجود!",
+      "english": "We say: were there ever any Muslims anywhere at all?",
+      "verse": true
+    },
+    {
+      "urdu": "وضع میں تم ہو نصاریٰ تو تمدّن میں ہنود",
+      "english": "In your dress you are Christians, in your culture Hindus;",
+      "verse": true
+    },
+    {
+      "urdu": "یہ مسلماں ہیں! جنھیں دیکھ کے شرمائیں یہود",
+      "english": "these are Muslims! – at the sight of whom even Jews would feel ashamed.",
+      "verse": true
+    },
+    {
+      "urdu": "یوں تو سیّد بھی ہو، مرزا بھی ہو، افغان بھی ہو",
+      "english": "Outwardly you are Sayyids, and Mirzas, and Afghans too;",
+      "verse": true
+    },
+    {
+      "urdu": "تم سبھی کچھ ہو، بتاؤ تو مسلمان بھی ہو!",
+      "english": "you are everything – but tell Me, are you Muslims as well?",
+      "verse": true,
+      "explanation": {
+        "urdu": "لوگ شور کرتے ہیں کہ دنیا سے مسلمان ختم ہو گئے۔ اللہ فرماتا ہے کہ کیا کہیں سچے مسلمان تھے بھی؟ تمھارا لباس عیسائیوں جیسا اور رہن سہن ہندوؤں جیسا ہے، اور کردار ایسا ہے کہ دوسرے بھی دیکھ کر شرما جائیں۔ تم سید، مرزا اور افغان تو ہو، مگر کیا مسلمان بھی ہو؟",
+        "english": "People cry that Muslims have vanished from the world; God retorts: were there real Muslims anywhere to begin with? They dress like Christians and live like Hindus, and – in Iqbal’s deliberately sharp rhetoric – their conduct would shame even the Jews. They pride themselves on being Sayyids, Mirzas or Afghans, labels of family and tribe, but are they Muslims?"
+      }
+    },
+    {
+      "urdu": "دمِ تقریر تھی مسلم کی صداقت بے باک",
+      "english": "When he spoke, the Muslim’s truthfulness was fearless;",
+      "verse": true
+    },
+    {
+      "urdu": "عدل اس کا تھا قوی، لوثِ مراعات سے پاک",
+      "english": "his justice was strong, free from the stain of favouritism.",
+      "verse": true
+    },
+    {
+      "urdu": "شجَرِ فطرتِ مسلم تھا حیا سے نم ناک",
+      "english": "The tree of the Muslim’s nature was fresh and moist with modesty;",
+      "verse": true
+    },
+    {
+      "urdu": "تھا شجاعت میں وہ اک ہستیِ فوق الادراک",
+      "english": "in courage he was a being beyond comprehension.",
+      "verse": true
+    },
+    {
+      "urdu": "خود گدازی نمِ کیفیّت صہبایش بود",
+      "english": "(Persian) Melting away his own self was the very essence of his wine;",
+      "verse": true
+    },
+    {
+      "urdu": "خالی از خویش شُدن صورتِ مینایش بود",
+      "english": "(Persian) becoming empty of self was the form of his flask.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پہلے کا مسلمان سچ بولنے میں بے خوف تھا، اس کا انصاف مضبوط اور طرف داری سے پاک تھا۔ اس کی فطرت میں حیا تھی اور بہادری میں اس کا کوئی جواب نہ تھا۔ فارسی شعر کا مطلب ہے کہ اس کی مستی خود کو مٹا دینے میں تھی، یعنی وہ اپنی ذات کو بھول کر دوسروں کے لیے جیتا تھا۔",
+        "english": "God describes the early Muslim: fearless in speaking the truth, strong in justice and free from favouritism, his nature fresh with modesty and his courage beyond imagining. The closing Persian couplet says his intoxication lay in melting away his own self, and his wine-flask’s form was to be empty of self – he was selfless, pouring himself out for others."
+      }
+    }
+  ],
+  "glossary": {
+    "واعظِ": [
+      "waaiz-e",
+      "preacher of (“waaiz-e qaum” = the nation’s preacher)"
+    ],
+    "قوم": [
+      "qaum",
+      "nation"
+    ],
+    "پُختہ": [
+      "pukhta",
+      "mature; firm (“pukhta-khayaali” = maturity of thought)"
+    ],
+    "خیالی": [
+      "khayaali",
+      "thinking (suffix: “pukhta-khayaali” = mature thinking)"
+    ],
+    "رہی": [
+      "rahi",
+      "remained (f.) (“na rahi” = is gone)"
+    ],
+    "برق": [
+      "barq",
+      "lightning (“barq-tabi” = lightning-quick temperament)"
+    ],
+    "طبعی": [
+      "tabi",
+      "temperament (suffix: “barq-tabi” = a lightning-like nature)"
+    ],
+    "شُعلہ": [
+      "shola",
+      "flame (“shola-maqaali” = fiery eloquence)"
+    ],
+    "مقالی": [
+      "maqaali",
+      "speech (suffix: “shola-maqaali” = fiery speech)"
+    ],
+    "رہ": [
+      "reh",
+      "remain (“reh gayi / reh gaya” = is all that remains)"
+    ],
+    "رسمِ": [
+      "rasm-e",
+      "ritual of; custom of"
+    ],
+    "اذاں": [
+      "azaan",
+      "the call to prayer"
+    ],
+    "رُوحِ": [
+      "rooh-e",
+      "spirit of"
+    ],
+    "بِلالی": [
+      "bilaali",
+      "of Bilal (“rooh-e bilaali” = the spirit of Bilal, the first muezzin of Islam)"
+    ],
+    "فلسفہ": [
+      "falsafa",
+      "philosophy"
+    ],
+    "تلقینِ": [
+      "talqeen-e",
+      "teaching of; instruction of"
+    ],
+    "غزالی": [
+      "ghazaali",
+      "Imam al-Ghazali (d. 1111), theologian and Sufi"
+    ],
+    "مسجدیں": [
+      "masjiden",
+      "mosques"
+    ],
+    "مرثیہ": [
+      "marsiya",
+      "elegy (“marsiya-khwaan” = mourning, reciting elegies)"
+    ],
+    "خواں": [
+      "khwaan",
+      "reciting (suffix: “marsiya-khwaan” = mourning)"
+    ],
+    "نمازی": [
+      "namaazi",
+      "worshippers; those who pray"
+    ],
+    "رہے": [
+      "rahe",
+      "remained (pl.) (“na rahe” = are no more)"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; in other words"
+    ],
+    "صاحبِ": [
+      "saahib-e",
+      "possessor of"
+    ],
+    "اوصافِ": [
+      "ausaaf-e",
+      "qualities of"
+    ],
+    "حجازی": [
+      "hijaazi",
+      "of Hijaz (Arabia), i.e. of the early Muslims"
+    ],
+    "شور": [
+      "shor",
+      "noise; outcry"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "مسلماں": [
+      "musalmaan",
+      "Muslims"
+    ],
+    "نابود": [
+      "naabood",
+      "vanished; extinct"
+    ],
+    "ہم": [
+      "ham",
+      "We (God speaking)"
+    ],
+    "کہتے": [
+      "kehte",
+      "say (pl.)"
+    ],
+    "کہیں": [
+      "kaheen",
+      "anywhere"
+    ],
+    "مسلم": [
+      "muslim",
+      "Muslim(s)"
+    ],
+    "موجود": [
+      "maujood",
+      "present; existing"
+    ],
+    "وضع": [
+      "waza",
+      "dress; outward manner"
+    ],
+    "تم": [
+      "tum",
+      "you (pl.)"
+    ],
+    "نصاریٰ": [
+      "nasaara",
+      "Christians"
+    ],
+    "تمدّن": [
+      "tamaddun",
+      "culture; way of life"
+    ],
+    "ہنود": [
+      "hunood",
+      "Hindus (Arabic pl.)"
+    ],
+    "جنھیں": [
+      "jinhen",
+      "whom (pl.)"
+    ],
+    "دیکھ": [
+      "dekh",
+      "see (“dekh ke” = on seeing)"
+    ],
+    "کے": [
+      "ke",
+      "having (“dekh ke” = on seeing)"
+    ],
+    "شرمائیں": [
+      "sharmaayen",
+      "would be ashamed"
+    ],
+    "یہود": [
+      "yahood",
+      "Jews"
+    ],
+    "یوں": [
+      "yoon",
+      "thus (“yoon to” = outwardly; granted)"
+    ],
+    "سیّد": [
+      "sayyid",
+      "Sayyid (claimed descendant of the Prophet)"
+    ],
+    "مرزا": [
+      "mirza",
+      "Mirza (a noble title of Mughal/Turkic families)"
+    ],
+    "افغان": [
+      "afghaan",
+      "Afghan; Pathan"
+    ],
+    "سبھی": [
+      "sabhi",
+      "all (“sabhi kuchh” = everything)"
+    ],
+    "کچھ": [
+      "kuchh",
+      "thing (“sabhi kuchh” = everything)"
+    ],
+    "بتاؤ": [
+      "bataao",
+      "tell"
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslim(s)"
+    ],
+    "دمِ": [
+      "dam-e",
+      "at the moment of (“dam-e taqreer” = when speaking)"
+    ],
+    "تقریر": [
+      "taqreer",
+      "speech"
+    ],
+    "صداقت": [
+      "sadaaqat",
+      "truthfulness"
+    ],
+    "بے": [
+      "be",
+      "without (“be-baak” = fearless)"
+    ],
+    "باک": [
+      "baak",
+      "fear (“be-baak” = fearless)"
+    ],
+    "عدل": [
+      "adl",
+      "justice"
+    ],
+    "قوی": [
+      "qawi",
+      "strong"
+    ],
+    "لوثِ": [
+      "laus-e",
+      "stain of; taint of"
+    ],
+    "مراعات": [
+      "muraaat",
+      "favouritism; partiality"
+    ],
+    "پاک": [
+      "paak",
+      "free; pure"
+    ],
+    "شجَرِ": [
+      "shajar-e",
+      "tree of"
+    ],
+    "فطرتِ": [
+      "fitrat-e",
+      "nature of"
+    ],
+    "حیا": [
+      "haya",
+      "modesty"
+    ],
+    "نم": [
+      "nam",
+      "moist (“nam-naak” = moist, fresh)"
+    ],
+    "ناک": [
+      "naak",
+      "full of (suffix: “nam-naak” = moist)"
+    ],
+    "شجاعت": [
+      "shujaaat",
+      "bravery; courage"
+    ],
+    "اک": [
+      "ik",
+      "a; one (poetic form of “ek”)"
+    ],
+    "ہستیِ": [
+      "hasti-e",
+      "being; existence"
+    ],
+    "فوق": [
+      "fauq",
+      "above; beyond (“fauq-ul-idraak” = beyond comprehension)"
+    ],
+    "الادراک": [
+      "ul-idraak",
+      "comprehension (Arabic; “fauq-ul-idraak” = beyond comprehension)"
+    ],
+    "خود": [
+      "khud",
+      "self (“khud-gudaazi” = melting of the self, self-effacement)"
+    ],
+    "گدازی": [
+      "gudaazi",
+      "melting"
+    ],
+    "نمِ": [
+      "nam-e",
+      "moisture of; essence of (Persian)"
+    ],
+    "کیفیّت": [
+      "kaifiyyat",
+      "intoxicating quality; state"
+    ],
+    "صہبایش": [
+      "sahbaa-ash",
+      "his wine (Persian: “sahbaa” = wine, “-ash” = his)"
+    ],
+    "بود": [
+      "bood",
+      "was (Persian)"
+    ],
+    "خالی": [
+      "khaali",
+      "empty"
+    ],
+    "از": [
+      "az",
+      "of; from (Persian)"
+    ],
+    "خویش": [
+      "khwesh",
+      "self (Persian)"
+    ],
+    "شُدن": [
+      "shudan",
+      "becoming (Persian; “khaali az khwesh shudan” = becoming empty of self)"
+    ],
+    "صورتِ": [
+      "soorat-e",
+      "form of; shape of"
+    ],
+    "مینایش": [
+      "meena-ash",
+      "his wine-flask (Persian: “meena” = flask, “-ash” = his)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "“رہ گئی رسمِ اذاں، رُوحِ بِلالی نہ رہی” کا کیا مطلب ہے؟",
+      "english": "What does “the ritual of the azan remains, the spirit of Bilal is gone” mean?",
+      "options": [
+        {
+          "urdu": "اذان بالکل ختم ہو گئی ہے",
+          "english": "The azan has stopped completely"
+        },
+        {
+          "urdu": "اذان کی رسم باقی ہے مگر حضرت بلالؓ جیسا سچا جذبہ نہیں رہا",
+          "english": "The ritual of the azan remains, but Bilal’s sincere spirit is gone"
+        },
+        {
+          "urdu": "اب حضرت بلالؓ خود اذان دیتے ہیں",
+          "english": "Bilal himself now gives the azan"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "اللہ کے مطابق آج کے مسلمان لباس اور رہن سہن میں کن جیسے ہیں؟",
+      "english": "According to God, whom do today’s Muslims resemble in dress and way of life?",
+      "options": [
+        {
+          "urdu": "اپنے آبا و اجداد جیسے",
+          "english": "Their forefathers"
+        },
+        {
+          "urdu": "فرشتوں جیسے",
+          "english": "The angels"
+        },
+        {
+          "urdu": "عیسائیوں اور ہندوؤں جیسے",
+          "english": "Christians and Hindus"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "آخری بند میں پہلے کے مسلمان کی کون سی خوبیاں بتائی گئی ہیں؟",
+      "english": "Which qualities of the early Muslim does the last stanza describe?",
+      "options": [
+        {
+          "urdu": "سچائی، انصاف، حیا اور بہادری",
+          "english": "Truthfulness, justice, modesty and courage"
+        },
+        {
+          "urdu": "دولت اور آرام",
+          "english": "Wealth and comfort"
+        },
+        {
+          "urdu": "فلسفہ اور شاعری",
+          "english": "Philosophy and poetry"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

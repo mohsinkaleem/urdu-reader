@@ -1,0 +1,496 @@
+{
+  "id": "poem-iqbal-shikwa-7",
+  "title": {
+    "urdu": "شکوہ (حصہ 7)",
+    "english": "Shikwa, part 7"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Iqbal’s “Shikwa” (1911) continues its complaint to God on behalf of the Muslims. In stanzas 19–21 the poet mourns that God’s devoted lovers are gone, insists that nothing in their love has changed, and asks what they have abandoned to deserve His anger.",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 7,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "تیری محفل بھی گئی، چاہنے والے بھی گئے",
+      "english": "Your gathering is gone, and those who loved You are gone too;",
+      "verse": true
+    },
+    {
+      "urdu": "شب کی آہیں بھی گئیں، صبح کے نالے بھی گئے",
+      "english": "gone are the sighs of the night and the laments of the dawn.",
+      "verse": true
+    },
+    {
+      "urdu": "دل تجھے دے بھی گئے، اپنی صِلا لے بھی گئے",
+      "english": "They gave You their hearts, and took their reward with them;",
+      "verse": true
+    },
+    {
+      "urdu": "آ کے بیٹھے بھی نہ تھے کہ نکالے بھی گئے",
+      "english": "they had scarcely come and sat down when they were turned out.",
+      "verse": true
+    },
+    {
+      "urdu": "آئے عشّاق، گئے وعدۂ فردا لے کر",
+      "english": "The lovers came, and went away with a promise of tomorrow;",
+      "verse": true
+    },
+    {
+      "urdu": "اب اُنہیں ڈھونڈ چراغِ رُخِ زیبا لے کر",
+      "english": "now go and search for them with the lamp of Your lovely face.",
+      "verse": true,
+      "explanation": {
+        "urdu": "تیرے وہ عاشق جو رات کو آہیں بھرتے اور صبح روتے تھے، اب نہیں رہے۔ انہوں نے تجھے دل دیا مگر بدلے میں صرف کل کا وعدہ ملا اور جلد ہی نکال دیے گئے۔ اب چراغ لے کر ڈھونڈو تو بھی وہ نہیں ملیں گے۔",
+        "english": "The devoted worshippers who sighed in prayer at night and wept at dawn are gone. They gave God their hearts but received only a promise of reward 'tomorrow' (in the hereafter), and were soon driven out. “To search with a lamp” is an idiom for looking for something very hard to find: now God will not find such lovers again."
+      }
+    },
+    {
+      "urdu": "دردِ لیلیٰ بھی وہی، قیس کا پہلو بھی وہی",
+      "english": "Laila's pain is the same, and Qais's heart is the same;",
+      "verse": true
+    },
+    {
+      "urdu": "نجد کے دشت و جبل میں رَمِ آہو بھہ وہی",
+      "english": "in the deserts and hills of Najd the gazelles still leap as before;",
+      "verse": true
+    },
+    {
+      "urdu": "عشق کا دل بھی وہی، خسن کا جادو بھی وہی",
+      "english": "love's heart is the same, and beauty's magic is the same;",
+      "verse": true
+    },
+    {
+      "urdu": "اُمّتِ احمدِ مرسل بھی وہی، تُو بھی وہی",
+      "english": "the community of Ahmad the Messenger is the same, and You are the same.",
+      "verse": true
+    },
+    {
+      "urdu": "پھر یہ آزردگیِ غیر سبب کا معنی",
+      "english": "Then what is the meaning of this displeasure without cause?",
+      "verse": true
+    },
+    {
+      "urdu": "اپنے شیداؤں یہ چشمِ غضب کیا معنی",
+      "english": "Why this angry glance at Your devoted lovers?",
+      "verse": true,
+      "explanation": {
+        "urdu": "لیلیٰ اور مجنوں کی طرح عشق اور حسن کی دنیا میں کچھ نہیں بدلا۔ مسلمان بھی وہی ہیں اور اللہ بھی وہی ہے۔ پھر اپنے چاہنے والوں سے یہ بےوجہ ناراضی کیوں؟",
+        "english": "Allusion to the Arabian love story of Laila and Qais (Majnun), who wandered mad with love in the desert of Najd. Iqbal says nothing has changed: the love, the beauty, the Muslim ummah and God Himself are all the same as before. So why is God angry with His devoted lovers for no reason?"
+      }
+    },
+    {
+      "urdu": "تجھ کو چھوڑا کہ رسولِ عربی کو چھوڑا؟",
+      "english": "Did we abandon You, or abandon the Arabian Prophet?",
+      "verse": true
+    },
+    {
+      "urdu": "بُت گری پیشہ کیا، بت شکنی کو چھوڑا؟",
+      "english": "Did we take up idol-making as a trade and give up breaking idols?",
+      "verse": true
+    },
+    {
+      "urdu": "عشق کو، عشق کی آشفتہ سری کو چھوڑا؟",
+      "english": "Did we abandon love, or love's wild frenzy?",
+      "verse": true
+    },
+    {
+      "urdu": "رسمِ سلمانؓو اویس قرنیؓ کو چھوڑا؟",
+      "english": "Did we abandon the way of Salman and Uwais Qarani?",
+      "verse": true
+    },
+    {
+      "urdu": "آگ تکبیر کی سینوں میں دبی رکھتے ہیں",
+      "english": "We still keep the fire of the takbeer hidden in our breasts;",
+      "verse": true
+    },
+    {
+      "urdu": "زندگی مثلِ بلال حبشی رکھتے ہیں",
+      "english": "we live a life like that of Bilal the Abyssinian.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر پوچھتا ہے کہ ہم نے کیا چھوڑا ہے؟ نہ اللہ کو، نہ رسول کو، نہ عشق کو اور نہ سلمان فارسی اور اویس قرنی کا راستہ۔ آج بھی ہمارے دلوں میں اللہ اکبر کی آگ ہے اور ہم حضرت بلال کی طرح جیتے ہیں۔",
+        "english": "Iqbal asks what Muslims have actually given up: not God, not the Prophet, not love. Salman al-Farsi left Persia in search of the truth and became a Companion; Uwais al-Qarani of Yemen loved the Prophet deeply without ever meeting him; Bilal, a freed Abyssinian slave and the first muezzin, kept saying “Ahad, Ahad” (God is One) under torture. Muslims still carry the fire of the takbeer (“Allahu Akbar”) in their hearts."
+      }
+    }
+  ],
+  "glossary": {
+    "تیری": [
+      "teri",
+      "your (f.)"
+    ],
+    "محفل": [
+      "mehfil",
+      "gathering"
+    ],
+    "گئیں": [
+      "gayin",
+      "went; are gone (f. pl.)"
+    ],
+    "چاہنے": [
+      "chaahne",
+      "loving (“chaahne waale” = lovers)"
+    ],
+    "والے": [
+      "waale",
+      "ones who (“chaahne waale” = those who love)"
+    ],
+    "شب": [
+      "shab",
+      "night"
+    ],
+    "آہیں": [
+      "aahein",
+      "sighs (pl.)"
+    ],
+    "صبح": [
+      "subah",
+      "dawn; morning"
+    ],
+    "نالے": [
+      "naale",
+      "laments (pl.)"
+    ],
+    "دل": [
+      "dil",
+      "heart(s)"
+    ],
+    "تجھے": [
+      "tujhe",
+      "to You"
+    ],
+    "دے": [
+      "de",
+      "give (“de gaye” = gave)"
+    ],
+    "صلا": [
+      "sila",
+      "reward; recompense"
+    ],
+    "لے": [
+      "le",
+      "take (“le gaye” = took away; “le kar” = taking, with)"
+    ],
+    "آ": [
+      "aa",
+      "come (“aa ke” = having come)"
+    ],
+    "بیٹھے": [
+      "baiṭhe",
+      "sat"
+    ],
+    "نکالے": [
+      "nikaale",
+      "turned out (“nikaale gaye” = were expelled)"
+    ],
+    "آئے": [
+      "aaye",
+      "came"
+    ],
+    "عشاق": [
+      "ushshaaq",
+      "lovers (pl. of “aashiq”)"
+    ],
+    "وعدۂ": [
+      "waada-e-",
+      "promise of"
+    ],
+    "فردا": [
+      "farda",
+      "tomorrow (here: the hereafter)"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "انہیں": [
+      "unhein",
+      "them"
+    ],
+    "ڈھونڈ": [
+      "ḍhoonḍ",
+      "search (for)"
+    ],
+    "چراغ": [
+      "chiraagh-e-",
+      "lamp of (“chiraagh le kar ḍhoonḍna” = to search high and low)"
+    ],
+    "رخ": [
+      "rukh-e-",
+      "face of"
+    ],
+    "زیبا": [
+      "zeba",
+      "beautiful"
+    ],
+    "درد": [
+      "dard-e-",
+      "pain of"
+    ],
+    "لیلی": [
+      "laila",
+      "Laila (the beloved in the Arabian love story)"
+    ],
+    "وہی": [
+      "wahi",
+      "the same"
+    ],
+    "قیس": [
+      "qais",
+      "Qais (Majnun, Laila's lover)"
+    ],
+    "پہلو": [
+      "pehlu",
+      "side; bosom (the heart)"
+    ],
+    "نجد": [
+      "najd",
+      "Najd (desert region of Arabia)"
+    ],
+    "دشت": [
+      "dasht",
+      "desert"
+    ],
+    "جبل": [
+      "jabal",
+      "mountain(s); hills"
+    ],
+    "رم": [
+      "ram-e-",
+      "leaping; running of"
+    ],
+    "آہو": [
+      "aahu",
+      "gazelle(s)"
+    ],
+    "بھہ": [
+      "bhi",
+      "also (misspelt for بھی in this source)"
+    ],
+    "عشق": [
+      "ishq",
+      "love"
+    ],
+    "خسن": [
+      "husn",
+      "beauty (misspelt for حسن in this source)"
+    ],
+    "جادو": [
+      "jaadu",
+      "magic"
+    ],
+    "امت": [
+      "ummat-e-",
+      "community of"
+    ],
+    "احمد": [
+      "ahmad-e-",
+      "Ahmad (a name of the Prophet Muhammad)"
+    ],
+    "مرسل": [
+      "mursal",
+      "Messenger; the one sent"
+    ],
+    "تو": [
+      "tu",
+      "You (God)"
+    ],
+    "آزردگی": [
+      "aazurdagi-e-",
+      "displeasure; grievance"
+    ],
+    "غیر": [
+      "ghair",
+      "without (“ghair-sabab” = without cause)"
+    ],
+    "سبب": [
+      "sabab",
+      "cause; reason"
+    ],
+    "معنی": [
+      "maani",
+      "meaning (“kya maani” = what does it mean; why)"
+    ],
+    "شیداؤں": [
+      "shaidaaon",
+      "devoted lovers (oblique pl.)"
+    ],
+    "چشم": [
+      "chashm-e-",
+      "eye; glance of"
+    ],
+    "غضب": [
+      "ghazab",
+      "anger; wrath"
+    ],
+    "کیا": [
+      "kya / kiya",
+      "what / did; made (“pesha kiya” = took up as a trade)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (“tujh ko” = You)"
+    ],
+    "چھوڑا": [
+      "chhoṛa",
+      "abandoned; gave up"
+    ],
+    "کہ": [
+      "keh",
+      "that; or; when (“baiṭhe bhi na the keh” = had hardly sat when)"
+    ],
+    "رسول": [
+      "rasool-e-",
+      "Messenger; Prophet"
+    ],
+    "عربی": [
+      "arabi",
+      "Arabian"
+    ],
+    "بت": [
+      "but",
+      "idol"
+    ],
+    "گری": [
+      "gari",
+      "making (“but-gari” = idol-making)"
+    ],
+    "پیشہ": [
+      "pesha",
+      "profession; trade"
+    ],
+    "شکنی": [
+      "shikani",
+      "breaking (“but-shikani” = idol-breaking)"
+    ],
+    "آشفتہ": [
+      "aashufta",
+      "distraught (“aashufta-sari” = frenzy, madness)"
+    ],
+    "سری": [
+      "sari",
+      "-headedness (in “aashufta-sari” = frenzy)"
+    ],
+    "رسم": [
+      "rasm-e-",
+      "way; custom of"
+    ],
+    "سلمانو": [
+      "salmaan-o",
+      "Salman (al-Farsi, Companion of the Prophet) and"
+    ],
+    "اویس": [
+      "uwais",
+      "Uwais (al-Qarani, a devoted follower from Yemen)"
+    ],
+    "قرنی": [
+      "qarani",
+      "of Qaran (Uwais al-Qarani)"
+    ],
+    "آگ": [
+      "aag",
+      "fire"
+    ],
+    "تکبیر": [
+      "takbeer",
+      "the cry “Allahu Akbar”"
+    ],
+    "سینوں": [
+      "seenon",
+      "breasts; hearts (oblique pl.)"
+    ],
+    "دبی": [
+      "dabi",
+      "pressed down; hidden"
+    ],
+    "رکھتے": [
+      "rakhte",
+      "keep"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "مثل": [
+      "misl-e-",
+      "like"
+    ],
+    "بلال": [
+      "bilaal",
+      "Bilal (the Prophet's muezzin)"
+    ],
+    "حبشی": [
+      "habshi",
+      "Abyssinian"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "تیرے عاشقوں کو دل دینے کے بدلے کیا ملا؟",
+      "english": "What did God's lovers get in return for giving their hearts?",
+      "options": [
+        {
+          "urdu": "دنیا کی دولت",
+          "english": "Worldly wealth"
+        },
+        {
+          "urdu": "صرف کل کا وعدہ",
+          "english": "Only a promise of tomorrow"
+        },
+        {
+          "urdu": "ایک چراغ",
+          "english": "A lamp"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "لیلیٰ اور قیس کا ذکر کر کے شاعر کیا ثابت کرتا ہے؟",
+      "english": "What does the poet show by mentioning Laila and Qais?",
+      "options": [
+        {
+          "urdu": "کہ عشق کی دنیا میں کچھ نہیں بدلا",
+          "english": "That nothing has changed in the world of love"
+        },
+        {
+          "urdu": "کہ عرب کے صحرا خطرناک ہیں",
+          "english": "That the deserts of Arabia are dangerous"
+        },
+        {
+          "urdu": "کہ قیس نے لیلیٰ کو چھوڑ دیا",
+          "english": "That Qais abandoned Laila"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر کے مطابق مسلمان آج بھی کس کی طرح زندگی گزارتے ہیں؟",
+      "english": "According to the poet, whose life do Muslims still live like?",
+      "options": [
+        {
+          "urdu": "بت گروں کی طرح",
+          "english": "Like idol-makers"
+        },
+        {
+          "urdu": "قیصر کی طرح",
+          "english": "Like Caesar"
+        },
+        {
+          "urdu": "بلال حبشی کی طرح",
+          "english": "Like Bilal the Abyssinian"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

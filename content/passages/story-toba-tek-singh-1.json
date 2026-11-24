@@ -1,0 +1,402 @@
+{
+  "id": "story-toba-tek-singh-1",
+  "title": {
+    "urdu": "ٹوبہ ٹیک سنگھ (۱)",
+    "english": "Toba Tek Singh (1)"
+  },
+  "category": "stories",
+  "level": "medium",
+  "tags": ["history", "society"],
+  "source": {
+    "name": "Urdu Wikisource: ٹوبہ ٹیک سنگھ",
+    "url": "https://ur.wikisource.org/wiki/ٹوبہ_ٹیک_سنگھ",
+    "author": "Saadat Hasan Manto",
+    "license": "Public domain"
+  },
+  "intro": "The opening of Saadat Hasan Manto’s most famous story (1955). A few years after the 1947 Partition, India and Pakistan decide to exchange the inmates of their lunatic asylums according to religion.",
+  "series": {
+    "id": "story-toba-tek-singh",
+    "title": "Toba Tek Singh",
+    "part": 1,
+    "of": 3
+  },
+  "sentences": [
+    {
+      "urdu": "بٹوارے کے دو تین سال بعد پاکستان اور ہندوستان کی حکومتوں کو خیال آیا کہ اخلاقی قیدیوں کی طرح پاگلوں کا تبادلہ بھی ہونا چاہیے یعنی جو مسلمان پاگل، ہندوستان کے پاگل خانوں میں ہیں انھیں پاکستان پہنچا دیا جائے اور جو ہندو اور سکھ، پاکستان کے پاگل خانوں میں ہیں انھیں ہندوستان کے حوالے کردیا جائے۔",
+      "english": "Two or three years after Partition, it occurred to the governments of Pakistan and India that, just like ordinary criminal prisoners, lunatics too should be exchanged: that is, the Muslim lunatics in India’s asylums should be sent to Pakistan, and the Hindus and Sikhs in Pakistan’s asylums should be handed over to India."
+    },
+    {
+      "urdu": "معلوم نہیں یہ بات معقول تھی یا غیر معقول، بہر حال دانش مندوں کے فیصلے کے مطابق ادھر ادھر اونچی سطح کی کانفرنسیں ہوئیں اور بالآخر ایک دن پاگلوں کے تبادلے کے لیے مقرر ہوگیا۔",
+      "english": "Who knows whether this was a sensible idea or not; in any case, in line with the decision of the wise men, high-level conferences were held on both sides, and at last a day was fixed for the exchange of lunatics."
+    },
+    {
+      "urdu": "اچھی طرح چھان بین کی گئی۔",
+      "english": "Careful enquiries were made."
+    },
+    {
+      "urdu": "وہ مسلمان پاگل جن کے لواحقین ہندوستان ہی میں تھے، وہیں رہنے دیے گئے تھے۔",
+      "english": "Those Muslim lunatics whose relatives were in India itself were allowed to stay right there."
+    },
+    {
+      "urdu": "جو باقی تھے، ان کو سرحد پر روانہ کردیا گیا۔",
+      "english": "Those who remained were sent off to the border."
+    },
+    {
+      "urdu": "یہاں پاکستان میں چونکہ قریب قریب تمام ہندو، سکھ جا چکے تھے اسی لیے کسی کو رکھنے رکھانے کا سوال ہی نہ پیدا ہوا۔",
+      "english": "Here in Pakistan, since almost all the Hindus and Sikhs had already left, the question of keeping anyone never even arose."
+    },
+    {
+      "urdu": "جتنے ہندو، سکھ پاگل تھے سب کے سب پولیس کی حفاظت میں بارڈر پر پہنچا دیے گئے۔",
+      "english": "All the Hindu and Sikh lunatics there were, every last one of them, were delivered to the border under police guard."
+    }
+  ],
+  "glossary": {
+    "بٹوارے": [
+      "baṭwaare",
+      "Partition (oblique); the 1947 division of India"
+    ],
+    "تین": [
+      "teen",
+      "three (“do teen” = two or three)"
+    ],
+    "سال": [
+      "saal",
+      "year(s)"
+    ],
+    "بعد": [
+      "baad",
+      "after (“ke baad” = after)"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "ہندوستان": [
+      "hindustaan",
+      "India (Hindustan)"
+    ],
+    "حکومتوں": [
+      "hukoomaton",
+      "governments (oblique pl.)"
+    ],
+    "خیال": [
+      "khayaal",
+      "thought (“ko khayaal aaya” = it occurred to)"
+    ],
+    "آیا": [
+      "aaya",
+      "came (“khayaal aaya” = it occurred)"
+    ],
+    "اخلاقی": [
+      "akhlaaqi",
+      "moral (“akhlaaqi qaidi” = prisoners jailed for ordinary crimes, as opposed to political prisoners)"
+    ],
+    "قیدیوں": [
+      "qaidiyon",
+      "prisoners (oblique pl.)"
+    ],
+    "طرح": [
+      "tarah",
+      "way; manner (“ki tarah” = like; “achchhi tarah” = thoroughly)"
+    ],
+    "پاگلوں": [
+      "paaglon",
+      "lunatics; mad people (oblique pl.)"
+    ],
+    "تبادلہ": [
+      "tabaadla",
+      "exchange"
+    ],
+    "ہونا": [
+      "hona",
+      "to happen; to be (“hona chaahiye” = should take place)"
+    ],
+    "چاہیے": [
+      "chaahiye",
+      "should; ought to"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; i.e."
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslim"
+    ],
+    "پاگل": [
+      "paagal",
+      "mad; lunatic (“paagal khaana” = lunatic asylum)"
+    ],
+    "خانوں": [
+      "khaanon",
+      "houses (oblique pl.; “paagal khaanon” = lunatic asylums)"
+    ],
+    "انھیں": [
+      "unhen",
+      "them"
+    ],
+    "پہنچا": [
+      "pahuncha",
+      "delivered (“pahuncha diya jaaye” = should be delivered)"
+    ],
+    "جائے": [
+      "jaaye",
+      "(passive, subjunctive: “diya jaaye” = should be given/sent)"
+    ],
+    "ہندو": [
+      "hindu",
+      "Hindu(s)"
+    ],
+    "سکھ": [
+      "sikh",
+      "Sikh(s)"
+    ],
+    "حوالے": [
+      "hawaale",
+      "custody; charge (“ke hawaale karna” = to hand over to)"
+    ],
+    "کردیا": [
+      "kar diya",
+      "done (“hawaale kar diya jaaye” = should be handed over; “rawaana kar diya gaya” = were sent off)"
+    ],
+    "معلوم": [
+      "maaloom",
+      "known (“maaloom nahin” = who knows)"
+    ],
+    "معقول": [
+      "maaqool",
+      "reasonable; sensible"
+    ],
+    "یا": [
+      "ya",
+      "or"
+    ],
+    "غیر": [
+      "ghair",
+      "un-; not (“ghair maaqool” = unreasonable)"
+    ],
+    "بہر": [
+      "bahar",
+      "(“bahar haal” = in any case)"
+    ],
+    "حال": [
+      "haal",
+      "state (“bahar haal” = in any case)"
+    ],
+    "دانش": [
+      "daanish",
+      "wisdom (“daanish mand” = wise person)"
+    ],
+    "مندوں": [
+      "mandon",
+      "possessing (oblique pl.; “daanish mandon” = the wise men)"
+    ],
+    "فیصلے": [
+      "faisle",
+      "decision (oblique)"
+    ],
+    "مطابق": [
+      "mutaabiq",
+      "in accordance (“ke mutaabiq” = according to)"
+    ],
+    "ادھر": [
+      "idhar / udhar",
+      "here / there (“idhar udhar” = on both sides)"
+    ],
+    "اونچی": [
+      "oonchi",
+      "high (f.)"
+    ],
+    "سطح": [
+      "satah",
+      "level"
+    ],
+    "کانفرنسیں": [
+      "kaanfransen",
+      "conferences"
+    ],
+    "ہوئیں": [
+      "huin",
+      "took place (f. pl.)"
+    ],
+    "بالآخر": [
+      "bil-aakhir",
+      "finally; at last"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "تبادلے": [
+      "tabaadle",
+      "exchange (oblique)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for; “isi liye” = that is why)"
+    ],
+    "مقرر": [
+      "muqarrar",
+      "fixed; appointed"
+    ],
+    "اچھی": [
+      "achchhi",
+      "good (f.; “achchhi tarah” = thoroughly)"
+    ],
+    "چھان": [
+      "chhaan",
+      "sifting (“chhaan been” = careful investigation)"
+    ],
+    "بین": [
+      "been",
+      "(in “chhaan been” = careful investigation, scrutiny)"
+    ],
+    "لواحقین": [
+      "lawaahiqeen",
+      "relatives; dependants"
+    ],
+    "وہیں": [
+      "waheen",
+      "right there"
+    ],
+    "رہنے": [
+      "rehne",
+      "to stay (oblique; “rehne diye gaye” = were allowed to stay)"
+    ],
+    "دیے": [
+      "diye",
+      "given; allowed (pl.; “rehne diye gaye” = were allowed to stay; “pahuncha diye gaye” = were delivered)"
+    ],
+    "سرحد": [
+      "sarhad",
+      "border; frontier"
+    ],
+    "روانہ": [
+      "rawaana",
+      "dispatched (“rawaana karna” = to send off)"
+    ],
+    "یہاں": [
+      "yahaan",
+      "here"
+    ],
+    "چونکہ": [
+      "chunke",
+      "since; because"
+    ],
+    "قریب": [
+      "qareeb",
+      "near (“qareeb qareeb” = almost)"
+    ],
+    "تمام": [
+      "tamaam",
+      "all"
+    ],
+    "جا": [
+      "ja",
+      "go (“ja chuke the” = had already gone)"
+    ],
+    "چکے": [
+      "chuke",
+      "already (completed; “ja chuke the” = had already left)"
+    ],
+    "اسی": [
+      "isi",
+      "this very (“isi liye” = for this very reason)"
+    ],
+    "رکھنے": [
+      "rakhne",
+      "keeping (oblique)"
+    ],
+    "رکھانے": [
+      "rakhaane",
+      "(echo word: “rakhne rakhaane” = keeping, retaining)"
+    ],
+    "سوال": [
+      "sawaal",
+      "question"
+    ],
+    "پیدا": [
+      "paida",
+      "arising (“paida hona” = to arise)"
+    ],
+    "ہوا": [
+      "hua",
+      "happened (“na paida hua” = did not arise)"
+    ],
+    "جتنے": [
+      "jitne",
+      "as many as (“jitne … the” = all those who were)"
+    ],
+    "پولیس": [
+      "polees",
+      "police"
+    ],
+    "حفاظت": [
+      "hifaazat",
+      "protection; guard"
+    ],
+    "بارڈر": [
+      "baarḍar",
+      "border (English loanword)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "دونوں حکومتوں نے کس چیز کا فیصلہ کیا؟",
+      "english": "What did the two governments decide?",
+      "options": [
+        {
+          "urdu": "پاگلوں کا تبادلہ کرنا",
+          "english": "To exchange lunatics"
+        },
+        {
+          "urdu": "نئے پاگل خانے بنانا",
+          "english": "To build new asylums"
+        },
+        {
+          "urdu": "سب قیدیوں کو آزاد کرنا",
+          "english": "To free all prisoners"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "کن مسلمان پاگلوں کو ہندوستان ہی میں رہنے دیا گیا؟",
+      "english": "Which Muslim lunatics were allowed to stay in India?",
+      "options": [
+        {
+          "urdu": "جو بہت بیمار تھے",
+          "english": "Those who were very ill"
+        },
+        {
+          "urdu": "جن کے رشتہ دار ہندوستان میں تھے",
+          "english": "Those whose relatives were in India"
+        },
+        {
+          "urdu": "جو خطرناک تھے",
+          "english": "Those who were dangerous"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "پاکستان میں کسی کو رکھنے کا سوال کیوں پیدا نہیں ہوا؟",
+      "english": "Why did the question of keeping anyone not arise in Pakistan?",
+      "options": [
+        {
+          "urdu": "کیونکہ پولیس نے منع کر دیا تھا",
+          "english": "Because the police had forbidden it"
+        },
+        {
+          "urdu": "کیونکہ پاگل خانہ بند ہو گیا تھا",
+          "english": "Because the asylum had closed"
+        },
+        {
+          "urdu": "کیونکہ تقریباً تمام ہندو اور سکھ جا چکے تھے",
+          "english": "Because nearly all Hindus and Sikhs had already left"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "id": "poem-jaun-naya-ik-rishta",
+  "title": {
+    "urdu": "نیا اک رشتہ پیدا کیوں کریں ہم",
+    "english": "Why Should We Start a New Bond?"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "source": {
+    "name": "Rekhta: نیا اک رشتہ پیدا کیوں کریں ہم",
+    "url": "https://www.rekhta.org/ghazals/nayaa-ik-rishta-paidaa-kyuun-karen-ham-jaun-eliya-ghazals?lang=ur",
+    "author": "Jaun Elia",
+    "license": "Personal use only"
+  },
+  "intro": "Jaun Elia’s “Naya ik rishta paida kyun karen hum” turns a break-up into a series of cool, ironic questions — why quarrel, why make promises, why keep them? Every couplet ends with the refrain “kyun karen hum” (why should we…). Rekhta has a video of Jaun Elia reciting it. These are the opening eight of its sixteen couplets.",
+  "sentences": [
+    {
+      "urdu": "نیا اک رشتہ پیدا کیوں کریں ہم",
+      "english": "Why should we start a new relationship?",
+      "verse": true
+    },
+    {
+      "urdu": "بچھڑنا ہے تو جھگڑا کیوں کریں ہم",
+      "english": "If we must part, why should we quarrel?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ جب ہمیں آخر جدا ہی ہونا ہے تو نیا رشتہ کیوں بنائیں اور لڑائی جھگڑا کیوں کریں۔",
+        "english": "Since we must part in the end anyway, why form a new bond — and why quarrel?"
+      }
+    },
+    {
+      "urdu": "خموشی سے ادا ہو رسم دوری",
+      "english": "Let the ritual of parting be performed in silence;",
+      "verse": true
+    },
+    {
+      "urdu": "کوئی ہنگامہ برپا کیوں کریں ہم",
+      "english": "why should we raise a commotion?",
+      "verse": true,
+      "explanation": {
+        "urdu": "جدائی کی رسم خاموشی سے پوری ہو جائے، شور شرابا اور تماشا کرنے کی کوئی ضرورت نہیں۔",
+        "english": "Let the ritual of separation be completed quietly; there is no need to make a scene."
+      }
+    },
+    {
+      "urdu": "یہ کافی ہے کہ ہم دشمن نہیں ہیں",
+      "english": "It is enough that we are not enemies;",
+      "verse": true
+    },
+    {
+      "urdu": "وفا داری کا دعویٰ کیوں کریں ہم",
+      "english": "why should we claim to have been faithful?",
+      "verse": true,
+      "explanation": {
+        "urdu": "اتنا ہی کافی ہے کہ ہم ایک دوسرے کے دشمن نہیں۔ وفادار ہونے کا دعویٰ کرنے کی ضرورت نہیں۔",
+        "english": "It is enough that we are not enemies; there is no need to claim we have been faithful."
+      }
+    },
+    {
+      "urdu": "وفا اخلاص قربانی محبت",
+      "english": "Faithfulness, sincerity, sacrifice, love —",
+      "verse": true
+    },
+    {
+      "urdu": "اب ان لفظوں کا پیچھا کیوں کریں ہم",
+      "english": "why should we chase these words any longer?",
+      "verse": true,
+      "explanation": {
+        "urdu": "وفا، خلوص، قربانی اور محبت اب صرف خالی لفظ رہ گئے ہیں۔ شاعر کہتا ہے کہ ہم ان لفظوں کے پیچھے کیوں بھاگیں۔",
+        "english": "Loyalty, sincerity, sacrifice and love have become empty words; why chase after them now?"
+      }
+    },
+    {
+      "urdu": "سنا دیں عصمت مریم کا قصہ",
+      "english": "We could tell the story of Mary’s chastity,",
+      "verse": true
+    },
+    {
+      "urdu": "پر اب اس باب کو وا کیوں کریں ہم",
+      "english": "but why should we open that chapter now?",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم اپنی پاک دامنی کا قصہ سنا سکتے ہیں، جیسے حضرت مریم کی پاک دامنی کا قصہ مشہور ہے، مگر اب اس پرانی بات کو کھولنے کا کیا فائدہ۔",
+        "english": "We could protest our own innocence with a story as famous as the tale of Mary’s chastity — but what use is reopening that chapter now?"
+      }
+    },
+    {
+      "urdu": "زلیخائے عزیزاں بات یہ ہے",
+      "english": "O Zulaikha among my dear ones, the point is this:",
+      "verse": true
+    },
+    {
+      "urdu": "بھلا گھاٹے کا سودا کیوں کریں ہم",
+      "english": "why on earth should we strike a losing bargain?",
+      "verse": true,
+      "explanation": {
+        "urdu": "زلیخا، عزیزِ مصر کی بیوی، حضرت یوسف پر عاشق تھی، اور یوسف کو مصر کے بازار میں بیچا گیا تھا۔ شاعر محبوب کو زلیخا کہہ کر کہتا ہے کہ ہم ایسا سودا کیوں کریں جس میں صرف گھاٹا ہو۔",
+        "english": "Zulaikha, the wife of the Aziz (ruler) of Egypt, desired Joseph, who had been sold in the slave market of Egypt. Calling the beloved a Zulaikha, the poet asks why he should agree to a bargain in which he only loses."
+      }
+    },
+    {
+      "urdu": "ہماری ہی تمنا کیوں کرو تم",
+      "english": "Why should you long for me alone?",
+      "verse": true
+    },
+    {
+      "urdu": "تمہاری ہی تمنا کیوں کریں ہم",
+      "english": "Why should I long for you alone?",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم ایک دوسرے کو ہی کیوں چاہیں؟ نہ تم صرف مجھے چاہو، نہ میں صرف تمہیں۔ یہ محبت کی پرانی روایت پر طنز ہے۔",
+        "english": "Why should we desire only each other? You need not long for me alone, nor I for you alone — an ironic jab at the old conventions of love."
+      }
+    },
+    {
+      "urdu": "کیا تھا عہد جب لمحوں میں ہم نے",
+      "english": "When we made our vow in a matter of moments,",
+      "verse": true
+    },
+    {
+      "urdu": "تو ساری عمر ایفا کیوں کریں ہم",
+      "english": "why should we spend our whole lives keeping it?",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم نے وعدہ تو چند لمحوں میں کر لیا تھا، تو اسے نبھانے میں پوری زندگی کیوں لگا دیں؟",
+        "english": "We made our promise in a few moments — so why should we spend our whole lives keeping it?"
+      }
+    }
+  ],
+  "glossary": {
+    "نیا": [
+      "naya",
+      "new"
+    ],
+    "اک": [
+      "ik",
+      "a; one (short form of “ek”)"
+    ],
+    "رشتہ": [
+      "rishta",
+      "relationship; bond"
+    ],
+    "پیدا": [
+      "paida",
+      "created (“paida karna” = to create, form)"
+    ],
+    "کریں": [
+      "karen",
+      "(should we) do (“kyun karen hum” = why should we …)"
+    ],
+    "ہم": [
+      "hum",
+      "we; I (“hum ne” = we)"
+    ],
+    "بچھڑنا": [
+      "bichharna",
+      "to part; to be separated (“bichharna hai” = we must part)"
+    ],
+    "تو": [
+      "to",
+      "then; so"
+    ],
+    "جھگڑا": [
+      "jhagra",
+      "quarrel"
+    ],
+    "خموشی": [
+      "khamoshi",
+      "silence (poetic spelling of “khaamoshi”)"
+    ],
+    "ادا": [
+      "ada",
+      "performed; fulfilled (“ada ho” = let it be performed)"
+    ],
+    "ہو": [
+      "ho",
+      "be (“ada ho” = may it be done)"
+    ],
+    "رسم": [
+      "rasm(-e)",
+      "custom; ritual (“rasm-e-doori” = the ritual of parting)"
+    ],
+    "دوری": [
+      "doori",
+      "distance; separation"
+    ],
+    "ہنگامہ": [
+      "hangaama",
+      "commotion; scene"
+    ],
+    "برپا": [
+      "barpa",
+      "raised; stirred up (“barpa karna” = to raise a commotion)"
+    ],
+    "کافی": [
+      "kaafi",
+      "enough"
+    ],
+    "دشمن": [
+      "dushman",
+      "enemies"
+    ],
+    "وفا": [
+      "wafa",
+      "faithfulness; loyalty (“wafa-daari” = being faithful)"
+    ],
+    "داری": [
+      "daari",
+      "keeping; -ness (“wafa-daari” = faithfulness)"
+    ],
+    "دعویٰ": [
+      "daawa",
+      "claim"
+    ],
+    "اخلاص": [
+      "ikhlaas",
+      "sincerity"
+    ],
+    "قربانی": [
+      "qurbaani",
+      "sacrifice"
+    ],
+    "محبت": [
+      "mohabbat",
+      "love"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "ان": [
+      "in",
+      "these (oblique)"
+    ],
+    "لفظوں": [
+      "lafzon",
+      "words (pl. oblique)"
+    ],
+    "پیچھا": [
+      "peechha",
+      "chase; pursuit (“peechha karna” = to chase)"
+    ],
+    "سنا": [
+      "suna",
+      "tell; recite (“suna den” = we could tell)"
+    ],
+    "دیں": [
+      "den",
+      "(could) give (“suna den” = we could tell)"
+    ],
+    "عصمت": [
+      "ismat(-e)",
+      "chastity; purity (“ismat-e-maryam” = Mary’s chastity)"
+    ],
+    "مریم": [
+      "maryam",
+      "Mary (mother of Jesus)"
+    ],
+    "قصہ": [
+      "qissa",
+      "story; tale"
+    ],
+    "پر": [
+      "par",
+      "but"
+    ],
+    "اس": [
+      "is",
+      "this (oblique)"
+    ],
+    "باب": [
+      "baab",
+      "chapter; door"
+    ],
+    "وا": [
+      "wa",
+      "open (“wa karna” = to open)"
+    ],
+    "زلیخائے": [
+      "zulaikha-e",
+      "Zulaikha of … (wife of the Aziz of Egypt, who desired Joseph)"
+    ],
+    "عزیزاں": [
+      "azeezaan",
+      "dear ones; also echoes “Aziz”, the ruler of Egypt (“zulaikha-e-azeezaan” = O Zulaikha among my dear ones)"
+    ],
+    "بات": [
+      "baat",
+      "thing; point (“baat yeh hai” = the point is)"
+    ],
+    "بھلا": [
+      "bhala",
+      "(in questions) why on earth; really"
+    ],
+    "گھاٹے": [
+      "ghaate",
+      "loss (oblique) (“ghaate ka sauda” = a losing deal)"
+    ],
+    "سودا": [
+      "sauda",
+      "deal; bargain"
+    ],
+    "ہماری": [
+      "hamaari",
+      "our; me (“hamaari hi tamanna” = longing for me alone)"
+    ],
+    "ہی": [
+      "hi",
+      "only; alone"
+    ],
+    "تمنا": [
+      "tamanna",
+      "longing; desire (“X ki tamanna karna” = to long for X)"
+    ],
+    "کرو": [
+      "karo",
+      "(should you) do (“kyun karo tum” = why should you)"
+    ],
+    "تم": [
+      "tum",
+      "you"
+    ],
+    "تمہاری": [
+      "tumhaari",
+      "your; you (“tumhaari hi tamanna” = longing for you alone)"
+    ],
+    "کیا": [
+      "kiya",
+      "did; made (“kiya tha ahd” = had made a vow)"
+    ],
+    "عہد": [
+      "ahd",
+      "vow; pledge"
+    ],
+    "لمحوں": [
+      "lamhon",
+      "moments (pl. oblique) (“lamhon mein” = in mere moments)"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "ساری": [
+      "saari",
+      "whole; entire"
+    ],
+    "عمر": [
+      "umr",
+      "life; lifetime"
+    ],
+    "ایفا": [
+      "eefa",
+      "fulfilment of a promise (“eefa karna” = to keep a promise)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر جدائی کیسے چاہتا ہے؟",
+      "english": "How does the poet want the parting to happen?",
+      "options": [
+        {
+          "urdu": "خاموشی سے، بغیر کسی جھگڑے یا ہنگامے کے",
+          "english": "quietly, without any quarrel or scene"
+        },
+        {
+          "urdu": "سب کے سامنے لڑائی کر کے",
+          "english": "with a fight in front of everyone"
+        },
+        {
+          "urdu": "عدالت میں جا کر",
+          "english": "by going to court"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر کے مطابق کیا بات کافی ہے؟",
+      "english": "According to the poet, what is enough?",
+      "options": [
+        {
+          "urdu": "کہ دونوں ایک دوسرے سے بہت محبت کرتے ہیں",
+          "english": "that they love each other very much"
+        },
+        {
+          "urdu": "کہ دونوں روز ملتے ہیں",
+          "english": "that they meet every day"
+        },
+        {
+          "urdu": "کہ دونوں ایک دوسرے کے دشمن نہیں ہیں",
+          "english": "that they are not enemies"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "آخری شعر میں شاعر وعدے کے بارے میں کیا کہتا ہے؟",
+      "english": "What does the poet say about the vow in the last couplet?",
+      "options": [
+        {
+          "urdu": "کہ وعدہ ہمیشہ نبھانا چاہیے",
+          "english": "that a vow must always be kept"
+        },
+        {
+          "urdu": "کہ وعدہ چند لمحوں میں کیا تھا، تو اسے ساری عمر کیوں نبھائیں",
+          "english": "that it was made in a few moments, so why keep it for a lifetime"
+        },
+        {
+          "urdu": "کہ وعدہ کبھی کیا ہی نہیں تھا",
+          "english": "that no vow was ever made"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "poem-ghalib-koi-ummeed",
+  "title": {
+    "urdu": "کوئی امید بر نہیں آتی",
+    "english": "No Hope Is Fulfilled"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["philosophy", "ghazal"],
+  "source": {
+    "name": "Urdu Wikisource: کوئی امید بر نہیں آتی (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%DA%A9%D9%88%D8%A6%DB%8C_%D8%A7%D9%85%DB%8C%D8%AF_%D8%A8%D8%B1_%D9%86%DB%81%DB%8C%DA%BA_%D8%A2%D8%AA%DB%8C",
+    "author": "Mirza Ghalib",
+    "license": "Public domain"
+  },
+  "intro": "One of Mirza Ghalib's best-known ghazals, about hopelessness, sleepless nights and a heart too sad even to laugh at itself. These are the opening five of its ten couplets.",
+  "sentences": [
+    {
+      "urdu": "کوئی امّید بر نہیں آتی",
+      "english": "No hope is fulfilled;",
+      "verse": true
+    },
+    {
+      "urdu": "کوئی صورت نظر نہیں آتی",
+      "english": "no way out can be seen.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ میری کوئی امید پوری نہیں ہوتی۔ مشکل سے نکلنے کا کوئی راستہ بھی دکھائی نہیں دیتا۔",
+        "english": "The poet says none of his hopes come true, and he can see no way out of his trouble."
+      }
+    },
+    {
+      "urdu": "موت کا ایک دن معین ہے",
+      "english": "The day of death is fixed;",
+      "verse": true
+    },
+    {
+      "urdu": "نیند کیوں رات بھر نہیں آتی؟",
+      "english": "why, then, does sleep not come all night long?",
+      "verse": true,
+      "explanation": {
+        "urdu": "موت کا دن تو پہلے سے طے ہے، اس لیے اس کی فکر بےکار ہے۔ پھر بھی پریشانی اتنی ہے کہ رات بھر نیند نہیں آتی۔",
+        "english": "The day of death is already decided, so worrying about it is useless. Yet his anxiety is so great that he cannot sleep all night."
+      }
+    },
+    {
+      "urdu": "آگے آتی تھی حال دل پہ ہنسی",
+      "english": "Once I used to laugh at the state of my heart;",
+      "verse": true
+    },
+    {
+      "urdu": "اب کسی بات پر نہیں آتی",
+      "english": "now nothing at all makes me laugh.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پہلے شاعر اپنے دکھی دل کے حال پر ہنس لیتا تھا۔ اب غم اتنا بڑھ گیا ہے کہ کسی بات پر بھی ہنسی نہیں آتی۔",
+        "english": "Earlier the poet could laugh at the sorry state of his heart. Now his grief has grown so much that nothing makes him laugh."
+      }
+    },
+    {
+      "urdu": "جانتا ہوں ثوابِ طاعت و زہد",
+      "english": "I know the reward of obedience and piety,",
+      "verse": true
+    },
+    {
+      "urdu": "پر طبعیت ادھر نہیں آتی",
+      "english": "but my heart is not drawn that way.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر جانتا ہے کہ عبادت اور پرہیزگاری کا بڑا ثواب ہے۔ مگر اس کا دل ان کاموں کی طرف نہیں جاتا۔",
+        "english": "The poet knows that worship and self-denial bring great reward, but his heart is not inclined towards them."
+      }
+    },
+    {
+      "urdu": "ہے کچھ ایسی ہی بات جو چپ ہوں",
+      "english": "There is some reason of this kind that I am silent;",
+      "verse": true
+    },
+    {
+      "urdu": "ورنہ کیا بات کر نہیں آتی",
+      "english": "otherwise, is it that I don't know how to talk?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ میری خاموشی کی کوئی خاص وجہ ہے۔ ایسا نہیں کہ مجھے بات کرنا نہیں آتا۔",
+        "english": "The poet says there is a particular reason for his silence; it is not that he does not know how to speak."
+      }
+    }
+  ],
+  "glossary": {
+    "کوئی": [
+      "koi",
+      "any (“koi … nahin” = no …)"
+    ],
+    "امّید": [
+      "ummeed",
+      "hope"
+    ],
+    "بر": [
+      "bar",
+      "fulfilled (“bar aana” = to be fulfilled)"
+    ],
+    "آتی": [
+      "aati",
+      "comes (f.); “bar aati” = is fulfilled, “nazar aati” = is seen, “baat kar(ni) aati” = know how to talk"
+    ],
+    "صورت": [
+      "soorat",
+      "way; means; way out"
+    ],
+    "نظر": [
+      "nazar",
+      "sight (“nazar aana” = to be seen)"
+    ],
+    "موت": [
+      "maut",
+      "death"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "معین": [
+      "muayyan",
+      "fixed; appointed"
+    ],
+    "نیند": [
+      "neend",
+      "sleep"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "بھر": [
+      "bhar",
+      "throughout (“raat bhar” = all night long)"
+    ],
+    "آگے": [
+      "aage",
+      "earlier; in the past"
+    ],
+    "حال": [
+      "haal",
+      "state; condition (“haal-e-dil” = state of the heart)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "پہ": [
+      "pe",
+      "on; at (poetic form of “par”)"
+    ],
+    "ہنسی": [
+      "hansi",
+      "laughter"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "بات": [
+      "baat",
+      "thing; matter; talk (“baat karna” = to talk)"
+    ],
+    "پر": [
+      "par",
+      "on, at (“kisi baat par” = at anything) / but (“par” = magar)"
+    ],
+    "جانتا": [
+      "jaanta",
+      "know (m.)"
+    ],
+    "ثوابِ": [
+      "sawaab-e",
+      "reward for good deeds (of …)"
+    ],
+    "طاعت": [
+      "taa-at",
+      "obedience (to God); worship"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "زہد": [
+      "zuhd",
+      "piety; self-denial"
+    ],
+    "طبعیت": [
+      "tabiyat",
+      "temperament; inclination (spelled so on the source; standard spelling طبیعت)"
+    ],
+    "ادھر": [
+      "udhar",
+      "that way; towards that"
+    ],
+    "جو": [
+      "jo",
+      "that; because of which (“jo chup hoon” = that I am silent)"
+    ],
+    "چپ": [
+      "chup",
+      "silent"
+    ],
+    "کیا": [
+      "kya",
+      "what; (question marker: “kya … nahin aati?” = is it that … not?)"
+    ],
+    "کر": [
+      "kar",
+      "do (older idiom: “baat kar nahin aati” = don’t know how to talk)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کے مطابق موت کا دن…",
+      "english": "According to the poet, the day of death…",
+      "options": [
+        {
+          "urdu": "پہلے سے طے ہے، پھر بھی اسے رات بھر نیند نہیں آتی",
+          "english": "is already fixed, yet he cannot sleep all night"
+        },
+        {
+          "urdu": "بہت دور ہے، اس لیے وہ آرام سے سوتا ہے",
+          "english": "is far away, so he sleeps peacefully"
+        },
+        {
+          "urdu": "کبھی نہیں آئے گا",
+          "english": "will never come"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "پہلے شاعر اپنے دل کے حال پر کیا کرتا تھا؟",
+      "english": "What did the poet use to do about the state of his heart?",
+      "options": [
+        {
+          "urdu": "روتا تھا",
+          "english": "he used to cry"
+        },
+        {
+          "urdu": "ہنستا تھا",
+          "english": "he used to laugh"
+        },
+        {
+          "urdu": "گیت گاتا تھا",
+          "english": "he used to sing songs"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعر عبادت کا ثواب جانتا ہے، مگر…",
+      "english": "The poet knows the reward of worship, but…",
+      "options": [
+        {
+          "urdu": "اس کے پاس وقت نہیں",
+          "english": "he has no time"
+        },
+        {
+          "urdu": "وہ ثواب کو نہیں مانتا",
+          "english": "he does not believe in reward"
+        },
+        {
+          "urdu": "اس کا دل اس طرف نہیں جاتا",
+          "english": "his heart is not drawn to it"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "شاعر چپ کیوں ہے؟",
+      "english": "Why is the poet silent?",
+      "options": [
+        {
+          "urdu": "اسے بات کرنا نہیں آتا",
+          "english": "he does not know how to talk"
+        },
+        {
+          "urdu": "اس کی کوئی خاص وجہ ہے",
+          "english": "there is a particular reason"
+        },
+        {
+          "urdu": "وہ بیمار ہے",
+          "english": "he is ill"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

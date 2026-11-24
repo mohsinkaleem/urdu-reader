@@ -1,0 +1,638 @@
+{
+  "id": "poem-iqbal-parinde-ki-faryad",
+  "title": {
+    "urdu": "پرندے کی فریاد",
+    "english": "A Bird’s Lament"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["children", "nature", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: پر ندے کی فریاد (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D9%BE%D8%B1_%D9%86%D8%AF%DB%92_%DA%A9%DB%8C_%D9%81%D8%B1%DB%8C%D8%A7%D8%AF",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "From the first part of Iqbal’s Bang-e-Dara (1924), among the poems he wrote for children. A caged bird remembers its free life in the garden and begs to be released. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "آتا ہے یاد مجھ کو گزرا ہوا زمانا",
+      "english": "I remember the days gone by:",
+      "verse": true
+    },
+    {
+      "urdu": "وہ باغ کی بہاریں، وہ سب کا چہچہانا",
+      "english": "those springtimes in the garden, everyone’s chirping;",
+      "verse": true,
+      "explanation": {
+        "urdu": "قید میں بند پرندے کو گزرا ہوا زمانہ یاد آتا ہے، جب وہ باغ میں بہار کے دن گزارتا تھا اور ہر طرف پرندے چہچہاتے تھے۔",
+        "english": "The caged bird remembers its past: springtime in the garden, and all the birds chirping together."
+      }
+    },
+    {
+      "urdu": "آزادیاں کہاں وہ اب اپنے گھونسلے کی",
+      "english": "where now are those freedoms of my own nest —",
+      "verse": true
+    },
+    {
+      "urdu": "اپنی خوشی سے آنا، اپنی خوشی سے جانا",
+      "english": "coming as I pleased, going as I pleased?",
+      "verse": true,
+      "explanation": {
+        "urdu": "اب اس کی وہ آزادی ختم ہو گئی جب وہ اپنی مرضی سے گھونسلے میں آتا جاتا تھا۔",
+        "english": "Gone is the freedom of its own nest, when it could come and go as it pleased."
+      }
+    },
+    {
+      "urdu": "لگتی ہے چوٹ دل پر، آتا ہے یاد جس دم",
+      "english": "My heart is wounded whenever I remember",
+      "verse": true
+    },
+    {
+      "urdu": "شبنم کے آنسوؤں پر کلیوں کا مُسکرانا",
+      "english": "the buds smiling at the tears of the dew;",
+      "verse": true,
+      "explanation": {
+        "urdu": "جب اسے یاد آتا ہے کہ صبح شبنم کے قطروں میں کلیاں کیسے کھلتی تھیں تو اس کے دل کو چوٹ لگتی ہے۔",
+        "english": "It hurts to remember the buds opening (“smiling”) among drops of dew, which look like tears — a favourite image in Urdu poetry."
+      }
+    },
+    {
+      "urdu": "وہ پیاری پیاری صورت، وہ کامنی سی مورت",
+      "english": "that lovely, lovely face, that delicate, graceful figure",
+      "verse": true
+    },
+    {
+      "urdu": "آباد جس کے دم سے تھا میرا آشیانا",
+      "english": "who filled my nest with life.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پرندے کو اپنی پیاری ساتھی یاد آتی ہے جس کی وجہ سے اس کا گھونسلا آباد تھا۔",
+        "english": "The bird remembers its beloved mate, whose lovely presence made its nest a home."
+      }
+    },
+    {
+      "urdu": "آتی نہیں صدائیں اُس کی مرے قفس میں",
+      "english": "Her voice does not reach my cage;",
+      "verse": true
+    },
+    {
+      "urdu": "ہوتی مری رہائی اے کاش میرے بس میں!",
+      "english": "if only my release were in my power!",
+      "verse": true,
+      "explanation": {
+        "urdu": "اب پنجرے میں اس کی آواز بھی نہیں آتی۔ پرندہ کہتا ہے کاش رہائی میرے اختیار میں ہوتی۔",
+        "english": "Now not even her voice reaches the cage. The bird wishes its freedom were in its own hands."
+      }
+    },
+    {
+      "urdu": "کیا بد نصیب ہوں مَیں گھر کو ترس رہا ہوں",
+      "english": "How unlucky I am — I am longing for home;",
+      "verse": true
+    },
+    {
+      "urdu": "ساتھی تو ہیں وطن میں، مَیں قید میں پڑا ہوں",
+      "english": "my companions are in the homeland, while I lie in captivity.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پرندہ کہتا ہے کہ میں بدقسمت ہوں، گھر کو ترس رہا ہوں۔ میرے ساتھی آزاد ہیں اور میں قید میں ہوں۔",
+        "english": "It calls itself unlucky: it longs for home, while its companions are free and it is a prisoner."
+      }
+    },
+    {
+      "urdu": "آئی بہار، کلیاں پھُولوں کی ہنس رہی ہیں",
+      "english": "Spring has come, the buds of the flowers are laughing;",
+      "verse": true
+    },
+    {
+      "urdu": "مَیں اس اندھیرے گھر میں قسمت کو رو رہا ہوں",
+      "english": "and I, in this dark house, am weeping over my fate.",
+      "verse": true,
+      "explanation": {
+        "urdu": "باہر بہار آئی ہے اور کلیاں کھل رہی ہیں، مگر میں اس اندھیرے پنجرے میں اپنی قسمت پر رو رہا ہوں۔",
+        "english": "Outside, spring has come and the buds are blooming (“laughing”), but inside the dark cage the bird weeps over its fate."
+      }
+    },
+    {
+      "urdu": "اس قید کا الٰہی! دُکھڑا کسے سُناؤں",
+      "english": "O God! To whom shall I tell the sorrow of this captivity?",
+      "verse": true
+    },
+    {
+      "urdu": "ڈر ہے یہیں قفسں میں مَیں غم سے مر نہ جاؤں",
+      "english": "I fear I may die of grief right here in this cage.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پرندہ اللہ سے کہتا ہے کہ میں اپنا دکھ کسے سناؤں؟ ڈر ہے کہ اسی پنجرے میں غم سے مر جاؤں گا۔",
+        "english": "It asks God whom it can tell its sorrow to, and fears it may die of grief in the cage."
+      }
+    },
+    {
+      "urdu": "جب سے چمن چھُٹا ہے، یہ حال ہو گیا ہے",
+      "english": "Ever since I lost the garden, this is the state I am in:",
+      "verse": true
+    },
+    {
+      "urdu": "دل غم کو کھا رہا ہے، غم دل کو کھا رہا ہے",
+      "english": "my heart is swallowing its grief, and grief is eating away my heart.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جب سے باغ چھوٹا ہے، پرندہ غم میں ڈوبا ہوا ہے۔ وہ غم کو برداشت کر رہا ہے اور غم اسے اندر سے کھا رہا ہے۔",
+        "english": "Since it lost the garden it is consumed by grief: it silently swallows its sorrow (“gham khaana”), and the sorrow eats away at its heart."
+      }
+    },
+    {
+      "urdu": "گانا اسے سمجھ کر خوش ہوں نہ سُننے والے",
+      "english": "Let the listeners not be pleased, taking this for singing;",
+      "verse": true
+    },
+    {
+      "urdu": "دُکھّے ہوئے دلوں کی فریاد یہ صدا ہے",
+      "english": "this sound is the cry of aching hearts.",
+      "verse": true,
+      "explanation": {
+        "urdu": "لوگ اس کی آواز کو گانا سمجھ کر خوش ہوتے ہیں، مگر یہ گانا نہیں بلکہ دکھی دل کی فریاد ہے۔",
+        "english": "People enjoy its voice, thinking it is singing — but it is really the cry of a broken heart."
+      }
+    },
+    {
+      "urdu": "آزاد مجھ کو کر دے، او قید کرنے والے!",
+      "english": "Set me free, O you who caged me!",
+      "verse": true
+    },
+    {
+      "urdu": "مَیں بے زباں ہوں قیدی، تو چھوڑ کر دُعا لے",
+      "english": "I am a voiceless prisoner; let me go, and earn my blessing.",
+      "verse": true,
+      "explanation": {
+        "urdu": "آخر میں پرندہ قید کرنے والے سے کہتا ہے کہ مجھے آزاد کر دو۔ میں بے زبان ہوں، مجھے چھوڑ کر میری دعا لو۔",
+        "english": "Finally the bird pleads with its captor: set me free. I am a voiceless creature — release me and earn my blessing."
+      }
+    }
+  ],
+  "glossary": {
+    "آتا": [
+      "aata",
+      "comes (“yaad aata hai” = I remember)"
+    ],
+    "یاد": [
+      "yaad",
+      "memory (“yaad aana” = to be remembered)"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh ko” = to me)"
+    ],
+    "گزرا": [
+      "guzra",
+      "passed (“guzra hua” = gone by)"
+    ],
+    "ہوا": [
+      "hua",
+      "(“guzra hua” = gone by)"
+    ],
+    "زمانا": [
+      "zamaana",
+      "time; days (spelled “zamaana”)"
+    ],
+    "باغ": [
+      "baagh",
+      "garden"
+    ],
+    "بہاریں": [
+      "bahaaren",
+      "springtimes; blossoms (pl.)"
+    ],
+    "چہچہانا": [
+      "chehchahaana",
+      "chirping; twittering"
+    ],
+    "آزادیاں": [
+      "aazaadiyaan",
+      "freedoms (pl.)"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "گھونسلے": [
+      "ghonsle",
+      "nest (oblique)"
+    ],
+    "خوشی": [
+      "khushi",
+      "pleasure; happiness (“apni khushi se” = as one pleases)"
+    ],
+    "آنا": [
+      "aana",
+      "coming; to come"
+    ],
+    "جانا": [
+      "jaana",
+      "going; to go"
+    ],
+    "لگتی": [
+      "lagti",
+      "strikes (f.) (“choṭ lagna” = to be hurt)"
+    ],
+    "چوٹ": [
+      "choṭ",
+      "blow; wound"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "جس": [
+      "jis",
+      "which; whose (“jis dam” = the moment that; “jis ke” = whose)"
+    ],
+    "دم": [
+      "dam",
+      "moment; breath (“jis dam” = whenever; “jis ke dam se” = thanks to whom)"
+    ],
+    "شبنم": [
+      "shabnam",
+      "dew"
+    ],
+    "آنسوؤں": [
+      "aansuon",
+      "tears (pl. oblique)"
+    ],
+    "کلیوں": [
+      "kaliyon",
+      "buds (pl. oblique)"
+    ],
+    "مسکرانا": [
+      "muskuraana",
+      "smiling"
+    ],
+    "پیاری": [
+      "pyaari",
+      "lovely; dear (f.)"
+    ],
+    "صورت": [
+      "soorat",
+      "face; form"
+    ],
+    "کامنی": [
+      "kaamni",
+      "delicate; graceful; lovely"
+    ],
+    "سی": [
+      "si",
+      "like; -ish"
+    ],
+    "مورت": [
+      "moorat",
+      "figure; image"
+    ],
+    "آباد": [
+      "aabaad",
+      "full of life; inhabited"
+    ],
+    "میرا": [
+      "mera",
+      "my"
+    ],
+    "آشیانا": [
+      "aashiyaana",
+      "nest; home (spelled “aashiyaana”)"
+    ],
+    "آتی": [
+      "aati",
+      "come (f.)"
+    ],
+    "صدائیں": [
+      "sadaaen",
+      "voices; calls (pl.)"
+    ],
+    "اُس": [
+      "us",
+      "her; that (oblique)"
+    ],
+    "مرے": [
+      "mire",
+      "my (poetic form of “mere”)"
+    ],
+    "قفس": [
+      "qafas",
+      "cage"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "مری": [
+      "miri",
+      "my (poetic form of “meri”)"
+    ],
+    "رہائی": [
+      "rihaai",
+      "release; freedom"
+    ],
+    "اے": [
+      "ae",
+      "O; ah"
+    ],
+    "کاش": [
+      "kaash",
+      "if only"
+    ],
+    "میرے": [
+      "mere",
+      "my"
+    ],
+    "بس": [
+      "bas",
+      "power; control (“mere bas mein” = in my power)"
+    ],
+    "بد": [
+      "bad",
+      "bad (“bad-naseeb” = unlucky)"
+    ],
+    "نصیب": [
+      "naseeb",
+      "luck (“bad-naseeb” = unlucky)"
+    ],
+    "ہوں": [
+      "hoon / hon",
+      "am; (“khush hon na” = let them not be pleased)"
+    ],
+    "مَیں": [
+      "main",
+      "I"
+    ],
+    "گھر": [
+      "ghar",
+      "home"
+    ],
+    "ترس": [
+      "taras",
+      "long for (“ko taras raha hoon” = I long for)"
+    ],
+    "ساتھی": [
+      "saathi",
+      "companions; friends"
+    ],
+    "تو": [
+      "to",
+      "so; then"
+    ],
+    "وطن": [
+      "watan",
+      "homeland"
+    ],
+    "قید": [
+      "qaid",
+      "captivity; prison"
+    ],
+    "پڑا": [
+      "paṛa",
+      "lying (“paṛa hoon” = I lie)"
+    ],
+    "آئی": [
+      "aayi",
+      "has come (f.)"
+    ],
+    "بہار": [
+      "bahaar",
+      "spring"
+    ],
+    "کلیاں": [
+      "kaliyaan",
+      "buds (pl.)"
+    ],
+    "پھولوں": [
+      "phoolon",
+      "flowers (pl. oblique)"
+    ],
+    "ہنس": [
+      "hans",
+      "laugh (“hans rahi hain” = are laughing)"
+    ],
+    "اس": [
+      "is",
+      "this (oblique)"
+    ],
+    "اندھیرے": [
+      "andhere",
+      "dark (oblique)"
+    ],
+    "قسمت": [
+      "qismat",
+      "fate (“qismat ko rona” = to lament one’s fate)"
+    ],
+    "رو": [
+      "ro",
+      "weep"
+    ],
+    "الٰہی": [
+      "ilaahi",
+      "O God!"
+    ],
+    "دکھڑا": [
+      "dukhṛa",
+      "tale of woe; sorrow"
+    ],
+    "کسے": [
+      "kise",
+      "to whom"
+    ],
+    "سناؤں": [
+      "sunaaoon",
+      "(shall) I tell"
+    ],
+    "ڈر": [
+      "ḍar",
+      "fear"
+    ],
+    "یہیں": [
+      "yaheen",
+      "right here"
+    ],
+    "قفسں": [
+      "qafas",
+      "cage (spelled with an extra nūn in the source)"
+    ],
+    "غم": [
+      "gham",
+      "grief; sorrow (“gham khaana” = to swallow one’s grief)"
+    ],
+    "مر": [
+      "mar",
+      "die (“mar na jaaoon” = lest I die)"
+    ],
+    "جاؤں": [
+      "jaaoon",
+      "(that) I (may) go"
+    ],
+    "جب": [
+      "jab",
+      "when (“jab se” = ever since)"
+    ],
+    "چمن": [
+      "chaman",
+      "garden"
+    ],
+    "چھٹا": [
+      "chhuṭa",
+      "was left behind; lost"
+    ],
+    "حال": [
+      "haal",
+      "state; condition"
+    ],
+    "کھا": [
+      "kha",
+      "eat; swallow (“kha raha hai”)"
+    ],
+    "گانا": [
+      "gaana",
+      "song; singing"
+    ],
+    "اسے": [
+      "use",
+      "it; him; her"
+    ],
+    "سمجھ": [
+      "samajh",
+      "consider (“samajh kar” = taking (it) for)"
+    ],
+    "خوش": [
+      "khush",
+      "happy; pleased"
+    ],
+    "سننے": [
+      "sunne",
+      "listening (“sunne waale” = listeners)"
+    ],
+    "والے": [
+      "waale",
+      "one(s) who (“sunne waale” = listeners; “qaid karne waale” = captor)"
+    ],
+    "دکھے": [
+      "dukhe",
+      "aching; hurt (“dukhe hue” = aching)"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“dukhe hue” = aching)"
+    ],
+    "دلوں": [
+      "dilon",
+      "hearts (pl. oblique)"
+    ],
+    "فریاد": [
+      "faryaad",
+      "cry for help; lament"
+    ],
+    "صدا": [
+      "sada",
+      "voice; sound"
+    ],
+    "آزاد": [
+      "aazaad",
+      "free"
+    ],
+    "دے": [
+      "de",
+      "give (“kar de” = do (it) for me)"
+    ],
+    "او": [
+      "o",
+      "O; hey"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (“qaid karne waale” = you who imprisoned)"
+    ],
+    "بے": [
+      "be",
+      "without (“be-zabaan” = voiceless)"
+    ],
+    "زباں": [
+      "zabaan",
+      "tongue (“be-zabaan” = voiceless, dumb)"
+    ],
+    "قیدی": [
+      "qaidi",
+      "prisoner"
+    ],
+    "چھوڑ": [
+      "chhoṛ",
+      "release; let go (“chhoṛ kar” = by releasing)"
+    ],
+    "دعا": [
+      "dua",
+      "blessing; prayer (“dua lena” = to earn someone’s blessing)"
+    ],
+    "لے": [
+      "le",
+      "take; earn"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پرندے کو کیا یاد آتا ہے؟",
+      "english": "What does the bird remember?",
+      "options": [
+        {
+          "urdu": "باغ میں اپنی آزاد زندگی",
+          "english": "its free life in the garden"
+        },
+        {
+          "urdu": "شہر کی سیر",
+          "english": "a trip to the city"
+        },
+        {
+          "urdu": "سردی کا موسم",
+          "english": "the winter season"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "پرندے کے مطابق اس کی آواز اصل میں کیا ہے؟",
+      "english": "According to the bird, what is its voice really?",
+      "options": [
+        {
+          "urdu": "خوشی کا گانا",
+          "english": "a happy song"
+        },
+        {
+          "urdu": "دکھی دلوں کی فریاد",
+          "english": "the lament of aching hearts"
+        },
+        {
+          "urdu": "دوستوں کو بلانے کی آواز",
+          "english": "a call to its friends"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "آخر میں پرندہ قید کرنے والے سے کیا مانگتا ہے؟",
+      "english": "What does the bird ask of its captor at the end?",
+      "options": [
+        {
+          "urdu": "زیادہ دانہ",
+          "english": "more grain"
+        },
+        {
+          "urdu": "ایک بڑا پنجرہ",
+          "english": "a bigger cage"
+        },
+        {
+          "urdu": "آزادی",
+          "english": "freedom"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

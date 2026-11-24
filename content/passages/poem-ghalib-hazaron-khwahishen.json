@@ -1,0 +1,681 @@
+{
+  "id": "poem-ghalib-hazaron-khwahishen",
+  "title": {
+    "urdu": "ہزاروں خواہشیں ایسی",
+    "english": "A Thousand Desires"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["love", "ghazal"],
+  "source": {
+    "name": "Urdu Wikisource: ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%DB%81%D8%B2%D8%A7%D8%B1%D9%88%DA%BA_%D8%AE%D9%88%D8%A7%DB%81%D8%B4%DB%8C%DA%BA_%D8%A7%DB%8C%D8%B3%DB%8C_%DA%A9%DB%81_%DB%81%D8%B1_%D8%AE%D9%88%D8%A7%DB%81%D8%B4_%D9%BE%DB%81_%D8%AF%D9%85_%D9%86%DA%A9%D9%84%DB%92",
+    "author": "Mirza Ghalib",
+    "license": "Public domain"
+  },
+  "intro": "Mirza Ghalib's (1797–1869) best-known ghazal, given here complete in all nine couplets. Its opening couplet (matla), on desires so many and so intense that even the fulfilled ones feel too few, is among the most quoted lines in Urdu; the ghazal ends with a famous jab at the preacher who slips into the tavern.",
+  "sentences": [
+    {
+      "urdu": "ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے",
+      "english": "Thousands of desires, each one such that I could die for it;",
+      "verse": true
+    },
+    {
+      "urdu": "بہت نکلے مرے ارمان لیکن پھر بھی کم نکلے",
+      "english": "many of my longings were fulfilled, yet still they came out too few.",
+      "verse": true,
+      "explanation": {
+        "urdu": "انسان کی خواہشیں بے شمار ہیں، اور ہر خواہش اتنی شدید ہے کہ اس پر جان دینے کو جی چاہتا ہے۔ بہت سی آرزوئیں پوری بھی ہوئیں، مگر دل پھر بھی مطمئن نہیں ہوا۔",
+        "english": "The poet's desires are countless, and each one is so intense that he could die for it. Many of his longings were fulfilled, yet they still felt too few: the heart is never satisfied. (“Dam nikalna” = to give one's life for, to long desperately for.)"
+      }
+    },
+    {
+      "urdu": "ڈرے کیوں میرا قاتل کیا رہے گا اس کی گردن پر",
+      "english": "Why should my killer be afraid? What blood will remain on his neck —",
+      "verse": true
+    },
+    {
+      "urdu": "وہ خوں جو چشم تر سے عمر بھر یوں دم بدم نکلے",
+      "english": "the blood that flowed from my tearful eyes all my life, like this, moment by moment?",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب عاشق کا قاتل ہے، مگر اسے ڈرنے کی ضرورت نہیں۔ عاشق کا سارا خون تو عمر بھر آنسو بن کر آنکھوں سے بہہ چکا ہے، اس لیے قاتل کی گردن پر کوئی خون باقی نہیں رہے گا۔",
+        "english": "The “killer” is the beloved. In Urdu, someone's blood being “on your neck” means you carry the guilt for their death. But the lover's blood has already poured out all his life as tears of blood, so the beloved need not fear: there is no blood left to be blamed for."
+      }
+    },
+    {
+      "urdu": "نکلنا خلد سے آدم کا سنتے آئے ہیں لیکن",
+      "english": "We have long heard the story of Adam being driven out of Paradise, but",
+      "verse": true
+    },
+    {
+      "urdu": "بہت بے آبرو ہو کر ترے کوچے سے ہم نکلے",
+      "english": "far more disgraced than that did I leave your street.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم نے سنا ہے کہ حضرت آدم کو جنت سے نکالا گیا تھا۔ لیکن محبوب کی گلی سے ہم اس سے بھی زیادہ ذلیل ہو کر نکلے۔",
+        "english": "An allusion to Adam's expulsion from Paradise. The lover says that being thrown out of the beloved's street was even more humiliating than that famous fall: for him, the beloved's street was Paradise."
+      }
+    },
+    {
+      "urdu": "بھرم کھل جائے ظالم تیرے قامت کی درازی کا",
+      "english": "O cruel one, the pretence of your tall stature would be exposed",
+      "verse": true
+    },
+    {
+      "urdu": "اگر اس طرۂ پر پیچ و خم کا پیچ و خم نکلے",
+      "english": "if the twists and curls of that twisting, curling lock of hair were straightened out.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اے ظالم محبوب، تجھے اپنے لمبے قد پر ناز ہے۔ لیکن اگر تیری گھنگریالی زلف کو سیدھا کیا جائے تو وہ تیرے قد سے بھی لمبی نکلے گی، اور تیرے قد کا بھرم ختم ہو جائے گا۔",
+        "english": "The beloved is proud of being tall. But if the curls of her twisting lock of hair were straightened out, it would turn out longer than her whole height, and the boast would be exposed. Playful exaggeration that praises both her height and her long hair."
+      }
+    },
+    {
+      "urdu": "مگر لکھوائے کوئی اس کو خط تو ہم سے لکھوائے",
+      "english": "Perhaps someone will have a letter written to her — then let him have it written by me:",
+      "verse": true
+    },
+    {
+      "urdu": "ہوئی صبح اور گھر سے کان پر رکھ کر قلم نکلے",
+      "english": "morning came, and I set out from home with a pen tucked behind my ear.",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہاں “مگر” کا مطلب “شاید” ہے۔ شاعر ہر صبح کاتب کی طرح کان پر قلم رکھ کر گھر سے نکلتا ہے، اس امید پر کہ شاید کوئی محبوب کو خط لکھوانا چاہے اور یہ خط وہی لکھے۔",
+        "english": "“Magar” here has its old meaning “perhaps”. Like a professional letter-writer with his pen behind his ear, the lover sets out every morning hoping someone will want a letter written to the beloved, so that he can be the one to write it: any excuse to be in touch with her."
+      }
+    },
+    {
+      "urdu": "ہوئی اس دور میں منسوب مجھ سے بادہ آشامی",
+      "english": "In this age, wine-drinking came to be linked with my name;",
+      "verse": true
+    },
+    {
+      "urdu": "پھر آیا وہ زمانہ جو جہاں میں جام جم نکلے",
+      "english": "then that time came again when Jamshed's cup appeared in the world.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہمارے زمانے میں شراب پینا ہمارے نام سے مشہور ہو گیا۔ یوں لگا جیسے بادشاہ جمشید کا جام پھر سے دنیا میں آ گیا ہو۔",
+        "english": "In the poet's age, wine-drinking became linked with his name: he is the famous drinker of his time. It was as if the days of Jamshed's cup had come back. Jamshed was a legendary Persian king whose wine cup (jaam-e-jam) showed the whole world; Ghalib boasts that he has brought that age back."
+      }
+    },
+    {
+      "urdu": "ہوئی جن سے توقع خستگی کی داد پانے کی",
+      "english": "Those from whom I hoped to receive sympathy for my broken state",
+      "verse": true
+    },
+    {
+      "urdu": "وہ ہم سے بھی زیادہ خستۂ تیغ ستم نکلے",
+      "english": "turned out to be even more wounded by the sword of cruelty than I am.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم نے سوچا تھا کہ کچھ لوگ ہماری بری حالت کو سمجھیں گے اور ہمدردی کریں گے۔ مگر وہ لوگ تو ہم سے بھی زیادہ ظلم کے مارے ہوئے نکلے۔",
+        "english": "The poet hoped certain people would recognise and sympathise with his broken state, but they turned out to be even more wounded by cruelty than he was, and in no position to comfort anyone."
+      }
+    },
+    {
+      "urdu": "محبت میں نہیں ہے فرق جینے اور مرنے کا",
+      "english": "In love there is no difference between living and dying:",
+      "verse": true
+    },
+    {
+      "urdu": "اسی کو دیکھ کر جیتے ہیں جس کافر پہ دم نکلے",
+      "english": "we live by looking at the very infidel for whom we would give our life.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبت میں جینا اور مرنا ایک ہی بات ہے۔ ہم جس محبوب پر جان دیتے ہیں، اسی کو دیکھ کر زندہ بھی رہتے ہیں۔",
+        "english": "In love, life and death become one: the very beloved (called “kaafir”, the heartless one) for whom we would die is the one whose sight keeps us alive. “Dam nikle” echoes the first couplet."
+      }
+    },
+    {
+      "urdu": "کہاں مے خانہ کا دروازہ غالبؔ اور کہاں واعظ",
+      "english": "Where is the tavern's door, Ghalib, and where the preacher!",
+      "verse": true
+    },
+    {
+      "urdu": "پر اتنا جانتے ہیں کل وہ جاتا تھا کہ ہم نکلے",
+      "english": "But this much I know: yesterday he was going in just as I was coming out.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ واعظ کا شراب خانے سے کیا تعلق! لیکن ہم نے کل اسے وہاں جاتے دیکھا، جب ہم وہاں سے نکل رہے تھے۔",
+        "english": "In the final couplet (maqta), which carries his pen name, Ghalib mocks the preacher who condemns drinking. The preacher and the tavern seem worlds apart, yet yesterday the preacher was going in just as Ghalib was coming out: a classic jab at religious hypocrisy."
+      }
+    }
+  ],
+  "glossary": {
+    "ہزاروں": [
+      "hazaaron",
+      "thousands"
+    ],
+    "خواہشیں": [
+      "khwaahishein",
+      "desires"
+    ],
+    "ایسی": [
+      "aisi",
+      "such (f.) (“aisi ki” = such that)"
+    ],
+    "کہ": [
+      "keh",
+      "that; such that; (in the last line) when, just as (“wo jaata tha keh hum nikle” = he was going in just as I came out)"
+    ],
+    "ہر": [
+      "har",
+      "every; each"
+    ],
+    "خواہش": [
+      "khwaahish",
+      "desire"
+    ],
+    "پہ": [
+      "pe",
+      "on; for (poetic form of “par”; “kisi par dam nikalna” = to die for someone)"
+    ],
+    "دم": [
+      "dam",
+      "breath; life (“dam nikalna” = to die (for), to long desperately; “dam-ba-dam” = moment by moment)"
+    ],
+    "نکلے": [
+      "nikle",
+      "came out; turned out (to be); left (“dam nikle” = one would die; “armaan nikle” = longings were fulfilled; “kam nikle” = turned out too few; “jaam-e-jam nikle” = Jamshed's cup appeared)"
+    ],
+    "بہت": [
+      "bohat",
+      "many; very; far (more)"
+    ],
+    "مرے": [
+      "mire",
+      "my (poetic form of “mere”)"
+    ],
+    "ارمان": [
+      "armaan",
+      "longings; cherished wishes"
+    ],
+    "لیکن": [
+      "lekin",
+      "but"
+    ],
+    "پھر": [
+      "phir",
+      "then; again (“phir bhi” = even so; “phir aaya” = came again)"
+    ],
+    "بھی": [
+      "bhi",
+      "also; even (“phir bhi” = still; “hum se bhi zyaada” = even more than me)"
+    ],
+    "کم": [
+      "kam",
+      "less; too few"
+    ],
+    "ڈرے": [
+      "dare",
+      "should fear (subjunctive; “dare kyoon” = why should (he) be afraid?)"
+    ],
+    "کیوں": [
+      "kyoon",
+      "why"
+    ],
+    "میرا": [
+      "mera",
+      "my (m.)"
+    ],
+    "قاتل": [
+      "qaatil",
+      "killer; murderer (here: the beloved)"
+    ],
+    "کیا": [
+      "kya",
+      "what (“kya rahega” = what will remain?)"
+    ],
+    "رہے": [
+      "rahe",
+      "remain (“rahe ga” = will remain)"
+    ],
+    "گا": [
+      "ga",
+      "will (future marker, m.)"
+    ],
+    "اس": [
+      "us / is",
+      "that; his, her (the beloved: “us ki gardan” = his neck, “us ko” = to her) / this (“is daur” = this age)"
+    ],
+    "گردن": [
+      "gardan",
+      "neck (“khoon gardan par hona” = to bear the guilt of a killing)"
+    ],
+    "پر": [
+      "par / pur",
+      "on; but (“par itna” = but this much) / full of (“pur-pech-o-kham” = full of twists and curls)"
+    ],
+    "وہ": [
+      "woh",
+      "that; he, she, they"
+    ],
+    "خوں": [
+      "khoon",
+      "blood (poetic short form of “khoon”)"
+    ],
+    "جو": [
+      "jo",
+      "which; that; when (“woh zamaana jo” = that time when)"
+    ],
+    "چشم": [
+      "chashm-e",
+      "eye (“chashm-e-tar” = wet, tearful eye)"
+    ],
+    "تر": [
+      "tar",
+      "wet; moist (“chashm-e-tar” = tearful eye)"
+    ],
+    "عمر": [
+      "umr",
+      "life; age (“umr bhar” = all (my) life)"
+    ],
+    "بھر": [
+      "bhar",
+      "whole; throughout (“umr bhar” = all life long)"
+    ],
+    "یوں": [
+      "yoon",
+      "thus; like this"
+    ],
+    "بدم": [
+      "ba-dam",
+      "(in “dam-ba-dam”) moment by moment; continually"
+    ],
+    "نکلنا": [
+      "nikalna",
+      "going out; being expelled"
+    ],
+    "خلد": [
+      "khuld",
+      "Paradise; heaven (Arabic, literary)"
+    ],
+    "آدم": [
+      "aadam",
+      "Adam (the first man)"
+    ],
+    "سنتے": [
+      "sunte",
+      "hearing (“sunte aaye hain” = have long been hearing)"
+    ],
+    "آئے": [
+      "aaye",
+      "came (“sunte aaye hain” = have been hearing all along)"
+    ],
+    "بے": [
+      "be",
+      "without (“be-aabroo” = without honour, disgraced)"
+    ],
+    "آبرو": [
+      "aabroo",
+      "honour; dignity (“be-aabroo” = disgraced)"
+    ],
+    "ہو": [
+      "ho",
+      "be; become (“ho kar” = having become)"
+    ],
+    "کر": [
+      "kar",
+      "having (done) (“ho kar” = having become; “rakh kar” = having placed; “dekh kar” = on seeing)"
+    ],
+    "ترے": [
+      "tire",
+      "your (poetic form of “tere”)"
+    ],
+    "کوچے": [
+      "kooche",
+      "lane; street (oblique)"
+    ],
+    "بھرم": [
+      "bharam",
+      "illusion; pretence; reputation (“bharam khul jaana” = to be exposed)"
+    ],
+    "کھل": [
+      "khul",
+      "open (“khul jaaye” = would be exposed)"
+    ],
+    "جائے": [
+      "jaaye",
+      "would (become) (“khul jaaye” = would be laid bare)"
+    ],
+    "ظالم": [
+      "zaalim",
+      "cruel one; tyrant (here: the beloved)"
+    ],
+    "تیرے": [
+      "tere",
+      "your"
+    ],
+    "قامت": [
+      "qaamat",
+      "stature; height"
+    ],
+    "درازی": [
+      "daraazi",
+      "length; tallness"
+    ],
+    "طرۂ": [
+      "turra-e",
+      "lock of hair; curl (“turra-e-pur-pech-o-kham” = the twisting, curling lock)"
+    ],
+    "پیچ": [
+      "pech",
+      "twist; coil (“pech-o-kham” = twists and curls)"
+    ],
+    "و": [
+      "o",
+      "and (Persian, joins pairs: “pech-o-kham”)"
+    ],
+    "خم": [
+      "kham",
+      "curve; curl (“pech-o-kham nikalna” = to straighten out the twists)"
+    ],
+    "مگر": [
+      "magar",
+      "perhaps (old sense, = “shaayad”); usually “but”"
+    ],
+    "لکھوائے": [
+      "likhwaaye",
+      "(should) have written by someone (“likhwaaye to hum se likhwaaye” = if he has it written, let him have me write it)"
+    ],
+    "کو": [
+      "ko",
+      "to (“us ko” = to her)"
+    ],
+    "خط": [
+      "khat",
+      "letter"
+    ],
+    "تو": [
+      "to",
+      "then"
+    ],
+    "سے": [
+      "se",
+      "from; by; with (“hum se likhwaaye” = have (it) written by me; “hum se zyaada” = more than me)"
+    ],
+    "ہوئی": [
+      "hui",
+      "became; happened (f.) (“hui subh” = morning came; “mansoob hui” = became linked; “tawaqqo hui” = (I) hoped)"
+    ],
+    "صبح": [
+      "subh",
+      "morning"
+    ],
+    "اور": [
+      "aur",
+      "and (“kahaan X aur kahaan Y” = X and Y are worlds apart)"
+    ],
+    "گھر": [
+      "ghar",
+      "home; house"
+    ],
+    "کان": [
+      "kaan",
+      "ear"
+    ],
+    "رکھ": [
+      "rakh",
+      "place; put (“rakh kar” = having placed)"
+    ],
+    "قلم": [
+      "qalam",
+      "pen"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "دور": [
+      "daur",
+      "age; era"
+    ],
+    "منسوب": [
+      "mansoob",
+      "attributed; linked (with)"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh se” = with me)"
+    ],
+    "بادہ": [
+      "baada",
+      "wine (“baada-aashaami” = wine-drinking)"
+    ],
+    "آشامی": [
+      "aashaami",
+      "drinking (Persian; “baada-aashaami” = wine-drinking)"
+    ],
+    "آیا": [
+      "aaya",
+      "came"
+    ],
+    "زمانہ": [
+      "zamaana",
+      "time; age"
+    ],
+    "جہاں": [
+      "jahaan",
+      "the world"
+    ],
+    "جام": [
+      "jaam-e",
+      "cup; wine-cup (“jaam-e-jam” = the cup of Jamshed)"
+    ],
+    "جم": [
+      "jam",
+      "Jam, Jamshed: legendary Persian king whose cup showed the whole world"
+    ],
+    "جن": [
+      "jin",
+      "whom (pl. oblique; “jin se” = from whom)"
+    ],
+    "توقع": [
+      "tawaqqo",
+      "expectation; hope"
+    ],
+    "خستگی": [
+      "khastagi",
+      "brokenness; wretched state"
+    ],
+    "کی": [
+      "ki",
+      "of (f.)"
+    ],
+    "داد": [
+      "daad",
+      "appreciation; recognition; justice (“daad paana” = to receive recognition or sympathy)"
+    ],
+    "پانے": [
+      "paane",
+      "receiving; getting (oblique infinitive)"
+    ],
+    "خستۂ": [
+      "khasta-e",
+      "wounded; broken (by) (“khasta-e-tegh-e-sitam” = wounded by the sword of cruelty)"
+    ],
+    "تیغ": [
+      "tegh-e",
+      "sword (“tegh-e-sitam” = sword of cruelty)"
+    ],
+    "ستم": [
+      "sitam",
+      "cruelty; tyranny"
+    ],
+    "محبت": [
+      "mohabbat",
+      "love"
+    ],
+    "نہیں": [
+      "nahin",
+      "not; there is no"
+    ],
+    "ہے": [
+      "hai",
+      "is"
+    ],
+    "فرق": [
+      "farq",
+      "difference"
+    ],
+    "جینے": [
+      "jeene",
+      "living (oblique infinitive)"
+    ],
+    "مرنے": [
+      "marne",
+      "dying (oblique infinitive)"
+    ],
+    "کا": [
+      "ka",
+      "of (m.)"
+    ],
+    "اسی": [
+      "usi",
+      "that very (one)"
+    ],
+    "دیکھ": [
+      "dekh",
+      "see (“dekh kar” = by seeing)"
+    ],
+    "جیتے": [
+      "jeete",
+      "(we) live"
+    ],
+    "ہیں": [
+      "hain",
+      "are; (we) do"
+    ],
+    "جس": [
+      "jis",
+      "whom; which (“jis kaafir pe” = for which infidel)"
+    ],
+    "کافر": [
+      "kaafir",
+      "infidel; (poetic) the heartless beloved"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where (“kahaan X aur kahaan Y” = X and Y are worlds apart)"
+    ],
+    "مے": [
+      "mai",
+      "wine (“mai-khaana” = tavern)"
+    ],
+    "خانہ": [
+      "khaana",
+      "house (“mai-khaana” = tavern)"
+    ],
+    "دروازہ": [
+      "darwaaza",
+      "door"
+    ],
+    "غالبؔ": [
+      "ghaalib",
+      "Ghalib (the poet's pen name)"
+    ],
+    "واعظ": [
+      "waaiz",
+      "preacher"
+    ],
+    "اتنا": [
+      "itna",
+      "this much"
+    ],
+    "جانتے": [
+      "jaante",
+      "(we) know"
+    ],
+    "کل": [
+      "kal",
+      "yesterday"
+    ],
+    "جاتا": [
+      "jaata",
+      "going (“jaata tha” = was going (in))"
+    ],
+    "تھا": [
+      "tha",
+      "was (m.)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر کے مطابق شاعر کی خواہشوں کا کیا ہوا؟",
+      "english": "According to the first couplet, what happened to the poet's desires?",
+      "options": [
+        {
+          "urdu": "ان میں سے کوئی بھی پوری نہیں ہوئی",
+          "english": "None of them was fulfilled"
+        },
+        {
+          "urdu": "بہت سی پوری ہوئیں مگر پھر بھی کم لگیں",
+          "english": "Many were fulfilled, but they still felt too few"
+        },
+        {
+          "urdu": "سب پوری ہو گئیں اور دل مطمئن ہو گیا",
+          "english": "All were fulfilled and the heart was content"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "تیسرے شعر میں شاعر محبوب کی گلی سے نکلنے کو کس واقعے سے ملاتا ہے؟",
+      "english": "In the third couplet, what event does the poet compare his leaving the beloved's street to?",
+      "options": [
+        {
+          "urdu": "یوسف کا کنویں میں گرنا",
+          "english": "Joseph being thrown into the well"
+        },
+        {
+          "urdu": "نوح کا طوفان",
+          "english": "Noah's flood"
+        },
+        {
+          "urdu": "آدم کا جنت سے نکلنا",
+          "english": "Adam's expulsion from Paradise"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "شاعر صبح کان پر قلم رکھ کر گھر سے کیوں نکلتا ہے؟",
+      "english": "Why does the poet leave home in the morning with a pen behind his ear?",
+      "options": [
+        {
+          "urdu": "شاید کوئی محبوب کو خط لکھوانا چاہے",
+          "english": "Someone might want a letter written to the beloved"
+        },
+        {
+          "urdu": "وہ دفتر میں نوکری کرتا ہے",
+          "english": "He works in an office"
+        },
+        {
+          "urdu": "وہ اپنی کتاب لکھنا چاہتا ہے",
+          "english": "He wants to write his own book"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "آخری شعر میں شاعر واعظ کے بارے میں کیا بتاتا ہے؟",
+      "english": "What does the poet reveal about the preacher in the last couplet?",
+      "options": [
+        {
+          "urdu": "واعظ نے اسے شراب خانے جانے سے روکا",
+          "english": "The preacher stopped him from going to the tavern"
+        },
+        {
+          "urdu": "واعظ بھی چھپ کر شراب خانے جاتا ہے",
+          "english": "The preacher, too, secretly goes to the tavern"
+        },
+        {
+          "urdu": "واعظ کبھی گھر سے نہیں نکلتا",
+          "english": "The preacher never leaves his house"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

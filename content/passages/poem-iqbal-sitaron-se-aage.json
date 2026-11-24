@@ -1,0 +1,348 @@
+{
+  "id": "poem-iqbal-sitaron-se-aage",
+  "title": {
+    "urdu": "ستاروں سے آگے جہاں اور بھی ہیں",
+    "english": "Beyond the Stars There Are More Worlds"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["philosophy", "ghazal"],
+  "source": {
+    "name": "Urdu Wikisource: ستاروں سے آگے جہاں اور بھی ہیں (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B3%D8%AA%D8%A7%D8%B1%D9%88%DA%BA_%D8%B3%DB%92_%D8%A2%DA%AF%DB%92_%D8%AC%DB%81%D8%A7%DA%BA_%D8%A7%D9%88%D8%B1_%D8%A8%DA%BE%DB%8C_%DB%81%DB%8C%DA%BA",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "A ghazal by Allama Muhammad Iqbal (1877–1938), dated 1935 (Bal-e-Jibril), urging the reader, like a falcon, never to settle: beyond the stars lie more worlds. These are the opening six of its seven couplets.",
+  "sentences": [
+    {
+      "urdu": "ستاروں سے آگے جہاں اور بھی ہیں",
+      "english": "Beyond the stars there are still more worlds;",
+      "verse": true
+    },
+    {
+      "urdu": "ابھی عشق کے امتحاں اور بھی ہیں",
+      "english": "love still has more trials to face.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ستاروں کے پار بھی اور دنیائیں ہیں۔ عشق یعنی بڑے مقصد کی لگن کو ابھی اور امتحانوں سے گزرنا ہے۔",
+        "english": "There are other worlds beyond the stars. Love — the passion for a high goal — still has more tests to pass."
+      }
+    },
+    {
+      "urdu": "تہی، زندگی سے نہیں یہ فضائیں",
+      "english": "These skies are not empty of life;",
+      "verse": true
+    },
+    {
+      "urdu": "یہاں سینکڑوں کارواں اور بھی ہیں",
+      "english": "here there are hundreds of other caravans too.",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہ کائنات زندگی سے خالی نہیں۔ یہاں اور بہت سے قافلے بھی سفر میں ہیں، اس لیے تم اکیلے نہیں ہو۔",
+        "english": "The universe is not empty of life. Many other caravans are travelling here too, so you are not alone."
+      }
+    },
+    {
+      "urdu": "قناعت نہ کر عالمِ رنگ و بُو پر",
+      "english": "Do not be content with this world of colour and scent;",
+      "verse": true
+    },
+    {
+      "urdu": "چمن اور بھی آشیاں اور بھی ہیں",
+      "english": "there are other gardens, other nests too.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اس ظاہری دنیا پر مطمئن ہو کر نہ بیٹھ جاؤ۔ آگے اور بھی باغ اور گھونسلے یعنی نئی منزلیں ہیں۔",
+        "english": "Do not sit back satisfied with this visible world. Ahead are more gardens and nests — new destinations."
+      }
+    },
+    {
+      "urdu": "اگر کھو گیا اک نشیمن تو کیا غم",
+      "english": "If one nest is lost, why grieve?",
+      "verse": true
+    },
+    {
+      "urdu": "مقاماتِ آہ و فغاں اور بھی ہیں",
+      "english": "there are other places for sighs and laments too.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر ایک گھر چھن جائے تو غم نہیں کرنا چاہیے۔ دنیا بہت بڑی ہے اور بھی جگہیں ہیں جہاں دل کا حال کہا جا سکتا ہے۔",
+        "english": "If one home is lost, there is no need to grieve. The world is wide, and there are other places to pour out your heart."
+      }
+    },
+    {
+      "urdu": "تو شاہیں ہے، پرواز ہے کام تیرا",
+      "english": "You are a falcon; flying is your work;",
+      "verse": true
+    },
+    {
+      "urdu": "ترے سامنے آسماں اور بھی ہیں",
+      "english": "before you lie still more skies.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اقبال انسان کو شاہین کہتے ہیں جس کا کام اونچا اڑنا ہے۔ اس کے سامنے ابھی اور بھی آسمان ہیں۔",
+        "english": "Iqbal calls the human being a falcon, whose work is to fly high. There are still more skies ahead of it."
+      }
+    },
+    {
+      "urdu": "اسی روز و شب میں اُلجھ کر نہ رہ جا",
+      "english": "Don't stay caught up in this same round of days and nights,",
+      "verse": true
+    },
+    {
+      "urdu": "کہ تیرے زمان و مکاں اور بھی ہیں",
+      "english": "for you have other times and other places too.",
+      "verse": true,
+      "explanation": {
+        "urdu": "روز کے معمول میں پھنس کر نہ رہ جاؤ۔ تمہارے لیے اور بھی زمانے اور جگہیں ہیں۔",
+        "english": "Do not get stuck in the daily routine. Other times and places are waiting for you."
+      }
+    }
+  ],
+  "glossary": {
+    "ستاروں": [
+      "sitaaron",
+      "stars (pl. oblique)"
+    ],
+    "سے": [
+      "se",
+      "from; of (“sitaaron se aage” = beyond the stars; “zindagi se tahi” = empty of life)"
+    ],
+    "آگے": [
+      "aage",
+      "beyond; ahead"
+    ],
+    "جہاں": [
+      "jahaan",
+      "worlds (poetic form of “jahaan”, here plural)"
+    ],
+    "اور": [
+      "aur",
+      "more; other (“aur bhi” = still more, others too)"
+    ],
+    "ابھی": [
+      "abhi",
+      "still; yet"
+    ],
+    "عشق": [
+      "ishq",
+      "love; passion (for Iqbal: the drive towards a high goal)"
+    ],
+    "امتحاں": [
+      "imtihaan",
+      "tests; trials (poetic form of “imtihaan”)"
+    ],
+    "تہی": [
+      "tahi",
+      "empty"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "فضائیں": [
+      "fazaaein",
+      "skies; open spaces (pl.)"
+    ],
+    "یہاں": [
+      "yahaan",
+      "here"
+    ],
+    "سینکڑوں": [
+      "sainkaṛon",
+      "hundreds"
+    ],
+    "کارواں": [
+      "kaarwaan",
+      "caravans"
+    ],
+    "قناعت": [
+      "qanaa-at",
+      "contentment (“qanaa-at karna” = to be content with)"
+    ],
+    "عالمِ": [
+      "aalam-e",
+      "world (of …)"
+    ],
+    "رنگ": [
+      "rang",
+      "colour"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "بُو": [
+      "boo",
+      "scent; fragrance (“rang-o-boo” = the visible, sensory world)"
+    ],
+    "چمن": [
+      "chaman",
+      "garden"
+    ],
+    "آشیاں": [
+      "aashiyaan",
+      "nests (poetic form of “aashiyaana”)"
+    ],
+    "کھو": [
+      "kho",
+      "lose (“kho gaya” = was lost)"
+    ],
+    "اک": [
+      "ik",
+      "one (poetic form of “ek”)"
+    ],
+    "نشیمن": [
+      "nasheman",
+      "nest; home"
+    ],
+    "تو": [
+      "to / too",
+      "then (“agar … to” = if … then) / you (intimate)"
+    ],
+    "کیا": [
+      "kya",
+      "what (“kya gham” = why grieve?)"
+    ],
+    "غم": [
+      "gham",
+      "grief; sorrow"
+    ],
+    "مقاماتِ": [
+      "maqaamaat-e",
+      "places; stations (pl. of “maqaam”) (of …)"
+    ],
+    "آہ": [
+      "aah",
+      "sigh"
+    ],
+    "فغاں": [
+      "fughaan",
+      "lament; cry of grief"
+    ],
+    "شاہیں": [
+      "shaaheen",
+      "falcon (Iqbal’s symbol of the free, high-flying spirit)"
+    ],
+    "پرواز": [
+      "parwaaz",
+      "flight; flying"
+    ],
+    "تیرا": [
+      "tera",
+      "your (intimate, m.)"
+    ],
+    "ترے": [
+      "tire",
+      "your (poetic form of “tere”)"
+    ],
+    "سامنے": [
+      "saamne",
+      "in front of"
+    ],
+    "آسماں": [
+      "aasmaan",
+      "skies (poetic form of “aasmaan”)"
+    ],
+    "روز": [
+      "roz",
+      "day (“roz-o-shab” = days and nights)"
+    ],
+    "شب": [
+      "shab",
+      "night"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "اُلجھ": [
+      "ulajh",
+      "get entangled (“ulajh kar” = being caught up)"
+    ],
+    "رہ": [
+      "reh",
+      "stay (“na reh ja” = don’t remain)"
+    ],
+    "جا": [
+      "ja",
+      "go (with “reh”: “reh jaana” = to stay stuck)"
+    ],
+    "کہ": [
+      "keh",
+      "for; because"
+    ],
+    "تیرے": [
+      "tere",
+      "your (intimate)"
+    ],
+    "زمان": [
+      "zamaan",
+      "time; age"
+    ],
+    "مکاں": [
+      "makaan",
+      "place; space (“zamaan-o-makaan” = time and space)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کے مطابق ستاروں سے آگے کیا ہے؟",
+      "english": "According to the poet, what lies beyond the stars?",
+      "options": [
+        {
+          "urdu": "کچھ نہیں",
+          "english": "nothing"
+        },
+        {
+          "urdu": "اور بھی جہان ہیں",
+          "english": "more worlds"
+        },
+        {
+          "urdu": "صرف اندھیرا",
+          "english": "only darkness"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعر انسان کو کیا کہتا ہے؟",
+      "english": "What does the poet call the human being?",
+      "options": [
+        {
+          "urdu": "شاہین",
+          "english": "a falcon"
+        },
+        {
+          "urdu": "بلبل",
+          "english": "a nightingale"
+        },
+        {
+          "urdu": "پروانہ",
+          "english": "a moth"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "اس غزل کا پیغام کیا ہے؟",
+      "english": "What is the message of this ghazal?",
+      "options": [
+        {
+          "urdu": "جو مل گیا اس پر خوش ہو کر رک جاؤ",
+          "english": "be happy with what you have and stop"
+        },
+        {
+          "urdu": "ایک گھر کھو جائے تو ہمیشہ روتے رہو",
+          "english": "if you lose one home, keep weeping forever"
+        },
+        {
+          "urdu": "ہمت نہ ہارو اور آگے بڑھتے رہو",
+          "english": "do not lose heart, and keep moving forward"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

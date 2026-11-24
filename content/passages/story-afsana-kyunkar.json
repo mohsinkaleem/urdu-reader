@@ -1,0 +1,424 @@
+{
+  "id": "story-afsana-kyunkar",
+  "title": {
+    "urdu": "میں افسانہ کیونکر لکھتا ہوں",
+    "english": "How I Write a Story"
+  },
+  "category": "stories",
+  "level": "medium",
+  "tags": ["language"],
+  "source": {
+    "name": "Urdu Wikisource: میں افسانہ کیونکر لکھتا ہوں",
+    "url": "https://ur.wikisource.org/wiki/میں_افسانہ_کیونکر_لکھتا_ہوں",
+    "author": "Saadat Hasan Manto",
+    "license": "Public domain"
+  },
+  "intro": "The opening of a humorous talk Manto gave about his own writing (1954). He plays with the old-fashioned word “kyunkar” (how), and describes writing amid the noise of family life.",
+  "sentences": [
+    {
+      "urdu": "معزز خواتین و حضرات!",
+      "english": "Respected ladies and gentlemen!"
+    },
+    {
+      "urdu": "مجھ سے کہا گیا ہے کہ میں یہ بتاؤں کہ میں افسانہ کیونکر لکھتا ہوں۔",
+      "english": "I have been asked to explain how I write a short story."
+    },
+    {
+      "urdu": "یہ ’کیونکر‘ میری سمجھ میں نہیں آیا۔",
+      "english": "I couldn’t make sense of this “kyunkar” (how)."
+    },
+    {
+      "urdu": "’کیونکر‘ کے معانی لغت میں تو یہ ملتے ہیں۔",
+      "english": "In the dictionary, the meanings given for “kyunkar” are these:"
+    },
+    {
+      "urdu": "کیسے اور کس طرح؟",
+      "english": "“how” and “in what way”?"
+    },
+    {
+      "urdu": "اب آپ کو کیا بتاؤں کہ میں افسانہ کیونکر لکھتا ہوں۔",
+      "english": "Now, what can I tell you about how I write a short story?"
+    },
+    {
+      "urdu": "یہ بڑی الجھن کی بات ہے، اگر میں ’کس طرح‘ کو پیش نظر رکھوں تو یہ جواب دے سکتا ہوں کہ اپنے کمرے میں صوفے پر بیٹھ جاتا ہوں کاغذ قلم پکڑتا ہوں اور بسم اللہ کر کے افسانہ لکھنا شروع کر دیتا ہوں۔",
+      "english": "It’s a very confusing matter; if I take “in what way” as the question, I can answer that I sit down on the sofa in my room, pick up paper and pen, say “Bismillah” and start writing a story."
+    },
+    {
+      "urdu": "میری تین بچیاں شور مچا رہی ہوتی ہیں۔",
+      "english": "My three little daughters are usually making a racket."
+    },
+    {
+      "urdu": "میں ان سے باتیں بھی کرتا ہوں، ان کی باہم لڑائیوں کا فیصلہ بھی کرتا ہوں، اپنے لئے ’سلاد‘ بھی تیار کرتا ہوں، کوئی ملنے والا آ جائے تو اس کی خاطر داری بھی کرتا ہوں، مگر افسانے لکھے جاتا ہوں۔",
+      "english": "I chat with them, settle their quarrels with one another, make myself a “salad”, and if a visitor drops in I look after him too, but I keep on writing stories."
+    },
+    {
+      "urdu": "اب ’کیسے‘ کا سوال آئے تو میں یہ کہوں گا کہ میں ویسے ہی افسانہ لکھتا ہوں جس طرح کھانا کھاتا ہوں، غسل کرتا ہوں، سگریٹ پیتا ہوں اور جھک مارتا ہوں۔",
+      "english": "Now, if the question is “how”, I will say that I write a story just the way I eat, bathe, smoke cigarettes and fool around."
+    },
+    {
+      "urdu": "اگر یہ پوچھا جائے کہ میں افسانہ کیوں لکھتا ہوں، تو اس کا جواب حاضر ہے۔۔۔",
+      "english": "If you ask why I write stories, the answer is ready…"
+    }
+  ],
+  "glossary": {
+    "معزز": [
+      "muazziz",
+      "respected; honourable"
+    ],
+    "خواتین": [
+      "khawaateen",
+      "ladies"
+    ],
+    "حضرات": [
+      "hazraat",
+      "gentlemen"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (oblique; “mujh se kaha gaya hai” = I have been asked)"
+    ],
+    "کہا": [
+      "kaha",
+      "said; asked (“kaha gaya hai” = it has been said)"
+    ],
+    "بتاؤں": [
+      "bataaun",
+      "(that I) tell; explain"
+    ],
+    "افسانہ": [
+      "afsaana",
+      "short story"
+    ],
+    "کیونکر": [
+      "kyunkar",
+      "how (old-fashioned, literary)"
+    ],
+    "لکھتا": [
+      "likhta",
+      "write (habitual, m.)"
+    ],
+    "سمجھ": [
+      "samajh",
+      "understanding (“samajh mein nahin aaya” = I didn’t understand)"
+    ],
+    "آیا": [
+      "aaya",
+      "came"
+    ],
+    "معانی": [
+      "maaani",
+      "meanings"
+    ],
+    "لغت": [
+      "lughat",
+      "dictionary"
+    ],
+    "ملتے": [
+      "milte",
+      "are found (pl.)"
+    ],
+    "کیسے": [
+      "kaise",
+      "how"
+    ],
+    "کس": [
+      "kis",
+      "what; which (oblique; “kis tarah” = in what way)"
+    ],
+    "طرح": [
+      "tarah",
+      "way; manner (“jis tarah” = the way that)"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big; very (f.)"
+    ],
+    "الجھن": [
+      "uljhan",
+      "confusion; tangle"
+    ],
+    "پیش": [
+      "pesh",
+      "before (“pesh-e-nazar rakhna” = to keep in view, take as one’s point)"
+    ],
+    "نظر": [
+      "nazar",
+      "sight; view"
+    ],
+    "رکھوں": [
+      "rakhoon",
+      "(if I) keep"
+    ],
+    "جواب": [
+      "jawaab",
+      "answer"
+    ],
+    "دے": [
+      "de",
+      "give (“de sakta hoon” = I can give)"
+    ],
+    "سکتا": [
+      "sakta",
+      "can (m.)"
+    ],
+    "کمرے": [
+      "kamre",
+      "room (oblique)"
+    ],
+    "صوفے": [
+      "sofe",
+      "sofa (oblique)"
+    ],
+    "بیٹھ": [
+      "baiṭh",
+      "sit (“baiṭh jaata hoon” = I sit down)"
+    ],
+    "جاتا": [
+      "jaata",
+      "(“baiṭh jaata hoon” = I sit down; “likhe jaata hoon” = I keep on writing)"
+    ],
+    "کاغذ": [
+      "kaaghaz",
+      "paper"
+    ],
+    "قلم": [
+      "qalam",
+      "pen"
+    ],
+    "پکڑتا": [
+      "pakaṛta",
+      "take hold of; pick up (habitual, m.)"
+    ],
+    "بسم": [
+      "bismil-",
+      "(“bismillaah” = “in the name of God”, said before starting something; “bismillaah karna” = to make a start)"
+    ],
+    "اللہ": [
+      "allaah",
+      "God"
+    ],
+    "لکھنا": [
+      "likhna",
+      "to write"
+    ],
+    "شروع": [
+      "shuroo",
+      "start (“shuroo kar deta hoon” = I start)"
+    ],
+    "دیتا": [
+      "deta",
+      "(with “shuroo kar”: “shuroo kar deta hoon” = I start)"
+    ],
+    "بچیاں": [
+      "bachchiyaan",
+      "little girls; daughters"
+    ],
+    "شور": [
+      "shor",
+      "noise (“shor machaana” = to make a racket)"
+    ],
+    "مچا": [
+      "macha",
+      "(with “shor”: “shor macha rahi hoti hain” = are usually making a racket)"
+    ],
+    "ہوتی": [
+      "hoti",
+      "(habitual: “macha rahi hoti hain” = are usually making)"
+    ],
+    "ان": [
+      "un",
+      "them (oblique; “un se” = with them; “un ki” = their)"
+    ],
+    "باتیں": [
+      "baaten",
+      "talk (“baaten karna” = to chat)"
+    ],
+    "کرتا": [
+      "karta",
+      "do (habitual, m.)"
+    ],
+    "باہم": [
+      "baaham",
+      "mutual; with one another"
+    ],
+    "لڑائیوں": [
+      "laṛaaiyon",
+      "fights; quarrels (oblique pl.)"
+    ],
+    "فیصلہ": [
+      "faisla",
+      "decision (“ka faisla karna” = to settle)"
+    ],
+    "لئے": [
+      "liye",
+      "for (“apne liye” = for myself)"
+    ],
+    "سلاد": [
+      "salaad",
+      "salad"
+    ],
+    "تیار": [
+      "tayyaar",
+      "ready (“tayyaar karna” = to prepare)"
+    ],
+    "ملنے": [
+      "milne",
+      "meeting (oblique; “milne waala” = visitor, acquaintance)"
+    ],
+    "والا": [
+      "waala",
+      "one who (“milne waala” = visitor)"
+    ],
+    "آ": [
+      "aa",
+      "come (“aa jaaye” = happens to come)"
+    ],
+    "جائے": [
+      "jaaye",
+      "(subjunctive: “aa jaaye” = should drop in; “poochha jaaye” = if it is asked)"
+    ],
+    "خاطر": [
+      "khaatir",
+      "(“khaatir daari” = hospitality)"
+    ],
+    "داری": [
+      "daari",
+      "(“khaatir daari karna” = to look after a guest)"
+    ],
+    "افسانے": [
+      "afsaane",
+      "stories"
+    ],
+    "لکھے": [
+      "likhe",
+      "written (“likhe jaata hoon” = I keep on writing)"
+    ],
+    "سوال": [
+      "sawaal",
+      "question"
+    ],
+    "آئے": [
+      "aaye",
+      "comes (subjunctive: “sawaal aaye” = if the question comes up)"
+    ],
+    "کہوں": [
+      "kahoon",
+      "(I) say"
+    ],
+    "گا": [
+      "ga",
+      "will (“kahoon ga” = I will say)"
+    ],
+    "ویسے": [
+      "waise",
+      "in that way (“waise hi … jis tarah” = just the way that)"
+    ],
+    "جس": [
+      "jis",
+      "which (“jis tarah” = the way that)"
+    ],
+    "کھانا": [
+      "khaana",
+      "food (“khaana khaana” = to eat)"
+    ],
+    "کھاتا": [
+      "khaata",
+      "eat (habitual, m.)"
+    ],
+    "سگریٹ": [
+      "sigreṭ",
+      "cigarette(s)"
+    ],
+    "پیتا": [
+      "peeta",
+      "drink; smoke (“sigreṭ peena” = to smoke)"
+    ],
+    "جھک": [
+      "jhak",
+      "nonsense (“jhak maarna” = to fool around, waste time)"
+    ],
+    "مارتا": [
+      "maarta",
+      "(with “jhak”: “jhak maarta hoon” = I fool around)"
+    ],
+    "پوچھا": [
+      "poochha",
+      "asked (“poochha jaaye” = if it is asked)"
+    ],
+    "کیوں": [
+      "kyun",
+      "why"
+    ],
+    "حاضر": [
+      "haazir",
+      "present; at hand (“jawaab haazir hai” = here is the answer)"
+    ],
+    "غسل": [
+      "ghusl",
+      "bath (“ghusl karna” = to bathe)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "منٹو کو کس لفظ کی سمجھ نہیں آئی؟",
+      "english": "Which word did Manto say he didn’t understand?",
+      "options": [
+        {
+          "urdu": "افسانہ",
+          "english": "Afsaana (story)"
+        },
+        {
+          "urdu": "لغت",
+          "english": "Lughat (dictionary)"
+        },
+        {
+          "urdu": "کیونکر",
+          "english": "Kyunkar (how)"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "منٹو افسانہ لکھتے وقت اور کیا کیا کرتا ہے؟",
+      "english": "What else does Manto do while writing a story?",
+      "options": [
+        {
+          "urdu": "بچیوں سے باتیں کرتا ہے اور سلاد بناتا ہے",
+          "english": "Chats with his daughters and makes a salad"
+        },
+        {
+          "urdu": "دفتر جاتا ہے",
+          "english": "Goes to the office"
+        },
+        {
+          "urdu": "ریڈیو سنتا ہے",
+          "english": "Listens to the radio"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "منٹو کے مطابق وہ افسانہ کیسے لکھتا ہے؟",
+      "english": "According to Manto, how does he write a story?",
+      "options": [
+        {
+          "urdu": "بہت سوچ سمجھ کر، خاموش کمرے میں",
+          "english": "With great thought, in a quiet room"
+        },
+        {
+          "urdu": "ویسے ہی جیسے کھانا کھاتا اور غسل کرتا ہے",
+          "english": "Just the way he eats and bathes"
+        },
+        {
+          "urdu": "صرف رات کو",
+          "english": "Only at night"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

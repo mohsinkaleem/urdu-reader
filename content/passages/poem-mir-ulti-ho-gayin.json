@@ -1,0 +1,336 @@
+{
+  "id": "poem-mir-ulti-ho-gayin",
+  "title": {
+    "urdu": "الٹی ہو گئیں سب تدبیریں",
+    "english": "All My Plans Backfired"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["love", "ghazal"],
+  "source": {
+    "name": "Urdu Wikisource: الٹی ہو گئیں سب تدبیریں ، کچھ نہ دوا نے کام کیا (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%A7%D9%84%D9%B9%DB%8C_%DB%81%D9%88_%DA%AF%D8%A6%DB%8C%DA%BA_%D8%B3%D8%A8_%D8%AA%D8%AF%D8%A8%DB%8C%D8%B1%DB%8C%DA%BA_%D8%8C_%DA%A9%DA%86%DA%BE_%D9%86%DB%81_%D8%AF%D9%88%D8%A7_%D9%86%DB%92_%DA%A9%D8%A7%D9%85_%DA%A9%DB%8C%D8%A7",
+    "author": "Mir Taqi Mir",
+    "license": "Public domain"
+  },
+  "intro": "Mir Taqi Mir’s famous ghazal of a lover undone by the “sickness of the heart”, ending here with a bitter couplet on human helplessness before fate. These are the opening four of its fifteen couplets.",
+  "sentences": [
+    {
+      "urdu": "الٹی ہو گئیں سب تدبیریں ، کچھ نہ دوا نے کام کیا",
+      "english": "All my plans backfired; no medicine did any good.",
+      "verse": true
+    },
+    {
+      "urdu": "دیکھا اس بیمارئ دل نے ، آخر کام تمام کیا",
+      "english": "See? This sickness of the heart finished me off in the end.",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق نے بہت کوششیں کیں اور دوائیں لیں، مگر کچھ فائدہ نہ ہوا۔ آخرکار دل کی بیماری یعنی عشق نے اس کی جان لے لی۔",
+        "english": "The lover tried many things and took many medicines, but nothing helped. In the end the sickness of the heart — love — took his life."
+      }
+    },
+    {
+      "urdu": "عہدِ جوانی رو رو کاٹا، پیری میں لیں آنکھیں موند",
+      "english": "I spent my youth weeping and weeping; in old age I closed my eyes —",
+      "verse": true
+    },
+    {
+      "urdu": "یعنی رات بہت تھے جاگے ، صبح ہوئی آرام کیا",
+      "english": "that is, I had stayed awake much of the night; when morning came, I went to rest.",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہاں رات جوانی ہے اور صبح بڑھاپا۔ شاعر نے ساری جوانی روتے ہوئے گزاری اور بڑھاپے میں مر گیا، جیسے کوئی ساری رات جاگے اور صبح ہوتے ہی سو جائے۔",
+        "english": "Here night stands for youth (dark hair) and morning for old age (white hair). The poet spent his youth weeping and died in old age, like someone who stays up all night and falls asleep at dawn."
+      }
+    },
+    {
+      "urdu": "حرف نہیں جاں بخشی میں اس کی خوبی اپنی قسمت کی",
+      "english": "There's no fault to find with the beloved's gift of life; it is the “virtue” of my own fate",
+      "verse": true
+    },
+    {
+      "urdu": "ہم سے جو پہلے کہہ بھیجا ، سو مرنے کا پیغام کیا",
+      "english": "that the first word sent to me was a message of death.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب تو لوگوں کو زندگی بخشتا ہے، اس میں کوئی شک نہیں۔ یہ میری قسمت کی خرابی ہے کہ مجھے پہلا پیغام ہی موت کا ملا۔",
+        "english": "There is no doubt the beloved grants life to others. It is the bad luck of my fate that the very first message I got was one of death. (“Virtue” is ironic.)"
+      }
+    },
+    {
+      "urdu": "ناحق ہم مجبوروں پر یہ تہمت ہے مختاری کی",
+      "english": "Unjustly, we helpless ones are accused of having free will;",
+      "verse": true
+    },
+    {
+      "urdu": "چاہتے ہیں سو آپ کریں ، ہم کو عبث بدنام کیا",
+      "english": "You do whatever You wish, and give us a bad name for nothing.",
+      "verse": true,
+      "explanation": {
+        "urdu": "انسان مجبور ہے، پھر بھی اس پر الزام ہے کہ وہ اپنی مرضی سے کام کرتا ہے۔ اصل میں جو خدا چاہتا ہے وہی ہوتا ہے، انسان کو بےکار بدنام کیا گیا ہے۔",
+        "english": "Humans are helpless, yet they are blamed as if they acted by their own will. In truth what God wants is what happens; people are blamed for nothing."
+      }
+    }
+  ],
+  "glossary": {
+    "الٹی": [
+      "ulti",
+      "upside down; the opposite (f.) (“ulti ho gayeen” = backfired)"
+    ],
+    "گئیں": [
+      "gayeen",
+      "became; went (f. pl.)"
+    ],
+    "تدبیریں": [
+      "tadbeerein",
+      "plans; efforts; remedies"
+    ],
+    "کچھ": [
+      "kuchh",
+      "anything (“kuchh na … kaam kiya” = did no good at all)"
+    ],
+    "دوا": [
+      "dawa",
+      "medicine"
+    ],
+    "کام": [
+      "kaam",
+      "work (“kaam karna” = to be effective; “kaam tamaam karna” = to finish off, kill)"
+    ],
+    "کیا": [
+      "kiya",
+      "did; made (past of “karna”)"
+    ],
+    "دیکھا": [
+      "dekha",
+      "see! (exclamation, literally “did you see?”)"
+    ],
+    "اس": [
+      "is / us",
+      "this (oblique) / that one’s (“us ki” = the beloved’s)"
+    ],
+    "بیمارئ": [
+      "beemaari-e",
+      "illness (of …) (izafat written with hamza)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "آخر": [
+      "aakhir",
+      "in the end; at last"
+    ],
+    "تمام": [
+      "tamaam",
+      "finished (“kaam tamaam karna” = to finish off)"
+    ],
+    "عہدِ": [
+      "ahd-e",
+      "time; period (of …)"
+    ],
+    "جوانی": [
+      "jawaani",
+      "youth"
+    ],
+    "رو": [
+      "ro",
+      "weep (“ro ro” = weeping and weeping)"
+    ],
+    "کاٹا": [
+      "kaata",
+      "cut; spent (time) with difficulty"
+    ],
+    "پیری": [
+      "peeri",
+      "old age"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "لیں": [
+      "leen",
+      "took (f. pl., agrees with “aankhein”; “aankhein moond leen” = closed (my) eyes, i.e. died)"
+    ],
+    "آنکھیں": [
+      "aankhein",
+      "eyes"
+    ],
+    "موند": [
+      "moond",
+      "close; shut (“moond lena” = to close)"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; in other words"
+    ],
+    "رات": [
+      "raat",
+      "night (here: youth)"
+    ],
+    "جاگے": [
+      "jaage",
+      "stayed awake (“the jaage” = had stayed awake; word order inverted)"
+    ],
+    "صبح": [
+      "subah",
+      "morning (here: old age)"
+    ],
+    "ہوئی": [
+      "hui",
+      "came; happened (f.) (“subah hui” = morning came)"
+    ],
+    "آرام": [
+      "aaraam",
+      "rest (“aaraam kiya” = rested, slept)"
+    ],
+    "حرف": [
+      "harf",
+      "a word (of blame); fault (“harf nahin” = no fault)"
+    ],
+    "جاں": [
+      "jaan",
+      "life (poetic form of “jaan”)"
+    ],
+    "بخشی": [
+      "bakhshi",
+      "granting (“jaan-bakhshi” = granting life; mercy)"
+    ],
+    "خوبی": [
+      "khoobi",
+      "virtue; goodness (ironic here)"
+    ],
+    "قسمت": [
+      "qismat",
+      "fate; luck"
+    ],
+    "ہم": [
+      "hum",
+      "we; I (poetic “hum” = I)"
+    ],
+    "پہلے": [
+      "pehle",
+      "first"
+    ],
+    "کہہ": [
+      "keh",
+      "say (“keh bhejna” = to send word)"
+    ],
+    "بھیجا": [
+      "bheja",
+      "sent"
+    ],
+    "سو": [
+      "so",
+      "that (older correlative: “jo … so” = what … that)"
+    ],
+    "مرنے": [
+      "marne",
+      "dying (oblique)"
+    ],
+    "سے": [
+      "se",
+      "from; to (“hum se keh bheja” = sent word to me)"
+    ],
+    "پیغام": [
+      "paighaam",
+      "message"
+    ],
+    "ناحق": [
+      "naahaq",
+      "unjustly; wrongly"
+    ],
+    "مجبوروں": [
+      "majbooron",
+      "helpless ones (pl. oblique)"
+    ],
+    "تہمت": [
+      "tohmat",
+      "accusation; slander"
+    ],
+    "مختاری": [
+      "mukhtaari",
+      "free will; being in control"
+    ],
+    "چاہتے": [
+      "chaahte",
+      "want (pl. / respectful)"
+    ],
+    "آپ": [
+      "aap",
+      "you yourself (respectful; here God or the beloved)"
+    ],
+    "کریں": [
+      "karein",
+      "do (respectful)"
+    ],
+    "عبث": [
+      "abas",
+      "in vain; for nothing"
+    ],
+    "بدنام": [
+      "badnaam",
+      "disgraced (“badnaam karna” = to give a bad name)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر کے مطابق عاشق کا کیا انجام ہوا؟",
+      "english": "According to the first couplet, what became of the lover?",
+      "options": [
+        {
+          "urdu": "دوا سے ٹھیک ہو گیا",
+          "english": "he was cured by medicine"
+        },
+        {
+          "urdu": "دل کی بیماری نے اس کی جان لے لی",
+          "english": "the sickness of the heart took his life"
+        },
+        {
+          "urdu": "وہ شہر چھوڑ کر چلا گیا",
+          "english": "he left the city"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "دوسرے شعر میں \"رات\" اور \"صبح\" سے کیا مراد ہے؟",
+      "english": "In the second couplet, what do “night” and “morning” stand for?",
+      "options": [
+        {
+          "urdu": "جوانی اور بڑھاپا",
+          "english": "youth and old age"
+        },
+        {
+          "urdu": "سردی اور گرمی",
+          "english": "winter and summer"
+        },
+        {
+          "urdu": "غم اور خوشی",
+          "english": "sorrow and joy"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "آخری شعر میں شاعر انسان کے بارے میں کیا کہتا ہے؟",
+      "english": "In the last couplet, what does the poet say about humans?",
+      "options": [
+        {
+          "urdu": "انسان جو چاہے کر سکتا ہے",
+          "english": "humans can do whatever they want"
+        },
+        {
+          "urdu": "انسان کو کبھی بدنام نہیں کیا جاتا",
+          "english": "humans are never blamed"
+        },
+        {
+          "urdu": "انسان مجبور ہے، اسے بےکار بدنام کیا گیا ہے",
+          "english": "humans are helpless and blamed for nothing"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

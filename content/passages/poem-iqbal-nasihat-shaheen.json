@@ -1,0 +1,246 @@
+{
+  "id": "poem-iqbal-nasihat-shaheen",
+  "title": {
+    "urdu": "نصیحت",
+    "english": "Advice (to the young falcon)"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["philosophy", "nature", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: نصیحت (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D9%86%D8%B5%DB%8C%D8%AD%D8%AA_(%D8%A8%DA%86%DB%82_%D8%B4%D8%A7%DB%81%DB%8C%DA%BA_%D8%B3%DB%92_%DA%A9%DB%81%D8%AA%D8%A7_%D8%AA%DA%BE%D8%A7_%D8%B9%D9%82%D8%A7%D8%A8%D9%90_%D8%B3%D8%A7%D9%84%D8%AE%D9%88%D8%B1%D8%AF)",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "A short poem from Allama Iqbal’s Bal-e-Jibril (1935) in which an old eagle advises a young falcon (shaheen) — Iqbal’s favourite symbol of the free, high-soaring and hard-striving young person. The real joy, the eagle says, lies in the struggle itself. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "بچۂ شاہیں سے کہتا تھا عقابِ سالخورد",
+      "english": "An aged eagle was saying to a falcon’s chick:",
+      "verse": true
+    },
+    {
+      "urdu": "اے ترے شہپر پہ آساں رفعتِ چرخِ بریں",
+      "english": "“O you, for whose great wings the height of the highest heaven is easy!",
+      "verse": true,
+      "explanation": {
+        "urdu": "ایک بوڑھا عقاب شاہین کے بچے کو نصیحت کر رہا تھا۔ وہ کہتا ہے کہ تیرے مضبوط پروں کے لیے سب سے اونچا آسمان بھی آسان ہے۔",
+        "english": "An old eagle advises a young falcon. He tells it that for its strong wings (“shahpar”, the great flight feathers) even the highest heaven (“charkh-e-bareen”) is within easy reach."
+      }
+    },
+    {
+      "urdu": "ہے شباب اپنے لہُو کی آگ میں جلنے کا نام",
+      "english": "Youth is the name for burning in the fire of one’s own blood;",
+      "verse": true
+    },
+    {
+      "urdu": "سخت کوشی سے ہے تلخِ زندگانی انگبیں",
+      "english": "through hard striving, the bitterness of life becomes honey.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جوانی کا مطلب ہے اپنے جوش اور جذبے کی آگ میں جلنا۔ سخت محنت سے زندگی کی کڑواہٹ بھی شہد کی طرح میٹھی ہو جاتی ہے۔",
+        "english": "Youth means burning with passion and energy (“the fire of one’s own blood”). Hard effort (“sakht-koshi”) turns the bitterness of life into honey."
+      }
+    },
+    {
+      "urdu": "جو کبوتر پر جھپٹنے میں مزا ہے اے پِسَر!",
+      "english": "The thrill there is in swooping on a pigeon, O son,",
+      "verse": true
+    },
+    {
+      "urdu": "وہ مزا شاید کبوتر کے لہُو میں بھی نہیں",
+      "english": "that thrill is perhaps not even in the pigeon’s blood.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "اے بیٹے، کبوتر پر جھپٹنے میں جو مزا ہے وہ شاید اس کا خون پینے میں بھی نہیں۔ یعنی اصل لطف کوشش اور جدوجہد میں ہے، صرف نتیجے میں نہیں۔",
+        "english": "The thrill lies in the chase, not in the prize: striving itself is the real reward, more than whatever it wins."
+      }
+    }
+  ],
+  "glossary": {
+    "بچۂ": [
+      "bachcha-e",
+      "young; chick (of …) (“bachcha-e-shaaheen” = falcon chick)"
+    ],
+    "شاہیں": [
+      "shaaheen",
+      "falcon (poetic form of “shaaheen”)"
+    ],
+    "کہتا": [
+      "kehta",
+      "saying (“kehta tha” = was saying)"
+    ],
+    "عقابِ": [
+      "uqaab-e",
+      "eagle (with izafat: “uqaab-e-saalkhurd” = aged eagle)"
+    ],
+    "سالخورد": [
+      "saalkhurd",
+      "aged; old"
+    ],
+    "اے": [
+      "ai",
+      "O"
+    ],
+    "ترے": [
+      "tire",
+      "your (poetic form of “tere”)"
+    ],
+    "شہپر": [
+      "shahpar",
+      "great wing feather; wing"
+    ],
+    "پہ": [
+      "pe",
+      "on; for (poetic form of “par”)"
+    ],
+    "آساں": [
+      "aasaan",
+      "easy (poetic form of “aasaan”)"
+    ],
+    "رفعتِ": [
+      "rifat-e",
+      "height (of …)"
+    ],
+    "چرخِ": [
+      "charkh-e",
+      "sky; heaven (of …)"
+    ],
+    "بریں": [
+      "bareen",
+      "highest; loftiest (“charkh-e-bareen” = the highest heaven)"
+    ],
+    "شباب": [
+      "shabaab",
+      "youth"
+    ],
+    "اپنے": [
+      "apne",
+      "one’s own (oblique)"
+    ],
+    "لہو": [
+      "lahoo",
+      "blood"
+    ],
+    "آگ": [
+      "aag",
+      "fire"
+    ],
+    "جلنے": [
+      "jalne",
+      "burning (oblique)"
+    ],
+    "نام": [
+      "naam",
+      "name (“… ka naam hai” = means …, is called …)"
+    ],
+    "سخت": [
+      "sakht",
+      "hard (“sakht-koshi” = hard striving)"
+    ],
+    "کوشی": [
+      "koshi",
+      "striving; effort"
+    ],
+    "تلخِ": [
+      "talkh-e",
+      "bitter (with izafat: “talkh-e-zindagaani” = bitter life, life’s bitterness)"
+    ],
+    "زندگانی": [
+      "zindagaani",
+      "life"
+    ],
+    "انگبیں": [
+      "angabeen",
+      "honey"
+    ],
+    "جو": [
+      "jo",
+      "the … that (“jo maza” = the thrill that)"
+    ],
+    "کبوتر": [
+      "kabootar",
+      "pigeon"
+    ],
+    "پر": [
+      "par",
+      "on"
+    ],
+    "جھپٹنے": [
+      "jhapaṭne",
+      "swooping; pouncing (oblique)"
+    ],
+    "مزا": [
+      "maza",
+      "pleasure; thrill"
+    ],
+    "پسر": [
+      "pisar",
+      "son (Persian)"
+    ],
+    "شاید": [
+      "shaayad",
+      "perhaps"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "اس نظم میں کون کس کو نصیحت کر رہا ہے؟",
+      "english": "In this poem, who is advising whom?",
+      "options": [
+        {
+          "urdu": "ایک بوڑھا عقاب شاہین کے بچے کو",
+          "english": "an old eagle is advising a falcon chick"
+        },
+        {
+          "urdu": "ایک کبوتر شاہین کو",
+          "english": "a pigeon is advising a falcon"
+        },
+        {
+          "urdu": "ایک باپ اپنے بیٹے کو",
+          "english": "a father is advising his son"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "عقاب کے مطابق جوانی کیا ہے؟",
+      "english": "According to the eagle, what is youth?",
+      "options": [
+        {
+          "urdu": "آرام کرنے کا وقت",
+          "english": "a time to rest"
+        },
+        {
+          "urdu": "اپنے خون کی آگ میں جلنا",
+          "english": "burning in the fire of one’s own blood"
+        },
+        {
+          "urdu": "کھیلنے کودنے کا زمانہ",
+          "english": "a time for play"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "عقاب کے خیال میں اصل مزا کس چیز میں ہے؟",
+      "english": "In the eagle’s view, where does the real thrill lie?",
+      "options": [
+        {
+          "urdu": "کبوتر کا خون پینے میں",
+          "english": "in drinking the pigeon’s blood"
+        },
+        {
+          "urdu": "آسمان پر سونے میں",
+          "english": "in sleeping in the sky"
+        },
+        {
+          "urdu": "کبوتر پر جھپٹنے میں، یعنی کوشش میں",
+          "english": "in swooping on the pigeon — that is, in the effort"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

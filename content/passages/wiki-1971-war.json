@@ -1,0 +1,374 @@
+{
+  "id": "wiki-1971-war",
+  "title": {
+    "urdu": "پاک بھارت جنگ 1971ء",
+    "english": "The 1971 War"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "source": {
+    "name": "Urdu Wikipedia: پاک بھارت جنگ 1971ء",
+    "url": "https://ur.wikipedia.org/wiki/%D9%BE%D8%A7%DA%A9_%D8%A8%DA%BE%D8%A7%D8%B1%D8%AA_%D8%AC%D9%86%DA%AF_1971%D8%A1",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "From the Urdu Wikipedia article on the 1971 war between Pakistan and India, after which East Pakistan became Bangladesh: the opening summary and the first lines of its background section. The vocabulary leans on Persian and Arabic (“shaakhsaana”, “adam-e-istehkaam”).",
+  "sentences": [
+    {
+      "urdu": "1971ء کی پاک بھارت جنگ جنوبی ایشیا کی تاریخ کا ایک انتہائی اہم اور المناک باب ہے، جس کے نتیجے میں دنیا کے نقشے پر ایک نیا ملک \"بنگلہ دیش\" وجود میں آیا۔",
+      "english": "The Pakistan–India war of 1971 is an extremely important and tragic chapter in the history of South Asia, as a result of which a new country, “Bangladesh”, came into being on the world map."
+    },
+    {
+      "urdu": "یہ جنگ نہ صرف فوجی لحاظ سے بلکہ سیاسی اور جغرافیائی لحاظ سے بھی خطے کے لیے فیصلہ کن ثابت ہوئی۔",
+      "english": "This war proved decisive for the region not only militarily but also politically and geographically."
+    },
+    {
+      "urdu": "یہ جنگ محض تیرہ روز پر محیط ایک روایتی عسکری ٹکراؤ نہیں تھی، بلکہ یہ دہائیوں سے جاری سیاسی عدم استحکام، معاشی ناہمواریوں اور مشرقی و مغربی پاکستان کے درمیان بڑھتے ہوئے لسانی و تہذیبی خلیج کا شاخسانہ تھی۔",
+      "english": "This war was not merely a conventional military clash lasting thirteen days; rather, it was the outcome of decades of political instability, economic inequalities, and the growing linguistic and cultural gulf between East and West Pakistan."
+    },
+    {
+      "urdu": "پاکستان کے مشرقی اور مغربی ونگ کے درمیان جغرافیائی فاصلہ بہت وسیع تھا۔",
+      "english": "The geographical distance between the eastern and western wings of Pakistan was very great."
+    },
+    {
+      "urdu": "مشرقی پاکستان 1،600 کلومیٹر (1000 میل) دور واقع ہے ، جس نے بنگالیوں اور دیگر پاکستانی ثقافتوں کو ضم کرنے کی کسی بھی کوشش کو بڑی حد تک رکاوٹ بنایا۔",
+      "english": "East Pakistan lies 1,600 kilometres (1,000 miles) away, which greatly hindered any attempt to integrate the Bengalis with Pakistan's other cultures."
+    }
+  ],
+  "glossary": {
+    "1971ء": [
+      "1971 eesvi",
+      "1971 CE (ء is short for “eesvi”, AD)"
+    ],
+    "پاک": [
+      "paak",
+      "Pakistan (short form in “paak bhaarat jang” = the Pakistan–India war); also “pure”"
+    ],
+    "بھارت": [
+      "bhaarat",
+      "India (the modern state)"
+    ],
+    "جنگ": [
+      "jang",
+      "war (f.)"
+    ],
+    "جنوبی": [
+      "junoobi",
+      "southern (“junoobi eshiya” = South Asia)"
+    ],
+    "ایشیا": [
+      "eshiya",
+      "Asia"
+    ],
+    "تاریخ": [
+      "taareekh",
+      "history"
+    ],
+    "انتہائی": [
+      "intehaai",
+      "extremely"
+    ],
+    "اہم": [
+      "aham",
+      "important"
+    ],
+    "المناک": [
+      "alamnaak",
+      "tragic"
+    ],
+    "باب": [
+      "baab",
+      "chapter"
+    ],
+    "نتیجے": [
+      "nateeje",
+      "result (oblique) (“jis ke nateeje mein” = as a result of which)"
+    ],
+    "دنیا": [
+      "dunya",
+      "world"
+    ],
+    "نقشے": [
+      "naqshe",
+      "map (oblique)"
+    ],
+    "نیا": [
+      "naya",
+      "new"
+    ],
+    "ملک": [
+      "mulk",
+      "country"
+    ],
+    "بنگلہ": [
+      "bangla",
+      "Bangla (“bangla desh” = Bangladesh)"
+    ],
+    "دیش": [
+      "desh",
+      "country (“bangla desh” = Bangladesh)"
+    ],
+    "وجود": [
+      "wujood",
+      "existence (“wujood mein aana” = to come into being)"
+    ],
+    "آیا": [
+      "aaya",
+      "came"
+    ],
+    "صرف": [
+      "sirf",
+      "only (“na sirf … balkeh” = not only … but also)"
+    ],
+    "فوجی": [
+      "fauji",
+      "military"
+    ],
+    "لحاظ": [
+      "lihaaz",
+      "regard; respect (“fauji lihaaz se” = militarily, in military terms)"
+    ],
+    "بلکہ": [
+      "balkeh",
+      "but; rather"
+    ],
+    "سیاسی": [
+      "siyaasi",
+      "political"
+    ],
+    "جغرافیائی": [
+      "jughraafiyaai",
+      "geographical"
+    ],
+    "خطے": [
+      "khitte",
+      "region (oblique)"
+    ],
+    "کن": [
+      "kun",
+      "-making (“faisla kun” = decisive)"
+    ],
+    "ثابت": [
+      "saabit",
+      "proven (“saabit hona” = to prove to be)"
+    ],
+    "محض": [
+      "mahaz",
+      "merely; only"
+    ],
+    "تیرہ": [
+      "terah",
+      "thirteen"
+    ],
+    "روز": [
+      "roz",
+      "day(s)"
+    ],
+    "محیط": [
+      "muheet",
+      "spanning; covering (“terah roz par muheet” = lasting thirteen days)"
+    ],
+    "روایتی": [
+      "riwaayati",
+      "conventional; traditional"
+    ],
+    "عسکری": [
+      "askari",
+      "military"
+    ],
+    "ٹکراؤ": [
+      "ṭakraao",
+      "clash; collision"
+    ],
+    "دہائیوں": [
+      "dahaaiyon",
+      "decades (pl. oblique)"
+    ],
+    "جاری": [
+      "jaari",
+      "ongoing (“dahaaiyon se jaari” = going on for decades)"
+    ],
+    "عدم": [
+      "adam",
+      "lack; non- (“adam istehkaam” = instability)"
+    ],
+    "استحکام": [
+      "istehkaam",
+      "stability"
+    ],
+    "معاشی": [
+      "maashi",
+      "economic"
+    ],
+    "ناہمواریوں": [
+      "naa-hamwaariyon",
+      "inequalities; imbalances (pl. oblique)"
+    ],
+    "مشرقی": [
+      "mashriqi",
+      "eastern (“mashriqi paakistaan” = East Pakistan)"
+    ],
+    "مغربی": [
+      "maghribi",
+      "western"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "درمیان": [
+      "darmiyaan",
+      "between (“ke darmiyaan” = between)"
+    ],
+    "بڑھتے": [
+      "baṛhte",
+      "growing (“baṛhte hue” = growing)"
+    ],
+    "لسانی": [
+      "lisaani",
+      "linguistic"
+    ],
+    "تہذیبی": [
+      "tehzeebi",
+      "cultural"
+    ],
+    "خلیج": [
+      "khaleej",
+      "gulf; gap"
+    ],
+    "شاخسانہ": [
+      "shaakhsaana",
+      "outcome; offshoot (usually of something bad)"
+    ],
+    "ونگ": [
+      "wing",
+      "wing (English word)"
+    ],
+    "فاصلہ": [
+      "faasla",
+      "distance"
+    ],
+    "وسیع": [
+      "wasee",
+      "wide; vast"
+    ],
+    "کلومیٹر": [
+      "kilomeeṭar",
+      "kilometre(s)"
+    ],
+    "میل": [
+      "meel",
+      "mile(s)"
+    ],
+    "دور": [
+      "door",
+      "far; away"
+    ],
+    "واقع": [
+      "waaqe",
+      "situated (“waaqe hai” = lies, is located)"
+    ],
+    "بنگالیوں": [
+      "bangaaliyon",
+      "Bengalis (pl. oblique)"
+    ],
+    "دیگر": [
+      "deegar",
+      "other"
+    ],
+    "پاکستانی": [
+      "paakistaani",
+      "Pakistani"
+    ],
+    "ثقافتوں": [
+      "saqaafaton",
+      "cultures (pl. oblique)"
+    ],
+    "ضم": [
+      "zam",
+      "merged (“zam karna” = to merge, to integrate)"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (oblique infinitive) (“zam karne ki koshish” = attempt to integrate)"
+    ],
+    "کوشش": [
+      "koshish",
+      "attempt; effort"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big (f.) (“baṛi had tak” = to a great extent)"
+    ],
+    "حد": [
+      "had",
+      "limit; extent"
+    ],
+    "رکاوٹ": [
+      "rukaawaṭ",
+      "obstacle"
+    ],
+    "بنایا": [
+      "banaaya",
+      "made (“rukaawaṭ banaaya” = hindered; literally “made into an obstacle”)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "اس جنگ کے نتیجے میں کون سا نیا ملک بنا؟",
+      "english": "Which new country came into being as a result of this war?",
+      "options": [
+        {
+          "urdu": "بنگلہ دیش",
+          "english": "Bangladesh"
+        },
+        {
+          "urdu": "بھارت",
+          "english": "India"
+        },
+        {
+          "urdu": "نیپال",
+          "english": "Nepal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "یہ جنگ کتنے دن جاری رہی؟",
+      "english": "How long did the war itself last?",
+      "options": [
+        {
+          "urdu": "سات برس",
+          "english": "Seven years"
+        },
+        {
+          "urdu": "تین مہینے",
+          "english": "Three months"
+        },
+        {
+          "urdu": "تیرہ دن",
+          "english": "Thirteen days"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "مضمون کے مطابق یہ جنگ کن باتوں کا نتیجہ تھی؟",
+      "english": "According to the article, what was the war an outcome of?",
+      "options": [
+        {
+          "urdu": "صرف ایک فوجی غلطی",
+          "english": "A single military mistake"
+        },
+        {
+          "urdu": "سیاسی عدم استحکام، معاشی ناہمواری اور لسانی و تہذیبی خلیج",
+          "english": "Political instability, economic inequality and a linguistic and cultural gulf"
+        },
+        {
+          "urdu": "ایک سرحدی تنازع",
+          "english": "A border dispute"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

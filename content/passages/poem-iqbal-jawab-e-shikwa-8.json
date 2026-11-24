@@ -1,0 +1,512 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-8",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 8)",
+    "english": "Jawab-e-Shikwa, part 8"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Iqbal’s “Jawab-e-Shikwa” (1913, later in Bang-e-Dara) is God’s answer to his earlier poem “Shikwa”, in which he had complained to God on behalf of the Muslims. In this part (stanzas 22–24) God finishes the comparison with the forebears, then turns on Westernised young Muslims and satirises the modern call for ‘freedom’ through the story of Laila and Majnun.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 8,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "خودکُشی شیوہ تمھارا، وہ غیور و خود دار",
+      "english": "Self-destruction is your way; they were proud and self-respecting.",
+      "verse": true
+    },
+    {
+      "urdu": "تم اخوّت سے گُریزاں، وہ اخوّت پہ نثار",
+      "english": "You run away from brotherhood; they gave their lives for brotherhood.",
+      "verse": true
+    },
+    {
+      "urdu": "تم ہو گُفتار سراپا، وہ سراپا کردار",
+      "english": "You are all talk from head to toe; they were all deeds from head to toe.",
+      "verse": true
+    },
+    {
+      "urdu": "تم ترستے ہو کلی کو، وہ گُلستاں بہ کنار",
+      "english": "You long for a single bud; they held whole gardens in their arms.",
+      "verse": true
+    },
+    {
+      "urdu": "اب تلک یاد ہے قوموں کو حکایت اُن کی",
+      "english": "To this day the nations remember their story;",
+      "verse": true
+    },
+    {
+      "urdu": "نقش ہے صفحۂ ہستی پہ صداقت اُن کی",
+      "english": "their truthfulness is engraved on the page of existence.",
+      "verse": true,
+      "explanation": {
+        "urdu": "تم خود اپنی تباہی کرتے ہو، وہ غیرت مند اور خود دار تھے۔ تم بھائی چارے سے بھاگتے ہو، وہ اس پر جان دیتے تھے۔ تم صرف باتیں کرتے ہو، وہ عمل کرتے تھے۔ اسی لیے قومیں آج تک ان کی کہانی اور ان کی سچائی یاد رکھتی ہیں۔",
+        "english": "A list of contrasts: you destroy yourselves, they had honour and self-respect; you avoid brotherhood, they died for it; you are all words, they were all deeds; you long for one bud, they held whole gardens. That is why the nations still tell their story, and their truthfulness is written on the page of existence."
+      }
+    },
+    {
+      "urdu": "مثلِ انجم اُفُقِ قوم پہ روشن بھی ہوئے",
+      "english": "They did shine like stars on the nation’s horizon,",
+      "verse": true
+    },
+    {
+      "urdu": "بُت ہندی کی محبت میں بَرہمن بھی ہوئے",
+      "english": "then, in love with the idol of India, they became Brahmins too;",
+      "verse": true
+    },
+    {
+      "urdu": "شوقِ پرواز میں مہجورِ نشیمن بھی ہوئے",
+      "english": "in their eagerness to fly they were cut off from the nest as well;",
+      "verse": true
+    },
+    {
+      "urdu": "بے عمل تھے ہی جواں، دِین سے بدظن بھی ہوئے",
+      "english": "the young were already without deeds — now they grew distrustful of the faith too.",
+      "verse": true
+    },
+    {
+      "urdu": "ان کو تہذیب نے ہر بند سے آزاد کیا",
+      "english": "Civilisation set them free from every bond,",
+      "verse": true
+    },
+    {
+      "urdu": "لا کے کعبے سے صنَم خانے میں آباد کیا",
+      "english": "brought them out of the Kaaba and settled them in the idol-house.",
+      "verse": true,
+      "explanation": {
+        "urdu": "نئے پڑھے لکھے مسلمان نوجوان کچھ عرصہ ستاروں کی طرح چمکے، پھر ہندوستان کے بتوں کی محبت میں برہمن بن گئے۔ اونچا اڑنے کے شوق میں اپنا گھونسلا چھوڑ بیٹھے۔ وہ پہلے ہی بے عمل تھے، اب دین سے بھی بدگمان ہو گئے۔ نئی تہذیب نے انہیں ہر پابندی سے آزاد کر کے کعبے سے بت خانے میں لا بسایا۔",
+        "english": "God turns to the modern, Western-educated young Muslims. They shone for a while like stars, then fell in love with ‘the idol of India’ (usually read as local customs and the new idea of territorial nationalism) and became like Brahmins, priests of idols. Wanting to fly high, they left their nest; already idle, they now distrust their religion. Modern civilisation ‘freed’ them from every bond and moved them from the Kaaba into the idol-house."
+      }
+    },
+    {
+      "urdu": "قیس زحمت کشِ تنہائیِ صحرا نہ رہے",
+      "english": "(They say) Qais should no longer suffer the loneliness of the desert;",
+      "verse": true
+    },
+    {
+      "urdu": "شہر کی کھائے ہوا، بادیہ پیما نہ رہے!",
+      "english": "let him take the city air and stop roaming the wilderness!",
+      "verse": true
+    },
+    {
+      "urdu": "وہ تو دیوانہ ہے، بستی میں رہے یا نہ رہے",
+      "english": "He is a madman anyway — whether he stays in the town or not,",
+      "verse": true
+    },
+    {
+      "urdu": "یہ ضروری ہے حجابِ رُخِ لیلا نہ رہے!",
+      "english": "what is essential is that the veil over Laila’s face must go!",
+      "verse": true
+    },
+    {
+      "urdu": "گلۂ جَور نہ ہو، شکوۂ بیداد نہ ہو",
+      "english": "Let there be no complaint of cruelty, no grievance of injustice:",
+      "verse": true
+    },
+    {
+      "urdu": "عشق آزاد ہے، کیوں حُسن بھی آزاد نہ ہو!",
+      "english": "love is free, so why should beauty not be free too!",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہاں اقبال نئے خیالات پر طنز کرتے ہیں۔ آج کے لوگ کہتے ہیں کہ مجنوں (قیس) صحرا چھوڑ کر شہر میں رہے، چاہے وہ رہے یا نہ رہے، سب سے ضروری یہ ہے کہ لیلیٰ کا پردہ ختم ہو جائے۔ وہ کہتے ہیں کہ جب عشق آزاد ہے تو حسن بھی آزاد کیوں نہ ہو؟",
+        "english": "A satire on ‘modern’ ideas. In the old story the lover Qais (Majnun) wandered in the desert for love of Laila. The new thinking says he should come and enjoy city life — and whether that madman stays or not, what really matters is that Laila’s veil must go: ‘love is free, so why not beauty too?’ Iqbal is mocking the campaign of his day against purdah (the veiling of women), which he presents as blind imitation of the West."
+      }
+    }
+  ],
+  "glossary": {
+    "خودکشی": [
+      "khud-kushi",
+      "suicide; self-destruction"
+    ],
+    "شیوہ": [
+      "sheva",
+      "habit; way"
+    ],
+    "تمھارا": [
+      "tumhaara",
+      "your"
+    ],
+    "غیور": [
+      "ghayoor",
+      "proud; jealous of their honour"
+    ],
+    "خود": [
+      "khud",
+      "self (“khud-daar” = self-respecting)"
+    ],
+    "دار": [
+      "daar",
+      "having (suffix) (“khud-daar” = self-respecting)"
+    ],
+    "تم": [
+      "tum",
+      "you (pl.)"
+    ],
+    "اخوت": [
+      "ukhuwwat",
+      "brotherhood"
+    ],
+    "گریزاں": [
+      "gurezaan",
+      "fleeing (from); shunning"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "نثار": [
+      "nisaar",
+      "sacrificed; devoted (“nisaar hona” = to give oneself for)"
+    ],
+    "گفتار": [
+      "guftaar",
+      "speech; talk"
+    ],
+    "سراپا": [
+      "saraapa",
+      "from head to toe; entirely"
+    ],
+    "کردار": [
+      "kirdaar",
+      "deeds; conduct"
+    ],
+    "ترستے": [
+      "taraste",
+      "long; yearn (“taraste ho” = you long for)"
+    ],
+    "کلی": [
+      "kali",
+      "bud"
+    ],
+    "گلستاں": [
+      "gulistaan",
+      "rose garden; garden"
+    ],
+    "بہ": [
+      "ba",
+      "in; with (Persian)"
+    ],
+    "کنار": [
+      "kinaar",
+      "embrace; bosom (“gulistaan ba-kinaar” = holding a garden in their arms)"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab talak” = until now, still)"
+    ],
+    "تلک": [
+      "talak",
+      "until (poetic form of “tak”)"
+    ],
+    "یاد": [
+      "yaad",
+      "memory (“yaad hai” = is remembered)"
+    ],
+    "قوموں": [
+      "qaumon",
+      "nations (pl. oblique)"
+    ],
+    "حکایت": [
+      "hikaayat",
+      "story; tale"
+    ],
+    "ان": [
+      "un",
+      "them; their (oblique) (“un ka” = theirs)"
+    ],
+    "نقش": [
+      "naqsh",
+      "engraved; imprinted"
+    ],
+    "صفحۂ": [
+      "safha-e",
+      "page (of) (“safha-e hasti” = the page of existence)"
+    ],
+    "ہستی": [
+      "hasti",
+      "existence; being"
+    ],
+    "صداقت": [
+      "sadaaqat",
+      "truthfulness; sincerity"
+    ],
+    "مثل": [
+      "misl-e",
+      "like"
+    ],
+    "انجم": [
+      "anjum",
+      "stars (pl.)"
+    ],
+    "افق": [
+      "ufuq",
+      "horizon (“ufuq-e qaum” = the nation’s horizon)"
+    ],
+    "قوم": [
+      "qaum",
+      "nation; community"
+    ],
+    "روشن": [
+      "raushan",
+      "shining; bright"
+    ],
+    "بت": [
+      "but",
+      "idol (“but-e hindi” = the idol of India)"
+    ],
+    "ہندی": [
+      "hindi",
+      "Indian; of Hind"
+    ],
+    "محبت": [
+      "mohabbat",
+      "love"
+    ],
+    "برہمن": [
+      "barahman",
+      "Brahmin (a Hindu priest; here, a worshipper of idols)"
+    ],
+    "شوق": [
+      "shauq-e",
+      "eagerness; longing (“shauq-e parwaaz” = eagerness to fly)"
+    ],
+    "پرواز": [
+      "parwaaz",
+      "flight"
+    ],
+    "مہجور": [
+      "mahjoor-e",
+      "separated (from) (“mahjoor-e nasheman” = cut off from the nest)"
+    ],
+    "نشیمن": [
+      "nasheman",
+      "nest"
+    ],
+    "بے": [
+      "be",
+      "without (“be-amal” = without deeds, idle)"
+    ],
+    "عمل": [
+      "amal",
+      "action; deeds"
+    ],
+    "ہی": [
+      "hi",
+      "already (“the hi” = were already)"
+    ],
+    "جواں": [
+      "jawaan",
+      "the young (poetic spelling)"
+    ],
+    "دین": [
+      "deen",
+      "religion; faith"
+    ],
+    "بدظن": [
+      "bad-zan",
+      "suspicious; distrustful"
+    ],
+    "تہذیب": [
+      "tehzeeb",
+      "civilisation; (here) modern Western culture"
+    ],
+    "بند": [
+      "band",
+      "bond; restraint"
+    ],
+    "آزاد": [
+      "aazaad",
+      "free"
+    ],
+    "لا": [
+      "la",
+      "bring (“la ke” = having brought)"
+    ],
+    "کعبے": [
+      "kaabe",
+      "the Kaaba (oblique)"
+    ],
+    "صنم": [
+      "sanam",
+      "idol (“sanam-khaana” = idol house)"
+    ],
+    "خانے": [
+      "khaane",
+      "house (oblique) (“sanam-khaane” = idol house)"
+    ],
+    "آباد": [
+      "aabaad",
+      "settled; inhabited (“aabaad kiya” = settled them)"
+    ],
+    "قیس": [
+      "qais",
+      "Qais, real name of Majnun, the legendary lover of Laila"
+    ],
+    "زحمت": [
+      "zahmat",
+      "hardship; trouble"
+    ],
+    "کش": [
+      "kash-e",
+      "bearing (“zahmat-kash” = one who endures hardship)"
+    ],
+    "تنہائی": [
+      "tanhaai-e",
+      "loneliness (of)"
+    ],
+    "صحرا": [
+      "sehra",
+      "desert"
+    ],
+    "رہے": [
+      "rahe",
+      "should remain (“na rahe” = should no longer be)"
+    ],
+    "شہر": [
+      "shehar",
+      "city"
+    ],
+    "کھائے": [
+      "khaaye",
+      "should eat (“hawa khaaye” = should take the air)"
+    ],
+    "ہوا": [
+      "hawa",
+      "air; breeze (“hawa khaana” = to take the air)"
+    ],
+    "بادیہ": [
+      "baadiya",
+      "wilderness (“baadiya-paima” = desert wanderer)"
+    ],
+    "پیما": [
+      "paima",
+      "traversing; measuring"
+    ],
+    "تو": [
+      "to",
+      "after all; anyway (emphasis)"
+    ],
+    "دیوانہ": [
+      "deewaana",
+      "madman"
+    ],
+    "بستی": [
+      "basti",
+      "town; settlement"
+    ],
+    "یا": [
+      "ya",
+      "or"
+    ],
+    "ضروری": [
+      "zaroori",
+      "necessary"
+    ],
+    "حجاب": [
+      "hijaab-e",
+      "veil (over)"
+    ],
+    "رخ": [
+      "rukh-e",
+      "face (of)"
+    ],
+    "لیلا": [
+      "laila",
+      "Laila, the beloved of Majnun"
+    ],
+    "گلۂ": [
+      "gila-e",
+      "complaint (of)"
+    ],
+    "جور": [
+      "jaur",
+      "cruelty; oppression"
+    ],
+    "شکوۂ": [
+      "shikwa-e",
+      "grievance (of)"
+    ],
+    "بیداد": [
+      "bedaad",
+      "injustice; tyranny"
+    ],
+    "عشق": [
+      "ishq",
+      "love"
+    ],
+    "حسن": [
+      "husn",
+      "beauty"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "نظم کے مطابق اسلاف اور آج کے مسلمانوں میں کیا فرق ہے؟",
+      "english": "What difference does the poem draw between the forebears and today’s Muslims?",
+      "options": [
+        {
+          "urdu": "وہ صرف باتیں کرتے تھے، تم عمل کرتے ہو",
+          "english": "they only talked; you act"
+        },
+        {
+          "urdu": "تم صرف باتیں کرتے ہو، وہ عمل کرتے تھے",
+          "english": "you only talk; they acted"
+        },
+        {
+          "urdu": "دونوں بالکل ایک جیسے ہیں",
+          "english": "they are exactly the same"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "نئی تہذیب نے نوجوانوں کو کہاں پہنچا دیا؟",
+      "english": "Where did modern civilisation take the young?",
+      "options": [
+        {
+          "urdu": "کعبے سے بت خانے میں",
+          "english": "from the Kaaba into the idol-house"
+        },
+        {
+          "urdu": "گاؤں سے شہر میں",
+          "english": "from the village to the city"
+        },
+        {
+          "urdu": "بت خانے سے کعبے میں",
+          "english": "from the idol-house into the Kaaba"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "قیس اور لیلیٰ والے بند میں اقبال کیا کر رہے ہیں؟",
+      "english": "What is Iqbal doing in the stanza about Qais and Laila?",
+      "options": [
+        {
+          "urdu": "ایک محبت کی کہانی سنا رہے ہیں",
+          "english": "telling a love story"
+        },
+        {
+          "urdu": "شہر کی زندگی کی تعریف کر رہے ہیں",
+          "english": "praising city life"
+        },
+        {
+          "urdu": "نئے خیالات پر طنز کر رہے ہیں",
+          "english": "satirising new ideas"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

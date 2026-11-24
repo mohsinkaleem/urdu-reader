@@ -1,0 +1,355 @@
+{
+  "id": "poem-jaun-be-qarari",
+  "title": {
+    "urdu": "بے قراری سی بے قراری ہے",
+    "english": "Such Restlessness"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "source": {
+    "name": "Rekhta: بے قراری سی بے قراری ہے",
+    "url": "https://www.rekhta.org/ghazals/be-qaraarii-sii-be-qaraarii-hai-jaun-eliya-ghazals?lang=ur",
+    "author": "Jaun Elia",
+    "license": "Personal use only"
+  },
+  "intro": "Jaun Elia (1931–2002) is loved for his restless, ironic voice, and this ghazal opens with two of his best-known couplets: feeling separated even while together, and living the very life that could not be lived. Rekhta lists a version sung by Mehdi Hassan. These are the opening six of its ten couplets.",
+  "sentences": [
+    {
+      "urdu": "بے قراری سی بے قراری ہے",
+      "english": "Restlessness — such restlessness!",
+      "verse": true
+    },
+    {
+      "urdu": "وصل ہے اور فراق طاری ہے",
+      "english": "We are together, and yet separation has me in its grip.",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق محبوب کے ساتھ ہے، پھر بھی اسے جدائی کا احساس گھیرے ہوئے ہے۔ یہ ملاپ میں بھی بے چین رہنے کی کیفیت ہے۔",
+        "english": "The lover is with the beloved, and yet a feeling of separation grips him. It is the state of being restless even in union."
+      }
+    },
+    {
+      "urdu": "جو گزاری نہ جا سکی ہم سے",
+      "english": "The life that I could not bear to live —",
+      "verse": true
+    },
+    {
+      "urdu": "ہم نے وہ زندگی گزاری ہے",
+      "english": "that is the life I have lived.",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہ جون ایلیا کا بہت مشہور شعر ہے: جو زندگی گزارنا ناممکن لگتا تھا، شاعر نے وہی زندگی گزاری ہے۔",
+        "english": "One of Jaun Elia’s most famous couplets: the poet has lived the very life that seemed impossible to live."
+      }
+    },
+    {
+      "urdu": "نگھرے کیا ہوئے کہ لوگوں پر",
+      "english": "No sooner did I become homeless than, on people,",
+      "verse": true
+    },
+    {
+      "urdu": "اپنا سایہ بھی اب تو بھاری ہے",
+      "english": "even my own shadow now weighs heavy.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جب سے شاعر بے گھر اور بے سہارا ہوا ہے، لوگوں کو اس کا سایہ بھی بوجھ لگتا ہے، یعنی کوئی اسے اپنے پاس نہیں رکھنا چاہتا۔",
+        "english": "Ever since the poet became homeless and without support, people find even his shadow a burden: no one wants him around."
+      }
+    },
+    {
+      "urdu": "بن تمہارے کبھی نہیں آئی",
+      "english": "Without you it has never come —",
+      "verse": true
+    },
+    {
+      "urdu": "کیا مری نیند بھی تمہاری ہے",
+      "english": "is even my sleep yours?",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب کے بغیر اسے کبھی نیند نہیں آئی۔ وہ حیرت سے پوچھتا ہے کہ کیا میری نیند بھی تمہاری ہے کہ تمہارے بغیر آتی ہی نہیں۔",
+        "english": "He has never been able to sleep without the beloved. He wonders: does even my sleep belong to you, that it will not come without you?"
+      }
+    },
+    {
+      "urdu": "آپ میں کیسے آؤں میں تجھ بن",
+      "english": "How can I come to my senses without you?",
+      "verse": true
+    },
+    {
+      "urdu": "سانس جو چل رہی ہے آری ہے",
+      "english": "The breath that runs through me is a saw.",
+      "verse": true,
+      "explanation": {
+        "urdu": "“آپ میں آنا” یعنی ہوش میں آنا۔ محبوب کے بغیر وہ ہوش میں نہیں آ سکتا، اور ہر سانس آری کی طرح اسے کاٹتی ہے۔ سانس کا “چلنا” اور آری کا “چلنا” ایک ہی لفظ ہے۔",
+        "english": "“Aap mein aana” means to come to one’s senses. Without the beloved he cannot, and every breath cuts him like a saw. A breath “chalti hai” (runs) just as a saw “chalti hai” (saws): the same verb."
+      }
+    },
+    {
+      "urdu": "اس سے کہیو کہ دل کی گلیوں میں",
+      "english": "Tell her that in the lanes of my heart,",
+      "verse": true
+    },
+    {
+      "urdu": "رات دن تیری انتظاری ہے",
+      "english": "night and day, there is waiting for you.",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق کسی سے کہتا ہے کہ محبوب کو میرا پیغام دینا: میرے دل کی گلیوں میں رات دن تمہارا انتظار رہتا ہے۔",
+        "english": "The lover asks someone to give the beloved a message: in the lanes of my heart, night and day, I am waiting for you."
+      }
+    }
+  ],
+  "glossary": {
+    "بے": [
+      "be",
+      "without (prefix: “be-qaraari” = restlessness)"
+    ],
+    "قراری": [
+      "qaraari",
+      "calm; rest (“be-qaraari” = restlessness)"
+    ],
+    "سی": [
+      "si",
+      "like (“be-qaraari si be-qaraari” = restlessness like no other)"
+    ],
+    "وصل": [
+      "wasl",
+      "union (with the beloved)"
+    ],
+    "اور": [
+      "aur",
+      "and; and yet"
+    ],
+    "فراق": [
+      "firaaq",
+      "separation (from the beloved)"
+    ],
+    "طاری": [
+      "taari",
+      "overpowering (“taari hona” = to come over someone, grip them)"
+    ],
+    "جو": [
+      "jo",
+      "which (“jo … woh” = the one which … that one)"
+    ],
+    "گزاری": [
+      "guzaari",
+      "spent; lived (“zindagi guzaarna” = to live a life)"
+    ],
+    "نہ": [
+      "na",
+      "not"
+    ],
+    "جا": [
+      "ja",
+      "(passive helper: “guzaari na ja saki” = could not be lived)"
+    ],
+    "سکی": [
+      "saki",
+      "could (f.)"
+    ],
+    "ہم": [
+      "hum",
+      "we; I (poets often say “hum” for “I”) (“hum se” = by me; “hum ne” = I)"
+    ],
+    "وہ": [
+      "woh",
+      "that"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "نگھرے": [
+      "nighre",
+      "homeless; without a home (“nighre kya hue ke” = no sooner had I become homeless than)"
+    ],
+    "کیا": [
+      "kya",
+      "(“… kya hue ke” = no sooner had we become … than); what (“kya meri neend bhi” = is even my sleep …?)"
+    ],
+    "ہوئے": [
+      "hue",
+      "became"
+    ],
+    "لوگوں": [
+      "logon",
+      "people (pl. oblique)"
+    ],
+    "پر": [
+      "par",
+      "on; upon (“logon par bhaari” = a burden on people)"
+    ],
+    "اپنا": [
+      "apna",
+      "own (“apna saaya” = my own shadow)"
+    ],
+    "سایہ": [
+      "saaya",
+      "shadow"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab to” = now indeed)"
+    ],
+    "تو": [
+      "to",
+      "(emphasis) indeed"
+    ],
+    "بھاری": [
+      "bhaari",
+      "heavy; a burden"
+    ],
+    "بن": [
+      "bin",
+      "without (poetic) (“bin tumhaare” / “tujh bin” = without you)"
+    ],
+    "تمہارے": [
+      "tumhaare",
+      "you (“bin tumhaare” = without you)"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever (“kabhi nahin” = never)"
+    ],
+    "آئی": [
+      "aayi",
+      "came (f.)"
+    ],
+    "مری": [
+      "meri",
+      "my (f.; short poetic spelling of “meri”)"
+    ],
+    "نیند": [
+      "neend",
+      "sleep"
+    ],
+    "تمہاری": [
+      "tumhaari",
+      "yours (f.)"
+    ],
+    "آپ": [
+      "aap",
+      "oneself (“aap mein aana” = to come to one’s senses)"
+    ],
+    "میں": [
+      "mein / main",
+      "in (“aap mein” = in oneself) / I (“kaise aaoon main” = how can I come)"
+    ],
+    "کیسے": [
+      "kaise",
+      "how"
+    ],
+    "آؤں": [
+      "aaoon",
+      "(should I) come"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (intimate) (“tujh bin” = without you)"
+    ],
+    "سانس": [
+      "saans",
+      "breath"
+    ],
+    "چل": [
+      "chal",
+      "run; move (“chal rahi hai” = is running — also what a saw does)"
+    ],
+    "آری": [
+      "aari",
+      "saw (the tool)"
+    ],
+    "اس": [
+      "us",
+      "her; him (“us se” = to her)"
+    ],
+    "کہیو": [
+      "kahiyo",
+      "do tell (old-style command)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "گلیوں": [
+      "galiyon",
+      "lanes (pl. oblique)"
+    ],
+    "رات": [
+      "raat",
+      "night (“raat din” = night and day)"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "تیری": [
+      "teri",
+      "your (f., intimate) (“teri intezaari” = waiting for you)"
+    ],
+    "انتظاری": [
+      "intezaari",
+      "waiting (poetic form of “intezaar”)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر میں عاشق کی عجیب حالت کیا ہے؟",
+      "english": "In the first couplet, what is the lover’s strange state?",
+      "options": [
+        {
+          "urdu": "وہ بہت پرسکون ہے",
+          "english": "he is very calm"
+        },
+        {
+          "urdu": "وہ محبوب کے ساتھ ہے پھر بھی جدائی محسوس کرتا ہے",
+          "english": "he is with the beloved and yet feels separated"
+        },
+        {
+          "urdu": "وہ محبوب سے کبھی ملا ہی نہیں",
+          "english": "he has never met the beloved"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "دوسرے شعر کا کیا مطلب ہے؟",
+      "english": "What does the second couplet mean?",
+      "options": [
+        {
+          "urdu": "شاعر نے بہت آسان زندگی گزاری",
+          "english": "the poet has lived a very easy life"
+        },
+        {
+          "urdu": "شاعر زندگی گزارنا ہی نہیں چاہتا",
+          "english": "the poet does not want to live at all"
+        },
+        {
+          "urdu": "شاعر نے وہی مشکل زندگی گزاری جو گزارنا ناممکن لگتا تھا",
+          "english": "the poet has lived the very life that seemed impossible to live"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "شاعر اپنی سانس کو آری کیوں کہتا ہے؟",
+      "english": "Why does the poet call his breath a saw?",
+      "options": [
+        {
+          "urdu": "کیونکہ محبوب کے بغیر ہر سانس اسے کاٹتی اور تکلیف دیتی ہے",
+          "english": "because without the beloved every breath cuts him and causes pain"
+        },
+        {
+          "urdu": "کیونکہ وہ لکڑی کا کام کرتا ہے",
+          "english": "because he works with wood"
+        },
+        {
+          "urdu": "کیونکہ اسے زکام ہے",
+          "english": "because he has a cold"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

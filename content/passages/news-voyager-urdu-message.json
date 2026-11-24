@@ -1,0 +1,380 @@
+{
+  "id": "news-voyager-urdu-message",
+  "title": {
+    "urdu": "وائجر ون اور اردو میں پیغام",
+    "english": "Voyager 1 and its message in Urdu"
+  },
+  "category": "news",
+  "level": "medium",
+  "tags": ["science", "language"],
+  "source": {
+    "name": "BBC Urdu: وائجر ون: زمین سے ایک نوری دن کا فاصلہ مکمل کرنے والا جہاز جس میں خلائی مخلوق کے لیے اردو میں بھی پیغام ہے",
+    "url": "https://www.bbc.com/urdu/articles/cqrmg7wkyldgo",
+    "author": "Fernando Duarte",
+    "license": "Personal use only"
+  },
+  "intro": "Published 18 November 2026 (a BBC World Service report). NASA’s Voyager 1 probe, launched in 1977, has become the first spacecraft to reach one light-day from Earth; it carries the Golden Record, a disc of greetings in 55 languages including Urdu. “Noori din” (نوری دن) is Urdu for a light-day.",
+  "sentences": [
+    {
+      "urdu": "18 نومبر 2026 یعنی آج کے روز ناسا کی جانب سے 1977 میں بھیجے گئے جڑواں خلائی مشنوں میں سے ایک  وائجر ون زمین سے ایک نوری دن (لائٹ ڈے) کا فاصلہ طے کر چکا ہے۔",
+      "english": "Today, 18 November 2026, Voyager 1, one of the twin space missions launched by NASA in 1977, has covered a distance of one light-day from Earth."
+    },
+    {
+      "urdu": "یہ وہ فاصلہ ہے جو روشنی ایک دن میں طے کرتی ہے، یعنی تقریباً 26 ارب کلومیٹر۔",
+      "english": "This is the distance that light travels in one day, that is, about 26 billion kilometres."
+    },
+    {
+      "urdu": "مگر خلائی مشن وائجر ون کو ایسا کرنے میں 50 سال لگے۔",
+      "english": "But it took the space mission Voyager 1 50 years to do this."
+    },
+    {
+      "urdu": "اس سپیس کرافٹ کی خاص بات یہ ہے کہ اس میں 12 انچ قطر کی سنہری ڈسک نصب ہے، جس میں زمین کے مختلف باشندوں کی جانب سے اردو سمیت 55 زبانوں میں پیغامات شامل ہیں۔",
+      "english": "What is special about this spacecraft is that a golden disc 12 inches in diameter is fitted in it, containing messages from various inhabitants of Earth in 55 languages, including Urdu."
+    },
+    {
+      "urdu": "یہ پیغامات ممکنہ خلائی مخلوق کے لیے ریکارڈ گئے ہیں۔",
+      "english": "These messages have been recorded for possible alien beings."
+    },
+    {
+      "urdu": "اردو میں ان کے لیے ’سلام، ہم زمین کے باشندوں کی طرف سے آپ کو خوش آمدید کہتے ہیں‘ کے الفاظ ریکارڈ کیے گئے ہیں، جبکہ ہندی کا لفظ ’نمستے‘ بھی سپیس کرافٹ میں موجود ڈسک کے ریکارڈ کا حصہ ہے۔",
+      "english": "In Urdu, the words ‘Peace, we welcome you on behalf of the inhabitants of Earth’ have been recorded for them, while the Hindi word ‘Namaste’ is also part of the recording on the disc aboard the spacecraft."
+    }
+  ],
+  "glossary": {
+    "نومبر": [
+      "navambar",
+      "November"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; i.e."
+    ],
+    "آج": [
+      "aaj",
+      "today (“aaj ke roz” = today, on this day)"
+    ],
+    "روز": [
+      "roz",
+      "day (formal)"
+    ],
+    "ناسا": [
+      "naasa",
+      "NASA (the US space agency)"
+    ],
+    "جانب": [
+      "jaanib",
+      "side (“ki jaanib se” = by; on behalf of) (formal)"
+    ],
+    "سے": [
+      "se",
+      "from; by (“ki jaanib se” = by; “zameen se” = from Earth; “mein se ek” = one of)"
+    ],
+    "میں": [
+      "mein",
+      "in; among (“mishanon mein se ek” = one of the missions)"
+    ],
+    "بھیجے": [
+      "bheje",
+      "sent (m. pl.) (“bheje gaye” = launched; sent)"
+    ],
+    "گئے": [
+      "gaye",
+      "passive helper (m. pl.) (“bheje gaye” = (that were) sent; “kiye gaye hain” = have been done)"
+    ],
+    "جڑواں": [
+      "juṛvaan",
+      "twin"
+    ],
+    "خلائی": [
+      "khalaai",
+      "space (adj.) (“khalaai makhlooq” = aliens, lit. space creatures)"
+    ],
+    "مشنوں": [
+      "mishanon",
+      "missions (pl. oblique)"
+    ],
+    "وائجر": [
+      "voyajar",
+      "Voyager (NASA space probe)"
+    ],
+    "ون": [
+      "van",
+      "One (English; “voyajar van” = Voyager 1)"
+    ],
+    "زمین": [
+      "zameen",
+      "Earth"
+    ],
+    "نوری": [
+      "noori",
+      "of light (“noori din” = light-day)"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "لائٹ": [
+      "laaiṭ",
+      "light (English; “laaiṭ ḍe” = light-day)"
+    ],
+    "ڈے": [
+      "ḍe",
+      "day (English)"
+    ],
+    "فاصلہ": [
+      "faasla",
+      "distance (“faasla tai karna” = to cover a distance)"
+    ],
+    "طے": [
+      "tai",
+      "covered; completed (“tai karna” = to cover (a distance))"
+    ],
+    "چکا": [
+      "chuka",
+      "already (m.) (“tai kar chuka hai” = has covered)"
+    ],
+    "روشنی": [
+      "raushni",
+      "light"
+    ],
+    "کرتی": [
+      "karti",
+      "does (f.) (“tai karti hai” = covers)"
+    ],
+    "تقریباً": [
+      "taqreeban",
+      "about; approximately"
+    ],
+    "ارب": [
+      "arab",
+      "billion (100 crore)"
+    ],
+    "کلومیٹر": [
+      "kilomeeṭar",
+      "kilometres"
+    ],
+    "مشن": [
+      "mishan",
+      "mission"
+    ],
+    "ایسا": [
+      "aisa",
+      "so; this (“aisa karne mein” = in doing this)"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (oblique infinitive)"
+    ],
+    "سال": [
+      "saal",
+      "year(s)"
+    ],
+    "لگے": [
+      "lage",
+      "took (time) (“Voyager ko 50 saal lage” = it took Voyager 50 years)"
+    ],
+    "سپیس": [
+      "spees",
+      "space (English)"
+    ],
+    "کرافٹ": [
+      "kraafṭ",
+      "craft (“spees kraafṭ” = spacecraft)"
+    ],
+    "خاص": [
+      "khaas",
+      "special"
+    ],
+    "بات": [
+      "baat",
+      "thing; point (“khaas baat” = special feature)"
+    ],
+    "انچ": [
+      "inch",
+      "inch(es)"
+    ],
+    "قطر": [
+      "qutr",
+      "diameter"
+    ],
+    "سنہری": [
+      "sunehri",
+      "golden"
+    ],
+    "ڈسک": [
+      "ḍisk",
+      "disc"
+    ],
+    "نصب": [
+      "nasb",
+      "installed; fitted (“nasb hona” = to be installed) (formal)"
+    ],
+    "جس": [
+      "jis",
+      "which (oblique) (“jis mein” = in which)"
+    ],
+    "مختلف": [
+      "mukhtalif",
+      "various; different"
+    ],
+    "باشندوں": [
+      "baashindon",
+      "inhabitants (pl. oblique)"
+    ],
+    "اردو": [
+      "urdu",
+      "Urdu"
+    ],
+    "سمیت": [
+      "samet",
+      "including (formal)"
+    ],
+    "زبانوں": [
+      "zabaanon",
+      "languages (pl. oblique)"
+    ],
+    "پیغامات": [
+      "paighaamaat",
+      "messages (pl. of “paighaam”)"
+    ],
+    "شامل": [
+      "shaamil",
+      "included"
+    ],
+    "ممکنہ": [
+      "mumkina",
+      "possible; potential"
+    ],
+    "مخلوق": [
+      "makhlooq",
+      "creatures; beings (“khalaai makhlooq” = aliens)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for)"
+    ],
+    "ریکارڈ": [
+      "rekaarḍ",
+      "recorded; recording (“rekaarḍ karna” = to record; “ḍisk ka rekaarḍ” = the disc’s record)"
+    ],
+    "ان": [
+      "un",
+      "them (oblique) (“un ke liye” = for them)"
+    ],
+    "سلام": [
+      "salaam",
+      "peace; greetings (Islamic greeting)"
+    ],
+    "ہم": [
+      "ham",
+      "we"
+    ],
+    "طرف": [
+      "taraf",
+      "side (“ki taraf se” = on behalf of)"
+    ],
+    "خوش": [
+      "khush",
+      "happy (“khush aamdeed” = welcome)"
+    ],
+    "آمدید": [
+      "aamdeed",
+      "arrival (“khush aamdeed kehna” = to welcome)"
+    ],
+    "کہتے": [
+      "kehte",
+      "say (“khush aamdeed kehte hain” = (we) welcome)"
+    ],
+    "الفاظ": [
+      "alfaaz",
+      "words (Arabic pl. of “lafz”)"
+    ],
+    "کیے": [
+      "kiye",
+      "done (m. pl.) (“rekaarḍ kiye gaye hain” = have been recorded)"
+    ],
+    "جبکہ": [
+      "jabke",
+      "while; whereas"
+    ],
+    "ہندی": [
+      "hindi",
+      "Hindi"
+    ],
+    "لفظ": [
+      "lafz",
+      "word"
+    ],
+    "نمستے": [
+      "namaste",
+      "Namaste (Hindi greeting)"
+    ],
+    "موجود": [
+      "maujood",
+      "present (“spees kraafṭ mein maujood ḍisk” = the disc on board the spacecraft)"
+    ],
+    "حصہ": [
+      "hissa",
+      "part"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "وائجر ون کو ایک نوری دن کا فاصلہ طے کرنے میں کتنا وقت لگا؟",
+      "english": "How long did it take Voyager 1 to cover the distance of one light-day?",
+      "options": [
+        {
+          "urdu": "50 سال",
+          "english": "50 years"
+        },
+        {
+          "urdu": "26 سال",
+          "english": "26 years"
+        },
+        {
+          "urdu": "ایک دن",
+          "english": "One day"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "سنہری ڈسک پر کتنی زبانوں میں پیغامات ہیں؟",
+      "english": "In how many languages are the messages on the golden disc?",
+      "options": [
+        {
+          "urdu": "صرف اردو میں",
+          "english": "Only in Urdu"
+        },
+        {
+          "urdu": "55 زبانوں میں",
+          "english": "In 55 languages"
+        },
+        {
+          "urdu": "12 زبانوں میں",
+          "english": "In 12 languages"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "یہ پیغامات کس کے لیے ریکارڈ کیے گئے؟",
+      "english": "Who were these messages recorded for?",
+      "options": [
+        {
+          "urdu": "ناسا کے سائنس دانوں کے لیے",
+          "english": "For NASA’s scientists"
+        },
+        {
+          "urdu": "زمین کے بچوں کے لیے",
+          "english": "For children on Earth"
+        },
+        {
+          "urdu": "ممکنہ خلائی مخلوق کے لیے",
+          "english": "For possible alien beings"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

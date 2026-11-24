@@ -1,0 +1,460 @@
+{
+  "id": "news-musadik-malik-india-visit",
+  "title": {
+    "urdu": "مصدق ملک کا دورۂ انڈیا",
+    "english": "Musadik Malik's visit to India"
+  },
+  "category": "news",
+  "level": "medium",
+  "tags": ["politics"],
+  "source": {
+    "name": "BBC Urdu: مصدق ملک کا دورۂ انڈیا: کیا اسلام آباد اور نئی دہلی کے تعلقات میں بہتری کی کوئی اُمید پیدا ہوئی ہے؟",
+    "url": "https://www.bbc.com/urdu/articles/cmx276lvq9vjo",
+    "author": "Ubaid Malik",
+    "license": "Personal use only"
+  },
+  "intro": "Published 22 November 2026. Musadik Malik, Pakistan's federal minister for climate change, is in New Delhi for a Shanghai Cooperation Organisation (SCO) event: the first visit to India by a Pakistani minister since the four-day Pakistan–India conflict of May 2025. Watch for “ke darmiyaan” (between) and “ke hawaale se” (with regard to), two news-register staples.",
+  "sentences": [
+    {
+      "urdu": "پاکستان کے وفاقی وزیر برائے موسمیاتی تبدیلی مصدق ملک کی شنگھائی تعاون تنظیم (ایس سی او) اجلاس میں شرکت کے لیے انڈیا آمد توجہ کا مرکز بنی ہوئی ہے۔",
+      "english": "The arrival in India of Pakistan's Federal Minister for Climate Change, Musadik Malik, to take part in a meeting of the Shanghai Cooperation Organisation (SCO) has become the centre of attention."
+    },
+    {
+      "urdu": "بعض مبصرین اسے دونوں ممالک کے درمیان تعلقات میں بہتری کی اُمید کے طور پر بھی دیکھ رہے ہیں جبکہ بعض ماہرین کا کہنا ہے کہ اس دورے سے دونوں ممالک کے درمیان تعلقات میں بہتری کی گنجائش کم ہے۔",
+      "english": "Some observers are also seeing it as a hope of improvement in relations between the two countries, while some experts say that there is little room for improvement in relations between the two countries from this visit."
+    },
+    {
+      "urdu": "مصدق ملک انڈیا میں صحافیوں سے گفتگو کے دوران یہ واضح کر چکے ہیں کہ یہ دورہ خالصتاً ایس سی او کے حوالے سے پاکستان کے عزم کی توثیق ہے اور اس میں انڈیا اور پاکستان کے درمیان دو طرفہ معاملات پر کوئی بات نہیں ہوئی۔",
+      "english": "While talking to journalists in India, Musadik Malik has already made it clear that this visit is purely an affirmation of Pakistan's commitment with regard to the SCO, and that no bilateral matters between India and Pakistan were discussed during it."
+    },
+    {
+      "urdu": "لیکن ساتھ ہی مصدق ملک نے یہ بھی کہا کہ پاکستان تو ہمیشہ سے ہی مذاکرات کے ذریعے دونوں ممالک کے درمیان معاملات حل کرنا کی بات کرتا رہا ہے۔",
+      "english": "But at the same time Musadik Malik also said that Pakistan has always talked about resolving the matters between the two countries through dialogue."
+    },
+    {
+      "urdu": "اُنھوں نے کہا کہ دہشت گردی کے معاملے پر دونوں ممالک کو شواہد کی بنیاد پر بات کرنی چاہیے۔",
+      "english": "He said that on the issue of terrorism both countries should talk on the basis of evidence."
+    },
+    {
+      "urdu": "مصدق ملک انڈیا کے دارالحکومت نئی دہلی میں شنگھائی تعاون تنظیم (ایس سی او) کے پہلے تہذیبی مکالمے میں شرکت کے لیے جمعے کو نئی دہلی پہنچے تھے۔",
+      "english": "Musadik Malik had arrived in New Delhi on Friday to take part in the first civilisational dialogue of the Shanghai Cooperation Organisation (SCO) in India's capital, New Delhi."
+    },
+    {
+      "urdu": "مئی 2023 میں بلاول بھٹو زرداری کے دورے اور مئی 2025 میں پاکستان اور انڈیا کے درمیان چار روزہ لڑائی کے بعد یہ کسی پاکستانی وفاقی وزیر کا انڈیا کا پہلا دورہ ہے۔",
+      "english": "After Bilawal Bhutto Zardari's visit in May 2023 and the four-day fighting between Pakistan and India in May 2025, this is the first visit to India by any Pakistani federal minister."
+    }
+  ],
+  "glossary": {
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "وفاقی": [
+      "wifaaqi",
+      "federal (“wifaaqi wazeer” = federal minister)"
+    ],
+    "وزیر": [
+      "wazeer",
+      "minister"
+    ],
+    "برائے": [
+      "baraa-e",
+      "for (formal: “wazeer baraa-e …” = minister for …)"
+    ],
+    "موسمیاتی": [
+      "mausamiyaati",
+      "climatic; of the climate"
+    ],
+    "تبدیلی": [
+      "tabdeeli",
+      "change (“mausamiyaati tabdeeli” = climate change)"
+    ],
+    "مصدق": [
+      "musaddiq",
+      "Musadik (Musadik Malik, Pakistan's federal minister for climate change)"
+    ],
+    "ملک": [
+      "malik",
+      "Malik (surname of Musadik Malik)"
+    ],
+    "شنگھائی": [
+      "shanghaai",
+      "Shanghai (“shanghaai taawun tanzeem” = Shanghai Cooperation Organisation, SCO)"
+    ],
+    "تعاون": [
+      "taawun",
+      "cooperation"
+    ],
+    "تنظیم": [
+      "tanzeem",
+      "organisation"
+    ],
+    "ایس": [
+      "es",
+      "S (“es si o” = SCO, the Shanghai Cooperation Organisation)"
+    ],
+    "سی": [
+      "si",
+      "C (in “es si o”, SCO)"
+    ],
+    "او": [
+      "o",
+      "O (in “es si o”, SCO)"
+    ],
+    "شرکت": [
+      "shirkat",
+      "participation (“shirkat ke liye” = to take part)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for; in order to)"
+    ],
+    "انڈیا": [
+      "inḍiya",
+      "India"
+    ],
+    "آمد": [
+      "aamad",
+      "arrival (formal)"
+    ],
+    "توجہ": [
+      "tawajjoh",
+      "attention (“tawajjoh ka markaz” = centre of attention)"
+    ],
+    "مرکز": [
+      "markaz",
+      "centre"
+    ],
+    "بنی": [
+      "bani",
+      "made; become (f.) (“bani hui hai” = has become)"
+    ],
+    "ہوئی": [
+      "hui",
+      "happened; become (f.) (“bani hui hai” = has become; “baat nahin hui” = there was no talk)"
+    ],
+    "بعض": [
+      "baaz",
+      "some (formal)"
+    ],
+    "مبصرین": [
+      "mubassireen",
+      "observers; commentators (Arabic pl.)"
+    ],
+    "اسے": [
+      "ise",
+      "it (object form of “yeh”)"
+    ],
+    "دونوں": [
+      "donon",
+      "both (“donon mumaalik” = the two countries)"
+    ],
+    "ممالک": [
+      "mumaalik",
+      "countries (Arabic pl. of “mulk”)"
+    ],
+    "درمیان": [
+      "darmiyaan",
+      "middle (“ke darmiyaan” = between)"
+    ],
+    "تعلقات": [
+      "taalluqaat",
+      "relations (pl.)"
+    ],
+    "بہتری": [
+      "behtari",
+      "improvement"
+    ],
+    "اُمید": [
+      "umeed",
+      "hope"
+    ],
+    "طور": [
+      "taur",
+      "manner (“ke taur par” = as)"
+    ],
+    "دیکھ": [
+      "dekh",
+      "see (“dekh rahe hain” = are seeing)"
+    ],
+    "رہے": [
+      "rahe",
+      "(continuous, pl.) (“dekh rahe hain” = are seeing)"
+    ],
+    "جبکہ": [
+      "jabke",
+      "while; whereas"
+    ],
+    "ماہرین": [
+      "maahireen",
+      "experts (Arabic pl.)"
+    ],
+    "کہنا": [
+      "kehna",
+      "to say (“X ka kehna hai” = X says)"
+    ],
+    "دورے": [
+      "daure",
+      "visit (oblique)"
+    ],
+    "گنجائش": [
+      "gunjaaish",
+      "room; scope"
+    ],
+    "کم": [
+      "kam",
+      "little; less"
+    ],
+    "صحافیوں": [
+      "sahaafiyon",
+      "journalists (pl. oblique)"
+    ],
+    "گفتگو": [
+      "guftagu",
+      "conversation (“guftagu ke dauraan” = while talking)"
+    ],
+    "دوران": [
+      "dauraan",
+      "course (“ke dauraan” = during)"
+    ],
+    "واضح": [
+      "waazeh",
+      "clear (“waazeh karna” = to make clear)"
+    ],
+    "چکے": [
+      "chuke",
+      "already (“kar chuke hain” = have already done)"
+    ],
+    "دورہ": [
+      "daura",
+      "visit; tour"
+    ],
+    "خالصتاً": [
+      "khaalisatan",
+      "purely; solely (formal)"
+    ],
+    "حوالے": [
+      "hawaale",
+      "reference (“ke hawaale se” = with regard to)"
+    ],
+    "عزم": [
+      "azm",
+      "resolve; commitment"
+    ],
+    "توثیق": [
+      "tauseeq",
+      "affirmation; endorsement (formal)"
+    ],
+    "دو": [
+      "do",
+      "two (“do tarfa” = bilateral)"
+    ],
+    "طرفہ": [
+      "tarfa",
+      "-sided (“do tarfa” = bilateral, two-sided)"
+    ],
+    "معاملات": [
+      "muaamlaat",
+      "matters; issues (Arabic pl.)"
+    ],
+    "بات": [
+      "baat",
+      "talk; matter (“baat karna” = to talk)"
+    ],
+    "ساتھ": [
+      "saath",
+      "with (“saath hi” = at the same time)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "ہمیشہ": [
+      "hamesha",
+      "always (“hamesha se” = all along)"
+    ],
+    "ذریعے": [
+      "zariye",
+      "means (“ke zariye” = through)"
+    ],
+    "حل": [
+      "hal",
+      "solution (“hal karna” = to resolve)"
+    ],
+    "کرنا": [
+      "karna",
+      "to do (“hal karna ki baat”: the source's slip for “hal karne ki baat”, talk of resolving)"
+    ],
+    "کرتا": [
+      "karta",
+      "does (m.) (“baat karta raha hai” = has kept talking about)"
+    ],
+    "رہا": [
+      "raha",
+      "kept on (“karta raha hai” = has been doing)"
+    ],
+    "اُنھوں": [
+      "unhon",
+      "he (respectful), used with “ne”"
+    ],
+    "دہشت": [
+      "dehshat",
+      "terror (“dehshat gardi” = terrorism)"
+    ],
+    "گردی": [
+      "gardi",
+      "-ism (“dehshat gardi” = terrorism)"
+    ],
+    "معاملے": [
+      "muaamle",
+      "matter; issue (oblique)"
+    ],
+    "شواہد": [
+      "shawaahid",
+      "evidence (Arabic pl. of “shaahid”)"
+    ],
+    "بنیاد": [
+      "buniyaad",
+      "basis; foundation (“ki buniyaad par” = on the basis of)"
+    ],
+    "کرنی": [
+      "karni",
+      "to do (f., agreeing with “baat”) (“baat karni chaahiye” = should talk)"
+    ],
+    "چاہیے": [
+      "chaahiye",
+      "should; ought to"
+    ],
+    "دارالحکومت": [
+      "daar-ul-hukoomat",
+      "capital (city)"
+    ],
+    "نئی": [
+      "nai",
+      "new (f.) (“nai dehli” = New Delhi)"
+    ],
+    "دہلی": [
+      "dehli",
+      "Delhi"
+    ],
+    "پہلے": [
+      "pehle",
+      "first (oblique)"
+    ],
+    "تہذیبی": [
+      "tehzeebi",
+      "civilisational; cultural"
+    ],
+    "مکالمے": [
+      "mukaalime",
+      "dialogue (oblique)"
+    ],
+    "جمعے": [
+      "jume",
+      "Friday (oblique) (“jume ko” = on Friday)"
+    ],
+    "پہنچے": [
+      "pahunche",
+      "arrived (pl. / respectful)"
+    ],
+    "مئی": [
+      "mai",
+      "May (month)"
+    ],
+    "بلاول": [
+      "bilaawal",
+      "Bilawal (Bilawal Bhutto Zardari, Pakistan's foreign minister in 2023)"
+    ],
+    "بھٹو": [
+      "bhuṭṭo",
+      "Bhutto (family name)"
+    ],
+    "زرداری": [
+      "zardaari",
+      "Zardari (family name)"
+    ],
+    "چار": [
+      "chaar",
+      "four"
+    ],
+    "روزہ": [
+      "roza",
+      "-day (“chaar roza” = four-day)"
+    ],
+    "لڑائی": [
+      "laṛaai",
+      "fighting; conflict"
+    ],
+    "بعد": [
+      "baad",
+      "after (“ke baad” = after)"
+    ],
+    "پاکستانی": [
+      "paakistaani",
+      "Pakistani"
+    ],
+    "پہلا": [
+      "pehla",
+      "first (m.)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "مصدق ملک انڈیا کیوں گئے؟",
+      "english": "Why did Musadik Malik go to India?",
+      "options": [
+        {
+          "urdu": "انڈیا سے دو طرفہ مذاکرات کرنے",
+          "english": "To hold bilateral talks with India"
+        },
+        {
+          "urdu": "شنگھائی تعاون تنظیم کے اجلاس میں شرکت کے لیے",
+          "english": "To take part in a Shanghai Cooperation Organisation meeting"
+        },
+        {
+          "urdu": "کرکٹ میچ دیکھنے",
+          "english": "To watch a cricket match"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "مصدق ملک کے مطابق دہشت گردی پر بات کس بنیاد پر ہونی چاہیے؟",
+      "english": "According to Musadik Malik, on what basis should terrorism be discussed?",
+      "options": [
+        {
+          "urdu": "شواہد کی بنیاد پر",
+          "english": "On the basis of evidence"
+        },
+        {
+          "urdu": "میڈیا کی خبروں کی بنیاد پر",
+          "english": "On the basis of media reports"
+        },
+        {
+          "urdu": "اس پر بات نہیں ہونی چاہیے",
+          "english": "It should not be discussed at all"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "بعض ماہرین اس دورے کے بارے میں کیا کہتے ہیں؟",
+      "english": "What do some experts say about this visit?",
+      "options": [
+        {
+          "urdu": "دونوں ممالک کے تعلقات فوراً بہتر ہو جائیں گے",
+          "english": "Relations between the two countries will improve at once"
+        },
+        {
+          "urdu": "یہ دورہ منسوخ ہو گیا",
+          "english": "The visit was cancelled"
+        },
+        {
+          "urdu": "اس سے تعلقات میں بہتری کی گنجائش کم ہے",
+          "english": "There is little room for improvement in relations from it"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

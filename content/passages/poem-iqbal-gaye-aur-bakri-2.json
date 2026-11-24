@@ -1,0 +1,522 @@
+{
+  "id": "poem-iqbal-gaye-aur-bakri-2",
+  "title": {
+    "urdu": "ایک گائے اور بکری",
+    "english": "A Cow and a Goat"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["children", "nature", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: ایک گائے اور بکری (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%A7%DB%8C%DA%A9_%DA%AF%D8%A7%D8%A6%DB%92_%D8%A7%D9%88%D8%B1_%D8%A8%DA%A9%D8%B1%DB%8C",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "From the first part of Iqbal’s Bang-e-Dara (1924), among the poems he wrote for children: a fable in rhyming couplets. In this second and final part the goat answers the cow’s complaints, and the cow changes her mind.",
+  "series": {
+    "id": "poem-iqbal-gaye-aur-bakri",
+    "title": "A Cow and a Goat",
+    "part": 2,
+    "of": 2
+  },
+  "sentences": [
+    {
+      "urdu": "سُن کے بکری یہ ماجرا سارا",
+      "english": "Hearing this whole story, the goat",
+      "verse": true
+    },
+    {
+      "urdu": "بولی، ایسا گِلہ نہیں اچھّا",
+      "english": "said, “Such complaining is not good.",
+      "verse": true
+    },
+    {
+      "urdu": "بات سچّی ہے بے مزا لگتی",
+      "english": "A true word may taste unpleasant,",
+      "verse": true
+    },
+    {
+      "urdu": "مَیں کہوں گی مگر خدا لگتی",
+      "english": "but I will speak the honest truth.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بکری کہتی ہے کہ ایسی شکایت ٹھیک نہیں۔ سچی بات کڑوی لگتی ہے مگر میں انصاف کی بات کہوں گی۔",
+        "english": "The goat replies that such complaining is wrong. The truth may be unpleasant, but she will say what is fair (“khuda lagti kehna” = to speak the honest truth)."
+      }
+    },
+    {
+      "urdu": "یہ چراگہ، یہ ٹھنڈی ٹھنڈی ہوا",
+      "english": "This pasture, this cool, cool breeze,",
+      "verse": true
+    },
+    {
+      "urdu": "یہ ہری گھاس اور یہ سایا",
+      "english": "this green grass and this shade —",
+      "verse": true
+    },
+    {
+      "urdu": "ایسی خوشیاں ہمیں نصیب کہاں",
+      "english": "how could joys like these ever be our lot?",
+      "verse": true
+    },
+    {
+      "urdu": "یہ کہاں، بے زباں غریب کہاں!",
+      "english": "What have we poor, dumb creatures to do with such things!",
+      "verse": true,
+      "explanation": {
+        "urdu": "بکری کہتی ہے کہ یہ چراگاہ، ٹھنڈی ہوا، ہری گھاس اور سایہ ہم جیسے بے زبان جانوروں کو خود کہاں ملتے؟",
+        "english": "She points out that this pasture, breeze, grass and shade would never be theirs, poor dumb animals, on their own."
+      }
+    },
+    {
+      "urdu": "یہ مزے آدمی کے دَم سے ہیں",
+      "english": "These pleasures exist because of man;",
+      "verse": true
+    },
+    {
+      "urdu": "لُطف سارے اسی کے دَم سے ہیں",
+      "english": "all these delights are thanks to him.",
+      "verse": true
+    },
+    {
+      "urdu": "اس کے دَم سے ہے اپنی آبادی",
+      "english": "Our very life and plenty is thanks to him.",
+      "verse": true
+    },
+    {
+      "urdu": "قید ہم کو بھلی کہ آزادی!",
+      "english": "Which is better for us — this captivity, or freedom?",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہ سب آرام انسان کی وجہ سے ہے۔ اس کی قید ہمارے لیے جنگل کی آزادی سے بہتر ہے۔",
+        "english": "All these comforts come from man. The goat asks whether captivity with man is not better for them than freedom — and implies that it is."
+      }
+    },
+    {
+      "urdu": "سَو طرح کا بَنوں میں ہے کھٹکا",
+      "english": "In the forests there are a hundred kinds of danger;",
+      "verse": true
+    },
+    {
+      "urdu": "واں کی گُزران سے بچائے خُدا",
+      "english": "God save us from life out there!",
+      "verse": true
+    },
+    {
+      "urdu": "ہم پہ احسان ہے بڑا اس کا",
+      "english": "He has done us a great favour;",
+      "verse": true
+    },
+    {
+      "urdu": "ہم کو زیبا نہیں گِلا اس کا",
+      "english": "it does not become us to complain about him.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جنگل میں ہر طرف خطرہ ہوتا ہے۔ انسان کا ہم پر بڑا احسان ہے، اس لیے اس کی شکایت کرنا ہمیں زیب نہیں دیتا۔",
+        "english": "The forest is full of dangers. Man has done them a great favour, so it is not right for them to complain about him."
+      }
+    },
+    {
+      "urdu": "قدر آرام کی اگر سمجھو",
+      "english": "If you understand the value of comfort,",
+      "verse": true
+    },
+    {
+      "urdu": "آدمی کا کبھی گِلہ نہ کرو",
+      "english": "never complain about man.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "بکری کہتی ہے کہ اگر تم آرام کی قدر جانتی ہو تو کبھی انسان کی شکایت مت کرو۔",
+        "english": "The goat concludes: if you value comfort, never complain about man."
+      }
+    },
+    {
+      "urdu": "گائے سُن کر یہ بات شرمائی",
+      "english": "Hearing this, the cow felt ashamed,",
+      "verse": true
+    },
+    {
+      "urdu": "آدمی کے گِلے سے پچھتائی",
+      "english": "and regretted her complaint against man.",
+      "verse": true
+    },
+    {
+      "urdu": "دل میں پرکھا بھلا بُرا اُس نے",
+      "english": "She weighed the good and the bad in her heart,",
+      "verse": true
+    },
+    {
+      "urdu": "اور کچھ سوچ کر کہا اُس نے",
+      "english": "and after some thought she said:",
+      "verse": true,
+      "explanation": {
+        "urdu": "گائے یہ سن کر شرمندہ ہوئی اور اپنی شکایت پر پچھتائی۔ اس نے دل میں اچھائی برائی کو تولا۔",
+        "english": "The cow is ashamed and regrets her complaint. She weighs the right and wrong of it in her mind."
+      }
+    },
+    {
+      "urdu": "یوں تو چھوٹی ہے ذات بکری کی",
+      "english": "“The goat may be a humble creature,",
+      "verse": true
+    },
+    {
+      "urdu": "دل کو لگتی ہے بات بکری کی",
+      "english": "but the goat’s words go straight to the heart.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "آخر گائے مان گئی کہ بکری چھوٹا جانور ہے مگر اس کی بات دل کو لگتی ہے۔ یعنی چھوٹے کی بات بھی سچی ہو سکتی ہے۔",
+        "english": "Finally the cow admits that, though the goat is a small creature, her words ring true — wisdom can come from the humble."
+      }
+    }
+  ],
+  "glossary": {
+    "سن": [
+      "sun",
+      "hear (“sun ke / sun kar” = hearing)"
+    ],
+    "بکری": [
+      "bakri",
+      "goat (f.)"
+    ],
+    "ماجرا": [
+      "maajra",
+      "story; account of what happened"
+    ],
+    "سارا": [
+      "saara",
+      "whole; all"
+    ],
+    "بولی": [
+      "boli",
+      "said (f.)"
+    ],
+    "ایسا": [
+      "aisa",
+      "such"
+    ],
+    "گلہ": [
+      "gila",
+      "complaint"
+    ],
+    "اچھا": [
+      "achchha",
+      "good"
+    ],
+    "سچی": [
+      "sachchi",
+      "true (f.)"
+    ],
+    "بے": [
+      "be",
+      "without (“be-shumaar” = countless; “be-zabaan” = dumb, voiceless; “be-maza” = unpleasant)"
+    ],
+    "مزا": [
+      "maza",
+      "taste (“be-maza” = unpleasant)"
+    ],
+    "لگتی": [
+      "lagti",
+      "seems (f.) (“khuda lagti” = honest, fair; “dil ko lagti hai” = touches the heart)"
+    ],
+    "مَیں": [
+      "main",
+      "I"
+    ],
+    "کہوں": [
+      "kahoon",
+      "(I) say"
+    ],
+    "گی": [
+      "gi",
+      "will (f.)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "چراگہ": [
+      "charaagah",
+      "pasture; meadow (poetic form of “charaagaah”)"
+    ],
+    "ٹھنڈی": [
+      "ṭhanḍi",
+      "cool (f.)"
+    ],
+    "ہوا": [
+      "hawa",
+      "breeze; air"
+    ],
+    "ہری": [
+      "hari",
+      "green (f.)"
+    ],
+    "گھاس": [
+      "ghaas",
+      "grass"
+    ],
+    "سایا": [
+      "saaya",
+      "shade (spelled “saaya”)"
+    ],
+    "خوشیاں": [
+      "khushiyaan",
+      "joys (pl.)"
+    ],
+    "ہمیں": [
+      "hamen",
+      "to us"
+    ],
+    "نصیب": [
+      "naseeb",
+      "lot; destiny (“naseeb kahaan” = how could it be ours?)"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where (“A kahaan, B kahaan” = A has nothing to do with B)"
+    ],
+    "زباں": [
+      "zabaan",
+      "tongue (“be-zabaan” = dumb, voiceless)"
+    ],
+    "غریب": [
+      "ghareeb",
+      "poor; humble"
+    ],
+    "مزے": [
+      "maze",
+      "pleasures; enjoyments"
+    ],
+    "آدمی": [
+      "aadmi",
+      "man; humankind"
+    ],
+    "دم": [
+      "dam",
+      "breath (“A ke dam se” = thanks to A)"
+    ],
+    "لطف": [
+      "lutf",
+      "delight; pleasure"
+    ],
+    "سارے": [
+      "saare",
+      "all"
+    ],
+    "اسی": [
+      "isi",
+      "this very one (“isi ke” = his alone)"
+    ],
+    "اس": [
+      "is",
+      "this; him (oblique)"
+    ],
+    "آبادی": [
+      "aabaadi",
+      "flourishing; settled life"
+    ],
+    "قید": [
+      "qaid",
+      "captivity"
+    ],
+    "ہم": [
+      "ham",
+      "we; us"
+    ],
+    "بھلی": [
+      "bhali",
+      "good (f.) (“buri bhali” = somehow; “bhali” = better)"
+    ],
+    "کہ": [
+      "keh",
+      "or (“A keh B” = A or B); that"
+    ],
+    "آزادی": [
+      "aazaadi",
+      "freedom"
+    ],
+    "سَو": [
+      "sau",
+      "a hundred"
+    ],
+    "بنوں": [
+      "banon",
+      "forests (pl. oblique)"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "کھٹکا": [
+      "khaṭka",
+      "danger; fear"
+    ],
+    "واں": [
+      "waan",
+      "there (poetic form of “wahaan”)"
+    ],
+    "گزران": [
+      "guzraan",
+      "way of life; livelihood"
+    ],
+    "بچائے": [
+      "bachaaye",
+      "may (God) save"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "احسان": [
+      "ehsaan",
+      "favour; kindness"
+    ],
+    "بڑا": [
+      "baṛa",
+      "great"
+    ],
+    "زیبا": [
+      "zeba",
+      "becoming; fitting"
+    ],
+    "گلا": [
+      "gila",
+      "complaint (another spelling of “gila”)"
+    ],
+    "قدر": [
+      "qadr",
+      "value; worth"
+    ],
+    "آرام": [
+      "aaraam",
+      "comfort"
+    ],
+    "سمجھو": [
+      "samjho",
+      "(you) understand"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever (“kabhi na” = never)"
+    ],
+    "کرو": [
+      "karo",
+      "do"
+    ],
+    "گائے": [
+      "gaaye",
+      "cow (f.)"
+    ],
+    "شرمائی": [
+      "sharmaai",
+      "felt ashamed (f.)"
+    ],
+    "گلے": [
+      "gile",
+      "complaint (oblique)"
+    ],
+    "پچھتائی": [
+      "pachhtaai",
+      "regretted (f.)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "پرکھا": [
+      "parkha",
+      "weighed; examined"
+    ],
+    "بھلا": [
+      "bhala",
+      "good; kindness"
+    ],
+    "برا": [
+      "bura",
+      "bad (“bhala bura” = good and bad)"
+    ],
+    "اُس": [
+      "us",
+      "that; she; he (oblique)"
+    ],
+    "سوچ": [
+      "soch",
+      "think (“soch kar” = after thinking)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "یوں": [
+      "yoon",
+      "like this; thus"
+    ],
+    "چھوٹی": [
+      "chhoṭi",
+      "small; humble (f.)"
+    ],
+    "ذات": [
+      "zaat",
+      "being; kind; nature"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "بکری کے خیال میں چراگاہ اور آرام کس کی وجہ سے ہے؟",
+      "english": "In the goat’s view, whom do they owe the pasture and comforts to?",
+      "options": [
+        {
+          "urdu": "اپنی محنت کی وجہ سے",
+          "english": "their own hard work"
+        },
+        {
+          "urdu": "انسان کی وجہ سے",
+          "english": "man"
+        },
+        {
+          "urdu": "جنگل کی وجہ سے",
+          "english": "the forest"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "بکری جنگل کی زندگی کے بارے میں کیا کہتی ہے؟",
+      "english": "What does the goat say about life in the forest?",
+      "options": [
+        {
+          "urdu": "وہاں سو طرح کے خطرے ہیں",
+          "english": "there are a hundred kinds of danger there"
+        },
+        {
+          "urdu": "وہاں سب سے زیادہ آرام ہے",
+          "english": "it is the most comfortable"
+        },
+        {
+          "urdu": "وہاں گھاس زیادہ ہے",
+          "english": "there is more grass there"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "بکری کی بات سن کر گائے نے کیا محسوس کیا؟",
+      "english": "How did the cow feel after hearing the goat?",
+      "options": [
+        {
+          "urdu": "وہ ناراض ہو گئی",
+          "english": "she got angry"
+        },
+        {
+          "urdu": "وہ ہنسنے لگی",
+          "english": "she started laughing"
+        },
+        {
+          "urdu": "وہ شرمندہ ہوئی اور پچھتائی",
+          "english": "she felt ashamed and regretted it"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

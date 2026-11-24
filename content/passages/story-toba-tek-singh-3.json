@@ -1,0 +1,478 @@
+{
+  "id": "story-toba-tek-singh-3",
+  "title": {
+    "urdu": "ٹوبہ ٹیک سنگھ (۳)",
+    "english": "Toba Tek Singh (3)"
+  },
+  "category": "stories",
+  "level": "medium",
+  "tags": ["history", "society"],
+  "source": {
+    "name": "Urdu Wikisource: ٹوبہ ٹیک سنگھ",
+    "url": "https://ur.wikisource.org/wiki/ٹوبہ_ٹیک_سنگھ",
+    "author": "Saadat Hasan Manto",
+    "license": "Public domain"
+  },
+  "intro": "Even the inmates who are not really mad cannot work out where Pakistan is, or which country they are now in. The story continues well beyond this part; Manto’s title character, a Sikh inmate from the town of Toba Tek Singh, appears later.",
+  "series": {
+    "id": "story-toba-tek-singh",
+    "title": "Toba Tek Singh",
+    "part": 3,
+    "of": 3
+  },
+  "sentences": [
+    {
+      "urdu": "ایک دن نہاتے نہاتے ایک مسلمان پاگل نے ’’پاکستان زندہ باد‘‘ کا نعرہ اس زور سے بلند کیا کہ فرش پر پھسل کر گرا اور بے ہوش ہوگیا۔",
+      "english": "One day, while bathing, a Muslim lunatic shouted “Pakistan Zindabad!” so forcefully that he slipped on the floor, fell and knocked himself unconscious."
+    },
+    {
+      "urdu": "بعض پاگل ایسے بھی تھے جو پاگل نہیں تھے۔",
+      "english": "Some of the lunatics were not mad at all."
+    },
+    {
+      "urdu": "ان میں اکثریت ایسے قاتلوں کی تھی جن کے رشتہ داروں نے افسروں کو دے دلا کر، پاگل خانے بھجوا دیا تھا کہ پھانسی کے پھندے سے بچ جائیں۔",
+      "english": "Most of them were murderers whose relatives had bribed the officials to get them sent to the asylum, so that they would escape the hangman’s noose."
+    },
+    {
+      "urdu": "یہ کچھ کچھ سمجھتے تھے کہ ہندوستان کیوں تقسیم ہوا ہے اور یہ پاکستان کیا ہے۔",
+      "english": "They understood, more or less, why India had been divided and what this Pakistan was."
+    },
+    {
+      "urdu": "لیکن صحیح واقعات سے وہ بھی خبر تھے۔",
+      "english": "But they too were unaware of what had actually happened."
+    },
+    {
+      "urdu": "اخباروں سے کچھ پتا نہیں چلتا تھا اور پہرہ دار سپاہی ان پڑھ اور جاہل تھے۔",
+      "english": "Nothing could be learned from the newspapers, and the guards were illiterate and ignorant."
+    },
+    {
+      "urdu": "ان کی گفتگوؤں سے بھی وہ کوئی نتیجہ برآمد نہیں کرسکتے تھے۔",
+      "english": "They couldn’t draw any conclusions from the guards’ conversations either."
+    },
+    {
+      "urdu": "ان کو صرف اتنا معلوم تھا کہ ایک آدمی محمد علی جناح ہے جس کو قائداعظم کہتے ہیں۔",
+      "english": "All they knew was that there was a man, Muhammad Ali Jinnah, whom people called the Quaid-e-Azam."
+    },
+    {
+      "urdu": "اس نے مسلمانوں کے لیے ایک علیحدہ ملک بنایا ہے جس کا نام پاکستان ہے۔۔۔",
+      "english": "He had made a separate country for the Muslims, called Pakistan…"
+    },
+    {
+      "urdu": "یہ کہاں ہے، اس کا محل وقوع کیا ہے، اس کے متعلق وہ کچھ نہیں جانتے تھے۔",
+      "english": "Where it was, and what its location was, they knew nothing about."
+    },
+    {
+      "urdu": "یہی وجہ ہے کہ پاگل خانے میں وہ سب پاگل جن کا دماغ پوری طرح ماؤف نہیں ہوا تھا، اس مخصمے میں گرفتار تھے کہ وہ پاکستان میں ہیں یا ہندوستان میں۔۔۔",
+      "english": "That is why all the lunatics in the asylum whose minds had not completely gone were caught in the dilemma of whether they were in Pakistan or in India…"
+    },
+    {
+      "urdu": "اگر ہندوستان میں ہیں تو پاکستان کہاں ہے!",
+      "english": "If they were in India, then where was Pakistan!"
+    },
+    {
+      "urdu": "اگر وہ پاکستان میں ہیں تو یہ کیسے ہوسکتا ہے کہ وہ کچھ عرصے پہلے یہیں رہتے ہوئے بھی ہندوستان میں تھے!",
+      "english": "And if they were in Pakistan, how could it be that only a short while ago, living right here, they had been in India!"
+    }
+  ],
+  "glossary": {
+    "دن": [
+      "din",
+      "day (“ek din” = one day)"
+    ],
+    "نہاتے": [
+      "nahaate",
+      "bathing (“nahaate nahaate” = while bathing)"
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslim"
+    ],
+    "پاگل": [
+      "paagal",
+      "mad; lunatic (“paagal khaana” = lunatic asylum)"
+    ],
+    "زندہ": [
+      "zinda",
+      "alive (“zinda baad” = long live)"
+    ],
+    "باد": [
+      "baad",
+      "may it be (“zinda baad” = long live)"
+    ],
+    "نعرہ": [
+      "naara",
+      "slogan; rallying cry"
+    ],
+    "زور": [
+      "zor",
+      "force (“is zor se” = so forcefully)"
+    ],
+    "بلند": [
+      "buland",
+      "raised; loud (“naara buland karna” = to shout a slogan)"
+    ],
+    "فرش": [
+      "farsh",
+      "floor"
+    ],
+    "پھسل": [
+      "phisal",
+      "slip (“phisal kar” = having slipped)"
+    ],
+    "گرا": [
+      "gira",
+      "fell"
+    ],
+    "بے": [
+      "be",
+      "without (“be hosh” = unconscious)"
+    ],
+    "ہوش": [
+      "hosh",
+      "senses; consciousness"
+    ],
+    "بعض": [
+      "baaz",
+      "some"
+    ],
+    "ایسے": [
+      "aise",
+      "such (pl.)"
+    ],
+    "ان": [
+      "un / an",
+      "them; their (oblique) / un- (in “an paṛh” = illiterate)"
+    ],
+    "اکثریت": [
+      "aksariyat",
+      "majority"
+    ],
+    "قاتلوں": [
+      "qaatilon",
+      "murderers (oblique pl.)"
+    ],
+    "رشتہ": [
+      "rishta",
+      "relation (“rishta daar” = relative)"
+    ],
+    "داروں": [
+      "daaron",
+      "(“rishta daaron” = relatives, oblique pl.)"
+    ],
+    "افسروں": [
+      "afsaron",
+      "officials; officers (oblique pl.)"
+    ],
+    "دے": [
+      "de",
+      "give (“de dila kar” = by paying bribes)"
+    ],
+    "دلا": [
+      "dila",
+      "(echo of “de”: “de dila kar” = by paying bribes)"
+    ],
+    "خانے": [
+      "khaane",
+      "house (oblique; “paagal khaane” = to the lunatic asylum)"
+    ],
+    "بھجوا": [
+      "bhijwa",
+      "have sent (“bhijwa diya tha” = had got them sent)"
+    ],
+    "پھانسی": [
+      "phaansi",
+      "hanging; the gallows"
+    ],
+    "پھندے": [
+      "phande",
+      "noose (oblique)"
+    ],
+    "بچ": [
+      "bach",
+      "escape (“bach jaaen” = (so that) they might escape)"
+    ],
+    "جائیں": [
+      "jaaen",
+      "(subjunctive: “bach jaaen” = might escape)"
+    ],
+    "کچھ": [
+      "kuchh",
+      "some; something (“kuchh kuchh” = somewhat; “kuchh arse pehle” = a while ago)"
+    ],
+    "سمجھتے": [
+      "samajhte",
+      "understood (pl.)"
+    ],
+    "ہندوستان": [
+      "hindustaan",
+      "India (Hindustan)"
+    ],
+    "کیوں": [
+      "kyun",
+      "why"
+    ],
+    "تقسیم": [
+      "taqseem",
+      "division (“taqseem hona” = to be divided)"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "صحیح": [
+      "saheeh",
+      "correct; actual"
+    ],
+    "واقعات": [
+      "waaqiaat",
+      "events"
+    ],
+    "خبر": [
+      "khabar",
+      "awareness; news (the source reads “khabar”, but the sense needs “be-khabar” = unaware)"
+    ],
+    "اخباروں": [
+      "akhbaaron",
+      "newspapers (oblique pl.)"
+    ],
+    "پتا": [
+      "pata",
+      "knowledge (“pata chalna” = to find out)"
+    ],
+    "چلتا": [
+      "chalta",
+      "(with “pata”: “pata nahin chalta tha” = nothing could be learned)"
+    ],
+    "پہرہ": [
+      "pehra",
+      "guard; watch (“pehra daar” = guard, sentry)"
+    ],
+    "دار": [
+      "daar",
+      "keeper (“pehra daar” = guard, sentry)"
+    ],
+    "سپاہی": [
+      "sipaahi",
+      "soldiers; constables"
+    ],
+    "پڑھ": [
+      "paṛh",
+      "read (“an paṛh” = illiterate)"
+    ],
+    "جاہل": [
+      "jaahil",
+      "ignorant; uneducated"
+    ],
+    "گفتگوؤں": [
+      "guftaguon",
+      "conversations (oblique pl.)"
+    ],
+    "نتیجہ": [
+      "nateeja",
+      "conclusion; result"
+    ],
+    "برآمد": [
+      "baraamad",
+      "drawn out (“nateeja baraamad karna” = to draw a conclusion)"
+    ],
+    "کرسکتے": [
+      "kar sakte",
+      "could (do) (pl.)"
+    ],
+    "صرف": [
+      "sirf",
+      "only"
+    ],
+    "اتنا": [
+      "itna",
+      "this much"
+    ],
+    "معلوم": [
+      "maaloom",
+      "known (“ko maaloom tha” = (they) knew)"
+    ],
+    "آدمی": [
+      "aadmi",
+      "man"
+    ],
+    "محمد": [
+      "muhammad",
+      "Muhammad"
+    ],
+    "علی": [
+      "ali",
+      "Ali"
+    ],
+    "جناح": [
+      "jinnaah",
+      "Jinnah"
+    ],
+    "قائداعظم": [
+      "qaaid-e-aazam",
+      "Quaid-e-Azam, “the Great Leader” (Jinnah’s title)"
+    ],
+    "کہتے": [
+      "kehte",
+      "(people) call; say"
+    ],
+    "مسلمانوں": [
+      "musalmaanon",
+      "Muslims (oblique pl.)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for)"
+    ],
+    "علیحدہ": [
+      "alaihda",
+      "separate"
+    ],
+    "ملک": [
+      "mulk",
+      "country"
+    ],
+    "بنایا": [
+      "banaaya",
+      "made; created"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where"
+    ],
+    "محل": [
+      "mahal",
+      "place (“mahal-e-wuqoo” = location)"
+    ],
+    "وقوع": [
+      "wuqoo",
+      "occurrence (in “mahal-e-wuqoo” = location, geographical position)"
+    ],
+    "متعلق": [
+      "mutaalliq",
+      "concerning (“ke mutaalliq” = about)"
+    ],
+    "جانتے": [
+      "jaante",
+      "knew (pl.)"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason (“yahi wajah hai” = that is why)"
+    ],
+    "دماغ": [
+      "dimaagh",
+      "mind; brain"
+    ],
+    "پوری": [
+      "poori",
+      "full; complete (f.; “poori tarah” = completely)"
+    ],
+    "ماؤف": [
+      "maaoof",
+      "numbed; deranged"
+    ],
+    "مخصمے": [
+      "makhmase",
+      "dilemma (oblique; the source’s spelling of مخمصے)"
+    ],
+    "گرفتار": [
+      "giraftaar",
+      "caught; trapped"
+    ],
+    "یا": [
+      "ya",
+      "or"
+    ],
+    "کیسے": [
+      "kaise",
+      "how"
+    ],
+    "ہوسکتا": [
+      "ho sakta",
+      "can be"
+    ],
+    "عرصے": [
+      "arse",
+      "period of time (oblique; “kuchh arse pehle” = a while ago)"
+    ],
+    "پہلے": [
+      "pehle",
+      "before; ago"
+    ],
+    "یہیں": [
+      "yaheen",
+      "right here"
+    ],
+    "رہتے": [
+      "rehte",
+      "living (“rehte hue bhi” = even while living)"
+    ],
+    "ہوئے": [
+      "hue",
+      "(with “rehte”: “rehte hue” = while living)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پاگل خانے میں کچھ قاتل کیوں تھے؟",
+      "english": "Why were some murderers in the asylum?",
+      "options": [
+        {
+          "urdu": "وہ واقعی بیمار تھے",
+          "english": "They were really ill"
+        },
+        {
+          "urdu": "پولیس نے انہیں غلطی سے بھیجا تھا",
+          "english": "The police had sent them by mistake"
+        },
+        {
+          "urdu": "رشتہ داروں نے انہیں پھانسی سے بچانے کے لیے بھجوایا تھا",
+          "english": "Their relatives had got them sent there to save them from hanging"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "یہ لوگ صحیح واقعات کیوں نہیں جانتے تھے؟",
+      "english": "Why didn’t these people know what had actually happened?",
+      "options": [
+        {
+          "urdu": "اخباروں سے پتا نہیں چلتا تھا اور پہرہ دار ان پڑھ تھے",
+          "english": "The newspapers told them nothing and the guards were illiterate"
+        },
+        {
+          "urdu": "انہیں باہر جانے کی اجازت تھی",
+          "english": "They were allowed to go outside"
+        },
+        {
+          "urdu": "وہ سیاست میں دلچسپی نہیں رکھتے تھے",
+          "english": "They weren’t interested in politics"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "پاگلوں کا مخمصہ کیا تھا؟",
+      "english": "What was the lunatics’ dilemma?",
+      "options": [
+        {
+          "urdu": "جناح کون ہے",
+          "english": "Who Jinnah was"
+        },
+        {
+          "urdu": "وہ پاکستان میں ہیں یا ہندوستان میں",
+          "english": "Whether they were in Pakistan or in India"
+        },
+        {
+          "urdu": "انہیں کب نہانا چاہیے",
+          "english": "When they should bathe"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

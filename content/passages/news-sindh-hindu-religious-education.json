@@ -1,0 +1,396 @@
+{
+  "id": "news-sindh-hindu-religious-education",
+  "title": {
+    "urdu": "سندھ کے سکولوں میں ہندو مذہبی تعلیم",
+    "english": "Hindu religious education in Sindh's schools"
+  },
+  "category": "news",
+  "level": "medium",
+  "tags": ["faith", "society"],
+  "source": {
+    "name": "BBC Urdu: ’بچوں کے لیے کتاب، ہمارے لیے بھگتی‘: سندھ کے سرکاری سکولوں میں پہلی بار ہندو طلبہ کے لیے مذہبی تعلیم کا آغاز",
+    "url": "https://www.bbc.com/urdu/articles/cxp80yl8d380o",
+    "author": "Shumaila Khan",
+    "license": "Personal use only"
+  },
+  "intro": "Published 20 November 2026. For the first time since Partition, government schools in Sindh province have started teaching Hindu pupils their own religion, Sanatan Dharma (the traditional name for Hinduism), from new textbooks; until now they studied Islamiyat or Ethics.",
+  "sentences": [
+    {
+      "urdu": "پاکستان کے صوبے سندھ میں حکومت نے سرکاری سکولوں میں ہندو طلبہ کے لیے مذہبی تعلیم کا آغاز کیا ہے۔",
+      "english": "In Pakistan's Sindh province, the government has begun religious education for Hindu pupils in government schools."
+    },
+    {
+      "urdu": "پہلے مرحلے میں عمرکوٹ اور تھرپارکر کے سکولوں میں تیسری سے پانچویں جماعت تک سناتن دھرم یا ہندو مذہب کی کتابیں متعارف کرائی گئی ہیں، تاکہ بچے اپنے مذہب کی بنیادی تعلیمات اور روایات پڑھ سکیں۔",
+      "english": "In the first phase, books on Sanatan Dharma, or the Hindu religion, have been introduced for classes three to five in schools in Umerkot and Tharparkar, so that children can study the basic teachings and traditions of their religion."
+    },
+    {
+      "urdu": "تقسیمِ ہند کے بعد 79 برسوں میں یہ پہلی بار ہے کہ سندھ کے سرکاری سکولوں میں ہندو طلبہ کو نصابی کتابوں کے ذریعے اپنے مذہب کی تعلیم دی جا رہی ہے۔",
+      "english": "In the 79 years since the Partition of India, this is the first time that Hindu pupils in Sindh's government schools are being taught their own religion through textbooks."
+    },
+    {
+      "urdu": "اس سے پہلے یہ طلبہ اسلامیات یا اخلاقیات پڑھتے تھے، جس میں تمام مذاہب کے بنیادی عقائد اور تاریخ شامل ہوتی تھی۔",
+      "english": "Before this, these pupils studied Islamiyat or Ethics, which covered the basic beliefs and history of all religions."
+    },
+    {
+      "urdu": "سناتن دھرم کی ان کتابوں میں رامائن، بھگوت گیتا، ہندو دیوی دیوتاؤں، مذہبی تہواروں اور رسومات کا تعارف شامل ہے۔",
+      "english": "These Sanatan Dharma books include an introduction to the Ramayana, the Bhagavad Gita, Hindu gods and goddesses, religious festivals and rituals."
+    },
+    {
+      "urdu": "ان میں پاکستان کے ہندو مندروں اور مقدس مقامات کے علاوہ اہم مذہبی اور سماجی شخصیات کا بھی ذکر ہے۔",
+      "english": "As well as Pakistan's Hindu temples and holy places, they also mention important religious and social figures."
+    }
+  ],
+  "glossary": {
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "صوبے": [
+      "soobe",
+      "province (oblique) (“soobe sindh mein” = in Sindh province)"
+    ],
+    "سندھ": [
+      "sindh",
+      "Sindh (province in southern Pakistan)"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "سکولوں": [
+      "skoolon",
+      "schools (pl. oblique)"
+    ],
+    "ہندو": [
+      "hindu",
+      "Hindu"
+    ],
+    "طلبہ": [
+      "talaba",
+      "pupils; students (Arabic pl., formal)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for)"
+    ],
+    "مذہبی": [
+      "mazhabi",
+      "religious"
+    ],
+    "تعلیم": [
+      "taaleem",
+      "education; teaching (“taaleem dena” = to teach)"
+    ],
+    "آغاز": [
+      "aaghaaz",
+      "beginning; start (“aaghaaz karna” = to begin) (formal)"
+    ],
+    "کیا": [
+      "kiya",
+      "did (“aaghaaz kiya hai” = has begun)"
+    ],
+    "پہلے": [
+      "pehle",
+      "first (oblique) (“pehle marhale mein” = in the first phase); before (“is se pehle” = before this)"
+    ],
+    "مرحلے": [
+      "marhale",
+      "stage; phase (oblique)"
+    ],
+    "عمرکوٹ": [
+      "umarkoṭ",
+      "Umerkot (district in Sindh with a large Hindu population)"
+    ],
+    "تھرپارکر": [
+      "tharpaarkar",
+      "Tharparkar (desert district in Sindh)"
+    ],
+    "تیسری": [
+      "teesri",
+      "third (f.) (“teesri jamaat” = class 3)"
+    ],
+    "پانچویں": [
+      "paanchveen",
+      "fifth (“teesri se paanchveen jamaat tak” = classes 3 to 5)"
+    ],
+    "جماعت": [
+      "jamaat",
+      "class; grade (at school)"
+    ],
+    "سناتن": [
+      "sanaatan",
+      "Sanatan, “eternal” (“sanaatan dharm” = Hinduism)"
+    ],
+    "دھرم": [
+      "dharm",
+      "religion; dharma (Hindi word)"
+    ],
+    "یا": [
+      "ya",
+      "or"
+    ],
+    "مذہب": [
+      "mazhab",
+      "religion"
+    ],
+    "کتابیں": [
+      "kitaaben",
+      "books"
+    ],
+    "متعارف": [
+      "mutaarif",
+      "introduced (“mutaarif karaana” = to introduce) (formal)"
+    ],
+    "کرائی": [
+      "karaai",
+      "made (f.) (“mutaarif karaai gayi hain” = have been introduced)"
+    ],
+    "گئی": [
+      "gayi",
+      "passive helper (f.) (“karaai gayi hain” = have been made)"
+    ],
+    "تاکہ": [
+      "taake",
+      "so that"
+    ],
+    "بچے": [
+      "bachche",
+      "children"
+    ],
+    "بنیادی": [
+      "bunyaadi",
+      "basic; fundamental"
+    ],
+    "تعلیمات": [
+      "taaleemaat",
+      "teachings (pl. of “taaleem”)"
+    ],
+    "روایات": [
+      "rivaayaat",
+      "traditions (Arabic pl. of “rivaayat”)"
+    ],
+    "پڑھ": [
+      "paṛh",
+      "read; study (“paṛh saken” = can study)"
+    ],
+    "سکیں": [
+      "saken",
+      "may be able to (subjunctive pl.)"
+    ],
+    "تقسیمِ": [
+      "taqseem-e",
+      "partition of (“taqseem-e hind” = the Partition of India, 1947)"
+    ],
+    "ہند": [
+      "hind",
+      "India (Persian, historical name)"
+    ],
+    "بعد": [
+      "baad",
+      "after (“ke baad” = after; since)"
+    ],
+    "برسوں": [
+      "barson",
+      "years (pl. oblique)"
+    ],
+    "پہلی": [
+      "pehli",
+      "first (f.) (“pehli baar” = for the first time)"
+    ],
+    "بار": [
+      "baar",
+      "time; occasion"
+    ],
+    "نصابی": [
+      "nisaabi",
+      "curricular (“nisaabi kitaaben” = textbooks)"
+    ],
+    "کتابوں": [
+      "kitaabon",
+      "books (pl. oblique)"
+    ],
+    "ذریعے": [
+      "zariye",
+      "means (“ke zariye” = through; by means of)"
+    ],
+    "دی": [
+      "di",
+      "given (f.) (“taaleem di ja rahi hai” = is being taught)"
+    ],
+    "جا": [
+      "ja",
+      "passive helper (“di ja rahi hai” = is being given)"
+    ],
+    "رہی": [
+      "rahi",
+      "continuous helper (f.) (“ja rahi hai” = is being)"
+    ],
+    "اسلامیات": [
+      "islaamiyaat",
+      "Islamiyat, Islamic studies (school subject)"
+    ],
+    "اخلاقیات": [
+      "akhlaaqiyaat",
+      "ethics (school subject taken by non-Muslim pupils)"
+    ],
+    "پڑھتے": [
+      "paṛhte",
+      "studied (habitual) (“paṛhte the” = used to study)"
+    ],
+    "جس": [
+      "jis",
+      "which (oblique) (“jis mein” = in which)"
+    ],
+    "تمام": [
+      "tamaam",
+      "all"
+    ],
+    "مذاہب": [
+      "mazaahib",
+      "religions (Arabic pl. of “mazhab”)"
+    ],
+    "عقائد": [
+      "aqaaid",
+      "beliefs; creeds (Arabic pl. of “aqeeda”)"
+    ],
+    "تاریخ": [
+      "taareekh",
+      "history"
+    ],
+    "شامل": [
+      "shaamil",
+      "included (“shaamil hona” = to be included)"
+    ],
+    "ہوتی": [
+      "hoti",
+      "was (habitual, f.) (“shaamil hoti thi” = used to be included)"
+    ],
+    "ان": [
+      "in",
+      "these (oblique) (“in kitaabon” = these books; “in mein” = in them)"
+    ],
+    "رامائن": [
+      "raamaayan",
+      "the Ramayana (Hindu epic)"
+    ],
+    "بھگوت": [
+      "bhagvat",
+      "Bhagavad (“bhagvat geeta” = the Bhagavad Gita)"
+    ],
+    "گیتا": [
+      "geeta",
+      "Gita (the Bhagavad Gita, a Hindu scripture)"
+    ],
+    "دیوی": [
+      "devi",
+      "goddess (“devi devta” = gods and goddesses)"
+    ],
+    "دیوتاؤں": [
+      "devtaaon",
+      "gods (pl. oblique)"
+    ],
+    "تہواروں": [
+      "tehvaaron",
+      "festivals (pl. oblique)"
+    ],
+    "رسومات": [
+      "rusoomaat",
+      "rituals; customs (pl.)"
+    ],
+    "تعارف": [
+      "taaruf",
+      "introduction"
+    ],
+    "مندروں": [
+      "mandiron",
+      "temples (pl. oblique)"
+    ],
+    "مقدس": [
+      "muqaddas",
+      "holy; sacred"
+    ],
+    "مقامات": [
+      "maqaamaat",
+      "places; sites (Arabic pl. of “maqaam”)"
+    ],
+    "علاوہ": [
+      "alaava",
+      "besides (“ke alaava” = as well as; apart from)"
+    ],
+    "اہم": [
+      "aham",
+      "important"
+    ],
+    "سماجی": [
+      "samaaji",
+      "social"
+    ],
+    "شخصیات": [
+      "shakhsiyaat",
+      "personalities; figures (Arabic pl. of “shakhsiyat”)"
+    ],
+    "ذکر": [
+      "zikr",
+      "mention (“ka zikr hai” = is mentioned)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "اس سے پہلے ہندو طلبہ سکولوں میں کیا پڑھتے تھے؟",
+      "english": "What did Hindu pupils study at school before this?",
+      "options": [
+        {
+          "urdu": "صرف حساب",
+          "english": "Only maths"
+        },
+        {
+          "urdu": "اسلامیات یا اخلاقیات",
+          "english": "Islamiyat or Ethics"
+        },
+        {
+          "urdu": "بھگوت گیتا",
+          "english": "The Bhagavad Gita"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "پہلے مرحلے میں نئی کتابیں کہاں کے سکولوں میں متعارف کرائی گئی ہیں؟",
+      "english": "Schools in which places got the new books in the first phase?",
+      "options": [
+        {
+          "urdu": "کراچی اور حیدرآباد",
+          "english": "Karachi and Hyderabad"
+        },
+        {
+          "urdu": "پورے پاکستان",
+          "english": "All of Pakistan"
+        },
+        {
+          "urdu": "عمرکوٹ اور تھرپارکر",
+          "english": "Umerkot and Tharparkar"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "یہ تبدیلی کیوں اہم ہے؟",
+      "english": "Why is this change significant?",
+      "options": [
+        {
+          "urdu": "تقسیمِ ہند کے بعد پہلی بار ایسا ہو رہا ہے",
+          "english": "It is happening for the first time since Partition"
+        },
+        {
+          "urdu": "اب مسلمان بچے بھی سناتن دھرم پڑھیں گے",
+          "english": "Muslim children will now study Sanatan Dharma too"
+        },
+        {
+          "urdu": "سکولوں میں اخلاقیات کا مضمون شروع ہوا ہے",
+          "english": "Schools have started an Ethics subject"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

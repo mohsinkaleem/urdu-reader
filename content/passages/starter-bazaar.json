@@ -1,0 +1,225 @@
+{
+  "id": "starter-bazaar",
+  "title": {
+    "urdu": "بازار کی سیر",
+    "english": "A trip to the market"
+  },
+  "category": "starter",
+  "level": "easy",
+  "tags": ["everyday"],
+  "source": {
+    "name": "Written for this app"
+  },
+  "intro": "An everyday story written for this app: a Sunday trip to the vegetable market, with prices and haggling vocabulary.",
+  "sentences": [
+    {
+      "urdu": "اتوار کی صبح امی نے مجھے بازار بھیجا۔",
+      "english": "On Sunday morning, Mum sent me to the market."
+    },
+    {
+      "urdu": "موسم بہت خوشگوار تھا اور ہلکی ہلکی دھوپ نکلی ہوئی تھی۔",
+      "english": "The weather was very pleasant and there was gentle sunshine."
+    },
+    {
+      "urdu": "میں نے سبزی والے سے ٹماٹر، پیاز اور آلو خریدے۔",
+      "english": "I bought tomatoes, onions and potatoes from the vegetable seller."
+    },
+    {
+      "urdu": "آج کل ہر چیز بہت مہنگی ہو گئی ہے، اس لیے میں نے دکاندار سے تھوڑا مول تول کیا۔",
+      "english": "Everything has become very expensive these days, so I bargained a little with the shopkeeper."
+    },
+    {
+      "urdu": "واپسی پر میری ملاقات اپنے پرانے پڑوسی سے ہوئی۔",
+      "english": "On the way back I ran into my old neighbour."
+    },
+    {
+      "urdu": "انہوں نے مجھے شام کو چائے پر بلایا۔",
+      "english": "He invited me over for tea in the evening."
+    }
+  ],
+  "glossary": {
+    "اتوار": [
+      "itwaar",
+      "Sunday"
+    ],
+    "صبح": [
+      "subah",
+      "morning"
+    ],
+    "امی": [
+      "ammi",
+      "mum"
+    ],
+    "بازار": [
+      "baazaar",
+      "market"
+    ],
+    "بھیجا": [
+      "bheja",
+      "sent"
+    ],
+    "موسم": [
+      "mausam",
+      "weather"
+    ],
+    "خوشگوار": [
+      "khushgawaar",
+      "pleasant"
+    ],
+    "ہلکی": [
+      "halki",
+      "light; gentle (f.)"
+    ],
+    "دھوپ": [
+      "dhoop",
+      "sunshine"
+    ],
+    "نکلی": [
+      "nikli",
+      "came out (f.)"
+    ],
+    "سبزی": [
+      "sabzi",
+      "vegetable(s)"
+    ],
+    "ٹماٹر": [
+      "ṭamaaṭar",
+      "tomato(es)"
+    ],
+    "پیاز": [
+      "pyaaz",
+      "onion(s)"
+    ],
+    "آلو": [
+      "aaloo",
+      "potato(es)"
+    ],
+    "خریدے": [
+      "khareede",
+      "bought (pl.)"
+    ],
+    "آج": [
+      "aaj",
+      "today (“aaj kal” = these days)"
+    ],
+    "کل": [
+      "kal",
+      "yesterday; tomorrow (“aaj kal” = these days)"
+    ],
+    "چیز": [
+      "cheez",
+      "thing"
+    ],
+    "مہنگی": [
+      "mehngi",
+      "expensive (f.)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“is liye” = therefore)"
+    ],
+    "دکاندار": [
+      "dukaandaar",
+      "shopkeeper"
+    ],
+    "تھوڑا": [
+      "thoṛa",
+      "a little"
+    ],
+    "مول": [
+      "mol",
+      "price (“mol tol” = bargaining)"
+    ],
+    "تول": [
+      "tol",
+      "weighing (“mol tol” = bargaining)"
+    ],
+    "واپسی": [
+      "waapsi",
+      "return"
+    ],
+    "ملاقات": [
+      "mulaaqaat",
+      "meeting; encounter"
+    ],
+    "پرانے": [
+      "puraane",
+      "old"
+    ],
+    "پڑوسی": [
+      "paṛosi",
+      "neighbour"
+    ],
+    "شام": [
+      "shaam",
+      "evening"
+    ],
+    "چائے": [
+      "chaaye",
+      "tea"
+    ],
+    "بلایا": [
+      "bulaaya",
+      "called; invited"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "امی نے کس دن بازار بھیجا؟",
+      "english": "On which day did Mum send the narrator to the market?",
+      "options": [
+        {
+          "urdu": "جمعہ",
+          "english": "Friday"
+        },
+        {
+          "urdu": "اتوار",
+          "english": "Sunday"
+        },
+        {
+          "urdu": "پیر",
+          "english": "Monday"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "دکاندار سے مول تول کیوں کیا؟",
+      "english": "Why did the narrator bargain with the shopkeeper?",
+      "options": [
+        {
+          "urdu": "چیزیں مہنگی ہیں",
+          "english": "Things are expensive"
+        },
+        {
+          "urdu": "دکاندار دوست تھا",
+          "english": "The shopkeeper was a friend"
+        },
+        {
+          "urdu": "سبزی خراب تھی",
+          "english": "The vegetables were bad"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "پڑوسی نے کس چیز پر بلایا؟",
+      "english": "What did the neighbour invite the narrator for?",
+      "options": [
+        {
+          "urdu": "شادی",
+          "english": "A wedding"
+        },
+        {
+          "urdu": "کھانا",
+          "english": "A meal"
+        },
+        {
+          "urdu": "چائے",
+          "english": "Tea"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "id": "wiki-urdu-language",
+  "title": {
+    "urdu": "اردو اور ہندی",
+    "english": "Urdu and Hindi"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": ["language", "history"],
+  "source": {
+    "name": "Urdu Wikipedia: اردو",
+    "url": "https://ur.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D9%88",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "From the opening of the Urdu Wikipedia article on the Urdu language: how Urdu compares with Hindi. Sentence 5 gives the article's own view; scholars disagree about how the two are related.",
+  "sentences": [
+    {
+      "urdu": "اُردو کا بعض اوقات ہندی کے ساتھ موازنہ کیا جاتا ہے۔",
+      "english": "Urdu is sometimes compared with Hindi."
+    },
+    {
+      "urdu": "اُردو اور ہندی میں بُنیادی فرق یہ ہے کہ اُردو نستعلیق رسم الخط میں لکھی جاتی ہے اور عربی و فارسی الفاظ استعمال کرتی ہے۔",
+      "english": "The basic difference between Urdu and Hindi is that Urdu is written in the Nastaliq script and uses Arabic and Persian words."
+    },
+    {
+      "urdu": "جبکہ ہندی زبان دیوناگری رسم الخط میں لکھی جاتی ہے اور سنسکرت الفاظ زیادہ استعمال کرتی ہے۔",
+      "english": "Whereas the Hindi language is written in the Devanagari script and uses more Sanskrit words."
+    },
+    {
+      "urdu": "کچھ ماہرینِ لسانیات اُردو اور ہندی کو ایک ہی زبان کی دو معیاری صورتیں گردانتے ہیں۔",
+      "english": "Some linguists regard Urdu and Hindi as two standard forms of one and the same language."
+    },
+    {
+      "urdu": "لیکن حقیقت یہ ہے کہ ہندی، اُردو زبان سے نکلی ہے۔",
+      "english": "But the fact is that Hindi came out of the Urdu language."
+    },
+    {
+      "urdu": "اسی طرح اگر اردو اور ہندی زبان کو ایک سمجھا جائے تو یہ دنیا کی چوتھی بڑی زبان ہے۔",
+      "english": "Likewise, if Urdu and Hindi are considered one language, then it is the fourth largest language in the world."
+    },
+    {
+      "urdu": "اردو زبان دنیا کی نئی زبانوں میں سے ہونے کے باوجود اپنے پاس معیاری اور وسیع ذخیرہ ادب رکھتی ہے۔",
+      "english": "Although it is one of the world's newer languages, Urdu has a high-quality and extensive body of literature of its own."
+    },
+    {
+      "urdu": "خاص کر جنوب ایشیائی زبانوں میں اردو اپنی شاعری کے حوالے سے جانی جاتی ہے۔",
+      "english": "Among South Asian languages in particular, Urdu is known for its poetry."
+    }
+  ],
+  "glossary": {
+    "اُردو": [
+      "urdu",
+      "Urdu (written here with a vowel mark ُ on the alif)"
+    ],
+    "بعض": [
+      "baaz",
+      "some (“baaz auqaat” = sometimes)"
+    ],
+    "اوقات": [
+      "auqaat",
+      "times (Arabic pl. of “waqt”) (“baaz auqaat” = sometimes)"
+    ],
+    "ہندی": [
+      "hindi",
+      "Hindi"
+    ],
+    "ساتھ": [
+      "saath",
+      "with (“ke saath” = with)"
+    ],
+    "موازنہ": [
+      "muwaazna",
+      "comparison (“muwaazna karna” = to compare)"
+    ],
+    "جاتا": [
+      "jaata",
+      "(passive helper, m.) (“muwaazna kiya jaata hai” = is compared)"
+    ],
+    "بُنیادی": [
+      "buniyaadi",
+      "basic; fundamental (written with a vowel mark ُ)"
+    ],
+    "فرق": [
+      "farq",
+      "difference"
+    ],
+    "نستعلیق": [
+      "nastaaleeq",
+      "Nastaliq (the flowing Perso-Arabic script style used for Urdu)"
+    ],
+    "رسم": [
+      "rasm",
+      "custom; usage (“rasm ul-khat” = script, writing system)"
+    ],
+    "الخط": [
+      "ul-khat",
+      "of writing (“rasm ul-khat” = script)"
+    ],
+    "لکھی": [
+      "likhi",
+      "written (f.) (“likhi jaati hai” = is written)"
+    ],
+    "جاتی": [
+      "jaati",
+      "(passive helper, f.) (“likhi jaati hai” = is written)"
+    ],
+    "عربی": [
+      "arabi",
+      "Arabic"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”: “arabi o faarsi” = Arabic and Persian)"
+    ],
+    "فارسی": [
+      "faarsi",
+      "Persian"
+    ],
+    "الفاظ": [
+      "alfaaz",
+      "words (Arabic pl. of “lafz”)"
+    ],
+    "استعمال": [
+      "istemaal",
+      "use (“istemaal karna” = to use)"
+    ],
+    "کرتی": [
+      "karti",
+      "does (f.) (“istemaal karti hai” = uses)"
+    ],
+    "جبکہ": [
+      "jabke",
+      "whereas"
+    ],
+    "زبان": [
+      "zabaan",
+      "language"
+    ],
+    "دیوناگری": [
+      "devanaagri",
+      "Devanagari (the script used for Hindi)"
+    ],
+    "سنسکرت": [
+      "sanskrit",
+      "Sanskrit"
+    ],
+    "ماہرینِ": [
+      "maahireen-e",
+      "experts in (izafat) (“maahireen-e lisaaniyaat” = linguists)"
+    ],
+    "لسانیات": [
+      "lisaaniyaat",
+      "linguistics"
+    ],
+    "ہی": [
+      "hi",
+      "(emphasis) (“ek hi” = one and the same)"
+    ],
+    "معیاری": [
+      "meyaari",
+      "standard; of high quality"
+    ],
+    "صورتیں": [
+      "sooratein",
+      "forms"
+    ],
+    "گردانتے": [
+      "gardaante",
+      "regard; consider (m. pl.)"
+    ],
+    "حقیقت": [
+      "haqeeqat",
+      "reality; fact (“haqeeqat yeh hai” = the fact is)"
+    ],
+    "نکلی": [
+      "nikli",
+      "came out; emerged (f.)"
+    ],
+    "اسی": [
+      "isi",
+      "this very (“isi tarah” = likewise)"
+    ],
+    "اردو": [
+      "urdu",
+      "Urdu"
+    ],
+    "سمجھا": [
+      "samjha",
+      "considered; understood (“samjha jaaye” = is considered)"
+    ],
+    "جائے": [
+      "jaaye",
+      "(passive helper, subjunctive) (“agar … samjha jaaye” = if … is considered)"
+    ],
+    "تو": [
+      "to",
+      "then (“agar … to” = if … then)"
+    ],
+    "دنیا": [
+      "dunya",
+      "world"
+    ],
+    "چوتھی": [
+      "chauthi",
+      "fourth (f.)"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big; large (f.)"
+    ],
+    "نئی": [
+      "nayi",
+      "new (f.)"
+    ],
+    "زبانوں": [
+      "zabaanon",
+      "languages (pl. oblique)"
+    ],
+    "باوجود": [
+      "baawajood",
+      "despite (“ke baawajood” = in spite of)"
+    ],
+    "پاس": [
+      "paas",
+      "near; with (“apne paas … rakhti hai” = has of its own)"
+    ],
+    "وسیع": [
+      "wasee",
+      "vast; extensive"
+    ],
+    "ذخیرہ": [
+      "zakheera",
+      "store; stock (“zakheera-e-adab” = body of literature)"
+    ],
+    "ادب": [
+      "adab",
+      "literature"
+    ],
+    "رکھتی": [
+      "rakhti",
+      "keeps; has (f.)"
+    ],
+    "خاص": [
+      "khaas",
+      "special (“khaas kar” = especially)"
+    ],
+    "کر": [
+      "kar",
+      "(“khaas kar” = especially, in particular)"
+    ],
+    "جنوب": [
+      "junoob",
+      "south (“junoob eshiyaai” = South Asian)"
+    ],
+    "ایشیائی": [
+      "eshiyaai",
+      "Asian"
+    ],
+    "شاعری": [
+      "shaairi",
+      "poetry"
+    ],
+    "حوالے": [
+      "hawaale",
+      "reference (“ke hawaale se” = with regard to; for)"
+    ],
+    "جانی": [
+      "jaani",
+      "known (f.) (“jaani jaati hai” = is known)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "اُردو کس رسم الخط میں لکھی جاتی ہے؟",
+      "english": "In which script is Urdu written?",
+      "options": [
+        {
+          "urdu": "دیوناگری",
+          "english": "Devanagari"
+        },
+        {
+          "urdu": "نستعلیق",
+          "english": "Nastaliq"
+        },
+        {
+          "urdu": "رومن",
+          "english": "Roman"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "ہندی زیادہ تر کس زبان کے الفاظ استعمال کرتی ہے؟",
+      "english": "Hindi uses more words from which language?",
+      "options": [
+        {
+          "urdu": "سنسکرت",
+          "english": "Sanskrit"
+        },
+        {
+          "urdu": "عربی",
+          "english": "Arabic"
+        },
+        {
+          "urdu": "فارسی",
+          "english": "Persian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "جنوب ایشیائی زبانوں میں اردو خاص طور پر کس چیز کے لیے جانی جاتی ہے؟",
+      "english": "Among South Asian languages, what is Urdu especially known for?",
+      "options": [
+        {
+          "urdu": "سب سے پرانی زبان ہونے کے لیے",
+          "english": "Being the oldest language"
+        },
+        {
+          "urdu": "آسان گرامر کے لیے",
+          "english": "Its easy grammar"
+        },
+        {
+          "urdu": "اپنی شاعری کے لیے",
+          "english": "Its poetry"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

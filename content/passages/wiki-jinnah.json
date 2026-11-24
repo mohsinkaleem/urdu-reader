@@ -1,0 +1,514 @@
+{
+  "id": "wiki-jinnah",
+  "title": {
+    "urdu": "محمد علی جناح",
+    "english": "Muhammad Ali Jinnah"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "source": {
+    "name": "Urdu Wikipedia: محمد علی جناح",
+    "url": "https://ur.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%DB%8C_%D8%AC%D9%86%D8%A7%D8%AD",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "The opening of the Urdu Wikipedia article on Muhammad Ali Jinnah, the founder of Pakistan: his titles and his early career in the Congress. The first sentence is slightly garbled in the source: the opening bracket is missing, and the “ke” before “naamwar” has lost the word it belonged to.",
+  "sentences": [
+    {
+      "urdu": "محمد علی جناح پیدائشی نام، محمد علی جناح بھائی، 25 دسمبر 1876ء – 11 ستمبر 1948ء) کے نامور وکیل، سیاست دان اور بانی پاکستان تھے۔",
+      "english": "Muhammad Ali Jinnah (birth name Muhammad Ali Jinnahbhai, 25 December 1876 – 11 September 1948) was a renowned lawyer, a politician and the founder of Pakistan."
+    },
+    {
+      "urdu": "محمد علی جناح 1913ء سے لے کر پاکستان کی آزادی 14 اگست 1947ء تک آل انڈیا مسلم لیگ کے سربراہ رہے، پھر قیام پاکستان کے بعد اپنی وفات تک، وہ ملک کے پہلے گورنر جنرل رہے۔",
+      "english": "Muhammad Ali Jinnah was the head of the All-India Muslim League from 1913 until Pakistan's independence on 14 August 1947, and then, after Pakistan was founded, he was the country's first Governor-General until his death."
+    },
+    {
+      "urdu": "سرکاری طور پر پاکستان میں آپ کو قائدِ اعظم یعنی سب سے عظیم رہبر اور بابائے قوم یعنی قوم کا باپ بھی کہا جاتا ہے۔",
+      "english": "In Pakistan he is officially also called Quaid-e-Azam, meaning “the greatest leader”, and Baba-e-Qaum, meaning “the father of the nation”."
+    },
+    {
+      "urdu": "جناح کا یومِ پیدائش پاکستان میں قومی تعطیل کے طور پر منایا جاتا ہے۔",
+      "english": "Jinnah's birthday is celebrated as a national holiday in Pakistan."
+    },
+    {
+      "urdu": "کراچی کے پیدائشی اور لنکن ان سے بیرسٹری کی تربیت حاصل کرنے والے جناح، بیسویں صدی کے ابتدائی دو عشروں میں آل انڈیا کانگریس کے اہم رہنما کے طور پر ابھرے۔",
+      "english": "Born in Karachi and trained as a barrister at Lincoln's Inn, Jinnah emerged in the first two decades of the twentieth century as an important leader of the All-India Congress."
+    },
+    {
+      "urdu": "اپنی سیاست کے ابتدائی ادوار میں انھوں نے ہندو مسلم اتحاد کے لیے کام کیا۔",
+      "english": "In the early phases of his politics he worked for Hindu–Muslim unity."
+    },
+    {
+      "urdu": "1916ء میں آل انڈیا مسلم لیگ اور آل انڈیا کانگریس کے مابین ہونے والے میثاق لکھنؤ کو مرتب کرنے میں بھی انھوں نے اہم کردار ادا کیا۔",
+      "english": "He also played an important part in drawing up the Lucknow Pact of 1916 between the All-India Muslim League and the All-India Congress."
+    },
+    {
+      "urdu": "جناح آل انڈیا ہوم رول لیگ کے اہم رہنماوں میں سے تھے، انھوں نے چودہ نکات بھی پیش کیے، جن کا مقصد ہندوستان کے مسلمانوں کے سیاسی حقوق کا تحفظ کرنا تھا۔",
+      "english": "Jinnah was one of the key leaders of the All-India Home Rule League; he also put forward the Fourteen Points, whose aim was to protect the political rights of India's Muslims."
+    },
+    {
+      "urdu": "بہر کیف جناح 1920ء میں آل انڈیا کانگریس سے مستعفی ہو گئے، جس کی وجہ آل انڈیا کانگریس کے موہن داس گاندھی کی قیادت میں ستیاگرا کی مہم چلانے کا فیصلہ تھا۔",
+      "english": "In any case, Jinnah resigned from the All-India Congress in 1920. The reason was the All-India Congress's decision, under the leadership of Mohandas Gandhi, to run a satyagraha campaign."
+    }
+  ],
+  "glossary": {
+    "محمد": [
+      "muhammad",
+      "Muhammad"
+    ],
+    "علی": [
+      "ali",
+      "Ali"
+    ],
+    "جناح": [
+      "jinnaah",
+      "Jinnah"
+    ],
+    "پیدائشی": [
+      "paidaaishi",
+      "by birth (“paidaaishi naam” = birth name; “karaachi ke paidaaishi” = born in Karachi)"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "بھائی": [
+      "bhaai",
+      "-bhai (in “jinnaah bhaai”, the family name; literally “brother”)"
+    ],
+    "دسمبر": [
+      "disambar",
+      "December"
+    ],
+    "ستمبر": [
+      "sitambar",
+      "September"
+    ],
+    "اگست": [
+      "agast",
+      "August"
+    ],
+    "1876ء": [
+      "1876 eesvi",
+      "1876 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1948ء": [
+      "1948 eesvi",
+      "1948 CE"
+    ],
+    "1913ء": [
+      "1913 eesvi",
+      "1913 CE"
+    ],
+    "1947ء": [
+      "1947 eesvi",
+      "1947 CE"
+    ],
+    "1916ء": [
+      "1916 eesvi",
+      "1916 CE"
+    ],
+    "1920ء": [
+      "1920 eesvi",
+      "1920 CE"
+    ],
+    "نامور": [
+      "naamwar",
+      "renowned; famous"
+    ],
+    "وکیل": [
+      "vakeel",
+      "lawyer"
+    ],
+    "سیاست": [
+      "siyaasat",
+      "politics (“siyaasat daan” = politician)"
+    ],
+    "دان": [
+      "daan",
+      "one who knows (“siyaasat daan” = politician)"
+    ],
+    "بانی": [
+      "baani",
+      "founder (“baani-e-paakistaan” = founder of Pakistan)"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "لے": [
+      "le",
+      "taking (“se le kar … tak” = from … until)"
+    ],
+    "آزادی": [
+      "aazaadi",
+      "independence"
+    ],
+    "آل": [
+      "aal",
+      "All (English, in “All India”)"
+    ],
+    "انڈیا": [
+      "inḍiya",
+      "India (English, in “All India”)"
+    ],
+    "مسلم": [
+      "muslim",
+      "Muslim (“muslim leeg” = the Muslim League)"
+    ],
+    "لیگ": [
+      "leeg",
+      "league"
+    ],
+    "سربراہ": [
+      "sarbaraah",
+      "head; chief"
+    ],
+    "قیام": [
+      "qiyaam",
+      "founding (“qiyaam-e-paakistaan” = the founding of Pakistan)"
+    ],
+    "وفات": [
+      "wafaat",
+      "death"
+    ],
+    "ملک": [
+      "mulk",
+      "country"
+    ],
+    "پہلے": [
+      "pehle",
+      "first (oblique)"
+    ],
+    "گورنر": [
+      "gavarnar",
+      "governor (“gavarnar janral” = Governor-General)"
+    ],
+    "جنرل": [
+      "janral",
+      "general (“gavarnar janral” = Governor-General)"
+    ],
+    "طور": [
+      "taur",
+      "manner (“sarkaari taur par” = officially; “ke taur par” = as)"
+    ],
+    "قائدِ": [
+      "qaaid-e",
+      "leader of (izafat) (“qaaid-e-aazam” = the Great Leader)"
+    ],
+    "اعظم": [
+      "aazam",
+      "greatest (“qaaid-e-aazam” = the Great Leader)"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; meaning"
+    ],
+    "عظیم": [
+      "azeem",
+      "great (“sab se azeem” = the greatest)"
+    ],
+    "رہبر": [
+      "rahbar",
+      "guide; leader"
+    ],
+    "بابائے": [
+      "baaba-e",
+      "father of (izafat) (“baaba-e-qaum” = Father of the Nation)"
+    ],
+    "قوم": [
+      "qaum",
+      "nation"
+    ],
+    "باپ": [
+      "baap",
+      "father"
+    ],
+    "کہا": [
+      "kaha",
+      "said (“kaha jaata hai” = is called)"
+    ],
+    "یومِ": [
+      "yaum-e",
+      "day of (izafat) (“yaum-e-paidaaish” = birthday)"
+    ],
+    "پیدائش": [
+      "paidaaish",
+      "birth"
+    ],
+    "قومی": [
+      "qaumi",
+      "national"
+    ],
+    "تعطیل": [
+      "taateel",
+      "holiday"
+    ],
+    "منایا": [
+      "manaaya",
+      "celebrated (“manaaya jaata hai” = is celebrated)"
+    ],
+    "کراچی": [
+      "karaachi",
+      "Karachi"
+    ],
+    "لنکن": [
+      "linkan",
+      "Lincoln (“linkan in” = Lincoln's Inn, a London law society)"
+    ],
+    "ان": [
+      "in",
+      "Inn (English, in “Lincoln's Inn”); elsewhere usually “un”, them"
+    ],
+    "بیرسٹری": [
+      "bairisṭari",
+      "work as a barrister (“bairisṭari ki tarbiyat” = training for the bar)"
+    ],
+    "تربیت": [
+      "tarbiyat",
+      "training"
+    ],
+    "حاصل": [
+      "haasil",
+      "obtained (“tarbiyat haasil karna” = to be trained)"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (oblique infinitive) (“haasil karne waale” = who obtained)"
+    ],
+    "بیسویں": [
+      "beesveen",
+      "twentieth"
+    ],
+    "صدی": [
+      "sadi",
+      "century"
+    ],
+    "ابتدائی": [
+      "ibtidaai",
+      "early; first"
+    ],
+    "عشروں": [
+      "ashron",
+      "decades (pl. oblique)"
+    ],
+    "کانگریس": [
+      "kaangres",
+      "Congress (the Indian National Congress)"
+    ],
+    "اہم": [
+      "aham",
+      "important"
+    ],
+    "رہنما": [
+      "rehnuma",
+      "leader"
+    ],
+    "ابھرے": [
+      "ubhre",
+      "emerged (pl. / respectful)"
+    ],
+    "ادوار": [
+      "adwaar",
+      "periods; phases (Arabic pl. of “daur”)"
+    ],
+    "انھوں": [
+      "unhon",
+      "he (respectful, with “ne”)"
+    ],
+    "ہندو": [
+      "hindu",
+      "Hindu"
+    ],
+    "اتحاد": [
+      "ittehaad",
+      "unity"
+    ],
+    "مابین": [
+      "maabain",
+      "between (“ke maabain” = between)"
+    ],
+    "ہونے": [
+      "hone",
+      "being (oblique) (“ke maabain hone waale” = made between)"
+    ],
+    "میثاق": [
+      "meesaaq",
+      "pact; covenant (“meesaaq-e-lakhnau” = the Lucknow Pact)"
+    ],
+    "لکھنؤ": [
+      "lakhnau",
+      "Lucknow"
+    ],
+    "مرتب": [
+      "murattab",
+      "drawn up (“murattab karna” = to draw up, to compile)"
+    ],
+    "کردار": [
+      "kirdaar",
+      "role"
+    ],
+    "ادا": [
+      "ada",
+      "performed (“kirdaar ada karna” = to play a role)"
+    ],
+    "ہوم": [
+      "hoom",
+      "Home (English, in “Home Rule League”)"
+    ],
+    "رول": [
+      "rool",
+      "Rule (English, in “Home Rule League”)"
+    ],
+    "رہنماوں": [
+      "rehnumaaon",
+      "leaders (pl. oblique)"
+    ],
+    "چودہ": [
+      "chaudah",
+      "fourteen (“chaudah nikaat” = the Fourteen Points)"
+    ],
+    "نکات": [
+      "nikaat",
+      "points (Arabic pl. of “nukta”)"
+    ],
+    "پیش": [
+      "pesh",
+      "presented (“pesh karna” = to put forward)"
+    ],
+    "کیے": [
+      "kiye",
+      "did (pl.) (“pesh kiye” = put forward)"
+    ],
+    "مقصد": [
+      "maqsad",
+      "aim; purpose"
+    ],
+    "ہندوستان": [
+      "hindustaan",
+      "India; Hindustan (the subcontinent before 1947)"
+    ],
+    "مسلمانوں": [
+      "musalmaanon",
+      "Muslims (pl. oblique)"
+    ],
+    "سیاسی": [
+      "siyaasi",
+      "political"
+    ],
+    "حقوق": [
+      "huqooq",
+      "rights (Arabic pl. of “haq”)"
+    ],
+    "تحفظ": [
+      "tahaffuz",
+      "protection"
+    ],
+    "کرنا": [
+      "karna",
+      "to do (“tahaffuz karna” = to protect)"
+    ],
+    "بہر": [
+      "bahar",
+      "(“bahar kaif” = in any case, anyway)"
+    ],
+    "کیف": [
+      "kaif",
+      "(“bahar kaif” = in any case, anyway)"
+    ],
+    "مستعفی": [
+      "mustafi",
+      "resigned (“mustafi hona” = to resign)"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason"
+    ],
+    "موہن": [
+      "mohan",
+      "Mohan (Mohandas Gandhi)"
+    ],
+    "داس": [
+      "daas",
+      "-das (Mohandas Gandhi)"
+    ],
+    "گاندھی": [
+      "gaandhi",
+      "Gandhi"
+    ],
+    "قیادت": [
+      "qiyaadat",
+      "leadership (“ki qiyaadat mein” = under the leadership of)"
+    ],
+    "ستیاگرا": [
+      "satyaagra",
+      "satyagraha (Gandhi's non-violent resistance)"
+    ],
+    "مہم": [
+      "muhim",
+      "campaign (f.)"
+    ],
+    "چلانے": [
+      "chalaane",
+      "running (oblique infinitive) (“muhim chalaana” = to run a campaign)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پاکستان میں جناح کو کون سے دو لقب دیے جاتے ہیں؟",
+      "english": "Which two titles is Jinnah given in Pakistan?",
+      "options": [
+        {
+          "urdu": "شاعر مشرق اور حکیم الامت",
+          "english": "Poet of the East and Sage of the Ummah"
+        },
+        {
+          "urdu": "قائد اعظم اور بابائے قوم",
+          "english": "Quaid-e-Azam and Baba-e-Qaum"
+        },
+        {
+          "urdu": "شہنشاہ قوالی اور استاد",
+          "english": "Emperor of Qawwali and Ustad"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "جناح نے 1920ء میں کانگریس کیوں چھوڑی؟",
+      "english": "Why did Jinnah leave Congress in 1920?",
+      "options": [
+        {
+          "urdu": "کانگریس نے گاندھی کی قیادت میں ستیاگرا کی مہم چلانے کا فیصلہ کیا",
+          "english": "Congress decided to run Gandhi's satyagraha campaign"
+        },
+        {
+          "urdu": "وہ بیمار ہو گئے",
+          "english": "He fell ill"
+        },
+        {
+          "urdu": "وہ گورنر جنرل بن گئے",
+          "english": "He became Governor-General"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "سیاست کے ابتدائی دور میں جناح نے کس چیز کے لیے کام کیا؟",
+      "english": "What did Jinnah work for early in his political career?",
+      "options": [
+        {
+          "urdu": "ایک الگ فوج کے لیے",
+          "english": "A separate army"
+        },
+        {
+          "urdu": "انگریزوں کی حمایت کے لیے",
+          "english": "Support for the British"
+        },
+        {
+          "urdu": "ہندو مسلم اتحاد کے لیے",
+          "english": "Hindu–Muslim unity"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

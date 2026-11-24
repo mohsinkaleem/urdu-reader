@@ -1,0 +1,606 @@
+{
+  "id": "poem-iqbal-shikwa-10",
+  "title": {
+    "urdu": "شکوہ (حصہ 10)",
+    "english": "Shikwa, part 10"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "The final four stanzas (28–31) of Iqbal’s “Shikwa” (1911), his complaint to God on behalf of the Muslims. The garden has fallen into autumn and only one nightingale, the poet himself, still sings, hoping his song will wake hearts; God’s answer came two years later in “Jawab-e-Shikwa”.",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 10,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "بُوئے گُل لے گئی بیرون چمن رازِ چمن",
+      "english": "The scent of the rose has carried the garden's secret out of the garden;",
+      "verse": true
+    },
+    {
+      "urdu": "کیا قیامت ہے کہ خود کہ خود پُھول ہیں غمّازِ چمن!",
+      "english": "what a calamity, that the flowers themselves are the garden's tell-tales!",
+      "verse": true
+    },
+    {
+      "urdu": "عہدِ گُل ختم ہوا، ٹوٹ گیا سازِ چمن",
+      "english": "The season of the rose is over; the garden's music is broken;",
+      "verse": true
+    },
+    {
+      "urdu": "اُڑ گئے ڈالیوں سے زمزمہ پرداز چمن",
+      "english": "the garden's songbirds have flown from the branches.",
+      "verse": true
+    },
+    {
+      "urdu": "ایک بُلبل ہے کہ محو ترنّم ہے اب تک",
+      "english": "Only one nightingale is still lost in song;",
+      "verse": true
+    },
+    {
+      "urdu": "اس کے سینے میں ہے نغموں کا تلاطم اب تک",
+      "english": "in its breast the songs still surge like a storm.",
+      "verse": true,
+      "explanation": {
+        "urdu": "باغ یعنی مسلمان قوم کے راز خود اس کے اپنے لوگوں نے باہر پہنچا دیے۔ بہار کا زمانہ ختم ہو گیا اور گانے والے پرندے اڑ گئے۔ صرف ایک بلبل یعنی خود شاعر اب بھی گا رہا ہے۔",
+        "english": "The garden stands for the Muslim community; its own flowers, i.e. its own people, have betrayed its secrets to outsiders. The spring of its glory is over and its singers have flown away. Only one nightingale, the poet Iqbal himself, still sings with a storm of songs in its heart."
+      }
+    },
+    {
+      "urdu": "قُمریاں شاخِ صنوبر سے گریزاں بھی ہوئیں",
+      "english": "The turtle-doves have fled from the branch of the cypress;",
+      "verse": true
+    },
+    {
+      "urdu": "پتّیاں پُھول کی جھڑ جھڑ کے پریشاں بھی ہوئیں",
+      "english": "the flower's petals have dropped one by one and scattered;",
+      "verse": true
+    },
+    {
+      "urdu": "وہ پرانی روشیں باغ کی ویراں بھی ہوئیں",
+      "english": "the garden's old paths have become deserted;",
+      "verse": true
+    },
+    {
+      "urdu": "ڈالیاں پیرہنِ برگ سے عُریاں بھی ہوئیں",
+      "english": "the branches have been stripped of their robe of leaves.",
+      "verse": true
+    },
+    {
+      "urdu": "قیدِ موسم سے طبیعت رہی آزاد اس کی",
+      "english": "Yet its spirit stayed free from the bonds of the season;",
+      "verse": true
+    },
+    {
+      "urdu": "کاش گُلشن سمجھتا کوئی فریاد اس کی!",
+      "english": "if only someone in the garden understood its cry!",
+      "verse": true,
+      "explanation": {
+        "urdu": "باغ پر خزاں آ گئی ہے: پرندے چلے گئے، پھول جھڑ گئے، راستے ویران اور ڈالیاں ننگی ہو گئیں۔ مگر بلبل موسم کی قید سے آزاد ہے اور اب بھی گاتا ہے۔ کاش کوئی اس کی فریاد سمجھے۔",
+        "english": "Autumn has come to the garden: the doves have gone, petals have fallen, paths are deserted and branches are bare. But the nightingale (the poet) is not bound by the season and keeps singing. If only someone in the garden understood its plea."
+      }
+    },
+    {
+      "urdu": "لُطف مرنے میں ہے باقی نہ مزا جینے میں",
+      "english": "There is no pleasure left in dying, nor any joy in living;",
+      "verse": true
+    },
+    {
+      "urdu": "کچھ مزا ہے تو یہی خونِ جگر پینے میں",
+      "english": "if there is any joy, it is only in drinking my heart's blood.",
+      "verse": true
+    },
+    {
+      "urdu": "کتنے بیتاب ہیں جوہر مرے آئینے میں",
+      "english": "How restless are the gleams within my mirror!",
+      "verse": true
+    },
+    {
+      "urdu": "کس قدر جلواے تڑپ رہے ہیں مرے سینے میں",
+      "english": "How many visions are writhing in my breast!",
+      "verse": true
+    },
+    {
+      "urdu": "اس گُلستان میں مگر دیکھنے والے ہی نہیں",
+      "english": "But in this garden there is no one to see them;",
+      "verse": true
+    },
+    {
+      "urdu": "داغ جو سینے میں رکھتا ہوں، وہ لالے ہی نہیں",
+      "english": "the scars I carry in my breast, no tulip bears.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ اب نہ جینے میں مزا ہے نہ مرنے میں، صرف دکھ سہنے میں مزا ہے۔ اس کے دل میں بہت سی صلاحیتیں اور جلوے بےچین ہیں مگر کوئی دیکھنے والا نہیں۔ لالے کے پھول میں بھی ایسا داغ نہیں جیسا اس کے دل میں ہے۔",
+        "english": "Life and death have lost their taste; the only joy left is “drinking the blood of one's liver”, an idiom for suffering in silence. The poet's mirror (his heart) is full of gleams and visions, but no one in the garden can see them. The tulip (laala) has a dark spot at its centre, a classic image of the wound of love; but no tulip carries a scar like the poet's."
+      }
+    },
+    {
+      "urdu": "چاک اس بُلبلِ تنہا کی نوا سے دل ہوں",
+      "english": "May hearts be torn open by the song of this lonely nightingale;",
+      "verse": true
+    },
+    {
+      "urdu": "جاگنے والے اسی بانگِ درا سے دل ہوں",
+      "english": "may hearts be awakened by this very sound of the caravan bell;",
+      "verse": true
+    },
+    {
+      "urdu": "یعنی پھر زندہ نئے عہدِ وفا سے دل ہوں",
+      "english": "that is, may hearts come alive again with a new pledge of loyalty;",
+      "verse": true
+    },
+    {
+      "urdu": "پھر اِسی بادۂ دیرینہ کے پیاسے دل ہوں",
+      "english": "may hearts thirst again for this same old wine.",
+      "verse": true
+    },
+    {
+      "urdu": "عجمی خُم ہے تو کیا،مے تو حجازی ہے مری",
+      "english": "What if the jar is Persian? My wine is from Hijaz;",
+      "verse": true
+    },
+    {
+      "urdu": "نغمہ ہندی ہے تو کیا،لَے تو حجازی ہے مری",
+      "english": "what if the song is Indian? My melody is from Hijaz.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کی دعا ہے کہ اس کی شاعری سن کر دل جاگ اٹھیں اور پھر اللہ سے وفا کا نیا عہد کریں۔ اس کی زبان اور انداز فارسی یا ہندوستانی سہی، مگر اس کا پیغام عرب یعنی اسلام کا ہے۔",
+        "english": "The poet hopes his song, “baang-e-dara” (the call of the caravan bell, which tells travellers to set off; also the title of the collection that contains Shikwa), will wake hearts to a new pledge of faith. His form may be Persian (the jar) and Indian (the song), but the content, the wine and the melody, comes from Hijaz, the land of Islam. God's reply came in Iqbal's “Jawab-e-Shikwa” (1913)."
+      }
+    }
+  ],
+  "glossary": {
+    "بوئے": [
+      "boo-e-",
+      "scent of"
+    ],
+    "گل": [
+      "gul",
+      "rose; flower"
+    ],
+    "لے": [
+      "le",
+      "take (“le gayi” = carried away)"
+    ],
+    "بیرون": [
+      "beroon-e-",
+      "outside"
+    ],
+    "چمن": [
+      "chaman",
+      "garden"
+    ],
+    "راز": [
+      "raaz-e-",
+      "secret of"
+    ],
+    "قیامت": [
+      "qayaamat",
+      "calamity; doomsday (“kya qayaamat hai” = what a calamity)"
+    ],
+    "کہ": [
+      "keh",
+      "that (“khud keh khud” repeats a word by a copying slip in this source)"
+    ],
+    "خود": [
+      "khud",
+      "themselves"
+    ],
+    "پھول": [
+      "phool",
+      "flowers"
+    ],
+    "غماز": [
+      "ghammaaz-e-",
+      "tell-tale; informer"
+    ],
+    "عہد": [
+      "ahd-e-",
+      "era; season (“ahd-e-gul”) / pledge (“ahd-e-wafa” = pledge of loyalty)"
+    ],
+    "ختم": [
+      "khatm",
+      "over; ended"
+    ],
+    "ٹوٹ": [
+      "ṭooṭ",
+      "break (“ṭooṭ gaya” = broke)"
+    ],
+    "ساز": [
+      "saaz-e-",
+      "music; instrument of"
+    ],
+    "اڑ": [
+      "uṛ",
+      "fly (“uṛ gaye” = flew away)"
+    ],
+    "ڈالیوں": [
+      "ḍaaliyon",
+      "branches (oblique pl.)"
+    ],
+    "زمزمہ": [
+      "zamzama",
+      "song; warbling"
+    ],
+    "پرداز": [
+      "pardaaz-e-",
+      "maker (“zamzama-pardaaz” = songbirds, singers)"
+    ],
+    "بلبل": [
+      "bulbul",
+      "nightingale (here: the poet)"
+    ],
+    "محو": [
+      "mahv-e-",
+      "absorbed in; lost in"
+    ],
+    "ترنم": [
+      "tarannum",
+      "singing; melody"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab tak” = still)"
+    ],
+    "سینے": [
+      "seene",
+      "breast; heart"
+    ],
+    "نغموں": [
+      "naghmon",
+      "songs (oblique pl.)"
+    ],
+    "تلاطم": [
+      "talaatum",
+      "storm; surging (of waves)"
+    ],
+    "قمریاں": [
+      "qumriyaan",
+      "turtle-doves"
+    ],
+    "شاخ": [
+      "shaakh-e-",
+      "branch of"
+    ],
+    "صنوبر": [
+      "sanobar",
+      "cypress; pine"
+    ],
+    "گریزاں": [
+      "gurezaan",
+      "fleeing"
+    ],
+    "ہوئیں": [
+      "huin",
+      "became (f. pl.)"
+    ],
+    "پتیاں": [
+      "pattiyaan",
+      "petals"
+    ],
+    "جھڑ": [
+      "jhaṛ",
+      "fall off (“jhaṛ jhaṛ ke” = dropping one by one)"
+    ],
+    "کے": [
+      "ke",
+      "of (m. pl. / oblique); after a verb: having (“jhaṛ ke” = having fallen)"
+    ],
+    "پریشاں": [
+      "pareshaan",
+      "scattered (poetic)"
+    ],
+    "پرانی": [
+      "puraani",
+      "old (f.)"
+    ],
+    "روشیں": [
+      "ravishein",
+      "garden paths (pl.)"
+    ],
+    "باغ": [
+      "baagh",
+      "garden"
+    ],
+    "ویراں": [
+      "weeraan",
+      "deserted; desolate"
+    ],
+    "ڈالیاں": [
+      "ḍaaliyaan",
+      "branches"
+    ],
+    "پیرہن": [
+      "pairahan-e-",
+      "robe; garment of"
+    ],
+    "برگ": [
+      "barg",
+      "leaf; leaves"
+    ],
+    "عریاں": [
+      "uryaan",
+      "naked; bare"
+    ],
+    "قید": [
+      "qaid-e-",
+      "prison; bonds of"
+    ],
+    "موسم": [
+      "mausam",
+      "season"
+    ],
+    "طبیعت": [
+      "tabeeyat",
+      "nature; spirit"
+    ],
+    "آزاد": [
+      "aazaad",
+      "free"
+    ],
+    "کاش": [
+      "kaash",
+      "if only"
+    ],
+    "گلشن": [
+      "gulshan",
+      "garden (here: in the garden)"
+    ],
+    "سمجھتا": [
+      "samajhta",
+      "would understand"
+    ],
+    "فریاد": [
+      "faryaad",
+      "cry; plea"
+    ],
+    "لطف": [
+      "lutf",
+      "pleasure"
+    ],
+    "مرنے": [
+      "marne",
+      "dying"
+    ],
+    "مزا": [
+      "maza",
+      "joy; taste"
+    ],
+    "جینے": [
+      "jeene",
+      "living"
+    ],
+    "تو": [
+      "to",
+      "then; indeed (emphasis)"
+    ],
+    "خون": [
+      "khoon-e-",
+      "blood of (“khoon-e-jigar peena” = to suffer in silence)"
+    ],
+    "جگر": [
+      "jigar",
+      "liver; heart"
+    ],
+    "پینے": [
+      "peene",
+      "drinking"
+    ],
+    "کتنے": [
+      "kitne",
+      "how (many)"
+    ],
+    "بیتاب": [
+      "betaab",
+      "restless; impatient"
+    ],
+    "جوہر": [
+      "jauhar",
+      "gleams (the sheen of a polished mirror); hidden talents"
+    ],
+    "مرے": [
+      "mere",
+      "my (poetic)"
+    ],
+    "آئینے": [
+      "aaeene",
+      "mirror"
+    ],
+    "کس": [
+      "kis",
+      "what (“kis qadar” = how many, how much)"
+    ],
+    "قدر": [
+      "qadar",
+      "extent; amount"
+    ],
+    "جلواے": [
+      "jalwe",
+      "visions; splendours (spelled جلواے in this source; normally جلوے)"
+    ],
+    "تڑپ": [
+      "taṛap",
+      "writhe (“taṛap rahe hain” = are writhing)"
+    ],
+    "رہے": [
+      "rahe",
+      "(continuous: “taṛap rahe hain” = are writhing)"
+    ],
+    "گلستان": [
+      "gulistaan",
+      "garden"
+    ],
+    "دیکھنے": [
+      "dekhne",
+      "seeing (“dekhne waale” = beholders)"
+    ],
+    "داغ": [
+      "daagh",
+      "scar; burn-mark"
+    ],
+    "رکھتا": [
+      "rakhta",
+      "keep; carry"
+    ],
+    "ہوں": [
+      "hoon / hon",
+      "(I) am (“rakhta hoon” = I keep) / may be (“dil hon” = may hearts be)"
+    ],
+    "لالے": [
+      "laale",
+      "tulips (whose dark centre is the classic image of love's scar)"
+    ],
+    "چاک": [
+      "chaak",
+      "torn open"
+    ],
+    "تنہا": [
+      "tanha",
+      "lonely"
+    ],
+    "نوا": [
+      "nawa",
+      "song; voice"
+    ],
+    "دل": [
+      "dil",
+      "hearts"
+    ],
+    "جاگنے": [
+      "jaagne",
+      "waking (“jaagne waale” = awakened)"
+    ],
+    "بانگ": [
+      "baang-e-",
+      "call; sound of"
+    ],
+    "درا": [
+      "dara",
+      "caravan bell (“baang-e-dara” = call of the caravan bell)"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; in other words"
+    ],
+    "زندہ": [
+      "zinda",
+      "alive"
+    ],
+    "نئے": [
+      "naye",
+      "new"
+    ],
+    "وفا": [
+      "wafa",
+      "loyalty; faithfulness"
+    ],
+    "بادۂ": [
+      "baada-e-",
+      "wine"
+    ],
+    "دیرینہ": [
+      "dereena",
+      "old; age-old"
+    ],
+    "پیاسے": [
+      "pyaase",
+      "thirsty"
+    ],
+    "عجمی": [
+      "ajami",
+      "Persian; non-Arab"
+    ],
+    "خم": [
+      "khum",
+      "wine-jar"
+    ],
+    "حجازی": [
+      "hijaazi",
+      "from Hijaz; Arabian"
+    ],
+    "مری": [
+      "meri",
+      "my (f., poetic)"
+    ],
+    "نغمہ": [
+      "naghma",
+      "song"
+    ],
+    "ہندی": [
+      "hindi",
+      "Indian"
+    ],
+    "مے": [
+      "mai",
+      "wine (poetic)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "باغ کے راز باہر کس نے پہنچائے؟",
+      "english": "Who carried the garden's secrets outside?",
+      "options": [
+        {
+          "urdu": "باغ کے اپنے پھولوں نے",
+          "english": "The garden's own flowers"
+        },
+        {
+          "urdu": "بلبل نے",
+          "english": "The nightingale"
+        },
+        {
+          "urdu": "قمریوں نے",
+          "english": "The turtle-doves"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "خزاں کے بعد بھی کون گا رہا ہے؟",
+      "english": "Who is still singing after autumn has come?",
+      "options": [
+        {
+          "urdu": "قمریاں",
+          "english": "The turtle-doves"
+        },
+        {
+          "urdu": "سب پرندے",
+          "english": "All the birds"
+        },
+        {
+          "urdu": "ایک تنہا بلبل",
+          "english": "One lonely nightingale"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "\"عجمی خم\" اور \"حجازی مے\" سے شاعر کیا کہتا ہے؟",
+      "english": "What does the poet mean by “a Persian jar” and “wine from Hijaz”?",
+      "options": [
+        {
+          "urdu": "کہ وہ شراب بیچتا ہے",
+          "english": "That he sells wine"
+        },
+        {
+          "urdu": "کہ اس کا انداز عجمی ہے مگر پیغام اسلامی",
+          "english": "That his style is Persian but his message is Islamic"
+        },
+        {
+          "urdu": "کہ وہ ایران جانا چاہتا ہے",
+          "english": "That he wants to go to Iran"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

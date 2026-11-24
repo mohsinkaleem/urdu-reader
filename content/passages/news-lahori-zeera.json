@@ -1,0 +1,568 @@
+{
+  "id": "news-lahori-zeera",
+  "title": {
+    "urdu": "لاہوری زیرہ",
+    "english": "Lahori Zeera: the cumin drink taking on cola"
+  },
+  "category": "news",
+  "level": "medium",
+  "tags": ["culture", "society"],
+  "source": {
+    "name": "BBC Urdu: لاہوری زیرہ جو انڈیا میں کولا کمپنیوں کے لیے دردِ سر بن گیا",
+    "url": "https://www.bbc.com/urdu/articles/cm3wg1969d8no",
+    "author": "Nikhil Inamdar",
+    "license": "Personal use only"
+  },
+  "intro": "Published 20 November 2026 (a BBC Hindi report). How Lahori Zeera, a fizzy cumin-flavoured soft drink from Indian Punjab, grew from a home experiment into a brand that challenges the big cola companies. “Zeera” (زیرہ) means cumin; “mashroob” (مشروب) is the formal word for a drink.",
+  "sentences": [
+    {
+      "urdu": "یہ سب ایک اچانک کیے گئے گھریلو تجربے سے شروع ہوا۔",
+      "english": "It all started with a spur-of-the-moment experiment at home."
+    },
+    {
+      "urdu": "انڈیا کی شمال مغربی ریاست پنجاب سے تعلق رکھنے والے تین کزن، سوربھ منجل، نکھیل ڈوڈا اور سوربھ بھوتنا، ایک شام کھانے کے بعد گھر میں وقت گزار رہے تھے کہ ڈوڈا نے گھر میں موجود عام اجزا سے زیرے کے ذائقے والا ایک کھٹا میٹھا فِزی مشروب تیار کر لیا۔",
+      "english": "Three cousins from Punjab, a state in north-western India, Saurabh Munjal, Nikhil Doda and Saurabh Bhutna, were spending time at home one evening after dinner when Doda made a sweet-and-sour, cumin-flavoured fizzy drink from ordinary ingredients in the house."
+    },
+    {
+      "urdu": "اس مشروب کا مٹیالا اور تیکھا ذائقہ انھیں اتنا پسند آیا کہ انھوں نے اسے تجارتی بنیادوں پر فروخت کرنے کے امکانات پر غور شروع کر دیا۔",
+      "english": "They liked the drink's earthy, tangy taste so much that they began to think about the possibility of selling it commercially."
+    },
+    {
+      "urdu": "اس سے قبل انڈیا میں زیرے والے مشروبات سڑک کنارے ٹھیلوں اور مقامی دکانوں پر فروخت تو ہوتے تھے، لیکن اس شعبے میں کوئی مضبوط قومی برانڈ موجود نہیں تھا۔",
+      "english": "Before this, cumin drinks were certainly sold in India at roadside carts and local shops, but there was no strong national brand in this sector."
+    },
+    {
+      "urdu": "زیادہ تر کمپنیاں اس ذائقے کو باقاعدہ کاربونیٹڈ سافٹ ڈرنک کی شکل میں مارکیٹ نہیں کر رہی تھیں۔",
+      "english": "Most companies were not marketing this flavour in the form of a proper carbonated soft drink."
+    },
+    {
+      "urdu": "تینوں کزنز نے اپنے خاندانوں کو سرمایہ کاری پر آمادہ کیا اور 2017 میں ’لاہوری زیرہ‘ کے نام سے اپنا مشروب متعارف کرا دیا۔",
+      "english": "The three cousins persuaded their families to invest, and in 2017 they launched their drink under the name ‘Lahori Zeera’."
+    },
+    {
+      "urdu": "تقریباً ایک دہائی بعد یہ برانڈ انڈیا کے مشروبات کے شعبے میں ایک نمایاں نام بن چکا ہے اور عالمی کولا کمپنیوں کی اجارہ داری کو چیلنج کر رہا ہے، خاص طور پر دس روپے کی بوتلوں والی عوامی مارکیٹ میں۔",
+      "english": "About a decade later, this brand has become a prominent name in India's drinks sector and is challenging the dominance of the global cola companies, especially in the mass market of ten-rupee bottles."
+    }
+  ],
+  "glossary": {
+    "یہ": [
+      "yeh",
+      "this; it"
+    ],
+    "سب": [
+      "sab",
+      "all (“yeh sab” = all this; it all)"
+    ],
+    "اچانک": [
+      "achaanak",
+      "sudden; spontaneous"
+    ],
+    "کیے": [
+      "kiye",
+      "done (m. oblique) (“achaanak kiye gaye” = done on impulse)"
+    ],
+    "گئے": [
+      "gaye",
+      "passive helper (m. oblique) (“kiye gaye” = (that was) done)"
+    ],
+    "گھریلو": [
+      "ghareloo",
+      "domestic; home"
+    ],
+    "تجربے": [
+      "tajrabe",
+      "experiment (oblique)"
+    ],
+    "شروع": [
+      "shuroo",
+      "start (“shuroo hona” = to begin; “shuroo karna” = to start)"
+    ],
+    "ہوا": [
+      "hua",
+      "became; happened (m.) (“shuroo hua” = began)"
+    ],
+    "انڈیا": [
+      "inḍiya",
+      "India"
+    ],
+    "شمال": [
+      "shumaal",
+      "north (“shumaal maghribi” = north-western)"
+    ],
+    "مغربی": [
+      "maghribi",
+      "western"
+    ],
+    "ریاست": [
+      "riyaasat",
+      "state"
+    ],
+    "پنجاب": [
+      "panjaab",
+      "Punjab (here the Indian state)"
+    ],
+    "تعلق": [
+      "taalluq",
+      "connection (“se taalluq rakhna” = to belong to; be from)"
+    ],
+    "رکھنے": [
+      "rakhne",
+      "keeping (oblique infinitive) (“taalluq rakhne vaale” = who are from)"
+    ],
+    "والے": [
+      "vaale",
+      "(“rakhne vaale” = who keep / have; “zeere vaale” = cumin(-flavoured))"
+    ],
+    "کزن": [
+      "kazan",
+      "cousin(s) (English)"
+    ],
+    "سوربھ": [
+      "saurabh",
+      "Saurabh (first name of two of the founders)"
+    ],
+    "منجل": [
+      "munjal",
+      "Munjal (Saurabh Munjal, co-founder)"
+    ],
+    "نکھیل": [
+      "nikhil",
+      "Nikhil (Nikhil Doda, co-founder)"
+    ],
+    "ڈوڈا": [
+      "ḍoḍa",
+      "Doda (Nikhil Doda, co-founder)"
+    ],
+    "بھوتنا": [
+      "bhootna",
+      "Bhutna (Saurabh Bhutna, co-founder)"
+    ],
+    "کھانے": [
+      "khaane",
+      "meal (oblique) (“khaane ke baad” = after dinner)"
+    ],
+    "بعد": [
+      "baad",
+      "after; later (“ke baad” = after; “ek dahaai baad” = a decade later)"
+    ],
+    "گھر": [
+      "ghar",
+      "home; house"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "وقت": [
+      "waqt",
+      "time"
+    ],
+    "گزار": [
+      "guzaar",
+      "spend (“waqt guzaar rahe the” = were spending time)"
+    ],
+    "رہے": [
+      "rahe",
+      "continuous helper (m. pl.) (“guzaar rahe the” = were spending)"
+    ],
+    "کہ": [
+      "keh",
+      "that; when (“… rahe the keh …” = were … when …)"
+    ],
+    "موجود": [
+      "maujood",
+      "present; available"
+    ],
+    "عام": [
+      "aam",
+      "ordinary; common"
+    ],
+    "اجزا": [
+      "ajza",
+      "ingredients (Arabic pl. of “juz”)"
+    ],
+    "زیرے": [
+      "zeere",
+      "cumin (oblique)"
+    ],
+    "ذائقے": [
+      "zaaiqe",
+      "flavour; taste (oblique) (“zeere ke zaaiqe vaala” = cumin-flavoured)"
+    ],
+    "والا": [
+      "vaala",
+      "having; with (“zaaiqe vaala” = flavoured)"
+    ],
+    "کھٹا": [
+      "khaṭṭa",
+      "sour"
+    ],
+    "میٹھا": [
+      "meeṭha",
+      "sweet (“khaṭṭa meeṭha” = sweet and sour)"
+    ],
+    "فِزی": [
+      "fizi",
+      "fizzy (English)"
+    ],
+    "مشروب": [
+      "mashroob",
+      "drink; beverage (formal)"
+    ],
+    "تیار": [
+      "tayyaar",
+      "ready (“tayyaar kar lena” = to make; prepare)"
+    ],
+    "مٹیالا": [
+      "miṭiyaala",
+      "earthy (lit. “earth-coloured”)"
+    ],
+    "تیکھا": [
+      "teekha",
+      "sharp; tangy"
+    ],
+    "ذائقہ": [
+      "zaaiqa",
+      "taste; flavour"
+    ],
+    "انھیں": [
+      "unhen",
+      "to them (“unhen pasand aaya” = they liked it)"
+    ],
+    "اتنا": [
+      "itna",
+      "so (much)"
+    ],
+    "پسند": [
+      "pasand",
+      "liking (“pasand aana” = to be liked)"
+    ],
+    "آیا": [
+      "aaya",
+      "came (“pasand aaya” = they liked it)"
+    ],
+    "انھوں": [
+      "unhon",
+      "they (used with “ne”)"
+    ],
+    "اسے": [
+      "ise",
+      "it (object; = “is ko”)"
+    ],
+    "تجارتی": [
+      "tijaarati",
+      "commercial"
+    ],
+    "بنیادوں": [
+      "bunyaadon",
+      "bases (pl. oblique) (“tijaarati bunyaadon par” = on a commercial basis)"
+    ],
+    "فروخت": [
+      "farokht",
+      "sale (“farokht karna” = to sell; “farokht hona” = to be sold) (formal)"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (oblique infinitive)"
+    ],
+    "امکانات": [
+      "imkaanaat",
+      "possibilities (Arabic pl. of “imkaan”)"
+    ],
+    "غور": [
+      "ghaur",
+      "consideration (“par ghaur karna” = to think about; consider)"
+    ],
+    "دیا": [
+      "diya",
+      "gave (“shuroo kar diya” = started)"
+    ],
+    "قبل": [
+      "qabl",
+      "before (formal) (“is se qabl” = before this)"
+    ],
+    "مشروبات": [
+      "mashroobaat",
+      "drinks; beverages (pl. of “mashroob”)"
+    ],
+    "سڑک": [
+      "saṛak",
+      "road"
+    ],
+    "کنارے": [
+      "kinaare",
+      "edge; side (“saṛak kinaare” = by the roadside)"
+    ],
+    "ٹھیلوں": [
+      "ṭhelon",
+      "handcarts; street stalls (pl. oblique)"
+    ],
+    "مقامی": [
+      "maqaami",
+      "local"
+    ],
+    "دکانوں": [
+      "dukaanon",
+      "shops (pl. oblique)"
+    ],
+    "تو": [
+      "to",
+      "indeed (contrast: “farokht to hote the, lekin …” = they were sold, yes, but …)"
+    ],
+    "ہوتے": [
+      "hote",
+      "were (habitual) (“farokht hote the” = used to be sold)"
+    ],
+    "شعبے": [
+      "shobe",
+      "sector; field (oblique)"
+    ],
+    "کوئی": [
+      "koi",
+      "any; (with “naheen”) no"
+    ],
+    "مضبوط": [
+      "mazboot",
+      "strong"
+    ],
+    "قومی": [
+      "qaumi",
+      "national"
+    ],
+    "برانڈ": [
+      "braanḍ",
+      "brand"
+    ],
+    "زیادہ": [
+      "zyaada",
+      "more (“zyaada tar” = most)"
+    ],
+    "تر": [
+      "tar",
+      "(“zyaada tar” = most)"
+    ],
+    "کمپنیاں": [
+      "kampaniyaan",
+      "companies"
+    ],
+    "باقاعدہ": [
+      "baaqaaida",
+      "proper; regular"
+    ],
+    "کاربونیٹڈ": [
+      "kaarboneṭiḍ",
+      "carbonated (English)"
+    ],
+    "سافٹ": [
+      "saafṭ",
+      "soft (“saafṭ ḍrink” = soft drink)"
+    ],
+    "ڈرنک": [
+      "ḍrink",
+      "drink (English)"
+    ],
+    "شکل": [
+      "shakl",
+      "form; shape (“ki shakl mein” = in the form of)"
+    ],
+    "مارکیٹ": [
+      "maarkeṭ",
+      "market (noun; “maarkeṭ karna” = to market)"
+    ],
+    "رہی": [
+      "rahi",
+      "continuous helper (f.) (“kar rahi theen” = were doing)"
+    ],
+    "تھیں": [
+      "theen",
+      "were (f. pl.)"
+    ],
+    "تینوں": [
+      "teenon",
+      "all three"
+    ],
+    "کزنز": [
+      "kazanz",
+      "cousins (English pl.)"
+    ],
+    "خاندانوں": [
+      "khaandaanon",
+      "families (pl. oblique)"
+    ],
+    "سرمایہ": [
+      "sarmaaya",
+      "capital (“sarmaaya kaari” = investment)"
+    ],
+    "کاری": [
+      "kaari",
+      "-making (“sarmaaya kaari” = investment)"
+    ],
+    "آمادہ": [
+      "aamaada",
+      "willing (“aamaada karna” = to persuade)"
+    ],
+    "کیا": [
+      "kiya",
+      "made; did (“aamaada kiya” = persuaded)"
+    ],
+    "لاہوری": [
+      "laahauri",
+      "Lahori, “of Lahore” (part of the brand name)"
+    ],
+    "زیرہ": [
+      "zeera",
+      "cumin (“laahauri zeera” = the brand name)"
+    ],
+    "نام": [
+      "naam",
+      "name (“ke naam se” = under the name)"
+    ],
+    "اپنا": [
+      "apna",
+      "their own (m.)"
+    ],
+    "متعارف": [
+      "mutaarif",
+      "introduced (“mutaarif karaana” = to launch; introduce) (formal)"
+    ],
+    "کرا": [
+      "kara",
+      "made (“mutaarif kara diya” = launched)"
+    ],
+    "تقریباً": [
+      "taqreeban",
+      "about; approximately"
+    ],
+    "دہائی": [
+      "dahaai",
+      "decade"
+    ],
+    "نمایاں": [
+      "numaayaan",
+      "prominent"
+    ],
+    "بن": [
+      "ban",
+      "become (“ban chuka hai” = has become)"
+    ],
+    "چکا": [
+      "chuka",
+      "already (m.) (“ban chuka hai” = has become)"
+    ],
+    "عالمی": [
+      "aalami",
+      "global"
+    ],
+    "کولا": [
+      "kola",
+      "cola"
+    ],
+    "کمپنیوں": [
+      "kampaniyon",
+      "companies (pl. oblique)"
+    ],
+    "اجارہ": [
+      "ijaara",
+      "monopoly (“ijaara daari” = monopoly; dominance)"
+    ],
+    "داری": [
+      "daari",
+      "holding (“ijaara daari” = monopoly)"
+    ],
+    "چیلنج": [
+      "chailanj",
+      "challenge (“chailanj karna” = to challenge)"
+    ],
+    "رہا": [
+      "raha",
+      "continuous helper (m.) (“kar raha hai” = is doing)"
+    ],
+    "خاص": [
+      "khaas",
+      "special (“khaas taur par” = especially)"
+    ],
+    "طور": [
+      "taur",
+      "manner (“khaas taur par” = especially)"
+    ],
+    "دس": [
+      "das",
+      "ten"
+    ],
+    "روپے": [
+      "roope",
+      "rupees"
+    ],
+    "بوتلوں": [
+      "botalon",
+      "bottles (pl. oblique)"
+    ],
+    "والی": [
+      "vaali",
+      "of; having (f.) (“botalon vaali maarkeṭ” = the market for … bottles)"
+    ],
+    "عوامی": [
+      "awaami",
+      "popular; mass (“awaami maarkeṭ” = mass market)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "یہ مشروب کیسے شروع ہوا؟",
+      "english": "How did this drink begin?",
+      "options": [
+        {
+          "urdu": "ایک بڑی کمپنی کی تحقیق سے",
+          "english": "From a big company’s research"
+        },
+        {
+          "urdu": "گھر میں ایک اچانک تجربے سے",
+          "english": "From a spontaneous experiment at home"
+        },
+        {
+          "urdu": "لاہور کے ایک ٹھیلے سے",
+          "english": "From a street cart in Lahore"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "’لاہوری زیرہ‘ سے پہلے انڈیا میں زیرے والے مشروبات کہاں ملتے تھے؟",
+      "english": "Where were cumin drinks sold in India before ‘Lahori Zeera’?",
+      "options": [
+        {
+          "urdu": "سڑک کنارے ٹھیلوں اور مقامی دکانوں پر",
+          "english": "At roadside carts and local shops"
+        },
+        {
+          "urdu": "صرف بڑی کولا کمپنیوں سے",
+          "english": "Only from the big cola companies"
+        },
+        {
+          "urdu": "وہ کہیں نہیں ملتے تھے",
+          "english": "They were not sold anywhere"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "یہ برانڈ خاص طور پر کس مارکیٹ میں کولا کمپنیوں کو چیلنج کر رہا ہے؟",
+      "english": "In which market in particular is the brand challenging the cola companies?",
+      "options": [
+        {
+          "urdu": "مہنگے ریستورانوں میں",
+          "english": "In expensive restaurants"
+        },
+        {
+          "urdu": "بیرونِ ملک",
+          "english": "Abroad"
+        },
+        {
+          "urdu": "دس روپے کی بوتلوں والی عوامی مارکیٹ میں",
+          "english": "In the mass market of ten-rupee bottles"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

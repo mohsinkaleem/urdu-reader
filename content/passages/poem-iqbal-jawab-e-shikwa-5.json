@@ -1,0 +1,484 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-5",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 5)",
+    "english": "Jawab-e-Shikwa, part 5"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Part 5 of Iqbal’s “Jawab-e-Shikwa” (1913), stanzas 13–15. God asks why Muslims, who share one Prophet, one Quran and one Kaaba, are split into sects and castes, why they have abandoned the Prophet’s way, and observes that it is the poor, not the rich, who keep the faith alive.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 5,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "منفعت ایک ہے اس قوم کی، نقصان بھی ایک",
+      "english": "This nation’s gain is one, and its loss is one as well;",
+      "verse": true
+    },
+    {
+      "urdu": "ایک ہی سب کا نبیؐ، دین بھی، ایمان بھی ایک",
+      "english": "all have one and the same Prophet, one religion, one faith.",
+      "verse": true
+    },
+    {
+      "urdu": "حرَمِ پاک بھی، اللہ بھی، قُرآن بھی ایک",
+      "english": "The holy sanctuary, God, the Quran – all are one.",
+      "verse": true
+    },
+    {
+      "urdu": "کچھ بڑی بات تھی ہوتے جو مسلمان بھی ایک",
+      "english": "Would it have been such a great thing if the Muslims too were one?",
+      "verse": true
+    },
+    {
+      "urdu": "فرقہ بندی ہے کہیں اور کہیں ذاتیں ہیں",
+      "english": "Here there is sectarianism, and there there are castes;",
+      "verse": true
+    },
+    {
+      "urdu": "کیا زمانے میں پَنپنے کی یہی باتیں ہیں",
+      "english": "are these the ways to thrive in the world?",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ فرماتا ہے کہ مسلمانوں کا فائدہ نقصان ایک ہے، نبی، دین، کعبہ، اللہ اور قرآن بھی ایک ہیں۔ تو کیا مشکل تھا کہ مسلمان بھی ایک ہو جاتے؟ کہیں فرقے ہیں اور کہیں ذات پات؛ کیا قومیں ایسے ترقی کرتی ہیں؟",
+        "english": "God points out everything Muslims share: the same gain and loss, the same Prophet, religion, faith, sanctuary, God and Quran. Would it have been so hard for them to be one people too? Instead they are divided by sects in one place and by castes in another – that is no way for a nation to prosper."
+      }
+    },
+    {
+      "urdu": "کون ہے تارکِ آئینِ رسُولِ مختارؐ؟",
+      "english": "Who has abandoned the way of the chosen Messenger?",
+      "verse": true
+    },
+    {
+      "urdu": "مصلحت وقت کی ہے کس کے عمل کا معیار؟",
+      "english": "Who measures his deeds by the expediency of the moment?",
+      "verse": true
+    },
+    {
+      "urdu": "کس کی آنکھوں میں سمایا ہے شعارِ اغیار؟",
+      "english": "Whose eyes are filled with the customs of strangers?",
+      "verse": true
+    },
+    {
+      "urdu": "ہوگئی کس کی نِگہ طرزِ سلَف سے بیزار؟",
+      "english": "Whose gaze has grown weary of the ways of the forebears?",
+      "verse": true
+    },
+    {
+      "urdu": "قلب میں سوز نہیں، رُوح میں احساس نہیں",
+      "english": "There is no fire in your hearts, no feeling in your souls;",
+      "verse": true
+    },
+    {
+      "urdu": "کچھ بھی پیغامِ محمّدؐ کا تمھیں پاس نہیں",
+      "english": "you have no regard at all for the message of Muhammad.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ پوچھتا ہے کہ نبیؐ کا طریقہ کس نے چھوڑا؟ کون صرف وقتی فائدہ دیکھ کر کام کرتا ہے، کس نے غیروں کے طور طریقے اپنا لیے اور کون بزرگوں کے راستے سے بیزار ہو گیا؟ جواب ہے: تم۔ تمھارے دل میں تڑپ نہیں اور تمھیں نبیؐ کے پیغام کا کوئی لحاظ نہیں۔",
+        "english": "God asks pointed questions whose answer is “you”: who has abandoned the way of the Prophet, judges actions by short-term expediency, has adopted the customs of others and grown weary of the ways of the early Muslims? Their hearts have no fire, their souls no feeling, and they have no regard for the message of Muhammad."
+      }
+    },
+    {
+      "urdu": "جا کے ہوتے ہیں مساجد میں صف آرا، تو غریب",
+      "english": "Those who go and stand in rows in the mosques – it is the poor;",
+      "verse": true
+    },
+    {
+      "urdu": "زحمتِ روزہ جو کرتے ہیں گوارا، تو غریب",
+      "english": "those who bear the hardship of fasting – it is the poor;",
+      "verse": true
+    },
+    {
+      "urdu": "نام لیتا ہے اگر کوئی ہمارا، تو غریب",
+      "english": "if anyone takes Our name – it is the poor;",
+      "verse": true
+    },
+    {
+      "urdu": "پردہ رکھتا ہے اگر کوئی تمھارا، تو غریب",
+      "english": "if anyone covers your faults – it is the poor.",
+      "verse": true
+    },
+    {
+      "urdu": "اُمَرا نشّۂ دولت میں ہیں غافل ہم سے",
+      "english": "The rich, drunk on wealth, are heedless of Us;",
+      "verse": true
+    },
+    {
+      "urdu": "زندہ ہے مِلّتِ بیضا غُرَبا کے دم سے",
+      "english": "the radiant community lives on thanks to the poor.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ فرماتا ہے کہ مسجد میں صف باندھنے والے، روزے کی تکلیف اٹھانے والے، اللہ کا نام لینے والے اور تمھاری عزت بچانے والے غریب لوگ ہی ہیں۔ امیر دولت کے نشے میں اللہ کو بھول گئے ہیں۔ اسلام کی ملت غریبوں ہی کی وجہ سے زندہ ہے۔",
+        "english": "It is the poor who fill the rows in the mosques, bear the hardship of fasting, remember God and cover the community’s faults. The rich, drunk on wealth, have forgotten God; the radiant community of Islam (“millat-e baiza”) survives only thanks to the poor."
+      }
+    }
+  ],
+  "glossary": {
+    "منفعت": [
+      "manfaat",
+      "benefit; gain"
+    ],
+    "قوم": [
+      "qaum",
+      "nation; community"
+    ],
+    "نقصان": [
+      "nuqsaan",
+      "loss; harm"
+    ],
+    "نبیؐ": [
+      "nabi",
+      "the Prophet (ﷺ)"
+    ],
+    "دین": [
+      "deen",
+      "religion"
+    ],
+    "ایمان": [
+      "imaan",
+      "faith"
+    ],
+    "حرَمِ": [
+      "haram-e",
+      "sanctuary (“haram-e paak” = the holy sanctuary of the Kaaba)"
+    ],
+    "پاک": [
+      "paak",
+      "holy; pure"
+    ],
+    "اللہ": [
+      "allaah",
+      "God"
+    ],
+    "قُرآن": [
+      "quraan",
+      "the Quran"
+    ],
+    "کچھ": [
+      "kuchh",
+      "somewhat (“kuchh baṛi baat thi” = would it have been such a big thing?)"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big (f.)"
+    ],
+    "ہوتے": [
+      "hote",
+      "were; become (“hote jo … ek” = if (they) were one; “hote hain saf-aara” = stand in rows)"
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslims"
+    ],
+    "فرقہ": [
+      "firqa",
+      "sect (“firqa-bandi” = sectarianism)"
+    ],
+    "بندی": [
+      "bandi",
+      "division (suffix: “firqa-bandi” = sectarianism)"
+    ],
+    "کہیں": [
+      "kaheen",
+      "somewhere (“kaheen … kaheen” = here … there)"
+    ],
+    "ذاتیں": [
+      "zaaten",
+      "castes"
+    ],
+    "زمانے": [
+      "zamaane",
+      "the world; the age (oblique)"
+    ],
+    "پَنپنے": [
+      "panapne",
+      "thriving; flourishing"
+    ],
+    "باتیں": [
+      "baaten",
+      "ways; things"
+    ],
+    "کون": [
+      "kaun",
+      "who"
+    ],
+    "تارکِ": [
+      "taarik-e",
+      "one who abandons"
+    ],
+    "آئینِ": [
+      "aaeen-e",
+      "way of; law of"
+    ],
+    "رسُولِ": [
+      "rasool-e",
+      "the Messenger (“rasool-e mukhtaar” = the chosen Messenger)"
+    ],
+    "مختارؐ": [
+      "mukhtaar",
+      "chosen; the chosen one (ﷺ)"
+    ],
+    "مصلحت": [
+      "maslahat",
+      "expediency"
+    ],
+    "وقت": [
+      "waqt",
+      "time (“maslahat waqt ki” = expediency of the moment)"
+    ],
+    "کس": [
+      "kis",
+      "whose; who (oblique)"
+    ],
+    "کے": [
+      "ke",
+      "of; having (“ja ke” = having gone; “ke dam se” = thanks to)"
+    ],
+    "عمل": [
+      "amal",
+      "deeds; actions"
+    ],
+    "معیار": [
+      "meyaar",
+      "standard; measure"
+    ],
+    "آنکھوں": [
+      "aankhon",
+      "eyes (oblique pl.)"
+    ],
+    "سمایا": [
+      "samaaya",
+      "settled in; filled"
+    ],
+    "شعارِ": [
+      "shiaar-e",
+      "customs of; ways of"
+    ],
+    "اغیار": [
+      "aghyaar",
+      "others; strangers"
+    ],
+    "ہوگئی": [
+      "ho gayi",
+      "has become (f.)"
+    ],
+    "نِگہ": [
+      "nigah",
+      "gaze; sight"
+    ],
+    "طرزِ": [
+      "tarz-e",
+      "manner of (“tarz-e salaf” = the ways of the forebears)"
+    ],
+    "سلَف": [
+      "salaf",
+      "forebears; the early generations"
+    ],
+    "بیزار": [
+      "bezaar",
+      "weary of; fed up with"
+    ],
+    "قلب": [
+      "qalb",
+      "heart"
+    ],
+    "سوز": [
+      "soz",
+      "burning; inner fire"
+    ],
+    "رُوح": [
+      "rooh",
+      "soul"
+    ],
+    "احساس": [
+      "ehsaas",
+      "feeling"
+    ],
+    "پیغامِ": [
+      "paighaam-e",
+      "message of"
+    ],
+    "محمّدؐ": [
+      "muhammad",
+      "Muhammad (ﷺ)"
+    ],
+    "تمھیں": [
+      "tumhen",
+      "to you"
+    ],
+    "پاس": [
+      "paas",
+      "regard; consideration (“… ka paas naheen” = no regard for)"
+    ],
+    "جا": [
+      "ja",
+      "go (“ja ke” = going, having gone)"
+    ],
+    "مساجد": [
+      "masaajid",
+      "mosques"
+    ],
+    "صف": [
+      "saf",
+      "row (“saf-aara hona” = to line up in rows)"
+    ],
+    "آرا": [
+      "aara",
+      "arranging (suffix: “saf-aara” = standing in rows)"
+    ],
+    "غریب": [
+      "ghareeb",
+      "the poor"
+    ],
+    "زحمتِ": [
+      "zahmat-e",
+      "hardship of; trouble of"
+    ],
+    "روزہ": [
+      "roza",
+      "fasting; the fast"
+    ],
+    "کرتے": [
+      "karte",
+      "do (“gawaara karte hain” = put up with)"
+    ],
+    "گوارا": [
+      "gawaara",
+      "bearable (“gawaara karna” = to put up with)"
+    ],
+    "نام": [
+      "naam",
+      "name (“naam lena” = to remember, invoke)"
+    ],
+    "لیتا": [
+      "leta",
+      "takes"
+    ],
+    "ہمارا": [
+      "hamaara",
+      "Our (God speaking)"
+    ],
+    "پردہ": [
+      "parda",
+      "veil; cover (“parda rakhna” = to cover someone’s faults, save their honour)"
+    ],
+    "رکھتا": [
+      "rakhta",
+      "keeps"
+    ],
+    "تمھارا": [
+      "tumhaara",
+      "your"
+    ],
+    "اُمَرا": [
+      "umara",
+      "the rich; nobles (pl. of “ameer”)"
+    ],
+    "نشّۂ": [
+      "nasha-e",
+      "intoxication of"
+    ],
+    "دولت": [
+      "daulat",
+      "wealth"
+    ],
+    "غافل": [
+      "ghaafil",
+      "heedless"
+    ],
+    "ہم": [
+      "ham",
+      "Us; We (God speaking)"
+    ],
+    "زندہ": [
+      "zinda",
+      "alive"
+    ],
+    "مِلّتِ": [
+      "millat-e",
+      "community (“millat-e baiza” = the radiant community of Islam)"
+    ],
+    "بیضا": [
+      "baiza",
+      "bright; radiant (lit. white)"
+    ],
+    "غُرَبا": [
+      "ghuraba",
+      "the poor (pl. of “ghareeb”)"
+    ],
+    "دم": [
+      "dam",
+      "breath (“ke dam se” = thanks to, because of)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "اللہ کے مطابق تمام مسلمانوں میں کیا چیزیں ایک جیسی ہیں؟",
+      "english": "According to God, what do all Muslims share?",
+      "options": [
+        {
+          "urdu": "ذاتیں اور فرقے",
+          "english": "Castes and sects"
+        },
+        {
+          "urdu": "ایک نبی، ایک دین، ایک کعبہ، ایک اللہ اور ایک قرآن",
+          "english": "One Prophet, one religion, one Kaaba, one God and one Quran"
+        },
+        {
+          "urdu": "صرف ایک زبان",
+          "english": "Only one language"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "“فرقہ بندی ہے کہیں اور کہیں ذاتیں ہیں” میں کس مسئلے کا ذکر ہے؟",
+      "english": "Which problem does the line “here there is sectarianism, and there there are castes” describe?",
+      "options": [
+        {
+          "urdu": "مسلمانوں کی آپس کی تقسیم",
+          "english": "The division of Muslims among themselves"
+        },
+        {
+          "urdu": "غربت",
+          "english": "Poverty"
+        },
+        {
+          "urdu": "جنگ",
+          "english": "War"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "اللہ کے مطابق ملت کس کی وجہ سے زندہ ہے؟",
+      "english": "According to God, thanks to whom does the community survive?",
+      "options": [
+        {
+          "urdu": "امیروں کی وجہ سے",
+          "english": "The rich"
+        },
+        {
+          "urdu": "واعظوں کی وجہ سے",
+          "english": "The preachers"
+        },
+        {
+          "urdu": "غریبوں کی وجہ سے",
+          "english": "The poor"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

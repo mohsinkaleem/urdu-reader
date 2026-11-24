@@ -1,0 +1,379 @@
+{
+  "id": "poem-parveen-woh-to-khushboo-hai",
+  "title": {
+    "urdu": "وہ تو خوش بو ہے ہواؤں میں بکھر جائے گا",
+    "english": "He Is a Fragrance"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "source": {
+    "name": "Rekhta: وہ تو خوش بو ہے ہواؤں میں بکھر جائے گا",
+    "url": "https://www.rekhta.org/ghazals/vo-to-khush-buu-hai-havaaon-men-bikhar-jaaegaa-parveen-shakir-ghazals?lang=ur",
+    "author": "Parveen Shakir",
+    "license": "Personal use only"
+  },
+  "intro": "A ghazal by Parveen Shakir whose opening couplet — the beloved is a fragrance that will scatter on the wind, but where will the flower go? — is among the most quoted lines in modern Urdu. Rekhta lists a version sung by Ghulam Ali. This is the complete ghazal; Rekhta spells “khushboo” as two words, خوش بو.",
+  "sentences": [
+    {
+      "urdu": "وہ تو خوش بو ہے ہواؤں میں بکھر جائے گا",
+      "english": "He is a fragrance; he will scatter on the winds.",
+      "verse": true
+    },
+    {
+      "urdu": "مسئلہ پھول کا ہے پھول کدھر جائے گا",
+      "english": "The problem is the flower’s — where will the flower go?",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہ غزل کا سب سے مشہور شعر ہے۔ محبوب خوشبو کی طرح ہے جو ہوا میں بکھر کر کہیں بھی چلی جائے گی۔ مشکل اس پھول کی ہے جس سے خوشبو نکلی، یعنی عاشق کی، جو اپنی جگہ سے کہیں نہیں جا سکتا۔",
+        "english": "The ghazal’s most famous couplet. The beloved is like a fragrance: it will scatter on the wind and go anywhere. The real problem is the flower it came from — the lover — who is rooted to the spot and cannot go anywhere."
+      }
+    },
+    {
+      "urdu": "ہم تو سمجھے تھے کہ اک زخم ہے بھر جائے گا",
+      "english": "I thought it was just a wound that would heal;",
+      "verse": true
+    },
+    {
+      "urdu": "کیا خبر تھی کہ رگ جاں میں اتر جائے گا",
+      "english": "how was I to know it would sink into the vein of my life?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعرہ سمجھتی تھی کہ محبت کا زخم عام زخم کی طرح وقت کے ساتھ بھر جائے گا، مگر وہ تو اس کی جان کی رگ تک اتر گیا۔",
+        "english": "She thought the wound of love would heal with time like any other, but it sank deep into the very vein of her life."
+      }
+    },
+    {
+      "urdu": "وہ ہواؤں کی طرح خانہ بجاں پھرتا ہے",
+      "english": "Like the winds, he wanders about with no home but himself;",
+      "verse": true
+    },
+    {
+      "urdu": "ایک جھونکا ہے جو آئے گا گزر جائے گا",
+      "english": "he is a gust of wind that will come and pass on.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب ہوا کی طرح آوارہ ہے، اس کا کوئی گھر نہیں۔ وہ ہوا کے ایک جھونکے کی طرح آئے گا اور چلا جائے گا۔",
+        "english": "The beloved is a wanderer like the wind, with no home. He will come like a gust of wind and pass on."
+      }
+    },
+    {
+      "urdu": "وہ جب آئے گا تو پھر اس کی رفاقت کے لیے",
+      "english": "When he comes, then, to keep him company,",
+      "verse": true
+    },
+    {
+      "urdu": "موسم گل مرے آنگن میں ٹھہر جائے گا",
+      "english": "the season of flowers will linger in my courtyard.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پھر بھی جب وہ آئے گا تو اس کے ساتھ کی خاطر بہار کا موسم بھی شاعرہ کے آنگن میں رک جائے گا۔",
+        "english": "And yet, when he does come, even springtime will linger in her courtyard to keep him company."
+      }
+    },
+    {
+      "urdu": "آخرش وہ بھی کہیں ریت پہ بیٹھی ہوگی",
+      "english": "In the end, she too will be left sitting on the sand somewhere;",
+      "verse": true
+    },
+    {
+      "urdu": "تیرا یہ پیار بھی دریا ہے اتر جائے گا",
+      "english": "this love of yours is a river too — it will recede.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعرہ محبوب سے کہتی ہے کہ تمہاری محبت دریا کے سیلاب کی طرح ہے جو چڑھتا ہے اور پھر اتر جاتا ہے۔ آخر کار وہ دوسری عورت بھی، جس سے اب تم محبت کرتے ہو، کہیں ریت پر اکیلی بیٹھی رہ جائے گی۔",
+        "english": "She tells the beloved that his love is like a river in flood: it rises and then recedes. In the end the other woman he now loves will also be left sitting alone on the sand somewhere."
+      }
+    },
+    {
+      "urdu": "مجھ کو تہذیب کے برزخ کا بنایا وارث",
+      "english": "I was made the heir to a civilisation in limbo;",
+      "verse": true
+    },
+    {
+      "urdu": "جرم یہ بھی مرے اجداد کے سر جائے گا",
+      "english": "this crime too will be laid on my ancestors’ heads.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعرہ کو ایک ایسی تہذیب ورثے میں ملی ہے جو بیچ میں لٹکی ہوئی ہے، نہ پوری پرانی اور نہ پوری نئی۔ وہ کہتی ہے کہ اس جرم کا الزام بھی اس کے بزرگوں پر جائے گا۔",
+        "english": "She has inherited a culture caught in limbo, neither fully old nor fully new. The blame for this crime too, she says, will fall on her ancestors."
+      }
+    }
+  ],
+  "glossary": {
+    "وہ": [
+      "woh",
+      "he; she (“woh bhi” = she too)"
+    ],
+    "تو": [
+      "to",
+      "(emphasis) (“woh to” = as for him; “hum to” = I for my part); then"
+    ],
+    "خوش": [
+      "khush",
+      "pleasant (“khush-boo” = fragrance, written here as two words)"
+    ],
+    "بو": [
+      "boo",
+      "scent (“khush-boo” = fragrance)"
+    ],
+    "ہواؤں": [
+      "hawaaon",
+      "winds (pl. oblique)"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "بکھر": [
+      "bikhar",
+      "scatter (“bikhar jaaye ga” = will scatter)"
+    ],
+    "جائے": [
+      "jaaye",
+      "go (completes the verb: “bikhar jaaye ga” = will scatter; “kidhar jaaye ga” = where will it go)"
+    ],
+    "گا": [
+      "ga",
+      "will (future marker, m.)"
+    ],
+    "مسئلہ": [
+      "masla",
+      "problem; issue"
+    ],
+    "پھول": [
+      "phool",
+      "flower"
+    ],
+    "کدھر": [
+      "kidhar",
+      "where; which way"
+    ],
+    "ہم": [
+      "hum",
+      "we; I (poets often say “hum” for “I”)"
+    ],
+    "سمجھے": [
+      "samjhe",
+      "thought; believed (“samjhe the” = had thought)"
+    ],
+    "اک": [
+      "ik",
+      "a; one (short form of “ek”)"
+    ],
+    "زخم": [
+      "zakhm",
+      "wound"
+    ],
+    "بھر": [
+      "bhar",
+      "heal; fill up (“bhar jaaye ga” = will heal)"
+    ],
+    "کیا": [
+      "kya",
+      "what (“kya khabar thi” = how was I to know)"
+    ],
+    "خبر": [
+      "khabar",
+      "knowledge; news (“kya khabar thi” = who knew)"
+    ],
+    "رگ": [
+      "rag(-e)",
+      "vein (“rag-e-jaan” = the jugular vein, the vein of life)"
+    ],
+    "جاں": [
+      "jaan",
+      "life (poetic short spelling of “jaan”)"
+    ],
+    "اتر": [
+      "utar",
+      "sink in; go down; (of a river) recede (“utar jaaye ga” = will sink in / will recede)"
+    ],
+    "خانہ": [
+      "khaana",
+      "house (“khaana-ba-jaan” = carrying one’s home on oneself, homeless)"
+    ],
+    "بجاں": [
+      "ba-jaan",
+      "on one’s own self (“khaana-ba-jaan” = homeless, a wanderer)"
+    ],
+    "پھرتا": [
+      "phirta",
+      "wanders; roams"
+    ],
+    "جھونکا": [
+      "jhonka",
+      "gust (of wind)"
+    ],
+    "جو": [
+      "jo",
+      "which; who"
+    ],
+    "آئے": [
+      "aaye",
+      "come (“aaye ga” = will come)"
+    ],
+    "گزر": [
+      "guzar",
+      "pass (“guzar jaaye ga” = will pass on)"
+    ],
+    "پھر": [
+      "phir",
+      "then"
+    ],
+    "اس": [
+      "us",
+      "him (oblique) (“us ki” = his)"
+    ],
+    "رفاقت": [
+      "rafaaqat",
+      "companionship"
+    ],
+    "موسم": [
+      "mausam(-e)",
+      "season (“mausam-e-gul” = the season of flowers, spring)"
+    ],
+    "گل": [
+      "gul",
+      "flower; rose"
+    ],
+    "مرے": [
+      "mere",
+      "my (short poetic spelling of “mere”)"
+    ],
+    "آنگن": [
+      "aangan",
+      "courtyard"
+    ],
+    "ٹھہر": [
+      "thehar",
+      "stay; linger (“thehar jaaye ga” = will stay)"
+    ],
+    "آخرش": [
+      "aakhirash",
+      "in the end; finally"
+    ],
+    "کہیں": [
+      "kahin",
+      "somewhere"
+    ],
+    "ریت": [
+      "ret",
+      "sand"
+    ],
+    "پہ": [
+      "pe",
+      "on (short form of “par”)"
+    ],
+    "بیٹھی": [
+      "baithi",
+      "sitting (f.)"
+    ],
+    "ہوگی": [
+      "hogi",
+      "will be; must be (f.)"
+    ],
+    "تیرا": [
+      "tera",
+      "your (m., intimate)"
+    ],
+    "پیار": [
+      "pyaar",
+      "love"
+    ],
+    "دریا": [
+      "darya",
+      "river"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh ko” = me)"
+    ],
+    "تہذیب": [
+      "tehzeeb",
+      "civilisation; culture"
+    ],
+    "برزخ": [
+      "barzakh",
+      "limbo; the in-between world (between death and the Day of Judgement)"
+    ],
+    "بنایا": [
+      "banaaya",
+      "made"
+    ],
+    "وارث": [
+      "waaris",
+      "heir"
+    ],
+    "جرم": [
+      "jurm",
+      "crime"
+    ],
+    "اجداد": [
+      "ajdaad",
+      "ancestors (Arabic pl.)"
+    ],
+    "سر": [
+      "sar",
+      "head (“ke sar jaana” = to be blamed on)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر میں “خوشبو” اور “پھول” کس کی علامت ہیں؟",
+      "english": "In the first couplet, who do the “fragrance” and the “flower” stand for?",
+      "options": [
+        {
+          "urdu": "خوشبو محبوب ہے جو کہیں بھی جا سکتا ہے، اور پھول عاشق ہے جو اپنی جگہ بندھا ہے",
+          "english": "the fragrance is the beloved, free to go anywhere; the flower is the lover, rooted in place"
+        },
+        {
+          "urdu": "دونوں باغ کے پودے ہیں",
+          "english": "both are garden plants"
+        },
+        {
+          "urdu": "خوشبو شاعرہ ہے اور پھول اس کی ماں",
+          "english": "the fragrance is the poet and the flower is her mother"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعرہ کو زخم کے بارے میں کیا غلط فہمی تھی؟",
+      "english": "What was the poet wrong about regarding the wound?",
+      "options": [
+        {
+          "urdu": "کہ یہ بہت گہرا ہے",
+          "english": "that it was very deep"
+        },
+        {
+          "urdu": "کہ یہ ایک عام زخم ہے جو بھر جائے گا",
+          "english": "that it was an ordinary wound that would heal"
+        },
+        {
+          "urdu": "کہ اس کا کوئی علاج نہیں",
+          "english": "that it had no cure"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "محبوب کو ہوا کا جھونکا کیوں کہا گیا ہے؟",
+      "english": "Why is the beloved called a gust of wind?",
+      "options": [
+        {
+          "urdu": "کیونکہ وہ بہت طاقتور ہے",
+          "english": "because he is very powerful"
+        },
+        {
+          "urdu": "کیونکہ اس کا مزاج ٹھنڈا ہے",
+          "english": "because he has a cool temperament"
+        },
+        {
+          "urdu": "کیونکہ وہ آوارہ ہے، آئے گا اور گزر جائے گا",
+          "english": "because he is a wanderer who will come and pass on"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

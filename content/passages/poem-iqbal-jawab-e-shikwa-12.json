@@ -1,0 +1,508 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-12",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 12)",
+    "english": "Jawab-e-Shikwa, part 12"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Iqbal’s “Jawab-e-Shikwa” (1913, later in Bang-e-Dara) is God’s answer to his earlier poem “Shikwa”, in which he had complained to God on behalf of the Muslims. This final part (stanzas 34–36) shows the Prophet’s name everywhere, from China to Morocco and Africa, ‘the world of Bilal’, and ends with God’s famous promise: keep faith with Muhammad, and the Tablet and the Pen are yours.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 12,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "دشت میں، دامنِ کُہسار میں، میدان میں ہے",
+      "english": "It is in the desert, in the foothills of the mountains, in the plain;",
+      "verse": true
+    },
+    {
+      "urdu": "بحر میں، موج کی آغوش میں، طوفان میں ہے",
+      "english": "in the sea, in the embrace of the wave, in the storm;",
+      "verse": true
+    },
+    {
+      "urdu": "چین کے شہر، مراقش کے بیابان میں ہے",
+      "english": "in the cities of China, in the wilderness of Morocco;",
+      "verse": true
+    },
+    {
+      "urdu": "اور پوشیدہ مسلمان کے ایمان میں ہے",
+      "english": "and it lies hidden in the faith of the Muslim.",
+      "verse": true
+    },
+    {
+      "urdu": "چشمِ اقوام یہ نظّارہ ابد تک دیکھے",
+      "english": "May the eye of the nations behold this sight till eternity:",
+      "verse": true
+    },
+    {
+      "urdu": "رفعتِ شانِ ’رَفَعْنَالَکَ ذِکرَْک‘ دیکھے",
+      "english": "may it see the exalted glory of “We have raised high your remembrance”.",
+      "verse": true,
+      "explanation": {
+        "urdu": "حضرت محمدؐ کا نام ہر جگہ ہے: صحرا، پہاڑوں کے دامن، میدان، سمندر، لہروں اور طوفان میں، چین کے شہروں اور مراکش کے بیابانوں میں، اور مسلمان کے دل کے ایمان میں چھپا ہوا۔ اللہ چاہتا ہے کہ قومیں ہمیشہ دیکھیں کہ اس نے اپنے نبی کا ذکر کتنا بلند کیا ہے۔",
+        "english": "The Prophet’s name is everywhere — in deserts, foothills, plains, seas, waves and storms, from the cities of China to the deserts of Morocco — and hidden in every Muslim’s faith. May the nations see forever the glory of the Quranic words ‘We have raised high your remembrance’ (Quran 94:4)."
+      }
+    },
+    {
+      "urdu": "مَردمِ چشمِ زمیں یعنی وہ کالی دنیا",
+      "english": "The pupil of the earth’s eye — that is, that dark world,",
+      "verse": true
+    },
+    {
+      "urdu": "وہ تمھارے شُہَدا پالنے والی دنیا",
+      "english": "that world which raises your martyrs,",
+      "verse": true
+    },
+    {
+      "urdu": "گرمیِ مہر کی پروَردہ ہلالی دنیا",
+      "english": "the world of the crescent, nurtured by the heat of the sun,",
+      "verse": true
+    },
+    {
+      "urdu": "عشق والے جسے کہتے ہیں بِلالی دنیا",
+      "english": "which lovers call the world of Bilal —",
+      "verse": true
+    },
+    {
+      "urdu": "تپش اندوز ہے اس نام سے پارے کی طرح",
+      "english": "throbs with this name like quicksilver;",
+      "verse": true
+    },
+    {
+      "urdu": "غوطہ‌زن نُور میں ہے آنکھ کے تارے کی طرح",
+      "english": "it is plunged in light like the pupil of the eye.",
+      "verse": true,
+      "explanation": {
+        "urdu": "یہاں افریقہ کا ذکر ہے، جو زمین کی آنکھ کی پتلی کی طرح کالا اور قیمتی ہے۔ یہ دنیا مسلمان شہیدوں کو پالتی ہے، سورج کی گرمی میں پلی ہے، اور عاشق اسے حضرت بلالؓ کی دنیا کہتے ہیں۔ یہ دنیا بھی اسی نام سے پارے کی طرح بے چین ہے اور آنکھ کی پتلی کی طرح نور میں ڈوبی ہوئی ہے۔",
+        "english": "Africa: dark like the pupil of the earth’s eye, and as precious; the land that raises your martyrs (in 1911–12 Libyans and Ottomans fought the Italian invasion of Tripoli); reared by the sun’s heat under the crescent; called by lovers ‘the world of Bilal’, after the Abyssinian companion who became Islam’s first muezzin. It too throbs with the Prophet’s name like quicksilver and is bathed in light like the pupil of an eye."
+      }
+    },
+    {
+      "urdu": "عقل ہے تیری سِپَر، عشق ہے شمشیر تری",
+      "english": "Reason is your shield, love is your sword;",
+      "verse": true
+    },
+    {
+      "urdu": "مرے درویش! خلافت ہے جہاں‌گیر تری",
+      "english": "my dervish! your vicegerency is world-conquering.",
+      "verse": true
+    },
+    {
+      "urdu": "ماسِوَی اللہ کے لیے آگ ہے تکبیر تری",
+      "english": "Your cry of “Allahu Akbar” is fire to everything other than God;",
+      "verse": true
+    },
+    {
+      "urdu": "تُو مسلماں ہو تو تقدیر ہے تدبیر تری",
+      "english": "if you are a Muslim, your effort is itself destiny.",
+      "verse": true
+    },
+    {
+      "urdu": "کی محمّدؐ سے وفا تُو نے تو ہم تیرے ہیں",
+      "english": "If you keep faith with Muhammad, then We are yours;",
+      "verse": true
+    },
+    {
+      "urdu": "یہ جہاں چیز ہے کیا، لوح و قلم تیرے ہیں",
+      "english": "what is this world? The Tablet and the Pen are yours.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ اپنے درویش بندے سے کہتا ہے: عقل تیری ڈھال اور عشق تیری تلوار ہے، تیری خلافت پوری دنیا پر چھا سکتی ہے، اور تیری اللہ اکبر کی آواز اللہ کے سوا ہر چیز کے لیے آگ ہے۔ اگر تو سچا مسلمان بن جائے تو تیری کوشش ہی تقدیر بن جاتی ہے۔ اگر تو محمدؐ سے وفا کرے تو ہم تیرے ہیں؛ یہ دنیا تو کیا، لوح و قلم بھی تیرے ہیں۔",
+        "english": "God’s final words: reason is your shield and love your sword; your vicegerency can win the world; your cry ‘Allahu Akbar’ is fire to everything other than God. If you are a true Muslim, your own effort becomes destiny. Then the famous closing couplet: keep faith with Muhammad and We are yours — this world is nothing; the Tablet and the Pen, with which destiny is written, are yours."
+      }
+    }
+  ],
+  "glossary": {
+    "دشت": [
+      "dasht",
+      "desert"
+    ],
+    "دامن": [
+      "daaman-e",
+      "skirt; foot (of) (“daaman-e kohsaar” = the foothills)"
+    ],
+    "کہسار": [
+      "kohsaar",
+      "mountains"
+    ],
+    "میدان": [
+      "maidaan",
+      "plain; open field"
+    ],
+    "بحر": [
+      "bahr",
+      "sea"
+    ],
+    "موج": [
+      "mauj",
+      "wave; ripple"
+    ],
+    "کی": [
+      "ki",
+      "of (f.); did (f.) (“wafa ki” = kept faith)"
+    ],
+    "آغوش": [
+      "aaghosh",
+      "embrace; lap"
+    ],
+    "طوفان": [
+      "toofaan",
+      "storm"
+    ],
+    "چین": [
+      "cheen",
+      "China"
+    ],
+    "شہر": [
+      "shehar",
+      "city"
+    ],
+    "مراقش": [
+      "maraakash",
+      "Morocco"
+    ],
+    "بیابان": [
+      "bayaabaan",
+      "wilderness; desert"
+    ],
+    "پوشیدہ": [
+      "posheeda",
+      "hidden"
+    ],
+    "مسلمان": [
+      "musalmaan",
+      "Muslim"
+    ],
+    "ایمان": [
+      "eemaan",
+      "faith"
+    ],
+    "چشم": [
+      "chashm-e",
+      "eye (of)"
+    ],
+    "اقوام": [
+      "aqwaam-e",
+      "nations (pl.) (“aqwaam-e kuhan” = the ancient nations)"
+    ],
+    "نظارہ": [
+      "nazzaara",
+      "sight; spectacle"
+    ],
+    "ابد": [
+      "abad",
+      "eternity"
+    ],
+    "دیکھے": [
+      "dekhe",
+      "may (it) see"
+    ],
+    "رفعت": [
+      "rifat-e",
+      "loftiness; exaltation (of)"
+    ],
+    "شان": [
+      "shaan-e",
+      "glory; majesty (of)"
+    ],
+    "رفعنالک": [
+      "rafanaa laka",
+      "(Arabic) “We have raised for you” (Quran 94:4)"
+    ],
+    "ذکرک": [
+      "zikrak",
+      "(Arabic) your remembrance; your name (“rafanaa laka zikrak” = We have raised high your remembrance)"
+    ],
+    "مردم": [
+      "mardum-e",
+      "pupil (of the eye) (“mardum-e chashm” = the pupil of the eye)"
+    ],
+    "زمیں": [
+      "zameen",
+      "earth (poetic spelling)"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; namely"
+    ],
+    "کالی": [
+      "kaali",
+      "black; dark (f.)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "تمھارے": [
+      "tumhaare",
+      "your"
+    ],
+    "شہدا": [
+      "shuhada",
+      "martyrs (pl.)"
+    ],
+    "پالنے": [
+      "paalne",
+      "rearing; nurturing (“paalne waali” = which nurtures)"
+    ],
+    "والی": [
+      "waali",
+      "about to; (one) who (f.)"
+    ],
+    "گرمی": [
+      "garmi-e",
+      "heat; warmth (of)"
+    ],
+    "مہر": [
+      "mehr",
+      "the sun"
+    ],
+    "پروردہ": [
+      "parwarda",
+      "nurtured; reared"
+    ],
+    "ہلالی": [
+      "hilaali",
+      "of the crescent (i.e. Muslim)"
+    ],
+    "عشق": [
+      "ishq",
+      "love"
+    ],
+    "والے": [
+      "waale",
+      "people (“ishq waale” = lovers, people of love)"
+    ],
+    "جسے": [
+      "jise",
+      "which; whom"
+    ],
+    "کہتے": [
+      "kehte",
+      "call; say"
+    ],
+    "بلالی": [
+      "bilaali",
+      "of Bilal, the Abyssinian companion of the Prophet and Islam’s first muezzin"
+    ],
+    "تپش": [
+      "tapish",
+      "throbbing; restless heat"
+    ],
+    "اندوز": [
+      "andoz",
+      "gathering (“tapish-andoz” = full of restless heat, throbbing)"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "پارے": [
+      "paare",
+      "mercury; quicksilver (oblique)"
+    ],
+    "طرح": [
+      "tarah",
+      "way (“ki tarah” = like)"
+    ],
+    "غوطہزن": [
+      "ghota-zan",
+      "plunged; diving"
+    ],
+    "نور": [
+      "noor-e",
+      "light (of)"
+    ],
+    "آنکھ": [
+      "aankh",
+      "eye"
+    ],
+    "تارے": [
+      "taare",
+      "star (oblique) (“aankh ka taara” = the pupil of the eye)"
+    ],
+    "عقل": [
+      "aql",
+      "reason; intellect"
+    ],
+    "تیری": [
+      "teri",
+      "your (f.)"
+    ],
+    "سپر": [
+      "sipar",
+      "shield"
+    ],
+    "شمشیر": [
+      "shamsheer",
+      "sword"
+    ],
+    "تری": [
+      "tiri",
+      "your (f.) (poetic form of “teri”)"
+    ],
+    "مرے": [
+      "mire",
+      "my (poetic form of “mere”)"
+    ],
+    "درویش": [
+      "darvesh",
+      "dervish; humble seeker of God"
+    ],
+    "خلافت": [
+      "khilaafat",
+      "vicegerency; leadership on God’s behalf"
+    ],
+    "جہاںگیر": [
+      "jahaan-geer",
+      "world-conquering"
+    ],
+    "ماسوی": [
+      "maa-siwa",
+      "whatever is other than (“maa-siwa allaah” = everything except God)"
+    ],
+    "اللہ": [
+      "allaah",
+      "God"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = for)"
+    ],
+    "آگ": [
+      "aag",
+      "fire"
+    ],
+    "تکبیر": [
+      "takbeer",
+      "the cry “Allahu Akbar” (God is greatest)"
+    ],
+    "تُو": [
+      "tu",
+      "you (singular; used in addressing God or the community)"
+    ],
+    "مسلماں": [
+      "musalmaan",
+      "Muslim (poetic spelling)"
+    ],
+    "ہو": [
+      "ho",
+      "be; are (“tu musalmaan ho” = if you are a Muslim)"
+    ],
+    "تو": [
+      "to",
+      "then (“wafa ki… to ham tere hain” = then We are yours)"
+    ],
+    "تقدیر": [
+      "taqdeer",
+      "destiny; fate"
+    ],
+    "تدبیر": [
+      "tadbeer",
+      "effort; planning"
+    ],
+    "محمد": [
+      "muhammad",
+      "Muhammad, the Prophet (peace be upon him)"
+    ],
+    "وفا": [
+      "wafa",
+      "faithfulness (“wafa ki” = kept faith)"
+    ],
+    "ہم": [
+      "ham",
+      "We (God speaking)"
+    ],
+    "تیرے": [
+      "tere",
+      "yours"
+    ],
+    "جہاں": [
+      "jahaan",
+      "world"
+    ],
+    "چیز": [
+      "cheez",
+      "thing (“yeh jahaan cheez hai kya” = what is this world worth?)"
+    ],
+    "لوح": [
+      "lauh",
+      "the Tablet (on which destiny is written)"
+    ],
+    "قلم": [
+      "qalam",
+      "the Pen (that writes destiny)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "’بلالی دنیا‘ سے کون سی جگہ مراد ہے؟",
+      "english": "Which place is meant by “the world of Bilal”?",
+      "options": [
+        {
+          "urdu": "چین",
+          "english": "China"
+        },
+        {
+          "urdu": "افریقہ",
+          "english": "Africa"
+        },
+        {
+          "urdu": "ایران",
+          "english": "Iran"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "اگر مسلمان محمدؐ سے وفا کرے تو اللہ کیا وعدہ کرتا ہے؟",
+      "english": "What does God promise if the Muslim keeps faith with Muhammad?",
+      "options": [
+        {
+          "urdu": "بہت سی دولت",
+          "english": "great wealth"
+        },
+        {
+          "urdu": "لمبی عمر",
+          "english": "a long life"
+        },
+        {
+          "urdu": "ہم تیرے ہیں اور لوح و قلم بھی تیرے ہیں",
+          "english": "We are yours, and the Tablet and the Pen are yours"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "آخری بند میں عقل اور عشق کو کیا کہا گیا ہے؟",
+      "english": "What are reason and love called in the last stanza?",
+      "options": [
+        {
+          "urdu": "عقل ڈھال ہے اور عشق تلوار",
+          "english": "reason is the shield, love the sword"
+        },
+        {
+          "urdu": "عقل تلوار ہے اور عشق ڈھال",
+          "english": "reason is the sword, love the shield"
+        },
+        {
+          "urdu": "دونوں دشمن ہیں",
+          "english": "they are enemies"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

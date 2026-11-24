@@ -1,0 +1,621 @@
+{
+  "id": "poem-iqbal-tarana-e-milli",
+  "title": {
+    "urdu": "ترانۂ ملی",
+    "english": "Tarana-e-Milli"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["homeland", "faith", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: ترانۂ ملی (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AA%D8%B1%D8%A7%D9%86%DB%82_%D9%85%D9%84%DB%8C",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Allama Iqbal’s “Tarana-e-Milli” (1910, later in Bang-e-Dara) uses the same metre and refrain as his “Tarana-e-Hindi” (1904). Where the earlier song praised India as the shared homeland of all its people, this one calls “the whole world” the homeland of Muslims and recalls Mecca, Muslim Spain and Baghdad — reflecting how, after his years in Europe (1905–08), Iqbal came to see the faith community (millat) rather than territory as the basis of identity. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "چِین و عرب ہمارا، ہندوستاں ہمارا",
+      "english": "China and Arabia are ours, Hindustan is ours;",
+      "verse": true
+    },
+    {
+      "urdu": "مسلم ہیں ہم، وطن ہے سارا جہاں ہمارا",
+      "english": "we are Muslims, the whole world is our homeland.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ چین، عرب اور ہندوستان سب ہمارے ہیں۔ ہم مسلمان ہیں اور ساری دنیا ہمارا وطن ہے۔",
+        "english": "Echoing the refrain of his Tarana-e-Hindi, Iqbal now says that as Muslims his community’s homeland is not one country but the whole world."
+      }
+    },
+    {
+      "urdu": "توحید کی امانت سینوں میں ہے ہمارے",
+      "english": "The trust of God’s oneness is held in our breasts;",
+      "verse": true
+    },
+    {
+      "urdu": "آساں نہیں مٹانا نام و نشاں ہمارا",
+      "english": "it is not easy to wipe out our name and trace.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہمارے دلوں میں ایک خدا کو ماننے کا عقیدہ امانت کی طرح محفوظ ہے، اس لیے ہمیں مٹانا آسان نہیں۔",
+        "english": "Tawheed — belief in one God — is kept in Muslims’ hearts like something held in trust; because of it, the community cannot easily be erased."
+      }
+    },
+    {
+      "urdu": "دنیا کے بُت‌کدوں میں پہلا وہ گھر خدا کا",
+      "english": "Among the idol-houses of the world, that first house of God —",
+      "verse": true
+    },
+    {
+      "urdu": "ہم اُس کے پاسباں ہیں، وہ پاسباں ہمارا",
+      "english": "we are its guardians, and it is our guardian.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دنیا میں بہت سے بت خانے تھے، مگر خدا کا پہلا گھر کعبہ ہے۔ ہم اس کی حفاظت کرتے ہیں اور وہ ہماری حفاظت کرتا ہے۔",
+        "english": "“The first house of God” is the Kaaba in Mecca, which Muslims believe was the first house built for the worship of one God in a world full of idol temples. Muslims guard it, and it in turn keeps the community together."
+      }
+    },
+    {
+      "urdu": "تیغوں کے سائے میں ہم پل کر جواں ہوئے ہیں",
+      "english": "We grew up to youth in the shadow of swords;",
+      "verse": true
+    },
+    {
+      "urdu": "خنجر ہلال کا ہے قومی نشاں ہمارا",
+      "english": "the dagger of the crescent moon is our national emblem.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم تلواروں کے سائے میں پل کر جوان ہوئے۔ ہمارا قومی نشان ہلال یعنی پہلی رات کا چاند ہے جو خنجر جیسا لگتا ہے۔",
+        "english": "The community grew up amid struggle, “in the shadow of swords”. Its emblem, the crescent moon, is pictured as a curved dagger."
+      }
+    },
+    {
+      "urdu": "مغرب کی وادیوں میں گونجی اذاں ہماری",
+      "english": "Our call to prayer echoed in the valleys of the West;",
+      "verse": true
+    },
+    {
+      "urdu": "تھمتا نہ تھا کسی سے سیلِ رواں ہمارا",
+      "english": "no one could stop our onrushing flood.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہماری اذان مغرب کی وادیوں یعنی اسپین اور یورپ تک گونجی۔ ہمارا بڑھتا ہوا سیلاب کسی سے نہیں رکتا تھا۔",
+        "english": "This recalls the early spread of Islam westwards as far as Spain, which advanced like a flood that no one could hold back."
+      }
+    },
+    {
+      "urdu": "باطل سے دبنے والے اے آسماں نہیں ہم",
+      "english": "O heavens, we are not ones to give way before falsehood;",
+      "verse": true
+    },
+    {
+      "urdu": "سَو بار کر چکا ہے تُو امتحاں ہمارا",
+      "english": "you have tested us a hundred times already.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر آسمان یعنی تقدیر سے کہتا ہے کہ ہم جھوٹ اور باطل کے آگے نہیں جھکتے۔ تو سو بار ہمیں آزما چکا ہے۔",
+        "english": "In Urdu poetry the sky stands for fate. The poet tells fate that his people do not bow before falsehood — it has already tested them a hundred times."
+      }
+    },
+    {
+      "urdu": "اے گلِستانِ اندلس! وہ دن ہیں یاد تجھ کو",
+      "english": "O garden of Andalusia! Do you remember those days",
+      "verse": true
+    },
+    {
+      "urdu": "تھا تیری ڈالیوں پر جب آشیاں ہمارا",
+      "english": "when our nest was on your branches?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر اندلس یعنی اسپین سے پوچھتا ہے کہ کیا تجھے وہ زمانہ یاد ہے جب ہم تیرے باغ میں بستے تھے۔",
+        "english": "Andalusia — Muslim Spain (711–1492) — is pictured as a garden where the community once built its nest. The couplet mirrors the Ganges couplet of Tarana-e-Hindi."
+      }
+    },
+    {
+      "urdu": "اے موجِ دجلہ! تُو بھی پہچانتی ہے ہم کو",
+      "english": "O wave of the Tigris! You too know us;",
+      "verse": true
+    },
+    {
+      "urdu": "اب تک ہے تیرا دریا افسانہ خواں ہمارا",
+      "english": "your river still tells our story to this day.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دجلہ عراق کا دریا ہے جس کے کنارے بغداد آباد ہے۔ شاعر کہتا ہے کہ یہ دریا آج تک ہماری کہانی سناتا ہے۔",
+        "english": "The Tigris flows through Baghdad, once the capital of the Abbasid caliphate; its waters still “recite” the community’s history."
+      }
+    },
+    {
+      "urdu": "اے ارضِ پاک! تیری حُرمت پہ کٹ مرے ہم",
+      "english": "O sacred land! We gave our lives for your honour;",
+      "verse": true
+    },
+    {
+      "urdu": "ہے خُوں تری رگوں میں اب تک رواں ہمارا",
+      "english": "our blood still flows in your veins.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اے مقدس سرزمین! ہم نے تیری عزت کی خاطر جانیں دیں۔ ہمارا خون آج بھی تیری رگوں میں بہہ رہا ہے۔",
+        "english": "“Arz-e-paak”, the sacred land, is usually taken to mean the Hijaz, the holy land of Islam (the poem is from 1910, long before Pakistan). Muslims gave their lives for its honour, and their blood still runs in it."
+      }
+    },
+    {
+      "urdu": "سالارِ کارواں ہے میرِ حجازؐ اپنا",
+      "english": "The leader of our caravan is the Chief of Hijaz (the Prophet);",
+      "verse": true
+    },
+    {
+      "urdu": "اس نام سے ہے باقی آرامِ جاں ہمارا",
+      "english": "it is through this name that our soul’s comfort endures.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہمارے قافلے کے سردار حضرت محمد ﷺ ہیں۔ انہی کے نام سے ہمارے دل کو سکون ملتا ہے۔",
+        "english": "“Mir-e-Hijaz”, the leader of the Hijaz, is the Prophet Muhammad (the small sign after the name is an honorific). He leads the caravan, and his name is the source of the community’s peace of heart."
+      }
+    },
+    {
+      "urdu": "اقبالؔ کا ترانہ بانگِ درا ہے گویا",
+      "english": "Iqbal’s anthem is, as it were, the caravan bell:",
+      "verse": true
+    },
+    {
+      "urdu": "ہوتا ہے جادہ پیما پھر کارواں ہمارا",
+      "english": "our caravan is setting out on the road again.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اقبال کہتے ہیں کہ ان کا یہ ترانہ قافلے کی گھنٹی کی طرح ہے جس کی آواز سن کر ہمارا قافلہ پھر سفر پر چل پڑتا ہے۔",
+        "english": "“Bang-e-dara” is the sound of the bell that tells a caravan to set off; Iqbal hopes his song will start the community moving again. It also became the title of his first Urdu collection (1924), where this poem appears."
+      }
+    }
+  ],
+  "glossary": {
+    "چین": [
+      "cheen",
+      "China"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "عرب": [
+      "arab",
+      "Arabia; the Arabs"
+    ],
+    "ہمارا": [
+      "hamaara",
+      "our; ours"
+    ],
+    "ہندوستاں": [
+      "hindustaan",
+      "India (poetic form of “hindustaan”)"
+    ],
+    "مسلم": [
+      "muslim",
+      "Muslim(s)"
+    ],
+    "ہم": [
+      "ham",
+      "we; us (“ham ko” = us)"
+    ],
+    "وطن": [
+      "watan",
+      "homeland"
+    ],
+    "سارا": [
+      "saara",
+      "whole; entire"
+    ],
+    "جہاں": [
+      "jahaan",
+      "world (poetic form of “jahaan”)"
+    ],
+    "توحید": [
+      "tauheed",
+      "the oneness of God; monotheism"
+    ],
+    "امانت": [
+      "amaanat",
+      "trust; something held in trust"
+    ],
+    "سینوں": [
+      "seenon",
+      "breasts; hearts (pl. oblique)"
+    ],
+    "ہمارے": [
+      "hamaare",
+      "our (oblique)"
+    ],
+    "آساں": [
+      "aasaan",
+      "easy (poetic form of “aasaan”)"
+    ],
+    "مٹانا": [
+      "miṭaana",
+      "to wipe out; to erase"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "نشاں": [
+      "nishaan",
+      "trace; sign; emblem (“naam-o-nishaan” = name and trace; “qaumi nishaan” = national emblem)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "بتکدوں": [
+      "but-kadon",
+      "idol-houses; temples (pl. oblique)"
+    ],
+    "پہلا": [
+      "pehla",
+      "first"
+    ],
+    "گھر": [
+      "ghar",
+      "house; home"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "اس": [
+      "us / is",
+      "that; its (“us ke” = its); this (“is naam se” = through this name)"
+    ],
+    "پاسباں": [
+      "paasbaan",
+      "guardian; watchman (poetic form of “paasbaan”)"
+    ],
+    "تیغوں": [
+      "teghon",
+      "swords (pl. oblique)"
+    ],
+    "سائے": [
+      "saaye",
+      "shadow (oblique)"
+    ],
+    "پل": [
+      "pal",
+      "be raised; grow up (“pal kar” = having been raised)"
+    ],
+    "کر": [
+      "kar",
+      "having (“pal kar” = having grown up); done (“kar chuka hai” = has already done)"
+    ],
+    "جواں": [
+      "jawaan",
+      "young; grown (“jawaan hue” = grew to youth)"
+    ],
+    "خنجر": [
+      "khanjar",
+      "dagger"
+    ],
+    "ہلال": [
+      "hilaal",
+      "crescent moon"
+    ],
+    "قومی": [
+      "qaumi",
+      "national"
+    ],
+    "مغرب": [
+      "maghrib",
+      "the West"
+    ],
+    "وادیوں": [
+      "waadiyon",
+      "valleys (pl. oblique)"
+    ],
+    "گونجی": [
+      "goonji",
+      "echoed; rang out (f.)"
+    ],
+    "اذاں": [
+      "azaan",
+      "the call to prayer (poetic form of “azaan”)"
+    ],
+    "ہماری": [
+      "hamaari",
+      "our (f.)"
+    ],
+    "تھمتا": [
+      "thamta",
+      "was stopped (“thamta na tha” = could not be stopped)"
+    ],
+    "کسی": [
+      "kisi",
+      "anyone (oblique) (“kisi se” = by anyone)"
+    ],
+    "سیلِ": [
+      "sail-e",
+      "flood (of …) (“sail-e-rawaan” = onrushing flood)"
+    ],
+    "رواں": [
+      "rawaan",
+      "flowing; onrushing"
+    ],
+    "باطل": [
+      "baatil",
+      "falsehood; what is false"
+    ],
+    "دبنے": [
+      "dabne",
+      "being pressed down; giving way (oblique)"
+    ],
+    "والے": [
+      "waale",
+      "ones who (“dabne waale” = ones who give way)"
+    ],
+    "اے": [
+      "ai",
+      "O"
+    ],
+    "آسماں": [
+      "aasmaan",
+      "sky; the heavens (i.e. fate)"
+    ],
+    "سو": [
+      "sau",
+      "hundred"
+    ],
+    "بار": [
+      "baar",
+      "times (“sau baar” = a hundred times)"
+    ],
+    "چکا": [
+      "chuka",
+      "already (“kar chuka hai” = has already done)"
+    ],
+    "تو": [
+      "too",
+      "you (intimate)"
+    ],
+    "امتحاں": [
+      "imtihaan",
+      "test; trial (poetic form of “imtihaan”)"
+    ],
+    "گلستانِ": [
+      "gulistaan-e",
+      "garden (of …)"
+    ],
+    "اندلس": [
+      "andalus",
+      "Andalusia; Muslim Spain"
+    ],
+    "دن": [
+      "din",
+      "days"
+    ],
+    "یاد": [
+      "yaad",
+      "memory (“yaad hain tujh ko” = do you remember)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (“tujh ko” = to you)"
+    ],
+    "تیری": [
+      "teri",
+      "your (f.)"
+    ],
+    "ڈالیوں": [
+      "ḍaaliyon",
+      "branches (pl. oblique)"
+    ],
+    "آشیاں": [
+      "aashiyaan",
+      "nest (poetic form of “aashiyaana”)"
+    ],
+    "موجِ": [
+      "mauj-e",
+      "wave (of …)"
+    ],
+    "دجلہ": [
+      "dajla",
+      "the Tigris (river of Baghdad)"
+    ],
+    "پہچانتی": [
+      "pehchaanti",
+      "recognises; knows (f.)"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab tak” = to this day, still)"
+    ],
+    "تیرا": [
+      "tera",
+      "your"
+    ],
+    "دریا": [
+      "darya",
+      "river"
+    ],
+    "افسانہ": [
+      "afsaana",
+      "story; tale"
+    ],
+    "خواں": [
+      "khwaan",
+      "reciting (“afsaana-khwaan” = telling the tale)"
+    ],
+    "ارضِ": [
+      "arz-e",
+      "land (of …) (“arz-e-paak” = the sacred land)"
+    ],
+    "پاک": [
+      "paak",
+      "pure; holy"
+    ],
+    "حرمت": [
+      "hurmat",
+      "sanctity; honour"
+    ],
+    "پہ": [
+      "pe",
+      "on; for (poetic form of “par”)"
+    ],
+    "کٹ": [
+      "kaṭ",
+      "be cut (“kaṭ mare” = were cut down, gave our lives)"
+    ],
+    "مرے": [
+      "mare",
+      "died (“kaṭ mare” = died fighting)"
+    ],
+    "خوں": [
+      "khoon",
+      "blood (poetic form of “khoon”)"
+    ],
+    "تری": [
+      "tiri",
+      "your (poetic form of “teri”)"
+    ],
+    "رگوں": [
+      "ragon",
+      "veins (pl. oblique)"
+    ],
+    "سالارِ": [
+      "saalaar-e",
+      "leader; commander (of …) (“saalaar-e-kaarwaan” = leader of the caravan)"
+    ],
+    "کارواں": [
+      "kaarwaan",
+      "caravan"
+    ],
+    "میرِ": [
+      "meer-e",
+      "chief; leader (of …) (“meer-e-hijaaz” = the Prophet Muhammad)"
+    ],
+    "حجاز": [
+      "hijaaz",
+      "the Hijaz (western Arabia, with Mecca and Medina)"
+    ],
+    "اپنا": [
+      "apna",
+      "our own"
+    ],
+    "آرامِ": [
+      "aaraam-e",
+      "comfort; rest (of …) (“aaraam-e-jaan” = comfort of the soul)"
+    ],
+    "جاں": [
+      "jaan",
+      "soul; life (poetic form of “jaan”)"
+    ],
+    "اقبال": [
+      "iqbaal",
+      "Iqbal (the poet’s name)"
+    ],
+    "ترانہ": [
+      "taraana",
+      "anthem; song"
+    ],
+    "بانگِ": [
+      "baang-e",
+      "call; sound (of …) (“baang-e-dara” = the sound of the caravan bell)"
+    ],
+    "درا": [
+      "dara",
+      "caravan bell"
+    ],
+    "گویا": [
+      "goya",
+      "as it were; as if"
+    ],
+    "ہوتا": [
+      "hota",
+      "(“hota hai jaada-paima” = is setting out on the road)"
+    ],
+    "جادہ": [
+      "jaada",
+      "road; path"
+    ],
+    "پیما": [
+      "paima",
+      "measuring; travelling (“jaada-paima” = on the road, on the move)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "اس ترانے کے مطابق مسلمانوں کا وطن کیا ہے؟",
+      "english": "According to this anthem, what is the homeland of Muslims?",
+      "options": [
+        {
+          "urdu": "صرف ہندوستان",
+          "english": "only India"
+        },
+        {
+          "urdu": "صرف عرب",
+          "english": "only Arabia"
+        },
+        {
+          "urdu": "ساری دنیا",
+          "english": "the whole world"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "“دنیا کے بت کدوں میں پہلا وہ گھر خدا کا” سے کیا مراد ہے؟",
+      "english": "What is meant by “that first house of God among the idol-houses of the world”?",
+      "options": [
+        {
+          "urdu": "مکہ میں کعبہ",
+          "english": "the Kaaba in Mecca"
+        },
+        {
+          "urdu": "اندلس کی ایک مسجد",
+          "english": "a mosque in Andalusia"
+        },
+        {
+          "urdu": "بغداد کا ایک محل",
+          "english": "a palace in Baghdad"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر اندلس سے کیا پوچھتا ہے؟",
+      "english": "What does the poet ask Andalusia?",
+      "options": [
+        {
+          "urdu": "کہ وہاں کتنے دریا ہیں",
+          "english": "how many rivers it has"
+        },
+        {
+          "urdu": "کہ کیا اسے وہ دن یاد ہیں جب ہمارا آشیانہ اس کی ڈالیوں پر تھا",
+          "english": "whether it remembers the days when our nest was on its branches"
+        },
+        {
+          "urdu": "کہ وہاں کب بارش ہوگی",
+          "english": "when it will rain there"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "اقبال اپنے ترانے کو کس چیز سے تشبیہ دیتے ہیں؟",
+      "english": "What does Iqbal compare his anthem to?",
+      "options": [
+        {
+          "urdu": "بلبل کے گیت سے",
+          "english": "a nightingale’s song"
+        },
+        {
+          "urdu": "قافلے کی گھنٹی سے",
+          "english": "the caravan bell"
+        },
+        {
+          "urdu": "دریا کی موج سے",
+          "english": "a wave of the river"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

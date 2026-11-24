@@ -1,0 +1,324 @@
+{
+  "id": "story-diwali-ke-diye",
+  "title": {
+    "urdu": "دیوالی کے دیے",
+    "english": "Diwali Lamps"
+  },
+  "category": "stories",
+  "level": "hard",
+  "tags": ["culture"],
+  "source": {
+    "name": "Urdu Wikisource: دیوالی کے دیے",
+    "url": "https://ur.wikisource.org/wiki/دیوالی_کے_دیے",
+    "author": "Saadat Hasan Manto",
+    "license": "Public domain"
+  },
+  "intro": "The opening of a short, poetic sketch by Manto (1940). Diwali lamps burn on a rooftop parapet while different passers-by look up at them; the first is a little girl named Munni.",
+  "sentences": [
+    {
+      "urdu": "چھت کی منڈیر پر دیوالی کے دیے ہانپتے ہوئے بچوں کے دل کی طرح دھڑک رہے تھے۔",
+      "english": "On the parapet of the roof, the Diwali lamps were throbbing like the hearts of panting children."
+    },
+    {
+      "urdu": "مُنی دوڑتی ہوئی آئی۔",
+      "english": "Munni came running."
+    },
+    {
+      "urdu": "اپنی ننھی سی گھگری کو دونوں ہاتھوں سے اوپر اٹھائے، چھت کے نیچے گلی میں موری کے پاس کھڑی ہوگئی۔۔۔",
+      "english": "Holding up her tiny skirt with both hands, she stopped in the lane below the roof, beside the drain…"
+    },
+    {
+      "urdu": "اس کی روئی ہوئی آنکھوں میں، منڈیر پر پھیلے ہوئے دِیوں نے، کئی چمکیلے نگینے جڑ دیے۔۔۔",
+      "english": "In her tear-stained eyes, the lamps spread along the parapet set many sparkling gems…"
+    },
+    {
+      "urdu": "اس کا ننھا سا سینہ دیے کی لو کی طرح کانپا، مسکرا کر اس نے اپنی مٹھی کھولی، پسینے سے بھیگا ہوا پیسہ دیکھا اور بازار میں دیے لینے کے لیے دوڑ گئی۔",
+      "english": "Her small chest quivered like a lamp’s flame; smiling, she opened her fist, looked at the coin damp with sweat, and ran off to the bazaar to buy lamps."
+    },
+    {
+      "urdu": "چھت کی منڈیر پر شام کی خنک ہوا میں دیوالی کے دیے پھڑپھڑاتے رہے۔",
+      "english": "On the parapet of the roof, the Diwali lamps went on fluttering in the cool evening breeze."
+    }
+  ],
+  "glossary": {
+    "چھت": [
+      "chhat",
+      "roof"
+    ],
+    "منڈیر": [
+      "munḍer",
+      "parapet (the low wall along the edge of a flat roof)"
+    ],
+    "دیوالی": [
+      "deewaali",
+      "Diwali, the Hindu festival of lights"
+    ],
+    "دیے": [
+      "diye",
+      "lamps (small clay oil lamps; “diye ki lau” = a lamp’s flame) / (completed action: “jaṛ diye” = set, studded)"
+    ],
+    "ہانپتے": [
+      "haanpte",
+      "panting"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“haanpte hue” = panting; “phaile hue” = spread out)"
+    ],
+    "بچوں": [
+      "bachchon",
+      "children (oblique pl.)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "طرح": [
+      "tarah",
+      "way (“ki tarah” = like)"
+    ],
+    "دھڑک": [
+      "dhaṛak",
+      "throb; beat (“dhaṛak rahe the” = were throbbing)"
+    ],
+    "رہے": [
+      "rahe",
+      "(continuous action, pl.; “phaṛphaṛaate rahe” = kept fluttering)"
+    ],
+    "مُنی": [
+      "munni",
+      "Munni (a pet name for a little girl)"
+    ],
+    "دوڑتی": [
+      "dauṛti",
+      "running (f.; “dauṛti hui aayi” = came running)"
+    ],
+    "ہوئی": [
+      "hui",
+      "(with “dauṛti”: “dauṛti hui” = running)"
+    ],
+    "آئی": [
+      "aayi",
+      "came (f.)"
+    ],
+    "ننھی": [
+      "nanhi",
+      "tiny; little (f.)"
+    ],
+    "سی": [
+      "si",
+      "-ish; (softens: “nanhi si” = tiny little)"
+    ],
+    "گھگری": [
+      "ghaghri",
+      "little gathered skirt"
+    ],
+    "دونوں": [
+      "donon",
+      "both"
+    ],
+    "ہاتھوں": [
+      "haathon",
+      "hands (oblique pl.)"
+    ],
+    "اوپر": [
+      "oopar",
+      "up"
+    ],
+    "اٹھائے": [
+      "uṭhaaye",
+      "holding up (“uṭhaaye” = keeping raised)"
+    ],
+    "نیچے": [
+      "neeche",
+      "below (“ke neeche” = beneath)"
+    ],
+    "گلی": [
+      "gali",
+      "lane; alley"
+    ],
+    "موری": [
+      "mori",
+      "drain; gutter outlet"
+    ],
+    "پاس": [
+      "paas",
+      "near (“ke paas” = beside)"
+    ],
+    "کھڑی": [
+      "khaṛi",
+      "standing (f.; “khaṛi ho gayi” = stood, stopped)"
+    ],
+    "ہوگئی": [
+      "ho gayi",
+      "became (f.; “khaṛi ho gayi” = stopped and stood)"
+    ],
+    "روئی": [
+      "roi",
+      "cried (f.; “roi hui aankhen” = eyes that had been crying)"
+    ],
+    "آنکھوں": [
+      "aankhon",
+      "eyes (oblique pl.)"
+    ],
+    "پھیلے": [
+      "phaile",
+      "spread out (pl.)"
+    ],
+    "دِیوں": [
+      "diyon",
+      "lamps (oblique pl.)"
+    ],
+    "چمکیلے": [
+      "chamkeele",
+      "shining; sparkling (pl.)"
+    ],
+    "نگینے": [
+      "nageene",
+      "gems (set in jewellery)"
+    ],
+    "جڑ": [
+      "jaṛ",
+      "set; inlay (“jaṛ diye” = set, studded)"
+    ],
+    "ننھا": [
+      "nanha",
+      "tiny; little (m.)"
+    ],
+    "سا": [
+      "sa",
+      "-ish; (softens: “nanha sa” = tiny little)"
+    ],
+    "سینہ": [
+      "seena",
+      "chest; breast"
+    ],
+    "لو": [
+      "lau",
+      "flame"
+    ],
+    "کانپا": [
+      "kaanpa",
+      "trembled; quivered"
+    ],
+    "مسکرا": [
+      "muskura",
+      "smile (“muskura kar” = smiling)"
+    ],
+    "مٹھی": [
+      "muṭṭhi",
+      "fist"
+    ],
+    "کھولی": [
+      "kholi",
+      "opened (f.)"
+    ],
+    "پسینے": [
+      "paseene",
+      "sweat (oblique)"
+    ],
+    "بھیگا": [
+      "bheega",
+      "wet; damp (“bheega hua” = soaked)"
+    ],
+    "ہوا": [
+      "hua",
+      "(with “bheega”: “bheega hua” = soaked)"
+    ],
+    "پیسہ": [
+      "paisa",
+      "a coin (a paisa)"
+    ],
+    "دیکھا": [
+      "dekha",
+      "looked at; saw"
+    ],
+    "بازار": [
+      "baazaar",
+      "bazaar; market"
+    ],
+    "لینے": [
+      "lene",
+      "to get; to buy (oblique; “lene ke liye” = to buy)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“ke liye” = in order to)"
+    ],
+    "دوڑ": [
+      "dauṛ",
+      "run (“dauṛ gayi” = ran off)"
+    ],
+    "شام": [
+      "shaam",
+      "evening"
+    ],
+    "خنک": [
+      "khunak",
+      "cool; chilly"
+    ],
+    "پھڑپھڑاتے": [
+      "phaṛphaṛaate",
+      "fluttering; flickering"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "مُنی کی مٹھی میں کیا تھا؟",
+      "english": "What was in Munni’s fist?",
+      "options": [
+        {
+          "urdu": "ایک دیا",
+          "english": "A lamp"
+        },
+        {
+          "urdu": "پسینے سے بھیگا ہوا پیسہ",
+          "english": "A coin damp with sweat"
+        },
+        {
+          "urdu": "ایک نگینہ",
+          "english": "A gem"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "مُنی بازار کیوں دوڑ گئی؟",
+      "english": "Why did Munni run off to the bazaar?",
+      "options": [
+        {
+          "urdu": "دیے لینے کے لیے",
+          "english": "To buy lamps"
+        },
+        {
+          "urdu": "اپنی ماں کو ڈھونڈنے کے لیے",
+          "english": "To look for her mother"
+        },
+        {
+          "urdu": "مٹھائی لینے کے لیے",
+          "english": "To buy sweets"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "دیوں کو دیکھنے سے پہلے مُنی کی آنکھیں کیسی تھیں؟",
+      "english": "What were Munni’s eyes like before she saw the lamps?",
+      "options": [
+        {
+          "urdu": "نیند سے بھری ہوئی",
+          "english": "Full of sleep"
+        },
+        {
+          "urdu": "غصے سے لال",
+          "english": "Red with anger"
+        },
+        {
+          "urdu": "روئی ہوئی",
+          "english": "Tear-stained from crying"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

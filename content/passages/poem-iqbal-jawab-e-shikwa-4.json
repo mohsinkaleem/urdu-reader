@@ -1,0 +1,516 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-4",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 4)",
+    "english": "Jawab-e-Shikwa, part 4"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Part 4 of Iqbal’s “Jawab-e-Shikwa” (1913), stanzas 10–12. God paints a harsh portrait of the Muslims of the day – skill-less, careless of their own nest, living off their ancestors’ graves – reminds them that the great deeds boasted of in “Shikwa” were their forefathers’, and answers the complaint about houris: His law is justice.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 4,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "جن کو آتا نہیں دنیا میں کوئی فن، تم ہو",
+      "english": "Those who know no skill in the world – that is you;",
+      "verse": true
+    },
+    {
+      "urdu": "نہیں جس قوم کو پروائے نشیمن، تم ہو",
+      "english": "the nation that does not care for its own nest – that is you;",
+      "verse": true
+    },
+    {
+      "urdu": "بجلیاں جس میں ہوں آسُودہ، وہ خرمن تم ہو",
+      "english": "the harvest-heap where lightning bolts rest at ease – that is you;",
+      "verse": true
+    },
+    {
+      "urdu": "بیچ کھاتے ہیں جو اسلاف کے مدفن، تم ہو",
+      "english": "those who live by selling their ancestors’ graves – that is you.",
+      "verse": true
+    },
+    {
+      "urdu": "ہو نِکو نام جو قبروں کی تجارت کرکے",
+      "english": "If you can win a good name by trading in graves,",
+      "verse": true
+    },
+    {
+      "urdu": "کیا نہ بیچو گے جو مِل جائیں صنَم پتھّر کے",
+      "english": "what would you not sell if you came upon idols of stone!",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ فرماتا ہے کہ تم وہ قوم ہو جسے کوئی ہنر نہیں آتا اور جسے اپنے گھر کی فکر نہیں۔ تم اس کھلیان کی طرح ہو جس پر بجلیاں آرام سے گرتی ہیں، اور تم بزرگوں کی قبریں بیچ کر کھاتے ہو۔ جو قبروں کا کاروبار کر کے عزت پاتے ہیں، پتھر کے بت مل جائیں تو انھیں بھی بیچ دیں گے۔",
+        "english": "God describes the Muslims of the day: they have no skills, do not care for their own nest (their home and community), and are like a harvest-heap on which lightning settles comfortably – helpless before every disaster. They live off the shrines of their ancestors; people who win respect by trading in graves would sell anything, even stone idols. The line is often read against the story of Mahmud of Ghazni, who preferred to be called an idol-breaker rather than an idol-seller."
+      }
+    },
+    {
+      "urdu": "صفحۂ دہر سے باطل کو مِٹایا کس نے؟",
+      "english": "Who wiped falsehood off the page of time?",
+      "verse": true
+    },
+    {
+      "urdu": "نوعِ انساں کو غلامی سے چھُڑایا کس نے؟",
+      "english": "Who freed mankind from slavery?",
+      "verse": true
+    },
+    {
+      "urdu": "میرے کعبے کو جبِینوں سے بسایا کس نے؟",
+      "english": "Who filled My Kaaba with foreheads bowed in prayer?",
+      "verse": true
+    },
+    {
+      "urdu": "میرے قُرآن کو سِینوں سے لگایا کس نے؟",
+      "english": "Who held My Quran close to their hearts?",
+      "verse": true
+    },
+    {
+      "urdu": "تھے تو آبا وہ تمھارے ہی، مگر تم کیا ہو",
+      "english": "They were your forefathers indeed – but what are you?",
+      "verse": true
+    },
+    {
+      "urdu": "ہاتھ پر ہاتھ دھرے منتظرِ فردا ہو!",
+      "english": "Sitting idle, hands folded, waiting for tomorrow!",
+      "verse": true,
+      "explanation": {
+        "urdu": "اللہ پوچھتا ہے کہ دنیا سے جھوٹ کس نے مٹایا، انسانوں کو غلامی سے کس نے آزاد کیا، کعبے کو سجدوں سے کس نے آباد کیا اور قرآن کو سینے سے کس نے لگایا؟ یہ سب تمھارے باپ دادا تھے، مگر تم تو ہاتھ پر ہاتھ رکھے کل کا انتظار کر رہے ہو۔",
+        "english": "In “Shikwa” the poet listed what Muslims had done for God. God answers: yes, those who erased falsehood, freed mankind from slavery, filled the Kaaba with worshippers and held the Quran to their hearts were your forefathers – but you sit idle, hands folded, waiting for tomorrow."
+      }
+    },
+    {
+      "urdu": "کیا کہا! بہرِ مسلماں ہے فقط وعدۂ حور",
+      "english": "What did you say? “For the Muslim there is only the promise of houris”?",
+      "verse": true
+    },
+    {
+      "urdu": "شکوہ بے جا بھی کرے کوئی تو لازم ہے شعور",
+      "english": "Even when one makes an unjust complaint, good sense is necessary.",
+      "verse": true
+    },
+    {
+      "urdu": "عدل ہے فاطرِ ہستی کا ازل سے دستور",
+      "english": "Justice has been the law of the Creator of existence since eternity:",
+      "verse": true
+    },
+    {
+      "urdu": "مُسلم آئِیں ہُوا کافر تو مِلے حور و قصور",
+      "english": "if an unbeliever takes up the ways of a Muslim, he gets houris and palaces.",
+      "verse": true
+    },
+    {
+      "urdu": "تم میں حُوروں کا کوئی چاہنے والا ہی نہیں",
+      "english": "Among you there is no one who even longs for the houris;",
+      "verse": true
+    },
+    {
+      "urdu": "جلوۂ طُور تو موجود ہے، موسیٰ ہی نہیں",
+      "english": "the radiance of Sinai is still there – only there is no Moses.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شکوے میں کہا گیا تھا کہ کافروں کو حوریں اور محل ملتے ہیں اور مسلمان کو صرف حور کا وعدہ۔ اللہ فرماتا ہے کہ شکایت بھی سمجھ کر کرنی چاہیے؛ اس کا قانون ہمیشہ سے انصاف ہے اور جو بھی مسلمانوں جیسے کام کرے اسے انعام ملتا ہے۔ تم میں کوئی ان انعاموں کا سچا طلب گار ہی نہیں؛ طور کا جلوہ آج بھی موجود ہے، بس کوئی موسیٰؑ نہیں۔",
+        "english": "“Shikwa” had complained that unbelievers enjoy houris and palaces while the Muslim gets only a promise of houris. God replies that even a complaint needs sense: His law since eternity is justice, so whoever lives by Muslim virtues – even an unbeliever – is rewarded. The Muslims simply do not strive for the reward. The divine light that Moses saw on Mount Sinai (Toor) is still there; what is missing is a Moses to seek it."
+      }
+    }
+  ],
+  "glossary": {
+    "جن": [
+      "jin",
+      "whom (oblique pl.) (“jin ko … aata naheen” = those who don’t know)"
+    ],
+    "آتا": [
+      "aata",
+      "comes (“… ko aata naheen” = … does not know how)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "فن": [
+      "fan",
+      "skill; craft"
+    ],
+    "تم": [
+      "tum",
+      "you (pl.) (“tum ho” = that is you)"
+    ],
+    "ہو": [
+      "ho",
+      "are (with “tum”); become (“ho niko-naam” = if one becomes respected)"
+    ],
+    "جس": [
+      "jis",
+      "which (“jis qaum ko” = the nation which)"
+    ],
+    "قوم": [
+      "qaum",
+      "nation"
+    ],
+    "پروائے": [
+      "parwaa-e",
+      "care for (“parwaa-e nasheman” = concern for one’s nest)"
+    ],
+    "نشیمن": [
+      "nasheman",
+      "nest; home"
+    ],
+    "بجلیاں": [
+      "bijliyaan",
+      "lightning bolts"
+    ],
+    "ہوں": [
+      "hon",
+      "are; may be (pl.)"
+    ],
+    "آسُودہ": [
+      "aasooda",
+      "at rest; at ease"
+    ],
+    "خرمن": [
+      "khirman",
+      "harvest-heap; stack of grain"
+    ],
+    "بیچ": [
+      "bech",
+      "sell (“bech khaana” = to sell off and live on the proceeds)"
+    ],
+    "کھاتے": [
+      "khaate",
+      "eat (“bech khaate hain” = live by selling)"
+    ],
+    "اسلاف": [
+      "aslaaf",
+      "ancestors; forebears"
+    ],
+    "مدفن": [
+      "madfan",
+      "graves; burial places"
+    ],
+    "نِکو": [
+      "niko",
+      "good (Persian; “niko-naam” = of good name, respected)"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "قبروں": [
+      "qabron",
+      "graves (oblique pl.)"
+    ],
+    "تجارت": [
+      "tijaarat",
+      "trade"
+    ],
+    "کرکے": [
+      "kar ke",
+      "by doing (“tijaarat kar ke” = by trading)"
+    ],
+    "بیچو": [
+      "becho",
+      "(you) sell"
+    ],
+    "گے": [
+      "ge",
+      "will (future; “becho ge” = will you sell)"
+    ],
+    "مِل": [
+      "mil",
+      "be found (“mil jaayen” = should be found)"
+    ],
+    "جائیں": [
+      "jaayen",
+      "go (“mil jaayen” = come your way)"
+    ],
+    "صنَم": [
+      "sanam",
+      "idols"
+    ],
+    "پتھّر": [
+      "patthar",
+      "stone"
+    ],
+    "صفحۂ": [
+      "safha-e",
+      "page of (“safha-e dahr” = the page of time, the world)"
+    ],
+    "دہر": [
+      "dahr",
+      "time; the world"
+    ],
+    "باطل": [
+      "baatil",
+      "falsehood"
+    ],
+    "مِٹایا": [
+      "miṭaaya",
+      "erased; wiped out"
+    ],
+    "کس": [
+      "kis",
+      "who (oblique) (“kis ne” = who)"
+    ],
+    "نوعِ": [
+      "nau-e",
+      "species of (“nau-e insaan” = mankind)"
+    ],
+    "انساں": [
+      "insaan",
+      "human"
+    ],
+    "غلامی": [
+      "ghulaami",
+      "slavery"
+    ],
+    "چھُڑایا": [
+      "chhuṛaaya",
+      "freed; released"
+    ],
+    "کعبے": [
+      "kaabe",
+      "the Kaaba (oblique)"
+    ],
+    "جبِینوں": [
+      "jabeenon",
+      "foreheads (oblique pl.) – bowed in prostration"
+    ],
+    "بسایا": [
+      "basaaya",
+      "filled with people; brought to life"
+    ],
+    "قُرآن": [
+      "quraan",
+      "the Quran"
+    ],
+    "سِینوں": [
+      "seenon",
+      "breasts (oblique pl.) (“seenon se lagaana” = to hold close to the heart)"
+    ],
+    "لگایا": [
+      "lagaaya",
+      "held; attached"
+    ],
+    "آبا": [
+      "aaba",
+      "forefathers"
+    ],
+    "تمھارے": [
+      "tumhaare",
+      "your"
+    ],
+    "ہاتھ": [
+      "haath",
+      "hand (“haath par haath dhare” = sitting idle)"
+    ],
+    "دھرے": [
+      "dhare",
+      "placed (“haath par haath dhare” = with folded hands, idle)"
+    ],
+    "منتظرِ": [
+      "muntazir-e",
+      "waiting for"
+    ],
+    "فردا": [
+      "farda",
+      "tomorrow"
+    ],
+    "کیا": [
+      "kya",
+      "what (“kya kaha!” = what did you say?!)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "بہرِ": [
+      "bahr-e",
+      "for (Persian)"
+    ],
+    "مسلماں": [
+      "musalmaan",
+      "Muslim"
+    ],
+    "فقط": [
+      "faqat",
+      "only"
+    ],
+    "وعدۂ": [
+      "waada-e",
+      "promise of"
+    ],
+    "حور": [
+      "hoor",
+      "houri(s), maidens of Paradise"
+    ],
+    "شکوہ": [
+      "shikwa",
+      "complaint"
+    ],
+    "بے": [
+      "be",
+      "without (“be-ja” = unjust, out of place)"
+    ],
+    "جا": [
+      "ja",
+      "place (“be-ja” = unjustified)"
+    ],
+    "کرے": [
+      "kare",
+      "(someone) makes"
+    ],
+    "لازم": [
+      "laazim",
+      "necessary"
+    ],
+    "شعور": [
+      "shuoor",
+      "good sense; awareness"
+    ],
+    "عدل": [
+      "adl",
+      "justice"
+    ],
+    "فاطرِ": [
+      "faatir-e",
+      "creator of (“faatir-e hasti” = the Creator of existence)"
+    ],
+    "ہستی": [
+      "hasti",
+      "existence"
+    ],
+    "ازل": [
+      "azal",
+      "eternity without beginning (“azal se” = since the beginning of time)"
+    ],
+    "دستور": [
+      "dastoor",
+      "law; custom"
+    ],
+    "مُسلم": [
+      "muslim",
+      "Muslim (“muslim-aaeen” = following Muslim ways)"
+    ],
+    "آئِیں": [
+      "aaeen",
+      "ways; conduct (“muslim-aaeen hua” = adopted the ways of a Muslim)"
+    ],
+    "ہُوا": [
+      "hua",
+      "became"
+    ],
+    "کافر": [
+      "kaafir",
+      "unbeliever"
+    ],
+    "مِلے": [
+      "mile",
+      "(he) gets; receives"
+    ],
+    "و": [
+      "o",
+      "and (Persian; “hoor o qusoor” = houris and palaces)"
+    ],
+    "قصور": [
+      "qusoor",
+      "palaces (Arabic pl. of “qasr”; not “fault” here)"
+    ],
+    "حُوروں": [
+      "hooron",
+      "houris (oblique pl.)"
+    ],
+    "چاہنے": [
+      "chaahne",
+      "desiring (“chaahne waala” = one who longs for)"
+    ],
+    "والا": [
+      "waala",
+      "one who"
+    ],
+    "جلوۂ": [
+      "jalwa-e",
+      "radiance of (“jalwa-e toor” = the divine light on Mount Sinai)"
+    ],
+    "طُور": [
+      "toor",
+      "Mount Sinai (Toor)"
+    ],
+    "موجود": [
+      "maujood",
+      "present"
+    ],
+    "موسیٰ": [
+      "moosa",
+      "Moses"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "“قبروں کی تجارت” سے کس طرف اشارہ ہے؟",
+      "english": "What does “trading in graves” refer to?",
+      "options": [
+        {
+          "urdu": "پتھر بیچنے کی طرف",
+          "english": "Selling stones"
+        },
+        {
+          "urdu": "بزرگوں کے مزاروں سے کمائی کرنے کی طرف",
+          "english": "Making a living from the shrines of forebears"
+        },
+        {
+          "urdu": "نئے قبرستان بنانے کی طرف",
+          "english": "Building new cemeteries"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "اللہ کے مطابق باطل کو مٹانے اور انسانوں کو غلامی سے چھڑانے والے کون تھے؟",
+      "english": "According to God, who wiped out falsehood and freed mankind from slavery?",
+      "options": [
+        {
+          "urdu": "آج کے مسلمان",
+          "english": "Today’s Muslims"
+        },
+        {
+          "urdu": "فرشتے",
+          "english": "The angels"
+        },
+        {
+          "urdu": "تمھارے آبا و اجداد",
+          "english": "Your forefathers"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "اللہ کے مطابق ازل سے اس کا دستور کیا ہے؟",
+      "english": "According to God, what has His law been since eternity?",
+      "options": [
+        {
+          "urdu": "عدل",
+          "english": "Justice"
+        },
+        {
+          "urdu": "صرف مسلمانوں کو انعام دینا",
+          "english": "Rewarding only Muslims"
+        },
+        {
+          "urdu": "ہر شکایت قبول کرنا",
+          "english": "Accepting every complaint"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

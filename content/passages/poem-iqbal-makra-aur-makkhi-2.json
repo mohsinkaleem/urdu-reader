@@ -1,0 +1,518 @@
+{
+  "id": "poem-iqbal-makra-aur-makkhi-2",
+  "title": {
+    "urdu": "ایک مکڑا اور مکھی",
+    "english": "A Spider and a Fly"
+  },
+  "category": "poetry",
+  "level": "easy",
+  "tags": ["children", "nature", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: ایک مکڑا اور مکھّی (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%A7%DB%8C%DA%A9_%D9%85%DA%A9%DA%91%D8%A7_%D8%A7%D9%88%D8%B1_%D9%85%DA%A9%DA%BE%D9%91%DB%8C",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "From the first part of Iqbal’s Bang-e-Dara (1924), among the poems he wrote for children; it is an adaptation of Mary Howitt’s English poem “The Spider and the Fly”. In this second and final part the spider changes his tactics and tries flattery.",
+  "series": {
+    "id": "poem-iqbal-makra-aur-makkhi",
+    "title": "A Spider and a Fly",
+    "part": 2,
+    "of": 2
+  },
+  "sentences": [
+    {
+      "urdu": "مکڑے نے کہا دل میں، سُنی بات جو اُس کی",
+      "english": "When the spider heard her words, he said to himself:",
+      "verse": true
+    },
+    {
+      "urdu": "پھانسوں اسے کس طرح یہ کم بخت ہے دانا",
+      "english": "“How shall I trap her? The wretch is clever.",
+      "verse": true
+    },
+    {
+      "urdu": "سَو کام خوشامد سے نکلتے ہیں جہاں میں",
+      "english": "In this world a hundred jobs get done by flattery;",
+      "verse": true
+    },
+    {
+      "urdu": "دیکھو جسے دنیا میں خوشامد کا ہے بندا",
+      "english": "look at anyone in the world — he is a slave to flattery.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "مکڑا دل میں سوچتا ہے کہ مکھی بہت ہوشیار ہے۔ پھر اسے خیال آتا ہے کہ دنیا میں ہر کوئی خوشامد پسند کرتا ہے۔",
+        "english": "The spider thinks the fly is too clever for him — then he remembers that everyone in the world is a slave to flattery."
+      }
+    },
+    {
+      "urdu": "یہ سوچ کے مکھّی سے کہا اُس نے بڑی بی!",
+      "english": "Thinking this, he said to the fly: “Dear lady!",
+      "verse": true
+    },
+    {
+      "urdu": "اللہ نے بخشا ہے بڑا آپ کو رُتبا",
+      "english": "God has granted you a high rank.",
+      "verse": true
+    },
+    {
+      "urdu": "ہوتی ہے اُسے آپ کی صورت سے محبّت",
+      "english": "Anyone comes to love your face",
+      "verse": true
+    },
+    {
+      "urdu": "ہو جس نے کبھی ایک نظر آپ کو دیکھا",
+      "english": "who has ever seen you even once.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اب مکڑا مکھی کی تعریفیں شروع کرتا ہے کہ اللہ نے تمھیں بڑا درجہ دیا ہے اور جو تمھیں ایک بار دیکھے وہ تم سے محبت کرنے لگتا ہے۔",
+        "english": "Now the spider starts flattering her: God has given her a high rank, and anyone who sees her once falls in love with her looks."
+      }
+    },
+    {
+      "urdu": "آنکھیں ہیں کہ ہیرے کی چمکتی ہوئی کَنیاں",
+      "english": "Your eyes are like sparkling chips of diamond;",
+      "verse": true
+    },
+    {
+      "urdu": "سر آپ کا اللہ نے کلغی سے سجایا",
+      "english": "God has adorned your head with a crest.",
+      "verse": true
+    },
+    {
+      "urdu": "یہ حُسن، یہ پوشاک، یہ خوبی، یہ صفائی",
+      "english": "This beauty, this dress, this grace, this neatness —",
+      "verse": true
+    },
+    {
+      "urdu": "پھر اس پہ قیامت ہے یہ اُڑتے ہوئے گانا",
+      "english": "and on top of all that, how stunning, this singing as you fly!”",
+      "verse": true,
+      "explanation": {
+        "urdu": "وہ مکھی کی آنکھوں کو ہیرے جیسی، اس کے سر کو کلغی سے سجا ہوا کہتا ہے، اور اس کے لباس، خوب صورتی اور گانے کی تعریف کرتا ہے۔",
+        "english": "He praises her diamond-like eyes, the crest on her head, her looks and dress, and above all her “singing” (the fly’s buzzing)."
+      }
+    },
+    {
+      "urdu": "مکھی نے سُنی جب یہ خوشامد تو پسیجی",
+      "english": "When the fly heard this flattery, she softened.",
+      "verse": true
+    },
+    {
+      "urdu": "بولی کہ نہیں آپ سے مجھ کو کوئی کھٹکا",
+      "english": "She said, “I have no fear of you at all.",
+      "verse": true
+    },
+    {
+      "urdu": "انکار کی عادت کو سمجھتی ہوں بُرا میں",
+      "english": "I think the habit of saying no is a bad one;",
+      "verse": true
+    },
+    {
+      "urdu": "سچ یہ ہے کہ دل توڑنا اچھّا نہیں ہوتا",
+      "english": "the truth is, it’s not nice to break someone’s heart.”",
+      "verse": true,
+      "explanation": {
+        "urdu": "خوشامد سن کر مکھی کا دل نرم ہو جاتا ہے۔ وہ کہتی ہے کہ مجھے تم سے کوئی ڈر نہیں اور کسی کا دل توڑنا اچھا نہیں۔",
+        "english": "The flattery works: the fly softens, says she is not afraid of him, and that it isn’t nice to refuse and break someone’s heart."
+      }
+    },
+    {
+      "urdu": "یہ بات کہی اور اُڑی اپنی جگہ سے",
+      "english": "She said this and flew up from her place;",
+      "verse": true
+    },
+    {
+      "urdu": "پاس آئی تو مکڑے نے اُچھل کر اُسے پکڑا",
+      "english": "as she came near, the spider leapt and seized her.",
+      "verse": true
+    },
+    {
+      "urdu": "بھوکا تھا کئی روز سے، اب ہاتھ جو آئی",
+      "english": "He had been hungry for days; now that she had fallen into his hands,",
+      "verse": true
+    },
+    {
+      "urdu": "آرام سے گھر بیٹھ کے مکھّی کو اُڑایا",
+      "english": "he sat at home at his ease and gobbled up the fly.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مکھی اڑ کر پاس آئی تو بھوکے مکڑے نے اسے پکڑ لیا اور آرام سے کھا گیا۔ سبق یہ ہے کہ خوشامد کرنے والوں سے ہوشیار رہو۔",
+        "english": "As soon as she came close, the hungry spider caught her and ate her at leisure. The moral: beware of flatterers."
+      }
+    }
+  ],
+  "glossary": {
+    "مکڑے": [
+      "makṛe",
+      "spider (oblique)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "دل": [
+      "dil",
+      "heart (“dil mein kaha” = said to himself)"
+    ],
+    "سنی": [
+      "suni",
+      "heard (f.)"
+    ],
+    "بات": [
+      "baat",
+      "matter; word (“koi baat nahin” = no matter)"
+    ],
+    "اس": [
+      "us",
+      "her; that (oblique)"
+    ],
+    "پھانسوں": [
+      "phaansoon",
+      "(shall) I trap"
+    ],
+    "اسے": [
+      "use",
+      "her; him; it"
+    ],
+    "کس": [
+      "kis",
+      "which; what (“kis tarah” = how)"
+    ],
+    "کم": [
+      "kam",
+      "(“kam-bakht” = wretch)"
+    ],
+    "بخت": [
+      "bakht",
+      "luck (“kam-bakht” = wretch, lit. “ill-starred”)"
+    ],
+    "دانا": [
+      "daana",
+      "wise; clever"
+    ],
+    "سَو": [
+      "sau",
+      "a hundred"
+    ],
+    "کام": [
+      "kaam",
+      "jobs; tasks (“kaam nikalna” = to get things done)"
+    ],
+    "خوشامد": [
+      "khushaamad",
+      "flattery"
+    ],
+    "نکلتے": [
+      "nikalte",
+      "get done (“kaam nikalte hain”)"
+    ],
+    "جہاں": [
+      "jahaan",
+      "the world"
+    ],
+    "دیکھو": [
+      "dekho",
+      "look"
+    ],
+    "جسے": [
+      "jise",
+      "whom (“dekho jise” = look at anyone)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "بندا": [
+      "banda",
+      "slave; servant (spelled “banda”)"
+    ],
+    "سوچ": [
+      "soch",
+      "think (“soch ke” = having thought)"
+    ],
+    "کے": [
+      "ke",
+      "of; (“soch ke” = having thought)"
+    ],
+    "مکھی": [
+      "makkhi",
+      "fly (f.)"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big; elder (“baṛi bi” = dear lady, madam)"
+    ],
+    "بی": [
+      "bi",
+      "lady (“baṛi bi” = madam)"
+    ],
+    "اللہ": [
+      "allaah",
+      "God"
+    ],
+    "بخشا": [
+      "bakhsha",
+      "granted; bestowed"
+    ],
+    "بڑا": [
+      "baṛa",
+      "great; high"
+    ],
+    "رتبا": [
+      "rutba",
+      "rank; status (spelled “rutba”)"
+    ],
+    "صورت": [
+      "soorat",
+      "face; looks"
+    ],
+    "محبت": [
+      "mohabbat",
+      "love"
+    ],
+    "ہو": [
+      "ho",
+      "(you) are; be (“aayi ho” = you have come; “manzoor ho” = if it pleases)"
+    ],
+    "جس": [
+      "jis",
+      "who; whom (“jis ne” = who)"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever (“na … kabhi” = never)"
+    ],
+    "نظر": [
+      "nazar",
+      "sight; a glance (“nazar aata hai” = looks, appears)"
+    ],
+    "دیکھا": [
+      "dekha",
+      "saw"
+    ],
+    "آنکھیں": [
+      "aankhen",
+      "eyes"
+    ],
+    "ہیرے": [
+      "heere",
+      "diamond (oblique)"
+    ],
+    "چمکتی": [
+      "chamakti",
+      "sparkling (f.)"
+    ],
+    "ہوئی": [
+      "hui",
+      "(“-ti hui” = while …ing)"
+    ],
+    "کنیاں": [
+      "kaniyaan",
+      "chips; tiny pieces (f. pl.)"
+    ],
+    "سر": [
+      "sar",
+      "head"
+    ],
+    "کلغی": [
+      "kalghi",
+      "crest; plume"
+    ],
+    "سجایا": [
+      "sajaaya",
+      "decorated; adorned"
+    ],
+    "حسن": [
+      "husn",
+      "beauty"
+    ],
+    "پوشاک": [
+      "poshaak",
+      "dress; clothing"
+    ],
+    "خوبی": [
+      "khoobi",
+      "grace; good quality"
+    ],
+    "صفائی": [
+      "safaai",
+      "neatness; cleanness"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "قیامت": [
+      "qayaamat",
+      "Doomsday; (idiom) something stunning"
+    ],
+    "اڑتے": [
+      "uṛte",
+      "flying (“uṛte hue” = while flying)"
+    ],
+    "ہوئے": [
+      "hue",
+      "(“-e hue” = in a state of …)"
+    ],
+    "گانا": [
+      "gaana",
+      "singing; song"
+    ],
+    "پسیجی": [
+      "paseeji",
+      "softened; melted (f.)"
+    ],
+    "بولی": [
+      "boli",
+      "said; spoke (f.)"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh ko” = me)"
+    ],
+    "کھٹکا": [
+      "khaṭka",
+      "fear; worry"
+    ],
+    "انکار": [
+      "inkaar",
+      "refusal; saying no"
+    ],
+    "عادت": [
+      "aadat",
+      "habit"
+    ],
+    "سمجھتی": [
+      "samajhti",
+      "consider (f.)"
+    ],
+    "برا": [
+      "bura",
+      "bad; wrong"
+    ],
+    "سچ": [
+      "sach",
+      "truth"
+    ],
+    "توڑنا": [
+      "toṛna",
+      "to break"
+    ],
+    "اچھا": [
+      "achchha",
+      "good"
+    ],
+    "کہی": [
+      "kahi",
+      "said (f., agreeing with “baat”)"
+    ],
+    "اڑی": [
+      "uṛi",
+      "flew (f.)"
+    ],
+    "آئی": [
+      "aayi",
+      "came (f.)"
+    ],
+    "اچھل": [
+      "uchhal",
+      "leap (“uchhal kar” = leaping)"
+    ],
+    "پکڑا": [
+      "pakṛa",
+      "caught; seized"
+    ],
+    "بھوکا": [
+      "bhooka",
+      "hungry"
+    ],
+    "روز": [
+      "roz",
+      "every day; day"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "ہاتھ": [
+      "haath",
+      "hand (“haath aana” = to fall into one’s hands)"
+    ],
+    "آرام": [
+      "aaraam",
+      "comfort; rest (“aaraam se” = at ease)"
+    ],
+    "گھر": [
+      "ghar",
+      "home; house"
+    ],
+    "بیٹھ": [
+      "baiṭh",
+      "sit (“baiṭh ke” = sitting)"
+    ],
+    "اڑایا": [
+      "uṛaaya",
+      "gobbled up; polished off (idiom; lit. “made fly”)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "مکڑا مکھی کو پھانسنے کے لیے کیا کرتا ہے؟",
+      "english": "What does the spider do to trap the fly?",
+      "options": [
+        {
+          "urdu": "اسے ڈراتا ہے",
+          "english": "he frightens her"
+        },
+        {
+          "urdu": "اس کی خوشامد کرتا ہے",
+          "english": "he flatters her"
+        },
+        {
+          "urdu": "اسے کھانا دیتا ہے",
+          "english": "he offers her food"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "مکڑا مکھی کی آنکھوں کو کس سے ملاتا ہے؟",
+      "english": "What does the spider compare the fly’s eyes to?",
+      "options": [
+        {
+          "urdu": "ہیرے کی چمکتی کنیوں سے",
+          "english": "sparkling chips of diamond"
+        },
+        {
+          "urdu": "ستاروں سے",
+          "english": "stars"
+        },
+        {
+          "urdu": "پھولوں سے",
+          "english": "flowers"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "آخر میں مکھی کے ساتھ کیا ہوتا ہے؟",
+      "english": "What happens to the fly in the end?",
+      "options": [
+        {
+          "urdu": "وہ اڑ کر بچ جاتی ہے",
+          "english": "she flies away safely"
+        },
+        {
+          "urdu": "وہ مکڑے کی دوست بن جاتی ہے",
+          "english": "she becomes the spider’s friend"
+        },
+        {
+          "urdu": "مکڑا اسے پکڑ کر کھا جاتا ہے",
+          "english": "the spider catches and eats her"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

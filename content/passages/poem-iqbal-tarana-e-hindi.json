@@ -1,0 +1,510 @@
+{
+  "id": "poem-iqbal-tarana-e-hindi",
+  "title": {
+    "urdu": "ترانۂ ہندی",
+    "english": "Tarana-e-Hindi (Saare Jahan Se Accha)"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["homeland", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: ترانۂ ہندی (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AA%D8%B1%D8%A7%D9%86%DB%82_%DB%81%D9%86%D8%AF%DB%8C",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Allama Iqbal’s “Tarana-e-Hindi” (1904, later in Bang-e-Dara), still sung in India as “Saare Jahan Se Accha”: a song in praise of India’s mountains, rivers and long history, which declares that religion does not teach enmity. Six years later, in “Tarana-e-Milli” (1910), Iqbal reused the same metre and refrain but named the worldwide Muslim community, not India, as his homeland — a sign of how his outlook moved from Indian nationalism towards pan-Islamic thought. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "سارے جہاں سے اچھا ہندوستاں ہمارا",
+      "english": "Better than the whole world is our Hindustan;",
+      "verse": true
+    },
+    {
+      "urdu": "ہم بلبلیں ہیں اس کی، یہ گلستاں ہمارا",
+      "english": "we are its nightingales, it is our garden.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ ہمارا ہندوستان ساری دنیا سے اچھا ہے۔ یہ ملک ایک باغ کی طرح ہے اور ہم اس باغ کی بلبلیں ہیں۔",
+        "english": "The poet says that India is the best country in the whole world. It is like a garden, and its people are the nightingales who sing in it and love it."
+      }
+    },
+    {
+      "urdu": "غربت میں ہوں اگر ہم، رہتا ہے دل وطن میں",
+      "english": "If we are in a foreign land, our heart stays in the homeland;",
+      "verse": true
+    },
+    {
+      "urdu": "سمجھو وہیں ہمیں بھی دل ہو جہاں ہمارا",
+      "english": "think of us, too, as being there, wherever our heart is.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر ہم پردیس میں بھی ہوں تو ہمارا دل اپنے وطن ہی میں رہتا ہے۔ اس لیے ہمیں وہیں سمجھو جہاں ہمارا دل ہے۔",
+        "english": "“Ghurbat” here means being away from home, not poverty. Even when far away, our heart stays in the homeland, so think of us as being wherever our heart is."
+      }
+    },
+    {
+      "urdu": "پربت وہ سب سے اونچا، ہمسایہ آسماں کا",
+      "english": "That mountain, highest of all, the sky’s neighbour —",
+      "verse": true
+    },
+    {
+      "urdu": "وہ سنتری ہمارا، وہ پاسباں ہمارا",
+      "english": "it is our sentry, it is our guardian.",
+      "verse": true,
+      "explanation": {
+        "urdu": "سب سے اونچا پہاڑ، یعنی ہمالیہ، آسمان کو چھوتا ہے۔ وہ پہرے دار کی طرح ہمارے ملک کی حفاظت کرتا ہے۔",
+        "english": "The highest mountain — the Himalaya — reaches up to the sky and protects the country like a sentry on guard."
+      }
+    },
+    {
+      "urdu": "گودی میں کھیلتی ہیں اس کی ہزاروں ندیاں",
+      "english": "In its lap play thousands of rivers,",
+      "verse": true
+    },
+    {
+      "urdu": "گلشن ہے جن کے دم سے رشکِ جناں ہمارا",
+      "english": "thanks to which our garden is the envy of Paradise.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اس ملک کی گود میں ہزاروں دریا بہتے ہیں۔ ان کی وجہ سے ہمارا ملک اتنا ہرا بھرا ہے کہ جنت بھی اس پر رشک کرے۔",
+        "english": "Thousands of rivers flow through the land like children playing in its lap. Because of them the country is so green that even Paradise (“jinaan”, the gardens of heaven) would envy it."
+      }
+    },
+    {
+      "urdu": "اے آبِ رودِ گنگا! وہ دن ہیں یاد تجھ کو؟",
+      "english": "O waters of the river Ganges! Do you remember those days",
+      "verse": true
+    },
+    {
+      "urdu": "اترا ترے کنارے جب کارواں ہمارا",
+      "english": "when our caravan came down to your banks?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر دریائے گنگا سے پوچھتا ہے کہ کیا تجھے وہ دن یاد ہیں جب ہمارا قافلہ پہلی بار تیرے کنارے آ کر ٹھہرا تھا۔",
+        "english": "The poet asks the Ganges whether it remembers the day “our caravan” first arrived and settled on its banks — a reference to the ancestors’ arrival in India long ago."
+      }
+    },
+    {
+      "urdu": "مذہب نہیں سکھاتا آپس میں بیر رکھنا",
+      "english": "Religion does not teach us to bear ill will towards one another;",
+      "verse": true
+    },
+    {
+      "urdu": "ہندی ہیں ہم، وطن ہے ہندوستاں ہمارا",
+      "english": "we are Hindi (Indians), our homeland is Hindustan.",
+      "verse": true,
+      "explanation": {
+        "urdu": "کوئی مذہب آپس میں دشمنی رکھنا نہیں سکھاتا۔ ہم سب ہندوستانی ہیں اور ہندوستان ہمارا وطن ہے۔",
+        "english": "No religion teaches people to hate one another; whatever our faith, we are all Indians. (“Hindi” here means “of Hind”, i.e. Indian, not the language.)"
+      }
+    },
+    {
+      "urdu": "یونان و مصر و روما سب مٹ گئے جہاں سے",
+      "english": "Greece, Egypt and Rome have all vanished from the world,",
+      "verse": true
+    },
+    {
+      "urdu": "اب تک مگر ہے باقی نام و نشاں ہمارا",
+      "english": "but our name and trace remain to this day.",
+      "verse": true,
+      "explanation": {
+        "urdu": "یونان، مصر اور روم کی پرانی تہذیبیں ختم ہو گئیں، مگر ہماری تہذیب آج تک باقی ہے۔",
+        "english": "The ancient civilisations of Greece, Egypt and Rome have disappeared, but ours still survives today."
+      }
+    },
+    {
+      "urdu": "کچھ بات ہے کہ ہستی مٹتی نہیں ہماری",
+      "english": "There is something about us, that our existence is not wiped out,",
+      "verse": true
+    },
+    {
+      "urdu": "صدیوں رہا ہے دشمن دورِ زماں ہمارا",
+      "english": "though for centuries the turning of time has been our enemy.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم میں کوئی خاص بات ہے کہ ہم مٹتے نہیں، حالانکہ صدیوں تک زمانہ ہمارا دشمن رہا۔",
+        "english": "There is something special in us that keeps us from being wiped out, even though for centuries the turns of time have worked against us."
+      }
+    },
+    {
+      "urdu": "اقبال! کوئی محرم اپنا نہيں جہاں میں",
+      "english": "Iqbal! We have no confidant in the world;",
+      "verse": true
+    },
+    {
+      "urdu": "معلوم کیا کسی کو دردِ نہاں ہمارا!‏",
+      "english": "what does anyone know of our hidden pain!",
+      "verse": true,
+      "explanation": {
+        "urdu": "آخری شعر میں اقبال کہتے ہیں کہ دنیا میں کوئی ہمارا راز دار نہیں۔ کوئی نہیں جانتا کہ ہمارے دل میں کیسا چھپا ہوا دکھ ہے۔",
+        "english": "In the closing couplet (maqta) Iqbal addresses himself: we have no one in the world who shares our secrets, and no one knows the pain hidden in our hearts."
+      }
+    }
+  ],
+  "glossary": {
+    "سارے": [
+      "saare",
+      "whole; all (oblique)"
+    ],
+    "جہاں": [
+      "jahaan",
+      "world (poetic form of “jahaan”); also “where” (“dil ho jahaan hamaara” = wherever our heart is)"
+    ],
+    "سے": [
+      "se",
+      "than; from (“saare jahaan se achchha” = better than the whole world; “jin ke dam se” = thanks to which)"
+    ],
+    "اچھا": [
+      "achchha",
+      "good; better"
+    ],
+    "ہندوستاں": [
+      "hindustaan",
+      "India (poetic form of “hindustaan”)"
+    ],
+    "ہمارا": [
+      "hamaara",
+      "our"
+    ],
+    "ہم": [
+      "ham",
+      "we"
+    ],
+    "بلبلیں": [
+      "bulbulen",
+      "nightingales (pl.)"
+    ],
+    "اس": [
+      "is",
+      "this; its (“is ki” = its)"
+    ],
+    "گلستاں": [
+      "gulistaan",
+      "garden (poetic form of “gulistaan”)"
+    ],
+    "غربت": [
+      "ghurbat",
+      "being far from home; exile (not “poverty” here)"
+    ],
+    "ہوں": [
+      "hon",
+      "(we) are; may be"
+    ],
+    "رہتا": [
+      "rehta",
+      "stays; remains"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "وطن": [
+      "watan",
+      "homeland"
+    ],
+    "سمجھو": [
+      "samjho",
+      "consider; understand (imperative)"
+    ],
+    "وہیں": [
+      "waheen",
+      "right there"
+    ],
+    "ہمیں": [
+      "hamen",
+      "us"
+    ],
+    "ہو": [
+      "ho",
+      "may be; is (“jahaan dil ho” = wherever the heart is)"
+    ],
+    "پربت": [
+      "parbat",
+      "mountain"
+    ],
+    "وہ": [
+      "woh",
+      "that; it"
+    ],
+    "سب": [
+      "sab",
+      "all (“sab se ooncha” = highest of all)"
+    ],
+    "اونچا": [
+      "ooncha",
+      "high"
+    ],
+    "ہمسایہ": [
+      "hamsaaya",
+      "neighbour"
+    ],
+    "آسماں": [
+      "aasmaan",
+      "sky (poetic form of “aasmaan”)"
+    ],
+    "سنتری": [
+      "santari",
+      "sentry; guard (from English)"
+    ],
+    "پاسباں": [
+      "paasbaan",
+      "guardian; watchman"
+    ],
+    "گودی": [
+      "godi",
+      "lap"
+    ],
+    "کھیلتی": [
+      "khelti",
+      "play (f.; “khelti hain” = play)"
+    ],
+    "ہزاروں": [
+      "hazaaron",
+      "thousands"
+    ],
+    "ندیاں": [
+      "nadiyaan",
+      "rivers (f. pl.)"
+    ],
+    "گلشن": [
+      "gulshan",
+      "garden"
+    ],
+    "جن": [
+      "jin",
+      "which (pl. oblique) (“jin ke dam se” = thanks to which)"
+    ],
+    "دم": [
+      "dam",
+      "breath (“ke dam se” = thanks to, because of)"
+    ],
+    "رشکِ": [
+      "rashk-e",
+      "envy (of …) (“rashk-e-jinaan” = the envy of Paradise)"
+    ],
+    "جناں": [
+      "jinaan",
+      "the gardens of Paradise"
+    ],
+    "اے": [
+      "ai",
+      "O"
+    ],
+    "آبِ": [
+      "aab-e",
+      "water (of …)"
+    ],
+    "رودِ": [
+      "rood-e",
+      "river (of …) (“aab-e-rood-e-gangaa” = waters of the river Ganges)"
+    ],
+    "گنگا": [
+      "gangaa",
+      "the Ganges"
+    ],
+    "دن": [
+      "din",
+      "days"
+    ],
+    "یاد": [
+      "yaad",
+      "memory (“yaad hain tujh ko” = do you remember)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (“tujh ko” = to you)"
+    ],
+    "اترا": [
+      "utra",
+      "came down; halted; settled"
+    ],
+    "ترے": [
+      "tire",
+      "your (poetic form of “tere”)"
+    ],
+    "کنارے": [
+      "kinaare",
+      "bank; shore (oblique)"
+    ],
+    "کارواں": [
+      "kaarwaan",
+      "caravan"
+    ],
+    "مذہب": [
+      "mazhab",
+      "religion"
+    ],
+    "سکھاتا": [
+      "sikhaata",
+      "teaches"
+    ],
+    "آپس": [
+      "aapas",
+      "one another (“aapas mein” = among ourselves)"
+    ],
+    "بیر": [
+      "bair",
+      "enmity; ill will (“bair rakhna” = to bear ill will)"
+    ],
+    "رکھنا": [
+      "rakhna",
+      "to keep; to hold"
+    ],
+    "ہندی": [
+      "hindi",
+      "Indian; of Hind (not the language here)"
+    ],
+    "یونان": [
+      "yoonaan",
+      "Greece"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "مصر": [
+      "misr",
+      "Egypt"
+    ],
+    "روما": [
+      "roomaa",
+      "Rome"
+    ],
+    "مٹ": [
+      "miṭ",
+      "be wiped out (“miṭ gaye” = vanished)"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab tak” = to this day)"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "نشاں": [
+      "nishaan",
+      "trace; sign (“naam-o-nishaan” = name and trace)"
+    ],
+    "کچھ": [
+      "kuchh",
+      "some (“kuchh baat hai” = there is something special)"
+    ],
+    "ہستی": [
+      "hasti",
+      "existence; being"
+    ],
+    "مٹتی": [
+      "miṭti",
+      "is wiped out (f.)"
+    ],
+    "ہماری": [
+      "hamaari",
+      "our (f.)"
+    ],
+    "صدیوں": [
+      "sadiyon",
+      "for centuries (pl. oblique)"
+    ],
+    "دشمن": [
+      "dushman",
+      "enemy"
+    ],
+    "دورِ": [
+      "daur-e",
+      "cycle; turning (of …) (“daur-e-zamaan” = the turning of time; fate)"
+    ],
+    "زماں": [
+      "zamaan",
+      "time; age (poetic form of “zamaana”)"
+    ],
+    "اقبال": [
+      "iqbaal",
+      "Iqbal (the poet addresses himself)"
+    ],
+    "محرم": [
+      "mehram",
+      "confidant; one who shares one’s secrets"
+    ],
+    "اپنا": [
+      "apna",
+      "our own"
+    ],
+    "کیا": [
+      "kya",
+      "what (rhetorical: “maaloom kya kisi ko” = what does anyone know)"
+    ],
+    "کسی": [
+      "kisi",
+      "anyone (oblique) (“kisi ko” = to anyone)"
+    ],
+    "دردِ": [
+      "dard-e",
+      "pain (of …)"
+    ],
+    "نہاں": [
+      "nihaan",
+      "hidden (“dard-e-nihaan” = hidden pain)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کے مطابق سب سے اونچا پہاڑ ہمارے لیے کیا ہے؟",
+      "english": "According to the poet, what is the highest mountain to us?",
+      "options": [
+        {
+          "urdu": "ہمارا دشمن",
+          "english": "our enemy"
+        },
+        {
+          "urdu": "ہمارا پہرے دار اور محافظ",
+          "english": "our sentry and guardian"
+        },
+        {
+          "urdu": "ایک دور کا ملک",
+          "english": "a distant land"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "مذہب کے بارے میں شاعر کیا کہتا ہے؟",
+      "english": "What does the poet say about religion?",
+      "options": [
+        {
+          "urdu": "مذہب آپس میں دشمنی رکھنا نہیں سکھاتا",
+          "english": "Religion does not teach us to bear ill will towards one another"
+        },
+        {
+          "urdu": "مذہب لوگوں کو الگ کرتا ہے",
+          "english": "Religion divides people"
+        },
+        {
+          "urdu": "مذہب کی کوئی ضرورت نہیں",
+          "english": "Religion is not needed"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر کے مطابق کن قوموں کا نام دنیا سے مٹ گیا؟",
+      "english": "According to the poet, which civilisations have vanished from the world?",
+      "options": [
+        {
+          "urdu": "چین اور عرب",
+          "english": "China and Arabia"
+        },
+        {
+          "urdu": "ہندوستان",
+          "english": "India"
+        },
+        {
+          "urdu": "یونان، مصر اور روم",
+          "english": "Greece, Egypt and Rome"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

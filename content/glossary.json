@@ -1,0 +1,382 @@
+{
+  "کی": [
+    "ki",
+    "of (f.); also “did” (f.)"
+  ],
+  "کا": [
+    "ka",
+    "of (m.)"
+  ],
+  "کے": [
+    "ke",
+    "of (m. pl. / oblique)"
+  ],
+  "نے": [
+    "ne",
+    "subject marker with past-tense verbs"
+  ],
+  "سے": [
+    "se",
+    "from; with; by"
+  ],
+  "میں": [
+    "main / mein",
+    "I / in"
+  ],
+  "ہے": [
+    "hai",
+    "is"
+  ],
+  "ہیں": [
+    "hain",
+    "are"
+  ],
+  "تھا": [
+    "tha",
+    "was (m.)"
+  ],
+  "تھی": [
+    "thi",
+    "was (f.)"
+  ],
+  "تھے": [
+    "the",
+    "were"
+  ],
+  "اور": [
+    "aur",
+    "and"
+  ],
+  "کو": [
+    "ko",
+    "to; (object marker)"
+  ],
+  "پر": [
+    "par",
+    "on; at"
+  ],
+  "بہت": [
+    "bohat",
+    "very; a lot"
+  ],
+  "نہ": [
+    "na",
+    "not"
+  ],
+  "نہیں": [
+    "nahin",
+    "no; not"
+  ],
+  "یہ": [
+    "yeh",
+    "this; these"
+  ],
+  "وہ": [
+    "woh",
+    "that; he; she; they"
+  ],
+  "ہو": [
+    "ho",
+    "be; become"
+  ],
+  "گیا": [
+    "gaya",
+    "went (m.); (completed action)"
+  ],
+  "گئی": [
+    "gayi",
+    "went (f.); (completed action)"
+  ],
+  "گئے": [
+    "gaye",
+    "went (pl.); (completed action)"
+  ],
+  "کر": [
+    "kar",
+    "do; having done"
+  ],
+  "ہی": [
+    "hi",
+    "only; just (emphasis)"
+  ],
+  "بھی": [
+    "bhi",
+    "also; even"
+  ],
+  "لیکن": [
+    "lekin",
+    "but"
+  ],
+  "مگر": [
+    "magar",
+    "but"
+  ],
+  "کہ": [
+    "keh",
+    "that (conjunction)"
+  ],
+  "ایک": [
+    "ek",
+    "one; a"
+  ],
+  "تو": [
+    "to",
+    "then; so (emphasis)"
+  ],
+  "کیا": [
+    "kiya / kya",
+    "did / what"
+  ],
+  "دیا": [
+    "diya",
+    "gave; (completed for someone)"
+  ],
+  "لیا": [
+    "liya",
+    "took; (completed for oneself)"
+  ],
+  "تک": [
+    "tak",
+    "until; up to"
+  ],
+  "دو": [
+    "do",
+    "two"
+  ],
+  "میرا": [
+    "mera",
+    "my (m.)"
+  ],
+  "میرے": [
+    "mere",
+    "my (m. pl. / oblique)"
+  ],
+  "میری": [
+    "meri",
+    "my (f.)"
+  ],
+  "اپنے": [
+    "apne",
+    "one’s own"
+  ],
+  "مجھے": [
+    "mujhe",
+    "me; to me"
+  ],
+  "انہوں": [
+    "unhon",
+    "they / he (respectful), used with “ne”"
+  ],
+  "سب": [
+    "sab",
+    "all; everyone"
+  ],
+  "ہر": [
+    "har",
+    "every; each"
+  ],
+  "اس": [
+    "is / us",
+    "this / that (oblique)"
+  ],
+  "جو": [
+    "jo",
+    "who; which; that"
+  ],
+  "و": [
+    "o",
+    "and (Persian “o”, joining two words: “arabi o faarsi” = Arabic and Persian)"
+  ],
+  "لیے": [
+    "liye",
+    "for (“ke liye” = for, in order to; “is liye” = therefore)"
+  ],
+  "کچھ": [
+    "kuchh",
+    "some; something (“kuchh nahin” = nothing)"
+  ],
+  "طرح": [
+    "tarah",
+    "way; manner (“ki tarah” = like; “is tarah” = in this way)"
+  ],
+  "بعد": [
+    "baad",
+    "after (“ke baad” = after; “baad mein” = later)"
+  ],
+  "کوئی": [
+    "koi",
+    "some; any; someone (“koi nahin” = no one)"
+  ],
+  "کسی": [
+    "kisi",
+    "some; any; someone (oblique)"
+  ],
+  "جس": [
+    "jis",
+    "which; whom (oblique) (“jis mein” = in which)"
+  ],
+  "جن": [
+    "jin",
+    "which; whom (pl., oblique)"
+  ],
+  "اسی": [
+    "isi",
+    "this very; the same (“isi tarah” = likewise; “isi liye” = that is why)"
+  ],
+  "یہی": [
+    "yahi",
+    "this very; exactly this"
+  ],
+  "کیوں": [
+    "kyon",
+    "why"
+  ],
+  "اگر": [
+    "agar",
+    "if"
+  ],
+  "جب": [
+    "jab",
+    "when"
+  ],
+  "پھر": [
+    "phir",
+    "then; again (“phir bhi” = even so)"
+  ],
+  "ورنہ": [
+    "warna",
+    "otherwise"
+  ],
+  "ساتھ": [
+    "saath",
+    "with (“ke saath” = with, along with)"
+  ],
+  "پاس": [
+    "paas",
+    "near; with (“ke paas” = near; “mere paas” = I have)"
+  ],
+  "زیادہ": [
+    "zyaada",
+    "more (“sab se zyaada” = the most)"
+  ],
+  "باقی": [
+    "baaqi",
+    "remaining; the rest"
+  ],
+  "کئی": [
+    "kai",
+    "several; many"
+  ],
+  "دوسرے": [
+    "doosre",
+    "other; another (oblique / pl.) (“ek doosre” = one another)"
+  ],
+  "آج": [
+    "aaj",
+    "today"
+  ],
+  "ان": [
+    "un",
+    "them; those; their (oblique) (“un ki” = their)"
+  ],
+  "ہم": [
+    "hum",
+    "we (poets often use it for “I”)"
+  ],
+  "آپ": [
+    "aap",
+    "you (respectful)"
+  ],
+  "اپنی": [
+    "apni",
+    "own (f.): my / your / his / her own, matching the subject"
+  ],
+  "ایسی": [
+    "aisi",
+    "such; like this (f.)"
+  ],
+  "پہ": [
+    "pe",
+    "on (short form of “par”)"
+  ],
+  "معلوم": [
+    "maaloom",
+    "known (“maaloom hona” = to know; “maaloom nahin” = who knows)"
+  ],
+  "بات": [
+    "baat",
+    "matter; thing; talk (“baat karna” = to talk)"
+  ],
+  "کام": [
+    "kaam",
+    "work; task"
+  ],
+  "جگہ": [
+    "jagah",
+    "place"
+  ],
+  "ہوا": [
+    "hua",
+    "happened; became; was (m.)"
+  ],
+  "ہوئی": [
+    "hui",
+    "happened; became; was (f.)"
+  ],
+  "ہوئے": [
+    "hue",
+    "happened; were (pl.); with a verb, “while …-ing” (“chalte hue” = while walking)"
+  ],
+  "ہوتی": [
+    "hoti",
+    "is; happens (habitual, f.)"
+  ],
+  "ہوتا": [
+    "hota",
+    "is; happens (habitual, m.)"
+  ],
+  "ہونے": [
+    "hone",
+    "being; happening (oblique infinitive)"
+  ],
+  "ہوں": [
+    "hoon",
+    "am"
+  ],
+  "ہوگیا": [
+    "ho gaya",
+    "became; happened"
+  ],
+  "جائے": [
+    "jaaye",
+    "may go; helper, subjunctive (“ho jaaye” = may become)"
+  ],
+  "جاتا": [
+    "jaata",
+    "goes; passive helper, m. (“kaha jaata hai” = is said)"
+  ],
+  "جاتی": [
+    "jaati",
+    "goes (f.); passive helper (“likhi jaati hai” = is written)"
+  ],
+  "رہا": [
+    "raha",
+    "continuous helper, m. (“kar raha hai” = is doing); remained"
+  ],
+  "رہی": [
+    "rahi",
+    "continuous helper, f. (“kar rahi hai” = is doing); remained"
+  ],
+  "رہے": [
+    "rahe",
+    "continuous helper, pl. (“kar rahe hain” = are doing); remained"
+  ],
+  "والے": [
+    "waale",
+    "who does / of (“rehne waale” = residents)"
+  ],
+  "تین": [
+    "teen",
+    "three"
+  ]
+}

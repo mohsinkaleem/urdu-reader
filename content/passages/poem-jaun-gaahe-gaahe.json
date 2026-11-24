@@ -1,0 +1,299 @@
+{
+  "id": "poem-jaun-gaahe-gaahe",
+  "title": {
+    "urdu": "گاہے گاہے بس اب یہی ہو کیا",
+    "english": "Now and Then, Is This All?"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "source": {
+    "name": "Rekhta: گاہے گاہے بس اب یہی ہو کیا",
+    "url": "https://www.rekhta.org/ghazals/gaahe-gaahe-bas-ab-yahii-ho-kyaa-jaun-eliya-ghazals?lang=ur",
+    "author": "Jaun Elia",
+    "license": "Personal use only"
+  },
+  "intro": "Jaun Elia’s “Gaahe gaahe bas ab yahi ho kya” is a conversation with a former beloved met again after a long time: every couplet ends in the question “… ho kya?”, and her polite warmth only shows him how completely she has moved on. It is one of his most quoted ghazals, and Rekhta has a video of him reciting it. These are the opening six of its ten couplets.",
+  "sentences": [
+    {
+      "urdu": "گاہے گاہے بس اب یہی ہو کیا",
+      "english": "Now and then — is this all it is to be now:",
+      "verse": true
+    },
+    {
+      "urdu": "تم سے مل کر بہت خوشی ہو کیا",
+      "english": "“So very nice to see you”?",
+      "verse": true,
+      "explanation": {
+        "urdu": "پرانے محبوب سے اب کبھی کبھار ملاقات ہوتی ہے اور بس رسمی باتیں ہوتی ہیں، جیسے “تم سے مل کر بہت خوشی ہوئی”۔ شاعر دکھ سے پوچھتا ہے کہ کیا اب بس یہی رہ گیا ہے۔",
+        "english": "He now meets his former beloved only once in a while, and they exchange only pleasantries like “so nice to see you”. Sadly, he asks whether this is all that is left."
+      }
+    },
+    {
+      "urdu": "مل رہی ہو بڑے تپاک کے ساتھ",
+      "english": "You greet me with such great warmth —",
+      "verse": true
+    },
+    {
+      "urdu": "مجھ کو یکسر بھلا چکی ہو کیا",
+      "english": "have you forgotten me completely?",
+      "verse": true,
+      "explanation": {
+        "urdu": "وہ بہت گرم جوشی سے ملتی ہے، اور یہی بات شاعر کو پریشان کرتی ہے: اتنی بے تکلفی سے وہی مل سکتا ہے جو پرانی محبت کو پوری طرح بھول چکا ہو۔",
+        "english": "She greets him very warmly — and that is exactly what troubles him: only someone who has completely forgotten an old love can meet so easily."
+      }
+    },
+    {
+      "urdu": "یاد ہیں اب بھی اپنے خواب تمہیں",
+      "english": "Do you still remember your dreams?",
+      "verse": true
+    },
+    {
+      "urdu": "مجھ سے مل کر اداس بھی ہو کیا",
+      "english": "Does meeting me make you sad as well?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر پوچھتا ہے کہ کیا تمہیں اپنے پرانے خواب اب بھی یاد ہیں، اور کیا مجھ سے مل کر تمہیں بھی کچھ اداسی ہوتی ہے۔",
+        "english": "He asks whether she still remembers their old dreams, and whether meeting him makes her a little sad too."
+      }
+    },
+    {
+      "urdu": "بس مجھے یوں ہی اک خیال آیا",
+      "english": "It’s just that a thought came to me, for no reason:",
+      "verse": true
+    },
+    {
+      "urdu": "سوچتی ہو تو سوچتی ہو کیا",
+      "english": "do you ever think — and if you do, what about?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر جیسے اچانک، بے پروائی سے پوچھتا ہے کہ کیا تم کبھی سوچتی ہو، اور اگر سوچتی ہو تو کیا سوچتی ہو؟ یعنی کیا تم کبھی مجھے یاد کرتی ہو۔",
+        "english": "As if casually, on a sudden thought, he asks: do you ever think — and if you do, what about? In other words: do you ever think of me?"
+      }
+    },
+    {
+      "urdu": "اب مری کوئی زندگی ہی نہیں",
+      "english": "Now I have no life of my own at all;",
+      "verse": true
+    },
+    {
+      "urdu": "اب بھی تم میری زندگی ہو کیا",
+      "english": "are you still my life, even now?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کی اپنی زندگی تو ختم ہو چکی ہے، پھر بھی وہ پوچھتا ہے کہ کیا تم اب بھی میری زندگی ہو۔ یعنی اس کی محبت اب بھی باقی ہے۔",
+        "english": "His own life is as good as over, yet he asks if she is still his life: his love has not ended."
+      }
+    },
+    {
+      "urdu": "کیا کہا عشق جاودانی ہے!",
+      "english": "What did you say — love is eternal!",
+      "verse": true
+    },
+    {
+      "urdu": "آخری بار مل رہی ہو کیا",
+      "english": "Are we meeting for the last time, then?",
+      "verse": true,
+      "explanation": {
+        "urdu": "جب وہ کہتی ہے کہ عشق ہمیشہ رہنے والا ہے تو شاعر سمجھ جاتا ہے کہ یہ آخری ملاقات ہے، کیونکہ ایسی بڑی باتیں اکثر جدائی کے وقت کہی جاتی ہیں۔",
+        "english": "When she says that love is eternal, he realises this must be their last meeting, because such grand words are usually said at parting."
+      }
+    }
+  ],
+  "glossary": {
+    "گاہے": [
+      "gaahe",
+      "at times (“gaahe gaahe” = now and then)"
+    ],
+    "بس": [
+      "bas",
+      "just; only"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab bhi” = even now, still)"
+    ],
+    "یہی": [
+      "yahi",
+      "just this; this very thing"
+    ],
+    "ہو": [
+      "ho",
+      "be; are (“ho kya” = is it to be …? / are you …?)"
+    ],
+    "کیا": [
+      "kya",
+      "(question marker at the end of a line: “… ho kya?” = are you …?, is it …?); what (“kya kaha” = what did you say)"
+    ],
+    "تم": [
+      "tum",
+      "you"
+    ],
+    "مل": [
+      "mil",
+      "meet (“mil kar” = on meeting; “mil rahi ho” = you are meeting)"
+    ],
+    "کر": [
+      "kar",
+      "having (done) (“mil kar” = on meeting)"
+    ],
+    "خوشی": [
+      "khushi",
+      "pleasure; happiness (“bahut khushi” = so very pleased)"
+    ],
+    "رہی": [
+      "rahi",
+      "(-ing, f.) (“mil rahi ho” = you are meeting)"
+    ],
+    "بڑے": [
+      "bare",
+      "great; much (“bare tapaak ke saath” = with great warmth)"
+    ],
+    "تپاک": [
+      "tapaak",
+      "warmth; cordiality"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh ko” = me; “mujh se” = with me)"
+    ],
+    "یکسر": [
+      "yaksar",
+      "completely; altogether"
+    ],
+    "بھلا": [
+      "bhula",
+      "forget (“bhula chuki ho” = you have forgotten)"
+    ],
+    "چکی": [
+      "chuki",
+      "already (completed action, f.) (“bhula chuki ho” = you have forgotten)"
+    ],
+    "یاد": [
+      "yaad",
+      "remembered (“tumhen yaad hain” = do you remember)"
+    ],
+    "خواب": [
+      "khwaab",
+      "dreams"
+    ],
+    "تمہیں": [
+      "tumhen",
+      "to you (“tumhen yaad hain” = do you remember)"
+    ],
+    "اداس": [
+      "udaas",
+      "sad"
+    ],
+    "یوں": [
+      "yoon",
+      "so (“yoon hi” = just like that, for no reason)"
+    ],
+    "اک": [
+      "ik",
+      "a; one (short form of “ek”)"
+    ],
+    "خیال": [
+      "khayaal",
+      "thought"
+    ],
+    "آیا": [
+      "aaya",
+      "came (“khayaal aaya” = a thought occurred)"
+    ],
+    "سوچتی": [
+      "sochti",
+      "think (f.) (“sochti ho” = you think)"
+    ],
+    "تو": [
+      "to",
+      "then; if so (“sochti ho to” = if you do think)"
+    ],
+    "مری": [
+      "meri",
+      "my (f.; short poetic spelling of “meri”)"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "کہا": [
+      "kaha",
+      "said (“kya kaha” = what did you say)"
+    ],
+    "عشق": [
+      "ishq",
+      "love; passion"
+    ],
+    "جاودانی": [
+      "jaawedaani",
+      "eternal; everlasting"
+    ],
+    "آخری": [
+      "aakhri",
+      "last"
+    ],
+    "بار": [
+      "baar",
+      "time (“aakhri baar” = the last time)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پرانی محبوبہ شاعر سے کس طرح ملتی ہے؟",
+      "english": "How does the former beloved greet the poet?",
+      "options": [
+        {
+          "urdu": "بہت ناراضی سے",
+          "english": "very angrily"
+        },
+        {
+          "urdu": "رو کر",
+          "english": "in tears"
+        },
+        {
+          "urdu": "بڑے تپاک یعنی گرم جوشی سے",
+          "english": "with great warmth"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "محبوبہ کی گرم جوشی سے شاعر کیا نتیجہ نکالتا ہے؟",
+      "english": "What does the poet conclude from her warmth?",
+      "options": [
+        {
+          "urdu": "کہ وہ اسے پوری طرح بھول چکی ہے",
+          "english": "that she has completely forgotten him"
+        },
+        {
+          "urdu": "کہ وہ اب بھی اس سے محبت کرتی ہے",
+          "english": "that she still loves him"
+        },
+        {
+          "urdu": "کہ وہ اس سے شادی کرنا چاہتی ہے",
+          "english": "that she wants to marry him"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "“عشق جاودانی ہے” سن کر شاعر کو کیا شک ہوتا ہے؟",
+      "english": "What does the poet suspect on hearing “love is eternal”?",
+      "options": [
+        {
+          "urdu": "کہ وہ مذاق کر رہی ہے",
+          "english": "that she is joking"
+        },
+        {
+          "urdu": "کہ یہ ان کی آخری ملاقات ہے",
+          "english": "that this is their last meeting"
+        },
+        {
+          "urdu": "کہ وہ بیمار ہے",
+          "english": "that she is ill"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": "poem-ghalib-dil-e-nadan",
+  "title": {
+    "urdu": "دلِ ناداں تجھے ہوا کیا ہے",
+    "english": "O Foolish Heart, What Has Happened to You?"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": ["love", "ghazal"],
+  "source": {
+    "name": "Urdu Wikisource: دل ناداں تجھے ہوا کیا ہے (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AF%D9%84_%D9%86%D8%A7%D8%AF%D8%A7%DA%BA_%D8%AA%D8%AC%DA%BE%DB%92_%DB%81%D9%88%D8%A7_%DA%A9%DB%8C%D8%A7_%DB%81%DB%92",
+    "author": "Mirza Ghalib",
+    "license": "Public domain"
+  },
+  "intro": "A ghazal by Mirza Ghalib (1797–1869): the poet questions his own restless heart, then his beloved, then God — if nothing exists but God, what is all this beauty and bustle? These are the opening six of its eleven couplets.",
+  "sentences": [
+    {
+      "urdu": "دلِ ناداں تجھے ہوا کیا ہے؟",
+      "english": "O foolish heart, what has happened to you?",
+      "verse": true
+    },
+    {
+      "urdu": "آخر اس درد کی دوا کیا ہے؟",
+      "english": "After all, what is the cure for this pain?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر اپنے دل سے پوچھتا ہے کہ تجھے کیا ہو گیا ہے۔ یہ محبت کا درد ہے اور اس کا کوئی علاج نظر نہیں آتا۔",
+        "english": "The poet asks his own heart what has come over it. It is the pain of love, and no cure for it is in sight."
+      }
+    },
+    {
+      "urdu": "ہم ہیں مشتاق اور وہ بےزار",
+      "english": "I am full of longing, and the beloved is weary of me;",
+      "verse": true
+    },
+    {
+      "urdu": "یا الٰہی یہ ماجرا کیا ہے؟",
+      "english": "O God, what is going on here?",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق محبوب سے ملنے کا بہت شوق رکھتا ہے، مگر محبوب اس سے تنگ ہے۔ شاعر حیران ہو کر خدا سے پوچھتا ہے کہ یہ کیسا معاملہ ہے۔",
+        "english": "The lover longs to meet the beloved, but the beloved is tired of him. Puzzled, the poet asks God what kind of affair this is."
+      }
+    },
+    {
+      "urdu": "میں بھی منہ میں زبان رکھتا ہوں",
+      "english": "I too have a tongue in my mouth;",
+      "verse": true
+    },
+    {
+      "urdu": "کاش پوچھو کہ مدّعا کیا ہے",
+      "english": "if only you would ask what it is I want to say.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ میں بھی بول سکتا ہوں اور اپنی بات کہہ سکتا ہوں۔ کاش محبوب ایک بار پوچھ لے کہ میں کیا چاہتا ہوں۔",
+        "english": "The poet says he too can speak and say what is on his mind. If only the beloved would ask, just once, what he wants."
+      }
+    },
+    {
+      "urdu": "جب کہ تجھ بن نہیں کوئی موجود",
+      "english": "When nothing exists apart from You,",
+      "verse": true
+    },
+    {
+      "urdu": "پھر یہ ہنگامہ اے خدا کیا ہے؟",
+      "english": "then what is all this commotion, O God?",
+      "verse": true,
+      "explanation": {
+        "urdu": "صوفیوں کے مطابق اصل میں صرف خدا موجود ہے۔ شاعر پوچھتا ہے کہ اگر خدا کے سوا کچھ نہیں تو پھر دنیا کا یہ سارا شور اور رونق کیا ہے۔",
+        "english": "In Sufi thought only God truly exists. The poet asks: if there is nothing but God, then what is all the noise and bustle of this world?"
+      }
+    },
+    {
+      "urdu": "یہ پری چہرہ لوگ کیسے ہیں؟",
+      "english": "What kind of beings are these fairy-faced people?",
+      "verse": true
+    },
+    {
+      "urdu": "غمزہ و عشوہ و ادا کیا ہے؟",
+      "english": "What are these coquettish glances, flirtations and graceful airs?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر خوب صورت لوگوں کو دیکھ کر حیران ہے۔ وہ پوچھتا ہے کہ یہ حسن اور یہ ناز و انداز کیا ہیں اور کہاں سے آئے۔",
+        "english": "The poet is amazed by beautiful people. He asks what this beauty and these charming ways are, and where they come from."
+      }
+    },
+    {
+      "urdu": "شکنِ زلفِ عنبریں کیوں ہے",
+      "english": "Why are there curls in the ambergris-scented tresses?",
+      "verse": true
+    },
+    {
+      "urdu": "نگہِ چشمِ سرمہ سا کیا ہے؟",
+      "english": "What is the glance of the kohl-lined eye?",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب کی خوشبودار گھنگھریالی زلفیں اور سرمہ لگی آنکھوں کی نظر دل کو کھینچ لیتی ہیں۔ شاعر حیرت سے پوچھتا ہے کہ یہ سب کیا ہے۔",
+        "english": "The beloved's fragrant curling hair and the glance of kohl-lined eyes captivate the heart. The poet asks in wonder what all this is."
+      }
+    }
+  ],
+  "glossary": {
+    "دلِ": [
+      "dil-e",
+      "heart (with izafat: “dil-e-naadaan” = foolish heart)"
+    ],
+    "ناداں": [
+      "naadaan",
+      "naive; foolish (poetic form of “naadaan”)"
+    ],
+    "تجھے": [
+      "tujhe",
+      "to you (intimate)"
+    ],
+    "ہوا": [
+      "hua",
+      "happened (“tujhe hua kya hai” = what has happened to you)"
+    ],
+    "کیا": [
+      "kya",
+      "what"
+    ],
+    "آخر": [
+      "aakhir",
+      "after all"
+    ],
+    "اس": [
+      "is",
+      "this (oblique)"
+    ],
+    "درد": [
+      "dard",
+      "pain"
+    ],
+    "دوا": [
+      "dawa",
+      "medicine; cure"
+    ],
+    "ہم": [
+      "hum",
+      "we; I (poets often say “hum” for “I”)"
+    ],
+    "مشتاق": [
+      "mushtaaq",
+      "eager; longing (to meet)"
+    ],
+    "وہ": [
+      "woh",
+      "that one; here the beloved"
+    ],
+    "بےزار": [
+      "bezaar",
+      "weary; fed up; averse"
+    ],
+    "یا": [
+      "ya",
+      "O (“ya ilaahi” = O God!)"
+    ],
+    "الٰہی": [
+      "ilaahi",
+      "my God (“ya ilaahi” = O God!)"
+    ],
+    "ماجرا": [
+      "maajra",
+      "affair; strange happening"
+    ],
+    "میں": [
+      "main / mein",
+      "I (“main bhi” = I too) / in (“munh mein” = in the mouth)"
+    ],
+    "منہ": [
+      "munh",
+      "mouth"
+    ],
+    "زبان": [
+      "zabaan",
+      "tongue (“munh mein zabaan rakhna” = to be able to speak up)"
+    ],
+    "رکھتا": [
+      "rakhta",
+      "keep; have (m.)"
+    ],
+    "کاش": [
+      "kaash",
+      "if only; I wish"
+    ],
+    "پوچھو": [
+      "poochho",
+      "(you would) ask"
+    ],
+    "مدّعا": [
+      "mudda-aa",
+      "purpose; what one wants to say"
+    ],
+    "جب": [
+      "jab",
+      "when (“jab keh” = when, given that)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (“tujh bin” = without You)"
+    ],
+    "بن": [
+      "bin",
+      "without (poetic)"
+    ],
+    "کوئی": [
+      "koi",
+      "any; anyone (“koi nahin” = no one, nothing)"
+    ],
+    "موجود": [
+      "maujood",
+      "existing; present"
+    ],
+    "ہنگامہ": [
+      "hangaama",
+      "commotion; tumult; bustle"
+    ],
+    "اے": [
+      "ai",
+      "O (calling out)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "پری": [
+      "pari",
+      "fairy (“pari-chehra” = fairy-faced, i.e. very beautiful)"
+    ],
+    "چہرہ": [
+      "chehra",
+      "face"
+    ],
+    "لوگ": [
+      "log",
+      "people"
+    ],
+    "کیسے": [
+      "kaise",
+      "what kind of; how"
+    ],
+    "غمزہ": [
+      "ghamza",
+      "coquettish glance"
+    ],
+    "و": [
+      "o",
+      "and (Persian “o”, joins words)"
+    ],
+    "عشوہ": [
+      "ishwa",
+      "coquetry; flirtatious charm"
+    ],
+    "ادا": [
+      "ada",
+      "graceful manner; charm"
+    ],
+    "شکنِ": [
+      "shikan-e",
+      "curl; fold (of …)"
+    ],
+    "زلفِ": [
+      "zulf-e",
+      "tresses; locks of hair (of …)"
+    ],
+    "عنبریں": [
+      "ambareen",
+      "scented with ambergris; fragrant"
+    ],
+    "نگہِ": [
+      "nigah-e",
+      "glance (short poetic form of “nigaah”) (of …)"
+    ],
+    "چشمِ": [
+      "chashm-e",
+      "eye (of …)"
+    ],
+    "سرمہ": [
+      "surma",
+      "kohl (black eye powder)"
+    ],
+    "سا": [
+      "saa",
+      "applying (Persian suffix: “surma-saa” = kohl-lined); not Urdu “sa” = like"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر میں شاعر اپنے دل سے کیا پوچھتا ہے؟",
+      "english": "In the first couplet, what does the poet ask his heart?",
+      "options": [
+        {
+          "urdu": "وہ اتنا خوش کیوں ہے",
+          "english": "why it is so happy"
+        },
+        {
+          "urdu": "محبوب کہاں رہتا ہے",
+          "english": "where the beloved lives"
+        },
+        {
+          "urdu": "اسے کیا ہو گیا ہے اور اس درد کا علاج کیا ہے",
+          "english": "what has happened to it, and what the cure for this pain is"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "دوسرے شعر میں عاشق اور محبوب کا حال کیا ہے؟",
+      "english": "In the second couplet, how do the lover and the beloved feel?",
+      "options": [
+        {
+          "urdu": "دونوں ایک دوسرے سے ملنا چاہتے ہیں",
+          "english": "both want to meet each other"
+        },
+        {
+          "urdu": "عاشق ملنا چاہتا ہے مگر محبوب اس سے تنگ ہے",
+          "english": "the lover longs to meet, but the beloved is tired of him"
+        },
+        {
+          "urdu": "محبوب ملنا چاہتا ہے مگر عاشق اس سے تنگ ہے",
+          "english": "the beloved longs to meet, but the lover is tired of him"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "چوتھے شعر میں شاعر کس بات پر حیران ہے؟",
+      "english": "In the fourth couplet, what puzzles the poet?",
+      "options": [
+        {
+          "urdu": "اگر خدا کے سوا کچھ موجود نہیں تو دنیا کا یہ شور کیا ہے",
+          "english": "if nothing exists but God, what is all this noise of the world"
+        },
+        {
+          "urdu": "لوگ رات کو کیوں سوتے ہیں",
+          "english": "why people sleep at night"
+        },
+        {
+          "urdu": "بارش کیوں نہیں ہوتی",
+          "english": "why it does not rain"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

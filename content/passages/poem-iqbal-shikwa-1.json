@@ -1,0 +1,544 @@
+{
+  "id": "poem-iqbal-shikwa-1",
+  "title": {
+    "urdu": "شکوہ (حصہ 1)",
+    "english": "Shikwa, part 1"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: شکوہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%B4%DA%A9%D9%88%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "Allama Iqbal's “Shikwa” (The Complaint), a musaddas of six-line stanzas, was first recited in 1911 at the annual gathering of the Anjuman-e-Himayat-e-Islam in Lahore and later included in Bang-e-Dara. In it Iqbal boldly complains to God, on behalf of the Muslims, that they served Him faithfully and yet are now humiliated; he later answered the poem himself in “Jawab-e-Shikwa”. This first part (stanzas 1–3) explains why the poet dares to speak at all.",
+  "series": {
+    "id": "poem-iqbal-shikwa",
+    "title": "Shikwa (The Complaint)",
+    "part": 1,
+    "of": 10
+  },
+  "sentences": [
+    {
+      "urdu": "کیوں زیاں کار بنوں، سُود فراموش رہوں",
+      "english": "Why should I keep suffering loss, forgetful of my gain?",
+      "verse": true
+    },
+    {
+      "urdu": "فکرِ فردا نہ کروں، محوِ غمِ دوش رھوں",
+      "english": "Why not think of tomorrow, instead of staying lost in yesterday's grief?",
+      "verse": true
+    },
+    {
+      "urdu": "نالے بُلبُل کے سُنوں اور ہمہ تن گوش رہوں",
+      "english": "Should I just listen to the nightingale's laments and remain all ears?",
+      "verse": true
+    },
+    {
+      "urdu": "ہم نوا میں بھی کوئی گُل ہوں کہ خاموش رہوں",
+      "english": "Fellow-singer, am I some flower, that I should stay silent?",
+      "verse": true
+    },
+    {
+      "urdu": "جُرأت آموز میری تابِ سخن ہے مجھ کو",
+      "english": "My power of speech gives me daring;",
+      "verse": true
+    },
+    {
+      "urdu": "شکوہ اللہ سے، خاکمِ بدہن ہے مجھ کو",
+      "english": "I have a complaint against God — may dust fill my mouth for saying it!",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ میں کب تک نقصان اٹھاتا رہوں اور صرف گزرے ہوئے کل کا غم کرتا رہوں۔ میں پھول نہیں کہ چپ رہوں، بلبل کی طرح میں بھی بولوں گا۔ بولنے کی طاقت نے مجھے ہمت دی ہے، اس لیے ادب سے معافی مانگ کر میں اللہ سے شکوہ کرتا ہوں۔",
+        "english": "The poet asks why he should keep suffering loss and only mourn the past. He is not a silent flower but a fellow-singer of the nightingale, so he too will speak. His gift of speech makes him bold, and with the apologetic phrase “khaakam ba-dahan” (dust be in my mouth, i.e. God forgive me) he dares to complain to God."
+      }
+    },
+    {
+      "urdu": "ہے بجا شیوۂ تسلیم میں مشہور ہیں ہم",
+      "english": "True, we are famous for our habit of submission;",
+      "verse": true
+    },
+    {
+      "urdu": "قصّۂ درد سُناتے ہیں کہ مجبور ہیں ہم",
+      "english": "we tell the tale of our pain only because we are helpless.",
+      "verse": true
+    },
+    {
+      "urdu": "ساز خاموش میں، فریاد سے معمور ہیں ہم",
+      "english": "Silent instruments, we are filled with lament;",
+      "verse": true
+    },
+    {
+      "urdu": "نالہ آتا ہے اگر لب پہ تو معذور ہیں ہم",
+      "english": "if a cry rises to our lips, we are to be excused.",
+      "verse": true
+    },
+    {
+      "urdu": "اے خدا! شکوۂ اربابِ وفا بھی سُن لے",
+      "english": "O God! Hear the complaint of the faithful too;",
+      "verse": true
+    },
+    {
+      "urdu": "خوگرِ حمد سے تھوڑا سا گِله بھی سُن لے",
+      "english": "from one used to praising You, hear a little grievance too.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم مسلمان صبر اور اللہ کی رضا ماننے کے لیے مشہور ہیں، لیکن مجبور ہو کر اپنا دکھ بیان کر رہے ہیں۔ ہم خاموش ساز کی طرح ہیں مگر اندر فریاد بھری ہے۔ شاعر خدا سے کہتا ہے کہ جو ہمیشہ تیری تعریف کرتے ہیں، آج ان کا تھوڑا سا گلہ بھی سن لے۔",
+        "english": "Muslims are known for accepting God's will, but they speak now because they can no longer hold back their pain. Like silent instruments, they are full of unheard lament. The poet asks God to hear, for once, a small complaint from those who are used to praising Him."
+      }
+    },
+    {
+      "urdu": "تھی توموجود ازل سے ہی تری ذاتِ قدیم",
+      "english": "Your eternal Being, it is true, existed from the very beginning;",
+      "verse": true
+    },
+    {
+      "urdu": "پُھول تھا زیب چمن پر نہ پریشان تھی شمیم",
+      "english": "the flower adorned the garden, but its fragrance was not spread.",
+      "verse": true
+    },
+    {
+      "urdu": "شرطِ اِنصاف ہے اَے صاحبِ الطافِ عمیم",
+      "english": "Fairness demands, O Lord of all-embracing favours, that You say:",
+      "verse": true
+    },
+    {
+      "urdu": "بوئے گُل پھیلتی کِس طرح جو نہ ہوتی نسیم",
+      "english": "how would the rose's scent have spread, had there been no breeze?",
+      "verse": true
+    },
+    {
+      "urdu": "ہم کو جمعیّتِ خاطر یہ پریشانی تھی",
+      "english": "For us, this scattering, this distress, was peace of heart;",
+      "verse": true
+    },
+    {
+      "urdu": "ورنہ اُمّت تیرے محبوبؐ کی دیوانی تھی؟",
+      "english": "otherwise, was the community of Your Beloved simply mad?",
+      "verse": true,
+      "explanation": {
+        "urdu": "اے خدا، تیری ذات ہمیشہ سے موجود تھی، مگر جیسے پھول کی خوشبو ہوا کے بغیر نہیں پھیلتی، ویسے ہی تیرا نام دنیا میں نہیں پھیلا تھا۔ ہم مسلمان وہ ہوا بنے جس نے تیرا پیغام پھیلایا۔ یہ مشقت ہمارے دل کا سکون تھی، ورنہ کیا ہم دیوانے تھے کہ اتنی تکلیف اٹھاتے؟",
+        "english": "God existed from eternity, but His message was like a flower whose scent stays put until a breeze carries it. The Muslims were that breeze and spread His name. Iqbal plays on “pareshaan”, which means both “scattered” (of a fragrance) and “distressed”: the hardship of spreading the faith was the Muslims' peace of mind — otherwise, he asks, were the Prophet's followers simply mad to endure it?"
+      }
+    }
+  ],
+  "glossary": {
+    "زیاں": [
+      "ziyaan",
+      "loss (“ziyaan-kaar” = one who suffers loss)"
+    ],
+    "کار": [
+      "kaar",
+      "doer (“ziyaan-kaar” = one who keeps losing)"
+    ],
+    "بنوں": [
+      "banoon",
+      "should I become"
+    ],
+    "سود": [
+      "sood",
+      "profit, gain (“sood-faraamosh” = forgetful of gain)"
+    ],
+    "فراموش": [
+      "faraamosh",
+      "forgetful"
+    ],
+    "رہوں": [
+      "rahoon",
+      "should I remain"
+    ],
+    "فکر": [
+      "fikr-e",
+      "care for, thought of (“fikr-e-fardaa” = care for tomorrow)"
+    ],
+    "فردا": [
+      "fardaa",
+      "tomorrow; the future (poetic)"
+    ],
+    "کروں": [
+      "karoon",
+      "should I do"
+    ],
+    "محو": [
+      "mahv-e",
+      "absorbed in, lost in"
+    ],
+    "غم": [
+      "gham-e",
+      "grief for (“gham-e-dosh” = grief for yesterday)"
+    ],
+    "دوش": [
+      "dosh",
+      "yesterday; last night (poetic)"
+    ],
+    "رھوں": [
+      "rahoon",
+      "should I remain (old spelling of رہوں)"
+    ],
+    "نالے": [
+      "naale",
+      "laments, cries (pl.)"
+    ],
+    "بلبل": [
+      "bulbul",
+      "nightingale"
+    ],
+    "سنوں": [
+      "sunoon",
+      "should I listen to"
+    ],
+    "ہمہ": [
+      "hama",
+      "all, whole (“hama-tan gosh” = all ears)"
+    ],
+    "تن": [
+      "tan",
+      "body"
+    ],
+    "گوش": [
+      "gosh",
+      "ear (poetic)"
+    ],
+    "ہم": [
+      "ham",
+      "we; (in “ham-nava”) fellow-"
+    ],
+    "نوا": [
+      "nava",
+      "song, voice (“ham-nava” = fellow-singer, companion in song)"
+    ],
+    "میں": [
+      "main / mein",
+      "I / in"
+    ],
+    "گل": [
+      "gul",
+      "flower, rose"
+    ],
+    "خاموش": [
+      "khaamosh",
+      "silent"
+    ],
+    "جرأت": [
+      "jurat",
+      "daring, courage (“jurat-aamoz” = that teaches daring)"
+    ],
+    "آموز": [
+      "aamoz",
+      "teaching, instilling (in compounds)"
+    ],
+    "تاب": [
+      "taab-e",
+      "power of (“taab-e-sukhan” = power of speech)"
+    ],
+    "سخن": [
+      "sukhan",
+      "speech; poetry"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“hai mujh ko” = I have)"
+    ],
+    "شکوہ": [
+      "shikwa",
+      "complaint"
+    ],
+    "اللہ": [
+      "allaah",
+      "Allah, God"
+    ],
+    "خاکم": [
+      "khaakam",
+      "dust in my … (Persian; “khaakam ba-dahan” = dust in my mouth, i.e. God forgive me for saying it)"
+    ],
+    "بدہن": [
+      "ba-dahan",
+      "in the mouth (“khaakam ba-dahan” = may dust fill my mouth)"
+    ],
+    "بجا": [
+      "baja",
+      "right, true (“hai baja” = it is true that)"
+    ],
+    "شیوۂ": [
+      "sheva-e",
+      "habit, way of (“sheva-e-tasleem” = habit of submission)"
+    ],
+    "تسلیم": [
+      "tasleem",
+      "submission, accepting God's will"
+    ],
+    "مشہور": [
+      "mashhoor",
+      "famous"
+    ],
+    "قصۂ": [
+      "qissa-e",
+      "tale of"
+    ],
+    "سناتے": [
+      "sunaate",
+      "tell, recount (pl.)"
+    ],
+    "مجبور": [
+      "majboor",
+      "helpless, compelled"
+    ],
+    "ساز": [
+      "saaz",
+      "musical instrument(s)"
+    ],
+    "فریاد": [
+      "faryaad",
+      "lament, cry for help"
+    ],
+    "معمور": [
+      "maamoor",
+      "filled, full"
+    ],
+    "نالہ": [
+      "naala",
+      "lament, wail"
+    ],
+    "آتا": [
+      "aata",
+      "comes"
+    ],
+    "لب": [
+      "lab",
+      "lip(s)"
+    ],
+    "پہ": [
+      "pe",
+      "on (= par)"
+    ],
+    "تو": [
+      "to",
+      "then; indeed"
+    ],
+    "معذور": [
+      "maazoor",
+      "excusable; helpless"
+    ],
+    "اے": [
+      "ai",
+      "O (calling)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "شکوۂ": [
+      "shikwa-e",
+      "complaint of"
+    ],
+    "ارباب": [
+      "arbaab-e",
+      "people of (“arbaab-e-wafa” = the faithful)"
+    ],
+    "وفا": [
+      "wafa",
+      "faithfulness, loyalty"
+    ],
+    "سن": [
+      "sun",
+      "hear, listen (“sun le” = do hear)"
+    ],
+    "لے": [
+      "le",
+      "(compound) “sun le” = do listen; “le kar” = carrying"
+    ],
+    "خوگر": [
+      "khoogar-e",
+      "one accustomed to (“khoogar-e-hamd” = one used to praising)"
+    ],
+    "حمد": [
+      "hamd",
+      "praise of God"
+    ],
+    "تھوڑا": [
+      "thoṛa",
+      "a little"
+    ],
+    "سا": [
+      "sa",
+      "(“thoṛa sa” = just a little)"
+    ],
+    "گلہ": [
+      "gila",
+      "grievance, complaint"
+    ],
+    "توموجود": [
+      "to maujood",
+      "indeed existing (تو “indeed” + موجود “present, existing”, run together)"
+    ],
+    "ازل": [
+      "azal",
+      "eternity without beginning (“azal se” = since the beginning of time)"
+    ],
+    "تری": [
+      "teri",
+      "your (poetic)"
+    ],
+    "ذات": [
+      "zaat-e",
+      "being, essence (“zaat-e-qadeem” = eternal Being)"
+    ],
+    "قدیم": [
+      "qadeem",
+      "eternal; ancient"
+    ],
+    "پھول": [
+      "phool",
+      "flower"
+    ],
+    "زیب": [
+      "zeb",
+      "adornment (“zeb-e-chaman” = ornament of the garden)"
+    ],
+    "چمن": [
+      "chaman",
+      "garden"
+    ],
+    "پر": [
+      "par",
+      "but (poetic)"
+    ],
+    "پریشان": [
+      "pareshaan",
+      "scattered (of fragrance); also troubled"
+    ],
+    "شمیم": [
+      "shameem",
+      "fragrance"
+    ],
+    "شرط": [
+      "shart-e",
+      "condition of (“shart-e-insaaf hai” = fairness demands)"
+    ],
+    "انصاف": [
+      "insaaf",
+      "justice, fairness"
+    ],
+    "صاحب": [
+      "saahib-e",
+      "lord of (“saahib-e-altaaf-e-ameem” = Lord of all-embracing favours)"
+    ],
+    "الطاف": [
+      "altaaf-e",
+      "favours, kindnesses (pl.)"
+    ],
+    "عمیم": [
+      "ameem",
+      "universal, all-embracing"
+    ],
+    "بوئے": [
+      "boo-e",
+      "scent of (“boo-e-gul” = the rose's scent)"
+    ],
+    "پھیلتی": [
+      "phailti",
+      "would spread (f.)"
+    ],
+    "کس": [
+      "kis",
+      "who, whose (oblique); “kis tarah” = how"
+    ],
+    "ہوتی": [
+      "hoti",
+      "were, existed (f.) (“na hoti” = had there not been)"
+    ],
+    "نسیم": [
+      "naseem",
+      "breeze"
+    ],
+    "جمعیت": [
+      "jamiyyat-e",
+      "composure (“jamiyyat-e-khaatir” = peace of mind)"
+    ],
+    "خاطر": [
+      "khaatir",
+      "mind, heart"
+    ],
+    "پریشانی": [
+      "pareshaani",
+      "distress; scattering (wordplay)"
+    ],
+    "امت": [
+      "ummat",
+      "community (of a prophet's followers)"
+    ],
+    "تیرے": [
+      "tere",
+      "your"
+    ],
+    "محبوب": [
+      "mehboob",
+      "beloved (here: the Prophet)"
+    ],
+    "دیوانی": [
+      "deewaani",
+      "mad, crazy (f.)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر خاموش کیوں نہیں رہنا چاہتا؟",
+      "english": "Why doesn't the poet want to stay silent?",
+      "options": [
+        {
+          "urdu": "وہ بیمار ہے",
+          "english": "He is ill"
+        },
+        {
+          "urdu": "وہ پھول نہیں، بلبل کا ہم نوا ہے",
+          "english": "He is not a flower but a fellow-singer of the nightingale"
+        },
+        {
+          "urdu": "وہ خدا کی تعریف کرنا بھول گیا ہے",
+          "english": "He has forgotten how to praise God"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "تیسرے بند میں ”نسیم“ یعنی ہوا سے کون مراد ہے؟",
+      "english": "In the third stanza, who is meant by the “breeze”?",
+      "options": [
+        {
+          "urdu": "پھول",
+          "english": "The flower"
+        },
+        {
+          "urdu": "فرشتے",
+          "english": "The angels"
+        },
+        {
+          "urdu": "مسلمان، جنہوں نے خدا کا نام پھیلایا",
+          "english": "The Muslims, who spread God's name"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "”خاکم بدہن“ کہہ کر شاعر کیا ظاہر کرتا ہے؟",
+      "english": "By saying “khaakam ba-dahan”, what does the poet show?",
+      "options": [
+        {
+          "urdu": "ادب، اور معافی کہ وہ خدا سے شکوہ کر رہا ہے",
+          "english": "Respect, and an apology for daring to complain to God"
+        },
+        {
+          "urdu": "خوشی",
+          "english": "Joy"
+        },
+        {
+          "urdu": "بیماری کی شکایت",
+          "english": "A complaint about illness"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

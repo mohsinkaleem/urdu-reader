@@ -1,0 +1,380 @@
+{
+  "id": "story-phoolon-ki-saazish",
+  "title": {
+    "urdu": "پھولوں کی سازش",
+    "english": "The Flowers’ Conspiracy"
+  },
+  "category": "stories",
+  "level": "hard",
+  "tags": ["nature", "society"],
+  "source": {
+    "name": "Urdu Wikisource: پھولوں کی سازش",
+    "url": "https://ur.wikisource.org/wiki/پھولوں_کی_سازش",
+    "author": "Saadat Hasan Manto",
+    "license": "Public domain"
+  },
+  "intro": "The opening of an early allegory by Manto (1941). The flowers of a garden rise up against the gardener who lives off their labour, and the rose makes a fiery speech. The story continues beyond this excerpt.",
+  "sentences": [
+    {
+      "urdu": "باغ میں جتنے پھول تھے، سب کے سب باغی ہوگئے۔",
+      "english": "All the flowers in the garden, every last one of them, turned rebel."
+    },
+    {
+      "urdu": "گلاب کے سینے میں بغاوت کی آگ بھڑک رہی تھی۔",
+      "english": "The fire of rebellion was blazing in the rose’s breast."
+    },
+    {
+      "urdu": "اس کی ایک ایک رگ آتشیں جذبہ کے تحت پھڑک رہی تھی۔",
+      "english": "Every single vein of his was throbbing with fiery passion."
+    },
+    {
+      "urdu": "ایک روز اس نے اپنی کانٹوں بھری گردن اٹھائی اور غور و فکر کو بالائے طاق رکھ کر اپنے ساتھیوں سے مخاطب ہوا، ’’کسی کو کوئی حق حاصل نہیں کہ ہمارے پسینے سے اپنے عیش کا سامان مہیا کرے۔",
+      "english": "One day he raised his thorny neck and, setting all deliberation aside, addressed his companions: “No one has any right to supply his own luxuries out of our sweat."
+    },
+    {
+      "urdu": "ہماری زندگی کی بہاریں ہمارے لیے ہیں اور ہم اس میں کسی کی شرکت گوارا نہیں کرسکتے۔‘‘",
+      "english": "The springtimes of our life are for us, and we cannot tolerate anyone sharing in them.”"
+    },
+    {
+      "urdu": "گلاب کا منہ غصہ سے لال ہورہا تھا۔",
+      "english": "The rose’s face was turning red with anger."
+    },
+    {
+      "urdu": "اس کی پنکھڑیاں تھرتھرا رہی تھیں۔",
+      "english": "His petals were trembling."
+    },
+    {
+      "urdu": "چنبلی کی جھاڑی میں تمام کلیاں یہ شور سن کر جاگ اٹھیں اور حیرت میں ایک دوسرے کا منہ تکنے لگیں۔",
+      "english": "In the jasmine bush, all the buds woke up at this uproar and stared at one another in astonishment."
+    },
+    {
+      "urdu": "گلاب کی مردانہ آواز پھر بلند ہوئی۔",
+      "english": "The rose’s manly voice rang out again."
+    }
+  ],
+  "glossary": {
+    "باغ": [
+      "baagh",
+      "garden"
+    ],
+    "جتنے": [
+      "jitne",
+      "as many as (“jitne phool the” = all the flowers there were)"
+    ],
+    "پھول": [
+      "phool",
+      "flower(s)"
+    ],
+    "باغی": [
+      "baaghi",
+      "rebel(s) (a pun on “baagh”, garden)"
+    ],
+    "ہوگئے": [
+      "ho gaye",
+      "became (pl.)"
+    ],
+    "گلاب": [
+      "gulaab",
+      "rose (masculine in Urdu, so the rose is “he”)"
+    ],
+    "سینے": [
+      "seene",
+      "chest; breast (oblique)"
+    ],
+    "بغاوت": [
+      "baghaawat",
+      "rebellion; revolt"
+    ],
+    "آگ": [
+      "aag",
+      "fire"
+    ],
+    "بھڑک": [
+      "bhaṛak",
+      "blaze (“bhaṛak rahi thi” = was blazing)"
+    ],
+    "رگ": [
+      "rag",
+      "vein (“ek ek rag” = every single vein)"
+    ],
+    "آتشیں": [
+      "aatisheen",
+      "fiery"
+    ],
+    "جذبہ": [
+      "jazba",
+      "passion; strong feeling"
+    ],
+    "تحت": [
+      "taht",
+      "under (“ke taht” = under the influence of)"
+    ],
+    "پھڑک": [
+      "phaṛak",
+      "throb; quiver (“phaṛak rahi thi” = was throbbing)"
+    ],
+    "روز": [
+      "roz",
+      "day (“ek roz” = one day)"
+    ],
+    "کانٹوں": [
+      "kaanṭon",
+      "thorns (oblique pl.; “kaanṭon bhari” = thorny)"
+    ],
+    "بھری": [
+      "bhari",
+      "full (f.; “kaanṭon bhari” = full of thorns)"
+    ],
+    "گردن": [
+      "gardan",
+      "neck"
+    ],
+    "اٹھائی": [
+      "uṭhaai",
+      "raised (f.)"
+    ],
+    "غور": [
+      "ghaur",
+      "reflection (“ghaur o fikr” = deliberation, careful thought)"
+    ],
+    "بالائے": [
+      "baalaa-e",
+      "above (“baalaa-e taaq rakhna” = to put on the high shelf, i.e. to set aside)"
+    ],
+    "طاق": [
+      "taaq",
+      "niche; wall shelf"
+    ],
+    "رکھ": [
+      "rakh",
+      "put (“rakh kar” = having put)"
+    ],
+    "ساتھیوں": [
+      "saathiyon",
+      "companions (oblique pl.)"
+    ],
+    "مخاطب": [
+      "mukhaatib",
+      "addressing (“se mukhaatib hona” = to address someone)"
+    ],
+    "ہوا": [
+      "hua",
+      "was; became (“mukhaatib hua” = addressed)"
+    ],
+    "حق": [
+      "haq",
+      "right"
+    ],
+    "حاصل": [
+      "haasil",
+      "obtained (“ko haq haasil hona” = to have the right)"
+    ],
+    "ہمارے": [
+      "hamaare",
+      "our"
+    ],
+    "پسینے": [
+      "paseene",
+      "sweat (oblique)"
+    ],
+    "عیش": [
+      "aish",
+      "luxury; pleasure"
+    ],
+    "سامان": [
+      "saamaan",
+      "means; provisions (“aish ka saamaan” = luxuries)"
+    ],
+    "مہیا": [
+      "muhayya",
+      "provided (“muhayya karna” = to supply)"
+    ],
+    "کرے": [
+      "kare",
+      "(should) do (subjunctive)"
+    ],
+    "ہماری": [
+      "hamaari",
+      "our (f.)"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "بہاریں": [
+      "bahaaren",
+      "springtimes (pl.; the seasons of blossoming)"
+    ],
+    "لیے": [
+      "liye",
+      "for (“hamaare liye” = for us)"
+    ],
+    "ہم": [
+      "ham",
+      "we"
+    ],
+    "شرکت": [
+      "shirkat",
+      "sharing; partnership"
+    ],
+    "گوارا": [
+      "gawaara",
+      "bearable (“gawaara karna” = to tolerate)"
+    ],
+    "کرسکتے": [
+      "kar sakte",
+      "can (do) (pl.)"
+    ],
+    "منہ": [
+      "munh",
+      "face; mouth (“ek doosre ka munh takna” = to stare at one another)"
+    ],
+    "غصہ": [
+      "ghussa",
+      "anger"
+    ],
+    "لال": [
+      "laal",
+      "red"
+    ],
+    "ہورہا": [
+      "ho raha",
+      "becoming (“laal ho raha tha” = was turning red)"
+    ],
+    "پنکھڑیاں": [
+      "pankhaṛiyaan",
+      "petals"
+    ],
+    "تھیں": [
+      "theen",
+      "were (f. pl.)"
+    ],
+    "چنبلی": [
+      "chambeli",
+      "jasmine (spelt this way in the source; usually چنبیلی)"
+    ],
+    "جھاڑی": [
+      "jhaaṛi",
+      "bush; shrub"
+    ],
+    "تمام": [
+      "tamaam",
+      "all"
+    ],
+    "کلیاں": [
+      "kaliyaan",
+      "buds"
+    ],
+    "شور": [
+      "shor",
+      "noise; uproar"
+    ],
+    "سن": [
+      "sun",
+      "hear (“sun kar” = on hearing)"
+    ],
+    "جاگ": [
+      "jaag",
+      "wake (“jaag uṭhin” = woke up)"
+    ],
+    "اٹھیں": [
+      "uṭhin",
+      "(f. pl.; with “jaag”: “jaag uṭhin” = woke up)"
+    ],
+    "حیرت": [
+      "hairat",
+      "astonishment"
+    ],
+    "دوسرے": [
+      "doosre",
+      "other (“ek doosre” = one another)"
+    ],
+    "تکنے": [
+      "takne",
+      "to stare (oblique; “takne lagin” = began to stare)"
+    ],
+    "لگیں": [
+      "lagin",
+      "began (f. pl.)"
+    ],
+    "مردانہ": [
+      "mardaana",
+      "manly; masculine"
+    ],
+    "آواز": [
+      "aawaaz",
+      "voice"
+    ],
+    "بلند": [
+      "buland",
+      "raised; loud (“aawaaz buland hui” = the voice rang out)"
+    ],
+    "فکر": [
+      "fikr",
+      "thought; worry"
+    ],
+    "تھرتھرا": [
+      "thartharaa",
+      "tremble (“thartharaa rahi” = was trembling, f.)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "باغ کے پھولوں نے کیا کیا؟",
+      "english": "What did the flowers of the garden do?",
+      "options": [
+        {
+          "urdu": "وہ سب باغی ہو گئے",
+          "english": "They all rebelled"
+        },
+        {
+          "urdu": "وہ سب سو گئے",
+          "english": "They all fell asleep"
+        },
+        {
+          "urdu": "وہ سب مرجھا گئے",
+          "english": "They all withered"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "گلاب کس بات سے ناراض ہے؟",
+      "english": "What is the rose angry about?",
+      "options": [
+        {
+          "urdu": "باغ میں پانی نہیں ہے",
+          "english": "There is no water in the garden"
+        },
+        {
+          "urdu": "چنبلی کی کلیاں شور کر رہی ہیں",
+          "english": "The jasmine buds are being noisy"
+        },
+        {
+          "urdu": "کوئی ان کے پسینے سے اپنا عیش کا سامان مہیا کرتا ہے",
+          "english": "Someone supplies his own luxuries out of their sweat"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "”غور و فکر کو بالائے طاق رکھنا“ کا کیا مطلب ہے؟",
+      "english": "What does “ghaur o fikr ko baalaa-e taaq rakhna” mean?",
+      "options": [
+        {
+          "urdu": "بہت سوچنا",
+          "english": "To think a lot"
+        },
+        {
+          "urdu": "سوچ بچار کو ایک طرف رکھ دینا",
+          "english": "To set careful thought aside"
+        },
+        {
+          "urdu": "کتاب طاق پر رکھنا",
+          "english": "To put a book on a shelf"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

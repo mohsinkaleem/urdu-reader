@@ -1,0 +1,488 @@
+{
+  "id": "poem-iqbal-jawab-e-shikwa-1",
+  "title": {
+    "urdu": "جوابِ شکوہ (حصہ 1)",
+    "english": "Jawab-e-Shikwa, part 1"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": ["faith", "history", "nazm"],
+  "source": {
+    "name": "Urdu Wikisource: جوابِ شکوَہ (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AC%D9%88%D8%A7%D8%A8%D9%90_%D8%B4%DA%A9%D9%88%D9%8E%DB%81",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "In 1911 Allama Iqbal recited “Shikwa” (The Complaint), in which a Muslim boldly complains to God that his community has been abandoned; in 1913 he answered it with “Jawab-e-Shikwa”, God’s reply, later collected in Bang-e-Dara (1924). This first part (stanzas 1–3) describes how the poet’s heartfelt cry rose to the heavens, where the stars and angels wondered who could speak to God so boldly.",
+  "series": {
+    "id": "poem-iqbal-jawab-e-shikwa",
+    "title": "Jawab-e-Shikwa (The Answer to the Complaint)",
+    "part": 1,
+    "of": 12
+  },
+  "sentences": [
+    {
+      "urdu": "دل سے جو بات نکلتی ہے اثر رکھتی ہے",
+      "english": "Words that come from the heart have an effect;",
+      "verse": true
+    },
+    {
+      "urdu": "پَر نہیں، طاقتِ پرواز مگر رکھتی ہے",
+      "english": "they have no wings, yet they have the power to fly.",
+      "verse": true
+    },
+    {
+      "urdu": "قُدسی الاصل ہے، رفعت پہ نظر رکھتی ہے",
+      "english": "Their origin is holy, and they keep their gaze on the heights;",
+      "verse": true
+    },
+    {
+      "urdu": "خاک سے اُٹھتی ہے، گردُوں پہ گزر رکھتی ہے",
+      "english": "they rise from the dust and make their way to the heavens.",
+      "verse": true
+    },
+    {
+      "urdu": "عشق تھا فتنہ گر و سرکش و چالاک مرا",
+      "english": "My love was mischievous, rebellious and daring;",
+      "verse": true
+    },
+    {
+      "urdu": "آسماں چِیر گیا نالۂ بے باک مرا",
+      "english": "my fearless lament tore right through the sky.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جو بات سچے دل سے نکلے وہ اثر کرتی ہے۔ اس کے پر نہیں ہوتے مگر وہ زمین سے اٹھ کر آسمان تک پہنچ جاتی ہے۔ شاعر کہتا ہے کہ میرا شکوہ بھی ایسا ہی تھا، وہ آسمان کو چیرتا ہوا اوپر چلا گیا۔",
+        "english": "Words spoken from a sincere heart have power: though they have no wings, they rise from the earth to the sky. The poet says his own poem “Shikwa” was such a cry – his bold, passionate love made it pierce the heavens."
+      }
+    },
+    {
+      "urdu": "پیرِ گردُوں نے کہا سُن کے، کہیں ہے کوئی",
+      "english": "The old man of the skies heard it and said, “There is someone somewhere!”",
+      "verse": true
+    },
+    {
+      "urdu": "بولے سیّارے، سرِ عرشِ بریں ہے کوئی",
+      "english": "The planets said, “It is someone at the top of the highest Throne!”",
+      "verse": true
+    },
+    {
+      "urdu": "چاند کہتا تھا، نہیں! اہلِ زمیں ہے کوئی",
+      "english": "The moon said, “No! It is someone from the earth.”",
+      "verse": true
+    },
+    {
+      "urdu": "کہکشاں کہتی تھی، پوشیدہ یہیں ہے کوئی",
+      "english": "The Milky Way said, “Someone is hidden right here.”",
+      "verse": true
+    },
+    {
+      "urdu": "کچھ جو سمجھا مرے شکوے کو تو رِضواں سمجھا",
+      "english": "If anyone understood my complaint at all, it was Rizwan, keeper of Paradise:",
+      "verse": true
+    },
+    {
+      "urdu": "مجھے جنّت سے نکالا ہوا انساں سمجھا",
+      "english": "he took me for the human being who was driven out of Paradise.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شکوہ سن کر آسمان، سیارے، چاند اور کہکشاں سب حیران ہوئے کہ یہ آواز کس کی ہے۔ صرف جنت کے نگران فرشتے رضوان نے پہچانا کہ یہ وہی انسان ہے جسے جنت سے نکالا گیا تھا۔",
+        "english": "When the complaint reached the sky, the heavens, the planets, the moon and the Milky Way all guessed differently where the voice came from. Only Rizwan, the angel who guards Paradise, recognised it: it was man, the descendant of Adam, who was sent out of Paradise."
+      }
+    },
+    {
+      "urdu": "تھی فرشتوں کو بھی حیرت کہ یہ آواز ہے کیا",
+      "english": "Even the angels wondered what this voice could be;",
+      "verse": true
+    },
+    {
+      "urdu": "عرش والوں پہ بھی کھُلتا نہیں یہ راز ہے کیا!",
+      "english": "even to those around the Throne the secret was not revealed: what is it?",
+      "verse": true
+    },
+    {
+      "urdu": "تا سرِ عرش بھی انساں کی تگ و تاز ہے کیا!",
+      "english": "Does man’s striving reach all the way up to the Throne?",
+      "verse": true
+    },
+    {
+      "urdu": "آگئی خاک کی چٹکی کو بھی پرواز ہے کیا!",
+      "english": "Has even a pinch of dust learned how to fly?",
+      "verse": true
+    },
+    {
+      "urdu": "غافل آداب سے سُکّانِ زمیں کیسے ہیں",
+      "english": "How heedless of manners the dwellers of the earth are!",
+      "verse": true
+    },
+    {
+      "urdu": "شوخ و گُستاخ یہ پستی کے مکیں کیسے ہیں!",
+      "english": "How bold and insolent these residents of the lowly world are!",
+      "verse": true,
+      "explanation": {
+        "urdu": "فرشتے بھی حیران تھے کہ یہ کیسی آواز ہے اور مٹی کا بنا انسان عرش تک کیسے پہنچ گیا۔ وہ کہتے ہیں کہ زمین کے رہنے والے کتنے بے ادب اور گستاخ ہیں۔",
+        "english": "Even the angels were puzzled: how could a creature made of dust reach God’s Throne? They remark that the people of the earth are bold and have no manners in speaking to God."
+      }
+    }
+  ],
+  "glossary": {
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "جو": [
+      "jo",
+      "which; that which (“jo baat” = the words that)"
+    ],
+    "نکلتی": [
+      "nikalti",
+      "comes out (f.)"
+    ],
+    "اثر": [
+      "asar",
+      "effect (“asar rakhna” = to have an effect)"
+    ],
+    "رکھتی": [
+      "rakhti",
+      "has; keeps (f.) (“asar / taaqat / nazar / guzar rakhti hai”)"
+    ],
+    "پَر": [
+      "par",
+      "wing(s) (“par naheen” = it has no wings)"
+    ],
+    "طاقتِ": [
+      "taaqat-e",
+      "power of (“taaqat-e parwaaz” = power of flight)"
+    ],
+    "پرواز": [
+      "parwaaz",
+      "flight"
+    ],
+    "قُدسی": [
+      "qudsi",
+      "holy; heavenly (“qudsi-ul-asl” = of heavenly origin)"
+    ],
+    "الاصل": [
+      "ul-asl",
+      "in origin (Arabic; “qudsi-ul-asl” = of heavenly origin)"
+    ],
+    "رفعت": [
+      "rifat",
+      "height; loftiness"
+    ],
+    "پہ": [
+      "pe",
+      "on (poetic form of “par”)"
+    ],
+    "نظر": [
+      "nazar",
+      "gaze (“nazar rakhna” = to keep one’s eyes on)"
+    ],
+    "خاک": [
+      "khaak",
+      "dust; earth"
+    ],
+    "اُٹھتی": [
+      "uṭhti",
+      "rises (f.)"
+    ],
+    "گردُوں": [
+      "gardoon",
+      "the sky; the heavens (poetic)"
+    ],
+    "گزر": [
+      "guzar",
+      "passage; access (“guzar rakhna” = to reach, have access to)"
+    ],
+    "عشق": [
+      "ishq",
+      "passionate love"
+    ],
+    "فتنہ": [
+      "fitna",
+      "mischief; turmoil (“fitna-gar” = mischief-maker)"
+    ],
+    "گر": [
+      "gar",
+      "maker (suffix: “fitna-gar” = mischief-making)"
+    ],
+    "سرکش": [
+      "sarkash",
+      "rebellious; defiant"
+    ],
+    "چالاک": [
+      "chaalaak",
+      "quick; daring (here not “cunning”)"
+    ],
+    "مرا": [
+      "mera",
+      "my (poetic form of “mera”)"
+    ],
+    "آسماں": [
+      "aasmaan",
+      "sky"
+    ],
+    "چِیر": [
+      "cheer",
+      "tear (“cheer gaya” = tore through)"
+    ],
+    "نالۂ": [
+      "naala-e",
+      "lament; cry (“naala-e be-baak” = fearless lament)"
+    ],
+    "بے": [
+      "be",
+      "without (“be-baak” = fearless)"
+    ],
+    "باک": [
+      "baak",
+      "fear (“be-baak” = fearless, outspoken)"
+    ],
+    "پیرِ": [
+      "peer-e",
+      "old man of (“peer-e gardoon” = the old man of the skies, i.e. the ancient heavens)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "سُن": [
+      "sun",
+      "hear (“sun ke” = on hearing)"
+    ],
+    "کے": [
+      "ke",
+      "having (“sun ke” = having heard)"
+    ],
+    "کہیں": [
+      "kaheen",
+      "somewhere"
+    ],
+    "بولے": [
+      "bole",
+      "said; spoke (pl.)"
+    ],
+    "سیّارے": [
+      "sayyaare",
+      "planets"
+    ],
+    "سرِ": [
+      "sar-e",
+      "at the top of"
+    ],
+    "عرشِ": [
+      "arsh-e",
+      "the Throne (of God) (“arsh-e bareen” = the highest Throne)"
+    ],
+    "بریں": [
+      "bareen",
+      "highest; supreme"
+    ],
+    "چاند": [
+      "chaand",
+      "moon"
+    ],
+    "کہتا": [
+      "kehta",
+      "said (“kehta tha” = was saying)"
+    ],
+    "اہلِ": [
+      "ahl-e",
+      "people of (“ahl-e zameen” = an earth-dweller)"
+    ],
+    "زمیں": [
+      "zameen",
+      "earth"
+    ],
+    "کہکشاں": [
+      "kahkashaan",
+      "the Milky Way"
+    ],
+    "کہتی": [
+      "kehti",
+      "said (f.) (“kehti thi” = was saying)"
+    ],
+    "پوشیدہ": [
+      "posheeda",
+      "hidden"
+    ],
+    "یہیں": [
+      "yaheen",
+      "right here"
+    ],
+    "کچھ": [
+      "kuchh",
+      "at all; something (“kuchh jo samjha” = if anyone understood at all)"
+    ],
+    "سمجھا": [
+      "samjha",
+      "understood; took (someone) for"
+    ],
+    "مرے": [
+      "mere",
+      "my (poetic form of “mere”)"
+    ],
+    "شکوے": [
+      "shikwe",
+      "complaint (oblique) – also the poem “Shikwa”"
+    ],
+    "رِضواں": [
+      "rizwaan",
+      "Rizwan, the angel who keeps the gate of Paradise"
+    ],
+    "جنّت": [
+      "jannat",
+      "Paradise"
+    ],
+    "نکالا": [
+      "nikaala",
+      "driven out; expelled"
+    ],
+    "ہوا": [
+      "hua",
+      "been (“nikaala hua” = one who was driven out)"
+    ],
+    "انساں": [
+      "insaan",
+      "human being"
+    ],
+    "فرشتوں": [
+      "farishton",
+      "angels (oblique pl.)"
+    ],
+    "حیرت": [
+      "hairat",
+      "wonder; astonishment"
+    ],
+    "آواز": [
+      "aawaaz",
+      "voice; sound"
+    ],
+    "عرش": [
+      "arsh",
+      "the Throne of God"
+    ],
+    "والوں": [
+      "waalon",
+      "those (oblique pl.) (“arsh waalon” = the dwellers of the Throne)"
+    ],
+    "کھُلتا": [
+      "khulta",
+      "is revealed; opens (“khulta naheen” = is not revealed)"
+    ],
+    "راز": [
+      "raaz",
+      "secret"
+    ],
+    "تا": [
+      "taa",
+      "up to; as far as (Persian)"
+    ],
+    "تگ": [
+      "tag",
+      "running (“tag o taaz” = striving, rushing about)"
+    ],
+    "تاز": [
+      "taaz",
+      "galloping (“tag o taaz” = striving, rushing about)"
+    ],
+    "آگئی": [
+      "aa gayi",
+      "has come (f.) (“parwaaz aa gayi” = has learned to fly)"
+    ],
+    "چٹکی": [
+      "chuṭki",
+      "pinch"
+    ],
+    "غافل": [
+      "ghaafil",
+      "heedless; careless"
+    ],
+    "آداب": [
+      "aadaab",
+      "manners; etiquette"
+    ],
+    "سُکّانِ": [
+      "sukkaan-e",
+      "inhabitants of (Arabic pl.; “sukkaan-e zameen” = dwellers of the earth)"
+    ],
+    "کیسے": [
+      "kaise",
+      "how (exclamation: how … they are!)"
+    ],
+    "شوخ": [
+      "shokh",
+      "bold; impudent"
+    ],
+    "گُستاخ": [
+      "gustaakh",
+      "insolent; disrespectful"
+    ],
+    "پستی": [
+      "pasti",
+      "lowness; the lowly world (the earth)"
+    ],
+    "مکیں": [
+      "makeen",
+      "residents; dwellers"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کے مطابق دل سے نکلی ہوئی بات کی کیا خوبی ہے؟",
+      "english": "According to the poet, what is special about words that come from the heart?",
+      "options": [
+        {
+          "urdu": "اس کے پر ہوتے ہیں اور وہ چڑیا کی طرح اڑتی ہے",
+          "english": "They have wings and fly like a bird"
+        },
+        {
+          "urdu": "پر نہ ہونے کے باوجود وہ آسمان تک پہنچ جاتی ہے",
+          "english": "Though they have no wings, they reach the sky"
+        },
+        {
+          "urdu": "وہ ہمیشہ زمین پر ہی رہتی ہے",
+          "english": "They always stay on the earth"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "آسمان پر شاعر کے شکوے کو کس نے سمجھا؟",
+      "english": "Who in the heavens understood the poet’s complaint?",
+      "options": [
+        {
+          "urdu": "جنت کے نگران فرشتے رضوان نے",
+          "english": "Rizwan, the angel who guards Paradise"
+        },
+        {
+          "urdu": "چاند نے",
+          "english": "The moon"
+        },
+        {
+          "urdu": "سیاروں نے",
+          "english": "The planets"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "فرشتے زمین کے رہنے والوں کے بارے میں کیا کہتے ہیں؟",
+      "english": "What do the angels say about the people of the earth?",
+      "options": [
+        {
+          "urdu": "کہ وہ بہت با ادب ہیں",
+          "english": "That they are very well-mannered"
+        },
+        {
+          "urdu": "کہ وہ اڑنا نہیں جانتے",
+          "english": "That they do not know how to fly"
+        },
+        {
+          "urdu": "کہ وہ شوخ اور گستاخ ہیں",
+          "english": "That they are bold and insolent"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}
