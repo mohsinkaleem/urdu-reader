@@ -1,0 +1,311 @@
+{
+  "id": "poem-momin-woh-jo-hum-mein-2",
+  "title": {
+    "urdu": "وہ جو ہم میں تم میں قرار تھا (حصہ 2)",
+    "english": "You May Remember, or You May Not, part 2"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": [
+    "love",
+    "ghazal"
+  ],
+  "source": {
+    "name": "Urdu Wikisource: وہ جو ہم میں تم میں قرار تھا تمہیں یاد ہو کہ نہ یاد ہو (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D9%88%DB%81_%D8%AC%D9%88_%DB%81%D9%85_%D9%85%DB%8C%DA%BA_%D8%AA%D9%85_%D9%85%DB%8C%DA%BA_%D9%82%D8%B1%D8%A7%D8%B1_%D8%AA%DA%BE%D8%A7_%D8%AA%D9%85%DB%81%DB%8C%DA%BA_%DB%8C%D8%A7%D8%AF_%DB%81%D9%88_%DA%A9%DB%81_%D9%86%DB%81_%DB%8C%D8%A7%D8%AF_%DB%81%D9%88",
+    "author": "Momin Khan Momin",
+    "license": "Public domain"
+  },
+  "intro": "Couplets 7–11 of Momin's ghazal: more memories of the old love, a promise never kept, the beloved's teasing on the night of union, and a closing couplet in which the poet names himself.",
+  "series": {
+    "id": "poem-momin-woh-jo-hum-mein",
+    "title": "You May Remember, or You May Not",
+    "part": 2,
+    "of": 2
+  },
+  "sentences": [
+    {
+      "urdu": "کبھی ہم میں تم میں بھی چاہ تھی کبھی ہم سے تم سے بھی راہ تھی",
+      "english": "Once there was love between us too; once there were ties between us too;",
+      "verse": true
+    },
+    {
+      "urdu": "کبھی ہم بھی تم بھی تھے آشنا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "once you and I were close friends too — you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "کبھی ہم دونوں میں محبت اور میل جول تھا اور ہم ایک دوسرے کو اچھی طرح جانتے تھے۔ اب محبوب ایسے بنتا ہے جیسے کبھی کوئی تعلق تھا ہی نہیں۔",
+        "english": "Once the two of them loved each other and were close. Now the beloved acts as if there had never been anything between them."
+      }
+    },
+    {
+      "urdu": "سنو ذکر ہے کئی سال کا کہ کیا اک آپ نے وعدہ تھا",
+      "english": "Listen, I speak of something many years ago: you once made a promise;",
+      "verse": true
+    },
+    {
+      "urdu": "سو نباہنے کا تو ذکر کیا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "never mind keeping it — you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ کئی سال پہلے آپ نے ایک وعدہ کیا تھا۔ اسے پورا کرنا تو دور کی بات ہے، شاید آپ کو وہ وعدہ بھی یاد نہ ہو۔ یہاں شاعر \"تم\" کی جگہ \"آپ\" کہتا ہے، جس سے فاصلہ اور طنز ظاہر ہوتا ہے۔",
+        "english": "Years ago the beloved made a promise; forget about keeping it, she may not even remember making it. The poet switches from intimate “tum” to formal “aap”, which adds distance and irony."
+      }
+    },
+    {
+      "urdu": "کہا میں نے بات وہ کوٹھے کی مرے دل سے صاف اتر گئی",
+      "english": "I said, “That matter of the rooftop has slipped clean out of my mind”;",
+      "verse": true
+    },
+    {
+      "urdu": "تو کہا کہ جانے مری بلا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "and you said, “Who cares, how should I know!” — you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "عاشق نے آزمانے کے لیے کہا کہ چھت پر ملنے والی وہ بات تو میں بالکل بھول گیا۔ محبوب نے بے پروائی سے جواب دیا: مجھے کیا معلوم، میری بلا جانے۔",
+        "english": "To test her, the lover said he had quite forgotten that meeting on the rooftop. The beloved answered with a toss of the head: how should I know, who cares! The old idiom “jaane meri bala” means “I couldn't care less”."
+      }
+    },
+    {
+      "urdu": "وہ بگڑنا وصل کی رات کا وہ نہ ماننا کسی بات کا",
+      "english": "That getting cross on the night of union, that refusing to agree to anything,",
+      "verse": true
+    },
+    {
+      "urdu": "وہ نہیں نہیں کی ہر آن ادا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "that charming way of saying “no, no” at every moment — you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ملن کی رات محبوب کا ناراض ہو جانا، کسی بات کو نہ ماننا اور ہر لمحے ناز سے \"نہیں نہیں\" کہنا عاشق کو آج بھی یاد ہے۔",
+        "english": "The lover still remembers how, on the night they were together, the beloved grew cross, agreed to nothing, and kept saying a coquettish “no, no”."
+      }
+    },
+    {
+      "urdu": "جسے آپ گنتے تھے آشنا جسے آپ کہتے تھے با وفا",
+      "english": "The one you used to count as a close friend, the one you used to call faithful —",
+      "verse": true
+    },
+    {
+      "urdu": "میں وہی ہوں مومنؔ مبتلا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "I am that same Momin, lost in love; you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مقطع میں شاعر اپنا تخلص لیتا ہے۔ وہ کہتا ہے کہ میں وہی مومن ہوں جسے آپ اپنا دوست اور وفادار کہتے تھے، اور جو آج بھی عشق میں گرفتار ہے۔",
+        "english": "In the closing couplet the poet names himself: he is the same Momin whom the beloved once called a faithful friend, and he is still caught in love."
+      }
+    }
+  ],
+  "glossary": {
+    "تم": [
+      "tum",
+      "you"
+    ],
+    "تمہیں": [
+      "tumhen",
+      "to you (“tumhen yaad ho” = you may remember)"
+    ],
+    "یاد": [
+      "yaad",
+      "memory (“yaad hona” = to be remembered)"
+    ],
+    "ہو": [
+      "ho",
+      "may be (subjunctive: “yaad ho” = may remember)"
+    ],
+    "کہ": [
+      "keh",
+      "or (“… ho keh na … ho” = whether … or not); also “that”"
+    ],
+    "وہی": [
+      "wahi",
+      "that very one; the same"
+    ],
+    "وعدہ": [
+      "waada",
+      "promise"
+    ],
+    "مرے": [
+      "mire",
+      "my (poetic form of “mere”)"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever; once (“kabhi … kabhi” = at one time … at one time)"
+    ],
+    "چاہ": [
+      "chaah",
+      "love; affection"
+    ],
+    "راہ": [
+      "raah",
+      "way; ties (“kisi se raah hona” = to be on close terms)"
+    ],
+    "آشنا": [
+      "aashna",
+      "close friend; intimate (“aashna hona” = to be close)"
+    ],
+    "سنو": [
+      "suno",
+      "listen"
+    ],
+    "ذکر": [
+      "zikr",
+      "mention; talk (“zikr kya” = what to speak of, never mind)"
+    ],
+    "سال": [
+      "saal",
+      "year (“kai saal ka” = from several years ago)"
+    ],
+    "کیا": [
+      "kiya / kya",
+      "made (“kiya … waada tha” = had made a promise) / what (“zikr kya” = never mind)"
+    ],
+    "اک": [
+      "ik",
+      "one; a (short form of “ek”)"
+    ],
+    "سو": [
+      "so",
+      "so; as for that (poetic)"
+    ],
+    "نباہنے": [
+      "nibaahne",
+      "keeping (a promise) (oblique infinitive)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "کوٹھے": [
+      "koṭhe",
+      "rooftop; upper storey (oblique)"
+    ],
+    "دل": [
+      "dil",
+      "heart; mind (“dil se utarna” = to slip from one's mind)"
+    ],
+    "صاف": [
+      "saaf",
+      "clean; completely"
+    ],
+    "اتر": [
+      "utar",
+      "(“dil se utar gayi” = slipped from my mind)"
+    ],
+    "جانے": [
+      "jaane",
+      "may know (“jaane meri bala” = how should I know, who cares!)"
+    ],
+    "مری": [
+      "miri",
+      "my (f.) (poetic form of “meri”)"
+    ],
+    "بلا": [
+      "bala",
+      "calamity (“meri bala” = I couldn't care less)"
+    ],
+    "بگڑنا": [
+      "bigaṛna",
+      "getting cross; flaring up"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "ماننا": [
+      "maanna",
+      "agreeing; giving in"
+    ],
+    "آن": [
+      "aan",
+      "moment (“har aan” = every moment)"
+    ],
+    "ادا": [
+      "ada",
+      "charming manner; coquetry"
+    ],
+    "جسے": [
+      "jise",
+      "whom"
+    ],
+    "گنتے": [
+      "ginte",
+      "counted (“ginte the” = used to count)"
+    ],
+    "کہتے": [
+      "kehte",
+      "called (“kehte the” = used to call)"
+    ],
+    "با": [
+      "ba",
+      "with (Persian: “ba-wafa” = faithful)"
+    ],
+    "مومنؔ": [
+      "momin",
+      "Momin (the poet's pen name; means “believer”)"
+    ],
+    "مبتلا": [
+      "mubtala",
+      "afflicted; caught (in love)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "آٹھویں شعر میں شاعر کس وعدے کی بات کرتا ہے؟",
+      "english": "In the eighth couplet, what promise does the poet talk about?",
+      "options": [
+        {
+          "urdu": "ایک وعدہ جو کئی سال پہلے کیا گیا تھا اور پورا نہیں ہوا",
+          "english": "a promise made many years ago that was never kept"
+        },
+        {
+          "urdu": "ایک وعدہ جو کل کیا گیا",
+          "english": "a promise made yesterday"
+        },
+        {
+          "urdu": "ایک وعدہ جو شاعر نے توڑا",
+          "english": "a promise the poet himself broke"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "جب عاشق نے کہا کہ کوٹھے والی بات بھول گیا تو محبوب نے کیا جواب دیا؟",
+      "english": "When the lover said he had forgotten the rooftop matter, how did the beloved reply?",
+      "options": [
+        {
+          "urdu": "وہ رونے لگا",
+          "english": "she started to cry"
+        },
+        {
+          "urdu": "اس نے بے پروائی سے کہا: مجھے کیا معلوم",
+          "english": "she said carelessly: how should I know"
+        },
+        {
+          "urdu": "اس نے ساری بات دوبارہ سنائی",
+          "english": "she told the whole story again"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "آخری شعر میں شاعر اپنے بارے میں کیا کہتا ہے؟",
+      "english": "In the last couplet, what does the poet say about himself?",
+      "options": [
+        {
+          "urdu": "وہ اب کسی اور سے محبت کرتا ہے",
+          "english": "he now loves someone else"
+        },
+        {
+          "urdu": "وہ شہر چھوڑ کر جا رہا ہے",
+          "english": "he is leaving the city"
+        },
+        {
+          "urdu": "وہ وہی مومن ہے جسے محبوب وفادار کہتا تھا",
+          "english": "he is the same Momin the beloved used to call faithful"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

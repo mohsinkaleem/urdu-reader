@@ -1,0 +1,426 @@
+{
+  "id": "wiki-fatima-jinnah",
+  "title": {
+    "urdu": "فاطمہ جناح",
+    "english": "Fatima Jinnah"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": [
+    "people",
+    "politics"
+  ],
+  "source": {
+    "name": "Urdu Wikipedia: فاطمہ جناح",
+    "url": "https://ur.wikipedia.org/wiki/%D9%81%D8%A7%D8%B7%D9%85%DB%81_%D8%AC%D9%86%D8%A7%D8%AD",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "The opening of the Urdu Wikipedia article on Fatima Jinnah, the younger sister of Pakistan's founder, remembered as Madar-e-Millat, “Mother of the Nation”. The source ends several sentences with an English full stop (.) instead of the Urdu ۔.",
+  "sentences": [
+    {
+      "urdu": "فاطمہ جناح (31 جولائی 1893ء - 9 جولائی 1967ء) ایک پاکستانی سیاست دان، ریاستی خاتون، مصنف اور کارکن تھیں.",
+      "english": "Fatima Jinnah (31 July 1893 – 9 July 1967) was a Pakistani politician, stateswoman, writer and activist."
+    },
+    {
+      "urdu": "وہ پاکستان کے بانی اور پہلے گورنر جنرل محمد علی جناح کی چھوٹی بہن تھیں.",
+      "english": "She was the younger sister of Muhammad Ali Jinnah, the founder and first Governor-General of Pakistan."
+    },
+    {
+      "urdu": "انھوں نے 1960ء سے لے کر 1967ء میں اپنی موت تک پاکستان کی اپوزیشن لیڈر کی حیثیت سے خدمات انجام دیں.",
+      "english": "From 1960 until her death in 1967 she served as Pakistan's Leader of the Opposition."
+    },
+    {
+      "urdu": "1923ء میں کلکتہ یونیورسٹی سے دانتوں کی ڈگری حاصل کرنے کے بعد، وہ غیر منقسم ہندوستان کی پہلی خاتون دندان ساز بن گئیں۔",
+      "english": "After earning a dental degree from the University of Calcutta in 1923, she became the first woman dentist in undivided India."
+    },
+    {
+      "urdu": "وہ اپنے بھائی محمد علی جناح کی قریبی ساتھی اور مشیر تھیں.",
+      "english": "She was a close companion and adviser of her brother, Muhammad Ali Jinnah."
+    },
+    {
+      "urdu": "پاکستان کی آزادی کے بعد، اس نے پاکستان ویمنز ایسوسی ایشن کی مشترکہ بنیاد رکھی، جس نے نو تشکیل شدہ ملک میں خواتین تارکین وطن کی آباد کاری میں ایک اہم کردار ادا کیا.",
+      "english": "After Pakistan's independence, she co-founded the Pakistan Women's Association, which played an important role in settling women migrants in the newly formed country."
+    },
+    {
+      "urdu": "وہ اپنے بھائی کی موت تک اس کی سب سے قریبی معتمد رہی.",
+      "english": "She remained her brother's closest confidante until his death."
+    },
+    {
+      "urdu": "ان کی وفات کے بعد فاطمہ پر 1951 تک قوم سے خطاب کرنے پر پابندی لگا دی گئی۔",
+      "english": "After his death, Fatima was banned from addressing the nation until 1951."
+    },
+    {
+      "urdu": "قوم سے ان کا 1951ء کا ریڈیو خطاب لیاقت انتظامیہ نے بہت زیادہ سنسر کیا تھا.",
+      "english": "Her 1951 radio address to the nation was heavily censored by the Liaquat administration."
+    }
+  ],
+  "glossary": {
+    "فاطمہ": [
+      "faatima",
+      "Fatima"
+    ],
+    "جناح": [
+      "jinnaah",
+      "Jinnah"
+    ],
+    "جولائی": [
+      "julaai",
+      "July"
+    ],
+    "1893ء": [
+      "1893 eesvi",
+      "1893 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1967ء": [
+      "1967 eesvi",
+      "1967 CE"
+    ],
+    "1960ء": [
+      "1960 eesvi",
+      "1960 CE"
+    ],
+    "1923ء": [
+      "1923 eesvi",
+      "1923 CE"
+    ],
+    "1951ء": [
+      "1951 eesvi",
+      "1951 CE"
+    ],
+    "پاکستانی": [
+      "paakistaani",
+      "Pakistani"
+    ],
+    "سیاست": [
+      "siyaasat",
+      "politics (“siyaasat daan” = politician)"
+    ],
+    "دان": [
+      "daan",
+      "one who knows (“siyaasat daan” = politician)"
+    ],
+    "ریاستی": [
+      "riyaasati",
+      "of the state (“riyaasati khaatoon” = stateswoman)"
+    ],
+    "خاتون": [
+      "khaatoon",
+      "woman; lady (“khaatoon dandaan saaz” = woman dentist)"
+    ],
+    "مصنف": [
+      "musannif",
+      "writer; author"
+    ],
+    "کارکن": [
+      "kaarkun",
+      "activist; worker"
+    ],
+    "تھیں": [
+      "theen",
+      "was (f., respectful plural)"
+    ],
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "بانی": [
+      "baani",
+      "founder"
+    ],
+    "پہلے": [
+      "pehle",
+      "first (oblique) (“pehle gavarnar janral” = first Governor-General)"
+    ],
+    "گورنر": [
+      "gavarnar",
+      "governor (“gavarnar janral” = Governor-General)"
+    ],
+    "جنرل": [
+      "janral",
+      "general (“gavarnar janral” = Governor-General)"
+    ],
+    "محمد": [
+      "muhammad",
+      "Muhammad"
+    ],
+    "علی": [
+      "ali",
+      "Ali"
+    ],
+    "چھوٹی": [
+      "chhoṭi",
+      "younger; small (f.) (“chhoṭi behan” = younger sister)"
+    ],
+    "انھوں": [
+      "unhon",
+      "she (respectful, with “ne”)"
+    ],
+    "لے": [
+      "le",
+      "taking (“se le kar … tak” = from … until)"
+    ],
+    "موت": [
+      "maut",
+      "death"
+    ],
+    "اپوزیشن": [
+      "apozeeshan",
+      "opposition (English) (“apozeeshan leeḍar” = Leader of the Opposition)"
+    ],
+    "لیڈر": [
+      "leeḍar",
+      "leader"
+    ],
+    "حیثیت": [
+      "haisiyat",
+      "capacity; status (“ki haisiyat se” = as)"
+    ],
+    "خدمات": [
+      "khidmaat",
+      "services (pl. of “khidmat”) (“khidmaat anjaam dena” = to serve)"
+    ],
+    "انجام": [
+      "anjaam",
+      "carrying out (“anjaam dena” = to perform)"
+    ],
+    "دیں": [
+      "deen",
+      "gave (f. pl.) (“khidmaat anjaam deen” = served)"
+    ],
+    "کلکتہ": [
+      "kalkatta",
+      "Calcutta (Kolkata)"
+    ],
+    "یونیورسٹی": [
+      "yooniversiṭi",
+      "university"
+    ],
+    "دانتوں": [
+      "daanton",
+      "teeth (pl. oblique) (“daanton ki ḍigri” = dental degree)"
+    ],
+    "ڈگری": [
+      "ḍigri",
+      "degree"
+    ],
+    "حاصل": [
+      "haasil",
+      "obtained (“haasil karna” = to earn, obtain)"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (oblique infinitive) (“haasil karne ke baad” = after earning)"
+    ],
+    "غیر": [
+      "ghair",
+      "un-; non- (“ghair munqasim” = undivided)"
+    ],
+    "منقسم": [
+      "munqasim",
+      "divided"
+    ],
+    "ہندوستان": [
+      "hindustaan",
+      "India (the subcontinent)"
+    ],
+    "پہلی": [
+      "pehli",
+      "first (f.)"
+    ],
+    "دندان": [
+      "dandaan",
+      "teeth (Persian) (“dandaan saaz” = dentist)"
+    ],
+    "ساز": [
+      "saaz",
+      "maker (“dandaan saaz” = dentist)"
+    ],
+    "بن": [
+      "ban",
+      "become (“ban gaeen” = became)"
+    ],
+    "گئیں": [
+      "gaeen",
+      "went (f., respectful) (“ban gaeen” = became)"
+    ],
+    "قریبی": [
+      "qareebi",
+      "close (“sab se qareebi” = closest)"
+    ],
+    "مشیر": [
+      "musheer",
+      "adviser"
+    ],
+    "آزادی": [
+      "aazaadi",
+      "independence"
+    ],
+    "ویمنز": [
+      "veemenz",
+      "Women's (English)"
+    ],
+    "ایسوسی": [
+      "esosi",
+      "Associ- (“esosi eshan” = Association, written as two words)"
+    ],
+    "ایشن": [
+      "eshan",
+      "-ation (“esosi eshan” = Association)"
+    ],
+    "مشترکہ": [
+      "mushtarka",
+      "joint (“mushtarka buniyaad rakhna” = to co-found)"
+    ],
+    "بنیاد": [
+      "buniyaad",
+      "foundation (“buniyaad rakhna” = to found)"
+    ],
+    "رکھی": [
+      "rakhi",
+      "laid (f.) (“buniyaad rakhi” = founded)"
+    ],
+    "نو": [
+      "nau",
+      "new (“nau tashkeel shuda” = newly formed); also “nine”"
+    ],
+    "تشکیل": [
+      "tashkeel",
+      "formation (“tashkeel shuda” = formed)"
+    ],
+    "شدہ": [
+      "shuda",
+      "-ed; done (“tashkeel shuda” = formed)"
+    ],
+    "خواتین": [
+      "khawaateen",
+      "women (pl. of “khaatoon”)"
+    ],
+    "تارکین": [
+      "taarikeen",
+      "those who leave (“taarikeen-e-watan” = emigrants, migrants)"
+    ],
+    "وطن": [
+      "watan",
+      "homeland (“taarikeen-e-watan” = migrants)"
+    ],
+    "آباد": [
+      "aabaad",
+      "settled (“aabaad kaari” = resettlement)"
+    ],
+    "کاری": [
+      "kaari",
+      "-ment; work (“aabaad kaari” = resettlement)"
+    ],
+    "اہم": [
+      "aham",
+      "important"
+    ],
+    "کردار": [
+      "kirdaar",
+      "role (“kirdaar ada karna” = to play a role)"
+    ],
+    "ادا": [
+      "ada",
+      "performed (“kirdaar ada karna” = to play a role)"
+    ],
+    "معتمد": [
+      "mutamad",
+      "confidant(e); trusted person"
+    ],
+    "وفات": [
+      "wafaat",
+      "death"
+    ],
+    "قوم": [
+      "qaum",
+      "nation"
+    ],
+    "خطاب": [
+      "khitaab",
+      "address; speech (“qaum se khitaab” = address to the nation)"
+    ],
+    "پابندی": [
+      "paabandi",
+      "ban; restriction (“paabandi laga di gai” = a ban was imposed)"
+    ],
+    "لگا": [
+      "laga",
+      "imposed (“laga di gai” = was imposed)"
+    ],
+    "دی": [
+      "di",
+      "given (f.) (“laga di gai” = was imposed)"
+    ],
+    "ریڈیو": [
+      "reḍiyo",
+      "radio"
+    ],
+    "لیاقت": [
+      "liyaaqat",
+      "Liaquat (Liaquat Ali Khan, the first Prime Minister)"
+    ],
+    "سنسر": [
+      "sensar",
+      "censor (“sensar kiya” = censored)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "فاطمہ جناح کا محمد علی جناح سے کیا رشتہ تھا؟",
+      "english": "How was Fatima Jinnah related to Muhammad Ali Jinnah?",
+      "options": [
+        {
+          "urdu": "وہ ان کی بیٹی تھیں",
+          "english": "She was his daughter"
+        },
+        {
+          "urdu": "وہ ان کی بیوی تھیں",
+          "english": "She was his wife"
+        },
+        {
+          "urdu": "وہ ان کی چھوٹی بہن تھیں",
+          "english": "She was his younger sister"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "1923ء میں فاطمہ جناح نے کیا کامیابی حاصل کی؟",
+      "english": "What did Fatima Jinnah achieve in 1923?",
+      "options": [
+        {
+          "urdu": "وہ غیر منقسم ہندوستان کی پہلی خاتون دندان ساز بنیں",
+          "english": "She became the first woman dentist in undivided India"
+        },
+        {
+          "urdu": "وہ پاکستان کی گورنر جنرل بنیں",
+          "english": "She became Governor-General of Pakistan"
+        },
+        {
+          "urdu": "انھوں نے ریڈیو پر قوم سے خطاب کیا",
+          "english": "She addressed the nation on the radio"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "پاکستان ویمنز ایسوسی ایشن نے کس کام میں اہم کردار ادا کیا؟",
+      "english": "In what work did the Pakistan Women's Association play an important role?",
+      "options": [
+        {
+          "urdu": "ریڈیو خطاب سنسر کرنے میں",
+          "english": "Censoring radio addresses"
+        },
+        {
+          "urdu": "خواتین تارکین وطن کو نئے ملک میں آباد کرنے میں",
+          "english": "Settling women migrants in the new country"
+        },
+        {
+          "urdu": "کلکتہ یونیورسٹی بنانے میں",
+          "english": "Founding the University of Calcutta"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

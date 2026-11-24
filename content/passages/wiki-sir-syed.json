@@ -1,0 +1,326 @@
+{
+  "id": "wiki-sir-syed",
+  "title": {
+    "urdu": "سر سید احمد خان",
+    "english": "Sir Syed Ahmad Khan"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": [
+    "people",
+    "history"
+  ],
+  "source": {
+    "name": "Urdu Wikipedia: سید احمد خان",
+    "url": "https://ur.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF_%D8%A7%D8%AD%D9%85%D8%AF_%D8%AE%D8%A7%D9%86",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "From the Urdu Wikipedia article on Sir Syed Ahmad Khan, the 19th-century reformer whose college at Aligarh became Aligarh Muslim University: the first paragraph of the section on his family and early education. The name of his brother's journal looks garbled in the source; it was probably “Sayyid-ul-Akhbar”.",
+  "sentences": [
+    {
+      "urdu": "سرسید احمد خان 17 اکتوبر 1817ء کو دہلی میں پیدا ہوئے۔",
+      "english": "Sir Syed Ahmad Khan was born in Delhi on 17 October 1817."
+    },
+    {
+      "urdu": "آبا و اجداد ترک برلاس قبیلے سے تھے۔",
+      "english": "His forefathers were from the Turkic Barlas tribe."
+    },
+    {
+      "urdu": "شاہ جہاں کے عہد میں ہرات سے ہندوستان آئے۔",
+      "english": "They came to India from Herat in the reign of Shah Jahan."
+    },
+    {
+      "urdu": "سر سید احمد خان نے دستور زمانہ کے مطابق عربی اور فارسی کی تعلیم حاصل کی۔",
+      "english": "Following the custom of the times, Sir Syed Ahmad Khan was educated in Arabic and Persian."
+    },
+    {
+      "urdu": "آپ نے ابتدائی تعلیم اپنے نانا خواجہ فرید الدین احمد خان سے حاصل کی۔",
+      "english": "He received his early education from his maternal grandfather, Khwaja Fariduddin Ahmad Khan."
+    },
+    {
+      "urdu": "ابتدائی تعلیم میں آپ نے قرآن پاک کا مطالعہ کیا اور عربی اور فارسی ادب کا مطالعہ بھی کیا۔",
+      "english": "In his early education he studied the Holy Quran, and he also studied Arabic and Persian literature."
+    },
+    {
+      "urdu": "اس کے علاوہ آپ نے حساب، طب اور تاریخ میں بھی مہارت حاصل کی۔",
+      "english": "Besides this, he also gained skill in mathematics, medicine and history."
+    },
+    {
+      "urdu": "سر سید نے کئی سال ادویات کا مطالعہ بھی کیا۔",
+      "english": "Sir Syed also studied medicines for several years."
+    },
+    {
+      "urdu": "ان کے بڑے بھائی نے شہر میں سب سے پہلے پرنٹنگ پریس کی بنیاد رکھی، جہاں سے جریدہ القران اکبر شائع ہوتا تھا۔",
+      "english": "His elder brother set up the very first printing press in the city, from which the journal “Al-Quran Akbar” was published."
+    }
+  ],
+  "glossary": {
+    "سرسید": [
+      "sar sayyid",
+      "Sir Syed (written as one word)"
+    ],
+    "سر": [
+      "sar",
+      "Sir (the British title, in “sar sayyid”); usually “head”"
+    ],
+    "احمد": [
+      "ahmad",
+      "Ahmad"
+    ],
+    "خان": [
+      "khaan",
+      "Khan"
+    ],
+    "اکتوبر": [
+      "aktoobar",
+      "October"
+    ],
+    "1817ء": [
+      "1817 eesvi",
+      "1817 CE (ء is short for “eesvi”, AD)"
+    ],
+    "دہلی": [
+      "dehli",
+      "Delhi"
+    ],
+    "پیدا": [
+      "paida",
+      "born (“paida hue” = was born)"
+    ],
+    "آبا": [
+      "aaba",
+      "forefathers (“aaba o ajdaad” = ancestors)"
+    ],
+    "اجداد": [
+      "ajdaad",
+      "ancestors (“aaba o ajdaad” = forefathers)"
+    ],
+    "ترک": [
+      "turk",
+      "Turk; Turkic"
+    ],
+    "برلاس": [
+      "barlaas",
+      "Barlas (a Turco-Mongol tribe)"
+    ],
+    "قبیلے": [
+      "qabeele",
+      "tribe (oblique)"
+    ],
+    "شاہ": [
+      "shaah",
+      "king; Shah (“shaah jahaan” = Shah Jahan, the Mughal emperor)"
+    ],
+    "جہاں": [
+      "jahaan",
+      "where (“jahaan se” = from where); world (“shaah jahaan” = Shah Jahan, “king of the world”)"
+    ],
+    "عہد": [
+      "ahd",
+      "reign; era"
+    ],
+    "ہرات": [
+      "hiraat",
+      "Herat (a city in Afghanistan)"
+    ],
+    "ہندوستان": [
+      "hindustaan",
+      "India (the subcontinent)"
+    ],
+    "آئے": [
+      "aaye",
+      "came (pl. / respectful)"
+    ],
+    "سید": [
+      "sayyid",
+      "Syed (“sar sayyid” = Sir Syed)"
+    ],
+    "دستور": [
+      "dastoor",
+      "custom; practice (“dastoor-e-zamaana” = the custom of the times)"
+    ],
+    "زمانہ": [
+      "zamaana",
+      "age; the times"
+    ],
+    "مطابق": [
+      "mutaabiq",
+      "according (“ke mutaabiq” = according to)"
+    ],
+    "عربی": [
+      "arabi",
+      "Arabic"
+    ],
+    "فارسی": [
+      "faarsi",
+      "Persian"
+    ],
+    "تعلیم": [
+      "taaleem",
+      "education (“taaleem haasil karna” = to be educated)"
+    ],
+    "حاصل": [
+      "haasil",
+      "obtained (“haasil karna” = to get, acquire)"
+    ],
+    "ابتدائی": [
+      "ibtidaai",
+      "early; primary (“ibtidaai taaleem” = early education)"
+    ],
+    "خواجہ": [
+      "khwaaja",
+      "Khwaja (an honorific)"
+    ],
+    "فرید": [
+      "fareed",
+      "Farid (“fareed ud-deen” = Fariduddin)"
+    ],
+    "الدین": [
+      "ud-deen",
+      "-uddin, “of the faith” (in “fareed ud-deen”)"
+    ],
+    "قرآن": [
+      "quraan",
+      "the Quran (“quraan-e-paak” = the Holy Quran)"
+    ],
+    "پاک": [
+      "paak",
+      "holy; pure"
+    ],
+    "مطالعہ": [
+      "mutaala",
+      "study (“mutaala karna” = to study)"
+    ],
+    "ادب": [
+      "adab",
+      "literature"
+    ],
+    "علاوہ": [
+      "alaawa",
+      "besides (“is ke alaawa” = besides this)"
+    ],
+    "حساب": [
+      "hisaab",
+      "arithmetic; mathematics"
+    ],
+    "طب": [
+      "tibb",
+      "medicine (the science)"
+    ],
+    "تاریخ": [
+      "taareekh",
+      "history"
+    ],
+    "مہارت": [
+      "mahaarat",
+      "skill; expertise (“mahaarat haasil karna” = to master)"
+    ],
+    "سال": [
+      "saal",
+      "year(s)"
+    ],
+    "ادویات": [
+      "adwiyaat",
+      "medicines; drugs (pl. of “dawa”)"
+    ],
+    "بڑے": [
+      "baṛe",
+      "elder (oblique) (“baṛe bhaai” = elder brother)"
+    ],
+    "پہلے": [
+      "pehle",
+      "first (“sab se pehle” = the very first)"
+    ],
+    "پرنٹنگ": [
+      "prinṭing",
+      "printing (English)"
+    ],
+    "پریس": [
+      "pres",
+      "press (English)"
+    ],
+    "بنیاد": [
+      "buniyaad",
+      "foundation (“buniyaad rakhna” = to found, set up)"
+    ],
+    "رکھی": [
+      "rakhi",
+      "laid (f.) (“buniyaad rakhi” = founded)"
+    ],
+    "جریدہ": [
+      "jareeda",
+      "journal; periodical"
+    ],
+    "القران": [
+      "al-quraan",
+      "Al-Quran (part of the journal's name as written here)"
+    ],
+    "اکبر": [
+      "akbar",
+      "“great” (part of the journal's name as written here)"
+    ],
+    "شائع": [
+      "shaaya",
+      "published (“shaaya hota tha” = used to be published)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "سر سید کب اور کہاں پیدا ہوئے؟",
+      "english": "When and where was Sir Syed born?",
+      "options": [
+        {
+          "urdu": "1857ء میں آگرہ میں",
+          "english": "In Agra in 1857"
+        },
+        {
+          "urdu": "1817ء میں ہرات میں",
+          "english": "In Herat in 1817"
+        },
+        {
+          "urdu": "1817ء میں دہلی میں",
+          "english": "In Delhi in 1817"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "سر سید نے ابتدائی تعلیم کس سے حاصل کی؟",
+      "english": "From whom did Sir Syed receive his early education?",
+      "options": [
+        {
+          "urdu": "اپنے بڑے بھائی سے",
+          "english": "From his elder brother"
+        },
+        {
+          "urdu": "اپنے نانا خواجہ فرید الدین احمد خان سے",
+          "english": "From his maternal grandfather, Khwaja Fariduddin Ahmad Khan"
+        },
+        {
+          "urdu": "ایک انگریز استاد سے",
+          "english": "From an English teacher"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "سر سید کے بڑے بھائی نے شہر میں کیا کام سب سے پہلے کیا؟",
+      "english": "What was Sir Syed's elder brother the first to do in the city?",
+      "options": [
+        {
+          "urdu": "پرنٹنگ پریس قائم کیا",
+          "english": "He set up a printing press"
+        },
+        {
+          "urdu": "ایک کالج کھولا",
+          "english": "He opened a college"
+        },
+        {
+          "urdu": "ایک ہسپتال بنایا",
+          "english": "He built a hospital"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

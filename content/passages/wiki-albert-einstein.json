@@ -1,0 +1,426 @@
+{
+  "id": "wiki-albert-einstein",
+  "title": {
+    "urdu": "البرٹ آئنسٹائن",
+    "english": "Albert Einstein"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": [
+    "people",
+    "science"
+  ],
+  "source": {
+    "name": "Urdu Wikipedia: البرٹ آئنسٹائن",
+    "url": "https://ur.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D9%B9_%D8%A2%D8%A6%D9%86%D8%B3%D9%B9%D8%A7%D8%A6%D9%86",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "From the Urdu Wikipedia article on Albert Einstein: the opening lines and the start of the section on his early life in Germany and Italy. The article refers to him with the plain “hua / tha” rather than the respectful plural, and gives some names in English letters too.",
+  "sentences": [
+    {
+      "urdu": "البرٹ آئنسٹائن (Albert Einstein)، بیسویں صدی کا سب سے بڑا طبیعیات دان سمجھا جاتا ہے۔",
+      "english": "Albert Einstein is considered the greatest physicist of the twentieth century."
+    },
+    {
+      "urdu": "جرمنی کے شہر اولم میں 14 مارچ 1879ء کو پیدا ہوا۔",
+      "english": "He was born on 14 March 1879 in the German city of Ulm."
+    },
+    {
+      "urdu": "باپ کا نام ہرمین (Hermann Einstein) اور ماں کا نام پالین (Pauline Koch) تھا۔",
+      "english": "His father's name was Hermann (Hermann Einstein) and his mother's name was Pauline (Pauline Koch)."
+    },
+    {
+      "urdu": "آئنسٹائن کا خاندان جرمنی کے خوش حال یہودی النسل خاندانوں میں شمار ہوتا تھا۔",
+      "english": "Einstein's family was counted among the well-off families of Jewish descent in Germany."
+    },
+    {
+      "urdu": "باپ کاروباری تھا مگر زیادہ کامیاب نہیں تھا۔",
+      "english": "His father was a businessman, but not a very successful one."
+    },
+    {
+      "urdu": "جب آئنسٹائن چھ برس کا تھا، یہ لوگ میونخ آ گئے۔",
+      "english": "When Einstein was six years old, the family moved to Munich."
+    },
+    {
+      "urdu": "ابتدائی تعلیم ایک کاتھولک مدرسہ میں پائی۔",
+      "english": "He received his early education at a Catholic school."
+    },
+    {
+      "urdu": "یہاں کا سخت ماحول اس بچے کو ناگوار گزرتا تھا۔",
+      "english": "The strict atmosphere there was unpleasant for the boy."
+    },
+    {
+      "urdu": "سن 1894ء میں آئنسٹائن کو بورڈنگ مدرسہ میں پیچھے چھوڑ کر، اس کا باپ کاروباری وجوہات کی بنا پر خاندان سمیت اٹلی منتقل ہو گیا۔",
+      "english": "In 1894, leaving Einstein behind at a boarding school, his father moved to Italy with the family for business reasons."
+    },
+    {
+      "urdu": "دسمبر 1894ء میں سولہ سال کی عمر میں تعلیم ادھوری چھوڑ کر آئنسٹائن (غالباً جرمن کی لازمی فوجی سروس کے خوف سے ) خود بھی اٹلی پہنچ گیا۔",
+      "english": "In December 1894, at the age of sixteen, Einstein left his education unfinished and (probably for fear of compulsory German military service) went to Italy himself as well."
+    },
+    {
+      "urdu": "وہاں پہنچ کر سن 1896ء میں اس نے جرمن شہریت چھوڑ دی۔",
+      "english": "After arriving there, in 1896 he gave up his German citizenship."
+    }
+  ],
+  "glossary": {
+    "البرٹ": [
+      "albarṭ",
+      "Albert"
+    ],
+    "آئنسٹائن": [
+      "aainsṭaain",
+      "Einstein"
+    ],
+    "Albert": [
+      "albarṭ",
+      "Albert (in English letters)"
+    ],
+    "Einstein": [
+      "aainsṭaain",
+      "Einstein (in English letters)"
+    ],
+    "Hermann": [
+      "harmen",
+      "Hermann (in English letters)"
+    ],
+    "Pauline": [
+      "paalin",
+      "Pauline (in English letters)"
+    ],
+    "Koch": [
+      "kokh",
+      "Koch (his mother's maiden name)"
+    ],
+    "بیسویں": [
+      "beesveen",
+      "twentieth"
+    ],
+    "صدی": [
+      "sadi",
+      "century"
+    ],
+    "بڑا": [
+      "baṛa",
+      "great; big (“sab se baṛa” = the greatest)"
+    ],
+    "طبیعیات": [
+      "tabeeiyaat",
+      "physics (“tabeeiyaat daan” = physicist)"
+    ],
+    "دان": [
+      "daan",
+      "one who knows (“tabeeiyaat daan” = physicist)"
+    ],
+    "سمجھا": [
+      "samjha",
+      "considered (“samjha jaata hai” = is considered)"
+    ],
+    "جرمنی": [
+      "jarmani",
+      "Germany"
+    ],
+    "اولم": [
+      "ulm",
+      "Ulm (a city in southern Germany)"
+    ],
+    "مارچ": [
+      "maarch",
+      "March"
+    ],
+    "1879ء": [
+      "1879 eesvi",
+      "1879 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1894ء": [
+      "1894 eesvi",
+      "1894 CE"
+    ],
+    "1896ء": [
+      "1896 eesvi",
+      "1896 CE"
+    ],
+    "پیدا": [
+      "paida",
+      "born (“paida hua” = was born)"
+    ],
+    "باپ": [
+      "baap",
+      "father"
+    ],
+    "نام": [
+      "naam",
+      "name"
+    ],
+    "ہرمین": [
+      "harmen",
+      "Hermann"
+    ],
+    "ماں": [
+      "maan",
+      "mother"
+    ],
+    "پالین": [
+      "paalin",
+      "Pauline"
+    ],
+    "خاندان": [
+      "khaandaan",
+      "family"
+    ],
+    "خوش": [
+      "khush",
+      "happy (“khush haal” = prosperous, well-off)"
+    ],
+    "حال": [
+      "haal",
+      "condition (“khush haal” = well-off)"
+    ],
+    "یہودی": [
+      "yahoodi",
+      "Jewish"
+    ],
+    "النسل": [
+      "un-nasl",
+      "by descent (“yahoodi un-nasl” = of Jewish descent)"
+    ],
+    "خاندانوں": [
+      "khaandaanon",
+      "families (pl. oblique)"
+    ],
+    "شمار": [
+      "shumaar",
+      "counting (“mein shumaar hona” = to be counted among)"
+    ],
+    "کاروباری": [
+      "kaarobaari",
+      "businessman; business (adj.) (“kaarobaari wujoohaat” = business reasons)"
+    ],
+    "کامیاب": [
+      "kaamyaab",
+      "successful"
+    ],
+    "چھ": [
+      "chhe",
+      "six"
+    ],
+    "برس": [
+      "baras",
+      "year(s) (“chhe baras ka” = six years old)"
+    ],
+    "لوگ": [
+      "log",
+      "people (“ye log” = they, i.e. the family)"
+    ],
+    "میونخ": [
+      "myoonikh",
+      "Munich"
+    ],
+    "آ": [
+      "aa",
+      "come (“aa gae” = came, moved)"
+    ],
+    "ابتدائی": [
+      "ibtidaai",
+      "early; primary (“ibtidaai taaleem” = early education)"
+    ],
+    "تعلیم": [
+      "taaleem",
+      "education"
+    ],
+    "کاتھولک": [
+      "kaithoolik",
+      "Catholic"
+    ],
+    "مدرسہ": [
+      "madrasa",
+      "school"
+    ],
+    "پائی": [
+      "paai",
+      "received (f.) (“taaleem paai” = was educated)"
+    ],
+    "یہاں": [
+      "yahaan",
+      "here (“yahaan ka” = of this place)"
+    ],
+    "سخت": [
+      "sakht",
+      "strict; harsh"
+    ],
+    "ماحول": [
+      "maahaul",
+      "atmosphere; environment"
+    ],
+    "بچے": [
+      "bachche",
+      "child (oblique)"
+    ],
+    "ناگوار": [
+      "naagawaar",
+      "unpleasant (“naagawaar guzarna” = to be unpleasant for)"
+    ],
+    "گزرتا": [
+      "guzarta",
+      "passed (habitual) (“naagawaar guzarta tha” = was unpleasant)"
+    ],
+    "سن": [
+      "san",
+      "year (“san 1894 mein” = in the year 1894)"
+    ],
+    "بورڈنگ": [
+      "borḍing",
+      "boarding (English) (“borḍing madrasa” = boarding school)"
+    ],
+    "پیچھے": [
+      "peechhe",
+      "behind (“peechhe chhoṛ kar” = leaving behind)"
+    ],
+    "چھوڑ": [
+      "chhoṛ",
+      "leave (“chhoṛ kar” = leaving; “chhoṛ di” = gave up)"
+    ],
+    "وجوہات": [
+      "wujoohaat",
+      "reasons (pl.)"
+    ],
+    "بنا": [
+      "bina",
+      "basis (“ki bina par” = on account of)"
+    ],
+    "سمیت": [
+      "sameet",
+      "along with; including"
+    ],
+    "اٹلی": [
+      "iṭli",
+      "Italy"
+    ],
+    "منتقل": [
+      "muntaqil",
+      "moved; transferred (“muntaqil ho gaya” = moved)"
+    ],
+    "دسمبر": [
+      "disambar",
+      "December"
+    ],
+    "سولہ": [
+      "solah",
+      "sixteen"
+    ],
+    "سال": [
+      "saal",
+      "year(s)"
+    ],
+    "عمر": [
+      "umr",
+      "age (“solah saal ki umr mein” = at the age of sixteen)"
+    ],
+    "ادھوری": [
+      "adhoori",
+      "incomplete; unfinished (f.)"
+    ],
+    "غالباً": [
+      "ghaaliban",
+      "probably"
+    ],
+    "جرمن": [
+      "jarman",
+      "German"
+    ],
+    "لازمی": [
+      "laazmi",
+      "compulsory"
+    ],
+    "فوجی": [
+      "fauji",
+      "military"
+    ],
+    "سروس": [
+      "sarvis",
+      "service (English)"
+    ],
+    "خوف": [
+      "khauf",
+      "fear"
+    ],
+    "خود": [
+      "khud",
+      "himself (“khud bhi” = himself too)"
+    ],
+    "پہنچ": [
+      "pahunch",
+      "reach (“pahunch gaya” = arrived; “pahunch kar” = after arriving)"
+    ],
+    "وہاں": [
+      "wahaan",
+      "there"
+    ],
+    "شہریت": [
+      "shehriyat",
+      "citizenship"
+    ],
+    "دی": [
+      "di",
+      "gave (f.) (“chhoṛ di” = gave up)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "آئنسٹائن کس شہر میں پیدا ہوا؟",
+      "english": "In which city was Einstein born?",
+      "options": [
+        {
+          "urdu": "میونخ",
+          "english": "Munich"
+        },
+        {
+          "urdu": "روم",
+          "english": "Rome"
+        },
+        {
+          "urdu": "اولم",
+          "english": "Ulm"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "آئنسٹائن کو کاتھولک مدرسہ کیسا لگتا تھا؟",
+      "english": "How did Einstein feel about the Catholic school?",
+      "options": [
+        {
+          "urdu": "وہاں کا سخت ماحول اسے ناگوار گزرتا تھا",
+          "english": "He found its strict atmosphere unpleasant"
+        },
+        {
+          "urdu": "وہ وہاں بہت خوش تھا",
+          "english": "He was very happy there"
+        },
+        {
+          "urdu": "وہ وہاں استاد بن گیا",
+          "english": "He became a teacher there"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "مضمون کے مطابق آئنسٹائن غالباً کس چیز کے خوف سے اٹلی گیا؟",
+      "english": "According to the article, Einstein probably went to Italy for fear of what?",
+      "options": [
+        {
+          "urdu": "امتحان میں فیل ہونے کے",
+          "english": "Failing his exams"
+        },
+        {
+          "urdu": "جرمنی کی لازمی فوجی سروس کے",
+          "english": "Compulsory German military service"
+        },
+        {
+          "urdu": "اپنے باپ کے",
+          "english": "His father"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

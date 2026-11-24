@@ -1,0 +1,384 @@
+{
+  "id": "poem-ghalib-yeh-na-thi-2",
+  "title": {
+    "urdu": "یہ نہ تھی ہماری قسمت کہ وصال یار ہوتا (حصہ 2)",
+    "english": "It Was Not My Fate, part 2"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": [
+    "love",
+    "philosophy",
+    "ghazal"
+  ],
+  "source": {
+    "name": "Urdu Wikisource: یہ نہ تھی ہماری قسمت کہ وصال یار ہوتا (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%DB%8C%DB%81_%D9%86%DB%81_%D8%AA%DA%BE%DB%8C_%DB%81%D9%85%D8%A7%D8%B1%DB%8C_%D9%82%D8%B3%D9%85%D8%AA_%DA%A9%DB%81_%D9%88%D8%B5%D8%A7%D9%84_%DB%8C%D8%A7%D8%B1_%DB%81%D9%88%D8%AA%D8%A7",
+    "author": "Mirza Ghalib",
+    "license": "Public domain"
+  },
+  "intro": "Couplets 7–11 of Ghalib's ghazal: the grief no heart can escape, the night of sorrow that is worse than death, a mystical couplet on the oneness of God, and a closing couplet in which Ghalib teases himself.",
+  "series": {
+    "id": "poem-ghalib-yeh-na-thi",
+    "title": "It Was Not My Fate",
+    "part": 2,
+    "of": 2
+  },
+  "sentences": [
+    {
+      "urdu": "غم اگرچہ جاں گسل ہے پہ کہاں بچیں کہ دل ہے",
+      "english": "Though grief destroys life, how can one escape it, when one has a heart?",
+      "verse": true
+    },
+    {
+      "urdu": "غم عشق گر نہ ہوتا غم روزگار ہوتا",
+      "english": "If it were not the grief of love, it would be the grief of making a living.",
+      "verse": true,
+      "explanation": {
+        "urdu": "غم جان لیوا ہے مگر جب تک انسان کے سینے میں دل ہے وہ غم سے بچ نہیں سکتا۔ اگر عشق کا غم نہ ہو تو دنیا اور روزی کا غم ہوگا۔",
+        "english": "Grief can kill, yet no one with a heart can escape it: if not the grief of love, then the grief of earning a living and the world's cares."
+      }
+    },
+    {
+      "urdu": "کہوں کس سے میں کہ کیا ہے شب غم بری بلا ہے",
+      "english": "Whom can I tell what it is? The night of sorrow is a terrible curse;",
+      "verse": true
+    },
+    {
+      "urdu": "مجھے کیا برا تھا مرنا اگر ایک بار ہوتا",
+      "english": "dying would not have been so bad for me, if it happened only once.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جدائی کی رات کی تکلیف کسی سے بیان نہیں ہو سکتی۔ ایسی ہر رات ایک نئی موت ہے۔ اگر موت صرف ایک بار آتی تو کوئی بات نہ تھی۔",
+        "english": "The pain of the night of separation cannot be described: every such night is a new death. Dying once would be nothing by comparison."
+      }
+    },
+    {
+      "urdu": "ہوئے مر کے ہم جو رسوا ہوئے کیوں نہ غرق دریا",
+      "english": "Since dying only brought me disgrace, why was I not drowned in the river?",
+      "verse": true
+    },
+    {
+      "urdu": "نہ کبھی جنازہ اٹھتا نہ کہیں مزار ہوتا",
+      "english": "Then no funeral would ever have been carried out, nor would there be a tomb anywhere.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مرنے کے بعد جنازے اور قبر کی وجہ سے سب کو عاشق کی رسوائی کا پتا چل گیا۔ اس سے بہتر تھا کہ دریا میں ڈوب جاتے اور کوئی نشان باقی نہ رہتا۔",
+        "english": "The funeral and the tomb made the lover's shame known to everyone. Better to have drowned in the river and left no trace at all."
+      }
+    },
+    {
+      "urdu": "اسے کون دیکھ سکتا کہ یگانہ ہے وہ یکتا",
+      "english": "Who could ever see Him? For He is peerless, the One;",
+      "verse": true
+    },
+    {
+      "urdu": "جو دوئی کی بو بھی ہوتی تو کہیں دو چار ہوتا",
+      "english": "had there been even a trace of twoness, one might have met Him somewhere face to face.",
+      "verse": true,
+      "explanation": {
+        "urdu": "خدا ایک اور بے مثال ہے۔ دیکھنے کے لیے دو چیزیں چاہییں، دیکھنے والا اور دیکھی جانے والی چیز۔ اگر خدا کے سوا کچھ اور ہوتا تو کہیں اس سے سامنا ہو جاتا۔",
+        "english": "God is one and without equal. Seeing needs two things, a seer and the seen; if anything existed apart from God, one might come face to face with Him. This is the Sufi idea of the oneness of being."
+      }
+    },
+    {
+      "urdu": "یہ مسائل تصوف یہ ترا بیان غالبؔ",
+      "english": "These questions of mysticism, and the way you put them, Ghalib!",
+      "verse": true
+    },
+    {
+      "urdu": "تجھے ہم ولی سمجھتے جو نہ بادہ خوار ہوتا",
+      "english": "We would have taken you for a saint, if you were not a wine-drinker.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مقطع میں شاعر خود سے مذاق کرتا ہے: تم تصوف کی باتیں اتنی خوبی سے بیان کرتے ہو کہ لوگ تمہیں ولی مان لیتے، مگر تم شراب پیتے ہو۔",
+        "english": "In the closing couplet Ghalib teases himself: he explains mystical truths so well that people would call him a saint, if only he did not drink wine."
+      }
+    }
+  ],
+  "glossary": {
+    "ہوتا": [
+      "hota",
+      "would be; would have been (unreal condition)"
+    ],
+    "مر": [
+      "mar",
+      "die (“mar na jaate” = would I not have died; “mar ke” = after dying)"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever (“kabhi … na” = never)"
+    ],
+    "سکتا": [
+      "sakta",
+      "could (“toṛ sakta” = could break)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where (“kahaan ki dosti” = what kind of friendship; “kahaan bachen” = how can one escape)"
+    ],
+    "ہوتی": [
+      "hoti",
+      "would be (f.)"
+    ],
+    "جو": [
+      "jo",
+      "since (“hue mar ke hum jo ruswa” = since dying brought me disgrace); if (poetic, = “agar”)"
+    ],
+    "وہ": [
+      "woh",
+      "such (“woh lahoo keh” = such blood that)"
+    ],
+    "اگرچہ": [
+      "agarche",
+      "although"
+    ],
+    "جاں": [
+      "jaan",
+      "life (“jaan-gusil” = life-destroying)"
+    ],
+    "گسل": [
+      "gusil",
+      "breaking (suffix: “jaan-gusil” = life-destroying)"
+    ],
+    "پہ": [
+      "pe",
+      "but (poetic, = “par”)"
+    ],
+    "بچیں": [
+      "bachen",
+      "(we) escape"
+    ],
+    "عشق": [
+      "ishq",
+      "love (“gham-e-ishq” = the grief of love)"
+    ],
+    "گر": [
+      "gar",
+      "if (short for “agar”)"
+    ],
+    "روزگار": [
+      "rozgaar",
+      "livelihood; the world's daily cares (“gham-e-rozgaar” = the grief of earning a living)"
+    ],
+    "کہوں": [
+      "kahoon",
+      "should I tell"
+    ],
+    "کس": [
+      "kis",
+      "whom (“kis se” = to whom)"
+    ],
+    "شب": [
+      "shab-e",
+      "night (of …) (“shab-e-gham” = night of sorrow)"
+    ],
+    "بری": [
+      "buri",
+      "terrible (f.)"
+    ],
+    "بلا": [
+      "bala",
+      "calamity; curse"
+    ],
+    "برا": [
+      "bura",
+      "bad"
+    ],
+    "مرنا": [
+      "marna",
+      "dying"
+    ],
+    "بار": [
+      "baar",
+      "time (“ek baar” = once)"
+    ],
+    "ہوئے": [
+      "hue",
+      "became; were (“ruswa hue” = were disgraced; “hue kyon na gharq” = why were we not drowned)"
+    ],
+    "کے": [
+      "ke",
+      "having (“mar ke” = after dying)"
+    ],
+    "رسوا": [
+      "ruswa",
+      "disgraced"
+    ],
+    "غرق": [
+      "gharq-e",
+      "drowned (in …) (“gharq-e-daryaa” = drowned in the river)"
+    ],
+    "دریا": [
+      "daryaa",
+      "river"
+    ],
+    "جنازہ": [
+      "janaaza",
+      "funeral; bier (“janaaza uṭhna” = for a funeral to set out)"
+    ],
+    "اٹھتا": [
+      "uṭhta",
+      "would be lifted; would set out"
+    ],
+    "کہیں": [
+      "kaheen",
+      "anywhere; somewhere"
+    ],
+    "مزار": [
+      "mazaar",
+      "tomb; shrine"
+    ],
+    "اسے": [
+      "use",
+      "Him (here: God)"
+    ],
+    "کون": [
+      "kaun",
+      "who"
+    ],
+    "دیکھ": [
+      "dekh",
+      "see (“dekh sakta” = could see)"
+    ],
+    "یگانہ": [
+      "yagaana",
+      "peerless; unique"
+    ],
+    "یکتا": [
+      "yakta",
+      "the One; matchless"
+    ],
+    "دوئی": [
+      "do-ee",
+      "duality; twoness"
+    ],
+    "بو": [
+      "boo",
+      "smell; trace"
+    ],
+    "دو": [
+      "do",
+      "two (“do-chaar hona” = to come face to face)"
+    ],
+    "چار": [
+      "chaar",
+      "four (“do-chaar hona” = to come face to face)"
+    ],
+    "مسائل": [
+      "masaail",
+      "problems; questions (pl. of “masla”)"
+    ],
+    "تصوف": [
+      "tasawwuf",
+      "Sufism; mysticism"
+    ],
+    "ترا": [
+      "tira",
+      "your (poetic form of “tera”)"
+    ],
+    "غالبؔ": [
+      "ghaalib",
+      "Ghalib (the poet's pen name; means “dominant”)"
+    ],
+    "تجھے": [
+      "tujhe",
+      "you (“tujhe … samajhte” = would consider you)"
+    ],
+    "ولی": [
+      "wali",
+      "saint"
+    ],
+    "سمجھتے": [
+      "samajhte",
+      "would consider"
+    ],
+    "بادہ": [
+      "baada",
+      "wine (“baada-khwaar” = wine-drinker)"
+    ],
+    "خوار": [
+      "khwaar",
+      "drinker (suffix: “baada-khwaar” = wine-drinker)"
+    ],
+    "غم": [
+      "gham",
+      "grief (“gham-e-ishq” = the grief of love; “gham-e-rozgaar” = the grief of earning a living)"
+    ],
+    "کیا": [
+      "kya",
+      "what (“mujhe kya bura tha” = what harm would it have been to me)"
+    ],
+    "کہ": [
+      "keh",
+      "that; for, since (“keh dil hai” = since one has a heart)"
+    ],
+    "بیان": [
+      "bayaan",
+      "exposition; way of putting it"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "ساتویں شعر کے مطابق اگر عشق کا غم نہ ہوتا تو کیا ہوتا؟",
+      "english": "According to the seventh couplet, what would there be if there were no grief of love?",
+      "options": [
+        {
+          "urdu": "کوئی غم نہ ہوتا",
+          "english": "there would be no grief at all"
+        },
+        {
+          "urdu": "روزی اور دنیا کا غم ہوتا",
+          "english": "there would be the grief of earning a living"
+        },
+        {
+          "urdu": "صرف خوشی ہوتی",
+          "english": "there would be only happiness"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعر کے خیال میں دریا میں ڈوب جانا کیوں بہتر تھا؟",
+      "english": "Why does the poet think drowning in the river would have been better?",
+      "options": [
+        {
+          "urdu": "کیونکہ نہ جنازہ اٹھتا نہ مزار بنتا اور رسوائی نہ ہوتی",
+          "english": "because there would be no funeral or tomb, and no disgrace"
+        },
+        {
+          "urdu": "کیونکہ اسے تیرنا پسند تھا",
+          "english": "because he liked swimming"
+        },
+        {
+          "urdu": "کیونکہ محبوب دریا کے کنارے رہتا تھا",
+          "english": "because the beloved lived by the river"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "آخری شعر میں لوگ غالب کو ولی کیوں نہیں سمجھتے؟",
+      "english": "In the last couplet, why don't people consider Ghalib a saint?",
+      "options": [
+        {
+          "urdu": "کیونکہ وہ تصوف کو نہیں سمجھتا",
+          "english": "because he does not understand mysticism"
+        },
+        {
+          "urdu": "کیونکہ وہ شعر نہیں کہتا",
+          "english": "because he does not write poetry"
+        },
+        {
+          "urdu": "کیونکہ وہ شراب پیتا ہے",
+          "english": "because he drinks wine"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

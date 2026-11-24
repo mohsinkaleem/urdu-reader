@@ -1,0 +1,426 @@
+{
+  "id": "wiki-chai",
+  "title": {
+    "urdu": "چائے",
+    "english": "Tea"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": [
+    "culture",
+    "everyday"
+  ],
+  "source": {
+    "name": "Urdu Wikipedia: چائے",
+    "url": "https://ur.wikipedia.org/wiki/%DA%86%D8%A7%D8%A6%DB%92",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "The Urdu Wikipedia article on tea opens with the legend of a Chinese emperor and a few leaves that fell into his water, then says how tea is made. The legend is informally written, with a few words run together.",
+  "sentences": [
+    {
+      "urdu": "2737 قبل مسیح میں چین کا بادشاہ شین ننگ ایک درخت کے نیچے بیٹھا تھا کہ اسکاملازم اس کے لیے پینے کا پانی {گرم کرکے} کرلایا، اچانک اس درخت سے کچھ پتّیاں اس کھولے ہوئے پانی میں گریں اور پانی کا رنگ تبدیل ہو گیا، بادشاہ بہت حیران ہوا، اس نے وہ پانی پیا تو اسے فرحت اور تازگی محسوس ہوئی۔",
+      "english": "In 2737 BC the Chinese emperor Shen Nung was sitting under a tree when his servant brought him drinking water (having heated it); suddenly a few leaves from that tree fell into the boiled water and the water changed colour; the emperor was very surprised, and when he drank that water he felt refreshed and invigorated."
+    },
+    {
+      "urdu": "اور اس کے منہ سے \"چھا\" نکلا غالباً وہ حیران ہو گیا تھا کہ یہ کیا ہے؟؟",
+      "english": "And “chha” came out of his mouth; he had probably been amazed, wondering what this was!"
+    },
+    {
+      "urdu": "اور اس نے اس درخت کا نام ہی \"چھا\" رکھ دیا جو بگڑ کر چاء ہو گیا اور اب چائے کہلاتا ہے۔",
+      "english": "And he named the tree itself “chha”, which changed into “chaa” and is now called “chaaye”."
+    },
+    {
+      "urdu": "وہ ماہرِنباتات بھی تھا لہٰذااس نے وقتاً فوقتاً کھولے ہوئے پانی میں چائے کا پتّا ملا کر پینا شروع کر دیا۔",
+      "english": "He was also a botanist, so from time to time he began drinking boiled water with tea leaves mixed in."
+    },
+    {
+      "urdu": "چائے دنیا کا پسندیدہ مشروب ہے۔",
+      "english": "Tea is the world's favourite drink."
+    },
+    {
+      "urdu": "یہ چائے کے پودے کی پتیوں کو چند منٹ گرم پانی میں ابالنے سے تیار ہوتی ہے۔",
+      "english": "It is made by boiling the leaves of the tea plant in hot water for a few minutes."
+    },
+    {
+      "urdu": "پھر اس میں ضرورت اور خواہش کے مطابق چینی اور دودھ ملاتے ہیں چائے میں کیفین کی موجودگی پینے والے کو تروتازہ کر دیتی ہے۔",
+      "english": "Then sugar and milk are added according to need and taste; the caffeine in tea refreshes the drinker."
+    },
+    {
+      "urdu": "چائے اور اس کی انگریزی \"ٹی\" (Tea)، دونوں چینی زبان کے الفاظ ہیں۔",
+      "english": "Tea and its English name “tea” are both words from the Chinese language."
+    },
+    {
+      "urdu": "چائے کے پودے کا اصل وطن مشرقی چین، جنوب مشرقی چین، میانمار اور آسام (بھارت) شامل ہیں۔",
+      "english": "The tea plant's original home includes eastern China, south-eastern China, Myanmar and Assam (India)."
+    }
+  ],
+  "glossary": {
+    "قبل": [
+      "qabl",
+      "before (“qabl maseeh” = BC)"
+    ],
+    "مسیح": [
+      "maseeh",
+      "Christ (“qabl maseeh” = BC)"
+    ],
+    "چین": [
+      "cheen",
+      "China"
+    ],
+    "بادشاہ": [
+      "baadshaah",
+      "king; emperor"
+    ],
+    "شین": [
+      "shen",
+      "Shen (“shen nang” = Shen Nung, legendary Chinese emperor)"
+    ],
+    "ننگ": [
+      "nang",
+      "Nung (“shen nang” = Shen Nung)"
+    ],
+    "درخت": [
+      "darakht",
+      "tree"
+    ],
+    "نیچے": [
+      "neeche",
+      "under (“ke neeche” = under)"
+    ],
+    "بیٹھا": [
+      "baiṭha",
+      "sitting (m.) (“baiṭha tha” = was sitting)"
+    ],
+    "اسکاملازم": [
+      "us ka mulaazim",
+      "his servant (“us ka mulaazim”, written as one word in the source)"
+    ],
+    "پینے": [
+      "peene",
+      "drinking (oblique) (“peene ka paani” = drinking water; “peene waala” = the drinker)"
+    ],
+    "پانی": [
+      "paani",
+      "water"
+    ],
+    "گرم": [
+      "garm",
+      "hot (“garm karke” = having heated)"
+    ],
+    "کرکے": [
+      "karke",
+      "having done (“garm karke” = after heating it)"
+    ],
+    "کرلایا": [
+      "kar laaya",
+      "brought (“kar laaya”, written as one word; with “garm karke” = heated and brought)"
+    ],
+    "اچانک": [
+      "achaanak",
+      "suddenly"
+    ],
+    "پتّیاں": [
+      "pattiyaan",
+      "leaves (pl.)"
+    ],
+    "کھولے": [
+      "khaule",
+      "boiled (“khaule hue paani” = boiled water)"
+    ],
+    "گریں": [
+      "gireen",
+      "fell (f. pl.)"
+    ],
+    "رنگ": [
+      "rang",
+      "colour"
+    ],
+    "تبدیل": [
+      "tabdeel",
+      "changed (“tabdeel ho gaya” = changed)"
+    ],
+    "حیران": [
+      "hairaan",
+      "surprised; amazed"
+    ],
+    "پیا": [
+      "piya",
+      "drank"
+    ],
+    "اسے": [
+      "use",
+      "to him (= us ko) (“use … mehsoos hui” = he felt)"
+    ],
+    "فرحت": [
+      "farhat",
+      "refreshment; delight"
+    ],
+    "تازگی": [
+      "taazgi",
+      "freshness"
+    ],
+    "محسوس": [
+      "mehsoos",
+      "felt (“mehsoos hona” = to be felt)"
+    ],
+    "چھا": [
+      "chha",
+      "“chha” (the exclamation that, in the story, gave tea its name)"
+    ],
+    "نکلا": [
+      "nikla",
+      "came out (m.)"
+    ],
+    "غالباً": [
+      "ghaaliban",
+      "probably"
+    ],
+    "نام": [
+      "naam",
+      "name (“naam rakh diya” = named)"
+    ],
+    "رکھ": [
+      "rakh",
+      "put; give (“naam rakh diya” = named)"
+    ],
+    "بگڑ": [
+      "bigaṛ",
+      "changing; getting distorted (“bigaṛ kar” = changing into)"
+    ],
+    "چاء": [
+      "chaa",
+      "“chaa” (an older form of the word for tea)"
+    ],
+    "اب": [
+      "ab",
+      "now"
+    ],
+    "چائے": [
+      "chaaye",
+      "tea"
+    ],
+    "کہلاتا": [
+      "kehlaata",
+      "is called (m.) (“kehlaata hai”)"
+    ],
+    "ماہرِنباتات": [
+      "maahir-e-nabaataat",
+      "botanist (“expert in plants”; written as one word in the source)"
+    ],
+    "لہٰذااس": [
+      "lihaaza us",
+      "therefore he (“lihaaza” + “us”, written as one word in the source)"
+    ],
+    "وقتاً": [
+      "waqtan",
+      "from time (“waqtan fauqan” = from time to time)"
+    ],
+    "فوقتاً": [
+      "fauqan",
+      "to time (“waqtan fauqan” = from time to time)"
+    ],
+    "پتّا": [
+      "patta",
+      "leaf"
+    ],
+    "ملا": [
+      "mila",
+      "mixing (“mila kar” = having mixed in)"
+    ],
+    "پینا": [
+      "peena",
+      "to drink (“peena shuroo kar diya” = started drinking)"
+    ],
+    "شروع": [
+      "shuroo",
+      "begun (“shuroo kar dena” = to start)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "پسندیدہ": [
+      "pasandeeda",
+      "favourite"
+    ],
+    "مشروب": [
+      "mashroob",
+      "drink; beverage"
+    ],
+    "پودے": [
+      "paude",
+      "plant (oblique)"
+    ],
+    "پتیوں": [
+      "pattiyon",
+      "leaves (pl. oblique)"
+    ],
+    "چند": [
+      "chand",
+      "a few"
+    ],
+    "منٹ": [
+      "minaṭ",
+      "minute(s)"
+    ],
+    "ابالنے": [
+      "ubaalne",
+      "boiling (oblique) (“ubaalne se” = by boiling)"
+    ],
+    "ضرورت": [
+      "zaroorat",
+      "need"
+    ],
+    "خواہش": [
+      "khwaahish",
+      "wish; liking"
+    ],
+    "مطابق": [
+      "mutaabiq",
+      "according to (“ke mutaabiq”)"
+    ],
+    "چینی": [
+      "cheeni",
+      "sugar; also Chinese (“cheeni zabaan” = the Chinese language)"
+    ],
+    "دودھ": [
+      "doodh",
+      "milk"
+    ],
+    "ملاتے": [
+      "milaate",
+      "(they) mix in; add (“milaate hain”)"
+    ],
+    "کیفین": [
+      "kaifeen",
+      "caffeine"
+    ],
+    "موجودگی": [
+      "maujoodgi",
+      "presence"
+    ],
+    "تروتازہ": [
+      "taro-taaza",
+      "fresh and lively (“taro-taaza kar deti hai” = refreshes)"
+    ],
+    "دیتی": [
+      "deti",
+      "gives (f.) (“kar deti hai” = makes)"
+    ],
+    "انگریزی": [
+      "angrezi",
+      "English (the language)"
+    ],
+    "ٹی": [
+      "ṭee",
+      "tea (the English word, written in Urdu)"
+    ],
+    "Tea": [
+      "tea",
+      "tea (the English word)"
+    ],
+    "دونوں": [
+      "donon",
+      "both"
+    ],
+    "زبان": [
+      "zabaan",
+      "language"
+    ],
+    "الفاظ": [
+      "alfaaz",
+      "words (pl. of “lafz”)"
+    ],
+    "اصل": [
+      "asl",
+      "original"
+    ],
+    "وطن": [
+      "watan",
+      "homeland"
+    ],
+    "مشرقی": [
+      "mashriqi",
+      "eastern"
+    ],
+    "جنوب": [
+      "junoob",
+      "south (“junoob mashriqi” = south-eastern)"
+    ],
+    "میانمار": [
+      "myaanmaar",
+      "Myanmar"
+    ],
+    "آسام": [
+      "aasaam",
+      "Assam"
+    ],
+    "بھارت": [
+      "bhaarat",
+      "India"
+    ],
+    "شامل": [
+      "shaamil",
+      "included (“shaamil hain” = include)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "کہانی کے مطابق بادشاہ کے پانی میں کیا گرا؟",
+      "english": "According to the story, what fell into the emperor's water?",
+      "options": [
+        {
+          "urdu": "چینی",
+          "english": "Sugar"
+        },
+        {
+          "urdu": "درخت کی پتیاں",
+          "english": "Leaves from the tree"
+        },
+        {
+          "urdu": "دودھ",
+          "english": "Milk"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "چائے کیسے تیار ہوتی ہے؟",
+      "english": "How is tea made?",
+      "options": [
+        {
+          "urdu": "پتیوں کو گرم پانی میں ابال کر",
+          "english": "By boiling the leaves in hot water"
+        },
+        {
+          "urdu": "دودھ میں چینی ملا کر",
+          "english": "By mixing sugar into milk"
+        },
+        {
+          "urdu": "پھلوں کا رس نکال کر",
+          "english": "By squeezing fruit juice"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "چائے پینے والے کو تروتازہ کیوں کر دیتی ہے؟",
+      "english": "Why does tea refresh the drinker?",
+      "options": [
+        {
+          "urdu": "دودھ کی وجہ سے",
+          "english": "Because of the milk"
+        },
+        {
+          "urdu": "چینی کی وجہ سے",
+          "english": "Because of the sugar"
+        },
+        {
+          "urdu": "کیفین کی وجہ سے",
+          "english": "Because of the caffeine"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

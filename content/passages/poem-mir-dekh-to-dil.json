@@ -1,0 +1,452 @@
+{
+  "id": "poem-mir-dekh-to-dil",
+  "title": {
+    "urdu": "دیکھ تو دل کہ جاں سے اٹھتا ہے",
+    "english": "Where Does This Smoke Rise From?"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": [
+    "love",
+    "ghazal"
+  ],
+  "source": {
+    "name": "Urdu Wikisource: دیکھ تو دل کہ جاں سے اُٹھتا ہے (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D8%AF%DB%8C%DA%A9%DA%BE_%D8%AA%D9%88_%D8%AF%D9%84_%DA%A9%DB%81_%D8%AC%D8%A7%DA%BA_%D8%B3%DB%92_%D8%A7%D9%8F%D9%B9%DA%BE%D8%AA%D8%A7_%DB%81%DB%92",
+    "author": "Mir Taqi Mir",
+    "license": "Public domain"
+  },
+  "intro": "A ghazal by Mir Taqi Mir (1723–1810), known to many through sung versions. Its refrain “uṭhta hai” changes meaning from couplet to couplet: smoke and flames rise, a lover gets up and leaves, a heavy stone is lifted. Note the old Delhi idiom “de hai” for “deta hai”. These are all nine couplets as given on Wikisource.",
+  "sentences": [
+    {
+      "urdu": "دیکھ تو دل کہ جاں سے اٹھتا ہے",
+      "english": "Look, does it rise from the heart, or from the soul —",
+      "verse": true
+    },
+    {
+      "urdu": "یہ دھواں سا کہاں سے اٹھتا ہے",
+      "english": "this smoke-like haze: where is it rising from?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کے اندر سے دھواں سا اٹھ رہا ہے، یعنی عشق کی آگ میں کچھ جل رہا ہے۔ وہ حیرت سے پوچھتا ہے کہ یہ دھواں دل سے اٹھ رہا ہے یا جان سے۔",
+        "english": "Something like smoke is rising inside the poet: love's fire is burning him. Bewildered, he asks whether it comes from his heart or from his very soul."
+      }
+    },
+    {
+      "urdu": "گور کس دل جلے کی ہے یہ فلک",
+      "english": "Whose grave is this sky — of which heart-burnt lover —",
+      "verse": true
+    },
+    {
+      "urdu": "شعلہ اک صبح یاں سے اٹھتا ہے",
+      "english": "that a flame rises from here at dawn?",
+      "verse": true,
+      "explanation": {
+        "urdu": "صبح کے وقت آسمان پر سرخی دیکھ کر شاعر کہتا ہے کہ یہ آسمان کسی جلے ہوئے دل والے عاشق کی قبر لگتا ہے، جس سے ہر صبح ایک شعلہ اٹھتا ہے۔",
+        "english": "Seeing the red glow of sunrise, the poet imagines the sky as the grave of some heartsick lover, from which a flame rises every morning."
+      }
+    },
+    {
+      "urdu": "خانہء دل سے زنہار نہ جا",
+      "english": "Never leave the house of the heart;",
+      "verse": true
+    },
+    {
+      "urdu": "کوئی ایسے مکاں سے اٹھتا ہے",
+      "english": "does anyone get up and leave such a dwelling?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر محبوب سے کہتا ہے کہ میرے دل کے گھر سے ہرگز نہ جانا۔ ایسا اچھا گھر بھی کوئی چھوڑ کر جاتا ہے!",
+        "english": "The poet begs the beloved never to leave the home she has in his heart: who would ever walk out of such a dwelling?"
+      }
+    },
+    {
+      "urdu": "نالہ سر کھینچتا ہے جب میرا",
+      "english": "When my lament raises its head,",
+      "verse": true
+    },
+    {
+      "urdu": "شور ایک آسماں سے اٹھتا ہے",
+      "english": "an uproar rises from the sky.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جب شاعر فریاد کرتا ہے تو اس کی آواز اتنی بلند اور دردناک ہوتی ہے کہ آسمان پر بھی شور مچ جاتا ہے۔",
+        "english": "When the poet cries out, his lament is so loud and painful that the heavens themselves are thrown into uproar."
+      }
+    },
+    {
+      "urdu": "لڑتی ہے اُس کی چشمِ شوخ جہاں",
+      "english": "Wherever her playful eye meets another's,",
+      "verse": true
+    },
+    {
+      "urdu": "ایک آشوب واں سے اٹھتا ہے",
+      "english": "a tumult rises from that place.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جہاں محبوب کی شوخ آنکھ کسی سے لڑتی ہے، یعنی نظریں ملتی ہیں، وہاں ایک ہنگامہ کھڑا ہو جاتا ہے اور لوگ اس پر فدا ہو جاتے ہیں۔",
+        "english": "Wherever the beloved's mischievous eye catches someone's glance, turmoil breaks out, as people lose their hearts to her."
+      }
+    },
+    {
+      "urdu": "سدھ لے گھر کی بھی شعلہء آواز",
+      "english": "O flaming voice, take some thought for your own home too:",
+      "verse": true
+    },
+    {
+      "urdu": "دود کچھ آشیاں سے اٹھتا ہے",
+      "english": "some smoke is rising from the nest.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر اپنی آگ جیسی فریاد سے کہتا ہے کہ اپنے گھر کی بھی خبر لے۔ آشیانے سے دھواں اٹھ رہا ہے، یعنی تیری گرمی سے اپنا ہی گھر جلنے لگا ہے۔",
+        "english": "The poet addresses his own fiery song of lament: look to your own home, for smoke is rising from the nest. His burning cries have set his own nest alight."
+      }
+    },
+    {
+      "urdu": "بیٹھنے کون دے ہے پھر اس کو",
+      "english": "Who will ever let him sit down again,",
+      "verse": true
+    },
+    {
+      "urdu": "جو ترے آستاں سے اٹھتا ہے",
+      "english": "the one who rises from your doorstep?",
+      "verse": true,
+      "explanation": {
+        "urdu": "جو شخص محبوب کی چوکھٹ سے اٹھ جائے یا اٹھا دیا جائے، اسے پھر کہیں ٹھکانا نہیں ملتا اور کوئی اسے بیٹھنے نہیں دیتا۔",
+        "english": "Whoever leaves, or is sent away from, the beloved's doorstep finds no place to rest anywhere else. “De hai” is old Delhi Urdu for “deta hai”."
+      }
+    },
+    {
+      "urdu": "یوں اُٹھے آہ اس گلی سے ہم",
+      "english": "Alas, I rose and left that lane",
+      "verse": true
+    },
+    {
+      "urdu": "جیسے کوئی جہاں سے اٹھتا ہے",
+      "english": "the way one departs from the world.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب کی گلی سے جانا عاشق کے لیے ایسا تھا جیسے دنیا سے رخصت ہونا، یعنی موت۔",
+        "english": "For the lover, leaving the beloved's lane was like leaving the world: a kind of death."
+      }
+    },
+    {
+      "urdu": "عشق میر اک بھاری پتھر ہے",
+      "english": "Love, Mir, is a heavy stone;",
+      "verse": true
+    },
+    {
+      "urdu": "کب یہ تجھ ناتواں سے اٹھتا ہے",
+      "english": "how could a weakling like you ever lift it?",
+      "verse": true,
+      "explanation": {
+        "urdu": "مقطع میں شاعر اپنا تخلص لیتا ہے اور خود سے کہتا ہے کہ عشق ایک بہت بھاری پتھر ہے، تم جیسا کمزور آدمی اسے کیسے اٹھا سکتا ہے۔",
+        "english": "In the closing couplet the poet addresses himself by name: love is a heavy stone, too heavy for one as frail as he is."
+      }
+    }
+  ],
+  "glossary": {
+    "دیکھ": [
+      "dekh",
+      "look; see (“dekh to” = just look)"
+    ],
+    "دل": [
+      "dil",
+      "heart (“dil-jala” = heart-burnt, a suffering lover)"
+    ],
+    "کہ": [
+      "keh",
+      "or (Persian usage: “dil keh jaan” = the heart or the soul)"
+    ],
+    "جاں": [
+      "jaan",
+      "soul; life (poetic form of “jaan”)"
+    ],
+    "اٹھتا": [
+      "uṭhta",
+      "rises; gets up and leaves; is lifted (the refrain, used in a different sense in almost every couplet)"
+    ],
+    "دھواں": [
+      "dhuaan",
+      "smoke"
+    ],
+    "سا": [
+      "sa",
+      "like; -ish (“dhuaan sa” = something like smoke)"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where"
+    ],
+    "گور": [
+      "gor",
+      "grave"
+    ],
+    "کس": [
+      "kis",
+      "which; whose (“kis dil-jale ki” = of which heart-burnt lover)"
+    ],
+    "جلے": [
+      "jale",
+      "burnt (oblique) (“dil-jala” = heart-burnt lover)"
+    ],
+    "فلک": [
+      "falak",
+      "sky; the heavens"
+    ],
+    "شعلہ": [
+      "shola",
+      "flame"
+    ],
+    "اک": [
+      "ik",
+      "a; one (short form of “ek”)"
+    ],
+    "یاں": [
+      "yaan",
+      "here (poetic form of “yahaan”)"
+    ],
+    "خانہء": [
+      "khaana-e",
+      "house (of …) (“khaana-e-dil” = the house of the heart)"
+    ],
+    "زنہار": [
+      "zinhaar",
+      "never; by no means (with “na”)"
+    ],
+    "جا": [
+      "ja",
+      "go (“na ja” = don't go)"
+    ],
+    "ایسے": [
+      "aise",
+      "such (oblique)"
+    ],
+    "مکاں": [
+      "makaan",
+      "dwelling; house (poetic form of “makaan”)"
+    ],
+    "نالہ": [
+      "naala",
+      "lament; cry of pain"
+    ],
+    "سر": [
+      "sar",
+      "head (“sar kheenchna” = to rise up, raise its head)"
+    ],
+    "کھینچتا": [
+      "kheenchta",
+      "pulls (“sar kheenchta hai” = raises its head)"
+    ],
+    "شور": [
+      "shor",
+      "uproar; noise"
+    ],
+    "آسماں": [
+      "aasmaan",
+      "sky (poetic form of “aasmaan”)"
+    ],
+    "لڑتی": [
+      "laṛti",
+      "clashes; meets (“aankh laṛna” = for eyes to meet, glances to lock)"
+    ],
+    "اُس": [
+      "us",
+      "her; that (oblique) (here: the beloved's)"
+    ],
+    "اس": [
+      "us",
+      "that; him (oblique)"
+    ],
+    "چشمِ": [
+      "chashm-e",
+      "eye (“chashm-e-shokh” = playful eye)"
+    ],
+    "شوخ": [
+      "shokh",
+      "playful; mischievous"
+    ],
+    "جہاں": [
+      "jahaan",
+      "where; wherever / world (“jahaan se uṭhna” = to leave the world, to die)"
+    ],
+    "آشوب": [
+      "aashob",
+      "tumult; turmoil"
+    ],
+    "واں": [
+      "waan",
+      "there (poetic form of “wahaan”)"
+    ],
+    "سدھ": [
+      "sudh",
+      "thought; awareness (“sudh lena” = to look after, take care of)"
+    ],
+    "لے": [
+      "le",
+      "take"
+    ],
+    "گھر": [
+      "ghar",
+      "home; house"
+    ],
+    "شعلہء": [
+      "shola-e",
+      "flame (of …) (“shola-e-aawaaz” = flaming voice)"
+    ],
+    "آواز": [
+      "aawaaz",
+      "voice"
+    ],
+    "دود": [
+      "dood",
+      "smoke (Persian)"
+    ],
+    "آشیاں": [
+      "aashiyaan",
+      "nest (poetic form of “aashiyaana”)"
+    ],
+    "بیٹھنے": [
+      "baiṭhne",
+      "to sit (“baiṭhne dena” = to let (someone) sit)"
+    ],
+    "کون": [
+      "kaun",
+      "who"
+    ],
+    "دے": [
+      "de",
+      "lets (old Delhi idiom: “de hai” = “deta hai”)"
+    ],
+    "ترے": [
+      "tire",
+      "your (poetic form of “tere”)"
+    ],
+    "آستاں": [
+      "aastaan",
+      "threshold; doorstep (poetic form of “aastaana”)"
+    ],
+    "یوں": [
+      "yoon",
+      "thus; in such a way"
+    ],
+    "اُٹھے": [
+      "uṭhe",
+      "rose; got up and left (pl.)"
+    ],
+    "آہ": [
+      "aah",
+      "alas (a sigh)"
+    ],
+    "گلی": [
+      "gali",
+      "lane"
+    ],
+    "جیسے": [
+      "jaise",
+      "just as; like"
+    ],
+    "میر": [
+      "meer",
+      "Mir (the poet's pen name)"
+    ],
+    "بھاری": [
+      "bhaari",
+      "heavy"
+    ],
+    "پتھر": [
+      "patthar",
+      "stone"
+    ],
+    "کب": [
+      "kab",
+      "when (“kab … uṭhta hai” = how could it ever be lifted)"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (“tujh naatawaan se” = by weak you)"
+    ],
+    "ناتواں": [
+      "naatawaan",
+      "weak; feeble"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر میں شاعر کس چیز کے بارے میں پوچھتا ہے؟",
+      "english": "In the first couplet, what does the poet ask about?",
+      "options": [
+        {
+          "urdu": "دھواں جیسی چیز کہاں سے اٹھ رہی ہے",
+          "english": "where the smoke-like haze is rising from"
+        },
+        {
+          "urdu": "بارش کب ہوگی",
+          "english": "when it will rain"
+        },
+        {
+          "urdu": "محبوب کا گھر کہاں ہے",
+          "english": "where the beloved's house is"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "تیسرے شعر میں شاعر محبوب سے کیا کہتا ہے؟",
+      "english": "In the third couplet, what does the poet tell the beloved?",
+      "options": [
+        {
+          "urdu": "میرے گھر جلدی آؤ",
+          "english": "come to my house soon"
+        },
+        {
+          "urdu": "دنیا کی سیر کرو",
+          "english": "travel the world"
+        },
+        {
+          "urdu": "میرے دل کے گھر سے ہرگز نہ جانا",
+          "english": "never leave the house of my heart"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "آٹھویں شعر میں محبوب کی گلی سے جانا کس چیز جیسا تھا؟",
+      "english": "In the eighth couplet, what was leaving the beloved's lane like?",
+      "options": [
+        {
+          "urdu": "سفر پر جانے جیسا",
+          "english": "like setting out on a journey"
+        },
+        {
+          "urdu": "دنیا سے رخصت ہونے جیسا",
+          "english": "like departing from the world"
+        },
+        {
+          "urdu": "گھر واپس آنے جیسا",
+          "english": "like coming back home"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "آخری شعر میں شاعر عشق کو کیا کہتا ہے؟",
+      "english": "In the last couplet, what does the poet call love?",
+      "options": [
+        {
+          "urdu": "ایک بھاری پتھر",
+          "english": "a heavy stone"
+        },
+        {
+          "urdu": "ایک میٹھا پھل",
+          "english": "a sweet fruit"
+        },
+        {
+          "urdu": "ایک آسان کام",
+          "english": "an easy task"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

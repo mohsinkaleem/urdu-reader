@@ -1,0 +1,338 @@
+{
+  "id": "wiki-manto",
+  "title": {
+    "urdu": "سعادت حسن منٹو",
+    "english": "Saadat Hasan Manto"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": [
+    "people",
+    "language"
+  ],
+  "source": {
+    "name": "Urdu Wikipedia: سعادت حسن منٹو",
+    "url": "https://ur.wikipedia.org/wiki/%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA_%D8%AD%D8%B3%D9%86_%D9%85%D9%86%D9%B9%D9%88",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "From the Urdu Wikipedia article on Saadat Hasan Manto, the great Urdu short-story writer (author of “Toba Tek Singh”): the section on his birth, childhood and unhappy schooling. The source splits one sentence in two (“… bachcha tha. Jo …”), so sentences 4 and 5 belong together.",
+  "sentences": [
+    {
+      "urdu": "منٹو 11 مئی 1912ء کو موضع سمبرالہ، ضلع لدھیانہ میں پیدا ہوئے۔",
+      "english": "Manto was born on 11 May 1912 in the village of Sambrala, in Ludhiana district."
+    },
+    {
+      "urdu": "ان کے والد لدھیانہ کی کسی تحصیل میں تعینات تھے۔",
+      "english": "His father was posted in one of the tehsils of Ludhiana."
+    },
+    {
+      "urdu": "دوست انھیں ٹامی کے نام سے پکارتے تھے۔",
+      "english": "His friends called him “Tommy”."
+    },
+    {
+      "urdu": "منٹو اپنے گھر میں ایک سہما ہوا بچہ تھا۔",
+      "english": "At home Manto was a timid, frightened child,"
+    },
+    {
+      "urdu": "جو سوتیلے بہن بھائیوں کی موجودگی اور والد کی سختی کی وجہ سے اپنا آپ ظاہر نہ کر سکتا تھا۔",
+      "english": "who could not show his true self because of the presence of his half-brothers and half-sisters and the strictness of his father."
+    },
+    {
+      "urdu": "ان کی والدہ ان کی طرف دار تھیں۔",
+      "english": "His mother took his side."
+    },
+    {
+      "urdu": "وہ ابتدا ہی سے اسکول کی تعلیم کی طرف مائل نہیں تھے۔",
+      "english": "From the very start he was not inclined towards schooling."
+    },
+    {
+      "urdu": "ان کی ابتدائی تعلیم گھر میں ہوئی۔",
+      "english": "His early education took place at home."
+    },
+    {
+      "urdu": "1921ء میں اسے ایم اے او مڈل اسکول میں چوتھی جماعت میں داخل کرایا گيا۔",
+      "english": "In 1921 he was enrolled in the fourth class at the M.A.O. Middle School."
+    },
+    {
+      "urdu": "ان کا تعلیمی کریئر حوصلہ افزا نہیں تھا۔",
+      "english": "His academic career was not encouraging."
+    },
+    {
+      "urdu": "میٹرک کے امتحان میں تین مرتبہ فیل ہونے کے بعد انھوں نے 1931میں یہ امتحان پاس کیا تھا۔",
+      "english": "After failing the matriculation exam three times, he passed it in 1931."
+    }
+  ],
+  "glossary": {
+    "منٹو": [
+      "manṭo",
+      "Manto"
+    ],
+    "مئی": [
+      "maee",
+      "May"
+    ],
+    "1912ء": [
+      "1912 eesvi",
+      "1912 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1921ء": [
+      "1921 eesvi",
+      "1921 CE"
+    ],
+    "1931میں": [
+      "1931 mein",
+      "in 1931 (written without a space)"
+    ],
+    "موضع": [
+      "mauza",
+      "village (as an administrative unit)"
+    ],
+    "سمبرالہ": [
+      "sambraala",
+      "Sambrala (a village near Ludhiana)"
+    ],
+    "ضلع": [
+      "zila",
+      "district"
+    ],
+    "لدھیانہ": [
+      "ludhiyaana",
+      "Ludhiana (a city in Indian Punjab)"
+    ],
+    "پیدا": [
+      "paida",
+      "born (“paida hue” = was born)"
+    ],
+    "والد": [
+      "waalid",
+      "father"
+    ],
+    "تحصیل": [
+      "tehseel",
+      "tehsil (a subdivision of a district)"
+    ],
+    "تعینات": [
+      "taiyinaat",
+      "posted; stationed"
+    ],
+    "دوست": [
+      "dost",
+      "friend(s)"
+    ],
+    "انھیں": [
+      "unhen",
+      "him (respectful)"
+    ],
+    "ٹامی": [
+      "ṭaami",
+      "Tommy (an English nickname)"
+    ],
+    "نام": [
+      "naam",
+      "name (“ke naam se pukaarna” = to call by the name)"
+    ],
+    "پکارتے": [
+      "pukaarte",
+      "called (habitual) (“pukaarte the” = used to call)"
+    ],
+    "گھر": [
+      "ghar",
+      "home; house"
+    ],
+    "سہما": [
+      "sehma",
+      "frightened; timid (“sehma hua” = scared)"
+    ],
+    "بچہ": [
+      "bachcha",
+      "child"
+    ],
+    "سوتیلے": [
+      "sauteele",
+      "step- (“sauteele behan bhaai” = step-siblings, half-siblings)"
+    ],
+    "بھائیوں": [
+      "bhaaiyon",
+      "brothers (pl. oblique) (“behan bhaaiyon” = siblings)"
+    ],
+    "موجودگی": [
+      "maujoodgi",
+      "presence"
+    ],
+    "سختی": [
+      "sakhti",
+      "strictness"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason (“ki wajah se” = because of)"
+    ],
+    "اپنا": [
+      "apna",
+      "own (“apna aap zaahir karna” = to show one's true self)"
+    ],
+    "ظاہر": [
+      "zaahir",
+      "visible (“zaahir karna” = to show, express)"
+    ],
+    "سکتا": [
+      "sakta",
+      "could (m.) (“na kar sakta tha” = could not do)"
+    ],
+    "والدہ": [
+      "waalida",
+      "mother"
+    ],
+    "طرف": [
+      "taraf",
+      "side; direction (“taraf daar” = supporter; “ki taraf maail” = inclined towards)"
+    ],
+    "دار": [
+      "daar",
+      "holder (“taraf daar” = one who takes someone's side)"
+    ],
+    "تھیں": [
+      "theen",
+      "was (f., respectful plural)"
+    ],
+    "ابتدا": [
+      "ibtida",
+      "beginning (“ibtida hi se” = from the very start)"
+    ],
+    "تعلیم": [
+      "taaleem",
+      "education; schooling"
+    ],
+    "مائل": [
+      "maail",
+      "inclined"
+    ],
+    "ابتدائی": [
+      "ibtidaai",
+      "early; primary"
+    ],
+    "اسے": [
+      "use",
+      "him (also “her”, “it”)"
+    ],
+    "ایم": [
+      "em",
+      "M (the letter, in “em e o” = M.A.O., Muhammadan Anglo-Oriental)"
+    ],
+    "اے": [
+      "e",
+      "A (the letter, in “em e o” = M.A.O.)"
+    ],
+    "او": [
+      "o",
+      "O (the letter, in “em e o” = M.A.O.)"
+    ],
+    "مڈل": [
+      "miḍal",
+      "middle (“miḍal iskool” = middle school)"
+    ],
+    "چوتھی": [
+      "chauthi",
+      "fourth (f.) (“chauthi jamaat” = fourth class)"
+    ],
+    "داخل": [
+      "daakhil",
+      "admitted (“daakhil karaaya gaya” = was enrolled)"
+    ],
+    "کرایا": [
+      "karaaya",
+      "had done (“daakhil karaaya gaya” = was enrolled)"
+    ],
+    "تعلیمی": [
+      "taaleemi",
+      "educational; academic"
+    ],
+    "کریئر": [
+      "kariyar",
+      "career"
+    ],
+    "حوصلہ": [
+      "hausla",
+      "courage; spirit (“hausla afza” = encouraging)"
+    ],
+    "افزا": [
+      "afza",
+      "increasing (“hausla afza” = encouraging)"
+    ],
+    "میٹرک": [
+      "meeṭrik",
+      "matriculation (the 10th-grade school exam)"
+    ],
+    "مرتبہ": [
+      "martaba",
+      "time(s) (“teen martaba” = three times)"
+    ],
+    "فیل": [
+      "fel",
+      "fail (English) (“fel hona” = to fail)"
+    ],
+    "انھوں": [
+      "unhon",
+      "he (respectful, with “ne”)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "دوست منٹو کو کس نام سے پکارتے تھے؟",
+      "english": "What did Manto's friends call him?",
+      "options": [
+        {
+          "urdu": "سعادت",
+          "english": "Saadat"
+        },
+        {
+          "urdu": "ٹامی",
+          "english": "Tommy"
+        },
+        {
+          "urdu": "منٹو صاحب",
+          "english": "Manto Sahib"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "منٹو گھر میں سہما ہوا بچہ کیوں تھا؟",
+      "english": "Why was Manto a frightened child at home?",
+      "options": [
+        {
+          "urdu": "سوتیلے بہن بھائیوں اور والد کی سختی کی وجہ سے",
+          "english": "Because of his half-siblings and his father's strictness"
+        },
+        {
+          "urdu": "اسکول میں فیل ہونے کی وجہ سے",
+          "english": "Because he failed at school"
+        },
+        {
+          "urdu": "والدہ کی سختی کی وجہ سے",
+          "english": "Because of his mother's strictness"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "منٹو نے میٹرک کا امتحان کب پاس کیا؟",
+      "english": "When did Manto pass the matriculation exam?",
+      "options": [
+        {
+          "urdu": "1921ء میں، پہلی ہی بار میں",
+          "english": "In 1921, at the first attempt"
+        },
+        {
+          "urdu": "1912ء میں",
+          "english": "In 1912"
+        },
+        {
+          "urdu": "تین بار فیل ہونے کے بعد 1931ء میں",
+          "english": "In 1931, after failing three times"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

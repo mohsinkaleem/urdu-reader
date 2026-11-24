@@ -1,0 +1,365 @@
+{
+  "id": "poem-momin-woh-jo-hum-mein-1",
+  "title": {
+    "urdu": "وہ جو ہم میں تم میں قرار تھا (حصہ 1)",
+    "english": "You May Remember, or You May Not, part 1"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": [
+    "love",
+    "ghazal"
+  ],
+  "source": {
+    "name": "Urdu Wikisource: وہ جو ہم میں تم میں قرار تھا تمہیں یاد ہو کہ نہ یاد ہو (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D9%88%DB%81_%D8%AC%D9%88_%DB%81%D9%85_%D9%85%DB%8C%DA%BA_%D8%AA%D9%85_%D9%85%DB%8C%DA%BA_%D9%82%D8%B1%D8%A7%D8%B1_%D8%AA%DA%BE%D8%A7_%D8%AA%D9%85%DB%81%DB%8C%DA%BA_%DB%8C%D8%A7%D8%AF_%DB%81%D9%88_%DA%A9%DB%81_%D9%86%DB%81_%DB%8C%D8%A7%D8%AF_%DB%81%D9%88",
+    "author": "Momin Khan Momin",
+    "license": "Public domain"
+  },
+  "intro": "A ghazal by Momin Khan Momin (1800–1851), Ghalib's contemporary in Delhi, and a favourite of ghazal singers. Every couplet ends with the refrain “tumhen yaad ho keh na yaad ho” (you may remember it, or you may not) as the lover reminds the beloved, half tender and half reproachful, of their shared past. This part has couplets 1–6 of 11.",
+  "series": {
+    "id": "poem-momin-woh-jo-hum-mein",
+    "title": "You May Remember, or You May Not",
+    "part": 1,
+    "of": 2
+  },
+  "sentences": [
+    {
+      "urdu": "وہ جو ہم میں تم میں قرار تھا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "That pledge there was between you and me — you may remember it, or you may not;",
+      "verse": true
+    },
+    {
+      "urdu": "وہی یعنی وعدہ نباہ کا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "that very one, I mean the promise to stand by each other — you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر محبوب کو وہ پرانا عہد یاد دلاتا ہے جو دونوں کے بیچ ہوا تھا، یعنی ہمیشہ ساتھ نبھانے کا وعدہ۔ ساتھ ہی ہلکا سا طنز کرتا ہے کہ شاید تمہیں یاد ہو، شاید نہ ہو۔",
+        "english": "The poet reminds the beloved of the old pledge between them, the promise to stay true to each other, and adds with gentle irony that perhaps she remembers, perhaps not."
+      }
+    },
+    {
+      "urdu": "وہ جو لطف مجھ پہ تھے بیشتر وہ کرم کہ تھا مرے حال پر",
+      "english": "Those favours you showed me so often, that kindness you had for my condition —",
+      "verse": true
+    },
+    {
+      "urdu": "مجھے سب ہے یاد ذرا ذرا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "I remember all of it, every little bit; you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پہلے محبوب عاشق پر بہت مہربان تھا۔ عاشق کو اس کی ہر چھوٹی سے چھوٹی مہربانی یاد ہے، مگر محبوب شاید سب کچھ بھول چکا ہے۔",
+        "english": "The beloved was once very kind to the lover. He remembers every small kindness; she has perhaps forgotten them all."
+      }
+    },
+    {
+      "urdu": "وہ نئے گلے وہ شکایتیں وہ مزے مزے کی حکایتیں",
+      "english": "Those fresh grievances, those complaints, those delightful tales,",
+      "verse": true
+    },
+    {
+      "urdu": "وہ ہر ایک بات پہ روٹھنا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "that sulking over every single thing — you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبت کے دنوں میں دونوں ایک دوسرے سے پیار بھرے گلے شکوے کرتے، مزے مزے کی باتیں سناتے، اور محبوب ہر بات پر روٹھ جاتا تھا۔",
+        "english": "In the days of love they traded affectionate complaints and amusing stories, and the beloved would sulk over every little thing."
+      }
+    },
+    {
+      "urdu": "کبھی بیٹھے سب میں جو روبرو تو اشارتوں ہی سے گفتگو",
+      "english": "If ever we sat face to face among others, we spoke only through gestures,",
+      "verse": true
+    },
+    {
+      "urdu": "وہ بیان شوق کا برملا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "and yet that open telling of desire — you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جب لوگوں کے بیچ آمنے سامنے بیٹھتے تو باتیں صرف اشاروں سے ہوتیں۔ پھر بھی ان اشاروں میں دل کا شوق صاف ظاہر ہو جاتا تھا۔",
+        "english": "When they sat facing each other in company, they could talk only by signs, yet their longing showed plainly through them."
+      }
+    },
+    {
+      "urdu": "ہوئے اتفاق سے گر بہم تو وفا جتانے کو دم بہ دم",
+      "english": "If by chance we happened to meet, then, to prove your faithfulness, every moment",
+      "verse": true
+    },
+    {
+      "urdu": "گلۂ ملامت اقربا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "your complaint about your relatives' reproaches — you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر کبھی اتفاق سے دونوں مل جاتے تو محبوب اپنی وفاداری جتانے کے لیے بار بار شکایت کرتا کہ رشتہ دار مجھے تمہاری وجہ سے برا بھلا کہتے ہیں۔",
+        "english": "Whenever they met by chance, the beloved would keep complaining that her relatives scolded her because of him: a way of showing that she stayed loyal in spite of it."
+      }
+    },
+    {
+      "urdu": "کوئی بات ایسی اگر ہوئی کہ تمہارے جی کو بری لگی",
+      "english": "If ever something happened that hurt your feelings,",
+      "verse": true
+    },
+    {
+      "urdu": "تو بیاں سے پہلے ہی بھولنا تمہیں یاد ہو کہ نہ یاد ہو",
+      "english": "then forgetting it even before a word was said — you may remember it, or you may not.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر عاشق کی کوئی بات محبوب کو بری لگتی تو وہ شکایت کرنے سے پہلے ہی اسے بھلا دیتا تھا، یعنی دل میں نہیں رکھتا تھا۔",
+        "english": "If anything the lover did upset the beloved, she would forget it before even mentioning it, never holding a grudge."
+      }
+    }
+  ],
+  "glossary": {
+    "تم": [
+      "tum",
+      "you"
+    ],
+    "قرار": [
+      "qaraar",
+      "pledge; agreement (also “peace, rest”)"
+    ],
+    "تمہیں": [
+      "tumhen",
+      "to you (“tumhen yaad ho” = you may remember)"
+    ],
+    "یاد": [
+      "yaad",
+      "memory (“yaad hona” = to be remembered)"
+    ],
+    "ہو": [
+      "ho",
+      "may be (subjunctive: “yaad ho” = may remember)"
+    ],
+    "کہ": [
+      "keh",
+      "or (“… ho keh na … ho” = whether … or not); also “that”"
+    ],
+    "وہی": [
+      "wahi",
+      "that very one; the same"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; I mean"
+    ],
+    "وعدہ": [
+      "waada",
+      "promise"
+    ],
+    "نباہ": [
+      "nibaah",
+      "keeping faith; standing by each other"
+    ],
+    "لطف": [
+      "lutf",
+      "favour; kindness (here pl.: favours)"
+    ],
+    "مجھ": [
+      "mujh",
+      "me (“mujh pe” = on me)"
+    ],
+    "بیشتر": [
+      "beshtar",
+      "mostly; very often"
+    ],
+    "کرم": [
+      "karam",
+      "kindness; grace"
+    ],
+    "مرے": [
+      "mire",
+      "my (poetic form of “mere”)"
+    ],
+    "حال": [
+      "haal",
+      "condition; state"
+    ],
+    "ذرا": [
+      "zara",
+      "a little (“zara zara” = every little bit)"
+    ],
+    "نئے": [
+      "naye",
+      "new (pl.)"
+    ],
+    "گلے": [
+      "gile",
+      "complaints; grievances (pl. of “gila”; not “gale”, throat)"
+    ],
+    "شکایتیں": [
+      "shikaayaten",
+      "complaints (pl.)"
+    ],
+    "مزے": [
+      "maze",
+      "fun (“maze maze ki” = delightful, amusing)"
+    ],
+    "حکایتیں": [
+      "hikaayaten",
+      "tales; stories (pl.)"
+    ],
+    "روٹھنا": [
+      "rooṭhna",
+      "sulking; taking offence"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever; once (“kabhi … kabhi” = at one time … at one time)"
+    ],
+    "بیٹھے": [
+      "baiṭhe",
+      "sat (pl.)"
+    ],
+    "روبرو": [
+      "roobaroo",
+      "face to face"
+    ],
+    "اشارتوں": [
+      "ishaaraton",
+      "gestures; signs (pl. oblique, older plural of “ishaara”)"
+    ],
+    "گفتگو": [
+      "guftugoo",
+      "conversation"
+    ],
+    "بیان": [
+      "bayaan",
+      "telling; expression (“bayaan shauq ka” = the telling of desire)"
+    ],
+    "شوق": [
+      "shauq",
+      "longing; desire"
+    ],
+    "برملا": [
+      "barmala",
+      "openly; in public"
+    ],
+    "ہوئے": [
+      "hue",
+      "became (“baham hue” = came together, met)"
+    ],
+    "اتفاق": [
+      "ittifaaq",
+      "chance (“ittifaaq se” = by chance)"
+    ],
+    "گر": [
+      "gar",
+      "if (short for “agar”)"
+    ],
+    "بہم": [
+      "baham",
+      "together (“baham hona” = to meet)"
+    ],
+    "جتانے": [
+      "jataane",
+      "to show; to make a show of (“jataane ko” = in order to show)"
+    ],
+    "دم": [
+      "dam",
+      "moment; breath (“dam ba dam” = every moment)"
+    ],
+    "بہ": [
+      "ba",
+      "by; after (Persian: “dam ba dam” = moment after moment)"
+    ],
+    "گلۂ": [
+      "gila-e",
+      "complaint (about …) (“gila-e-malaamat-e-aqriba” = complaint about relatives' reproaches)"
+    ],
+    "ملامت": [
+      "malaamat-e",
+      "reproach; blame (of …)"
+    ],
+    "اقربا": [
+      "aqriba",
+      "relatives (Arabic plural)"
+    ],
+    "تمہارے": [
+      "tumhaare",
+      "your"
+    ],
+    "جی": [
+      "ji",
+      "heart; mind (“ji ko bura lagna” = to be hurt)"
+    ],
+    "بری": [
+      "buri",
+      "bad (f.) (“buri lagi” = felt bad, hurt)"
+    ],
+    "لگی": [
+      "lagi",
+      "felt; seemed (f.)"
+    ],
+    "بیاں": [
+      "bayaan",
+      "telling; mention (poetic spelling of “bayaan”)"
+    ],
+    "پہلے": [
+      "pehle",
+      "before (“bayaan se pehle” = before it was even said)"
+    ],
+    "بھولنا": [
+      "bhoolna",
+      "forgetting"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "ہر شعر کے آخر میں شاعر محبوب سے کیا کہتا ہے؟",
+      "english": "What does the poet say to the beloved at the end of every couplet?",
+      "options": [
+        {
+          "urdu": "مجھے کچھ یاد نہیں",
+          "english": "I don't remember anything"
+        },
+        {
+          "urdu": "شاید تمہیں یاد ہو، شاید نہ ہو",
+          "english": "perhaps you remember, perhaps not"
+        },
+        {
+          "urdu": "تم کبھی واپس نہ آنا",
+          "english": "never come back"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "لوگوں کے بیچ آمنے سامنے بیٹھ کر دونوں کیسے بات کرتے تھے؟",
+      "english": "How did the two of them talk when they sat facing each other among people?",
+      "options": [
+        {
+          "urdu": "صرف اشاروں سے",
+          "english": "only through gestures"
+        },
+        {
+          "urdu": "زور زور سے",
+          "english": "very loudly"
+        },
+        {
+          "urdu": "خط لکھ کر",
+          "english": "by writing letters"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "اتفاق سے ملنے پر محبوب بار بار کس بات کی شکایت کرتا تھا؟",
+      "english": "When they met by chance, what did the beloved keep complaining about?",
+      "options": [
+        {
+          "urdu": "موسم کی خرابی کی",
+          "english": "the bad weather"
+        },
+        {
+          "urdu": "عاشق کی غربت کی",
+          "english": "the lover's poverty"
+        },
+        {
+          "urdu": "رشتہ داروں کی ملامت کی",
+          "english": "the reproaches of relatives"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

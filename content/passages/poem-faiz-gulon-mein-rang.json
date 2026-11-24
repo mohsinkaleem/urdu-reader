@@ -1,0 +1,454 @@
+{
+  "id": "poem-faiz-gulon-mein-rang",
+  "title": {
+    "urdu": "گلوں میں رنگ بھرے باد نوبہار چلے",
+    "english": "Let the Spring Breeze Fill the Flowers with Colour"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": [
+    "love",
+    "politics",
+    "ghazal"
+  ],
+  "source": {
+    "name": "Rekhta: گلوں میں رنگ بھرے باد نوبہار چلے",
+    "url": "https://www.rekhta.org/ghazals/gulon-men-rang-bhare-baad-e-nau-bahaar-chale-faiz-ahmad-faiz-ghazals?lang=ur",
+    "author": "Faiz Ahmad Faiz",
+    "license": "Personal use only"
+  },
+  "intro": "One of Faiz Ahmad Faiz’s best-loved ghazals, written while he was a political prisoner in the early 1950s and included in Dast-e-Saba (1952). It longs for the beloved, whose coming would bring spring back to the “cage”, and ends with the poet’s road leading from the beloved’s lane to the gallows. Mehdi Hassan’s rendition made it famous, and Rekhta also has versions by Iqbal Bano and others. This is the complete ghazal.",
+  "sentences": [
+    {
+      "urdu": "گلوں میں رنگ بھرے باد نوبہار چلے",
+      "english": "Let the breeze of early spring blow and fill the flowers with colour;",
+      "verse": true
+    },
+    {
+      "urdu": "چلے بھی آؤ کہ گلشن کا کاروبار چلے",
+      "english": "do come, so that the garden’s business may go on.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر محبوب کو بلاتا ہے کہ آ جاؤ تاکہ بہار کی ہوا چلے، پھولوں میں رنگ آئے اور باغ کی رونق پھر سے شروع ہو۔ محبوب کے آنے سے ہی بہار آتی ہے۔",
+        "english": "The poet calls the beloved: come, so that the spring breeze blows, the flowers fill with colour and the garden comes back to life. Spring arrives only with the beloved."
+      }
+    },
+    {
+      "urdu": "قفس اداس ہے یارو صبا سے کچھ تو کہو",
+      "english": "The cage is sad, friends: say something to the morning breeze;",
+      "verse": true
+    },
+    {
+      "urdu": "کہیں تو بہر خدا آج ذکر یار چلے",
+      "english": "for God’s sake, let there be talk of the beloved somewhere today.",
+      "verse": true,
+      "explanation": {
+        "urdu": "قفس یعنی قید خانہ اداس ہے۔ شاعر دوستوں سے کہتا ہے کہ صبح کی ہوا سے کچھ کہو، تاکہ آج کہیں تو محبوب کا ذکر ہو۔ فیض اس وقت خود جیل میں تھے۔",
+        "english": "The cage — the prison — is gloomy. The poet asks his friends to send word with the morning breeze, so that somewhere, today, the beloved is talked about. Faiz himself was in prison at the time."
+      }
+    },
+    {
+      "urdu": "کبھی تو صبح ترے کنج لب سے ہو آغاز",
+      "english": "Let the morning, for once, begin from the corner of your lips;",
+      "verse": true
+    },
+    {
+      "urdu": "کبھی تو شب سر کاکل سے مشکبار چلے",
+      "english": "let the night, for once, drift musk-scented from the tips of your curls.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر چاہتا ہے کہ کبھی دن محبوب کی مسکراہٹ سے شروع ہو اور کبھی رات اس کی زلفوں کی خوشبو سے مہک اٹھے۔",
+        "english": "The poet wishes that one day the morning would begin with the beloved’s smile, and the night would be fragrant with the scent of the beloved’s hair."
+      }
+    },
+    {
+      "urdu": "بڑا ہے درد کا رشتہ یہ دل غریب سہی",
+      "english": "The bond of pain is a great one; this heart may be poor,",
+      "verse": true
+    },
+    {
+      "urdu": "تمہارے نام پہ آئیں گے غم گسار چلے",
+      "english": "but at your name, comforters will come flocking.",
+      "verse": true,
+      "explanation": {
+        "urdu": "درد کا رشتہ بہت مضبوط ہوتا ہے۔ میرا دل غریب اور اکیلا سہی، لیکن تمہارا نام لیتے ہی ہمدرد خود چل کر آ جائیں گے۔",
+        "english": "Shared pain makes a strong bond. My heart may be poor and alone, but as soon as your name is mentioned, sympathisers will come of their own accord."
+      }
+    },
+    {
+      "urdu": "جو ہم پہ گزری سو گزری مگر شب ہجراں",
+      "english": "Whatever befell us, befell us; but, O night of separation,",
+      "verse": true
+    },
+    {
+      "urdu": "ہمارے اشک تری عاقبت سنوار چلے",
+      "english": "our tears have gone and set your fate right.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ہم پر جو گزرا، گزر گیا۔ لیکن جدائی کی رات کو ہمارے آنسوؤں نے سنوار دیا، یعنی ہمارے دکھ نے اس رات کو بھی کچھ معنی دے دیے۔",
+        "english": "What we suffered is past. But our tears have redeemed the night of separation: our grief has given even that night some meaning."
+      }
+    },
+    {
+      "urdu": "حضور یار ہوئی دفتر جنوں کی طلب",
+      "english": "In the beloved’s court, the record of our madness was called for;",
+      "verse": true
+    },
+    {
+      "urdu": "گرہ میں لے کے گریباں کا تار تار چلے",
+      "english": "we went, carrying every thread of our collar tied up in a knot.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جب محبوب کے سامنے ہمارے دیوانے پن کا حساب مانگا گیا تو ہم اپنے پھٹے ہوئے گریبان کے دھاگے گرہ میں باندھ کر لے گئے، یہی ہمارے جنوں کا ثبوت تھا۔",
+        "english": "When, before the beloved, we were asked for the record of our madness, we brought the shreds of our torn collar tied in a knot: that was the proof of our passion."
+      }
+    },
+    {
+      "urdu": "مقام فیضؔ کوئی راہ میں جچا ہی نہیں",
+      "english": "No resting place on the way ever pleased Faiz:",
+      "verse": true
+    },
+    {
+      "urdu": "جو کوئے یار سے نکلے تو سوئے دار چلے",
+      "english": "once he left the beloved’s lane, he set off towards the gallows.",
+      "verse": true,
+      "explanation": {
+        "urdu": "فیض کو راستے میں کوئی ٹھکانہ پسند نہیں آیا۔ محبوب کی گلی سے نکلے تو سیدھے پھانسی کی طرف چل پڑے، یعنی عشق کے بعد اپنے مقصد کے لیے قربانی کا راستہ چنا۔",
+        "english": "No stopping place on the way satisfied Faiz. When he left the beloved’s lane he went straight towards the gallows: after love, he chose the path of sacrifice for his cause."
+      }
+    }
+  ],
+  "glossary": {
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "کبھی": [
+      "kabhi",
+      "once; for once (“kabhi to” = at least once)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "تمہارے": [
+      "tumhaare",
+      "your (“tumhaare naam pe” = at your name)"
+    ],
+    "گے": [
+      "ge",
+      "will (future: “aaein ge” = will come)"
+    ],
+    "ہمارے": [
+      "hamaare",
+      "our (poetic “we” = I)"
+    ],
+    "گلوں": [
+      "gulon",
+      "flowers; roses (pl. oblique)"
+    ],
+    "رنگ": [
+      "rang",
+      "colour"
+    ],
+    "بھرے": [
+      "bhare",
+      "may fill (“rang bhare” = fills with colour)"
+    ],
+    "باد": [
+      "baad(-e)",
+      "breeze; wind (“baad-e-naubahaar” = breeze of early spring)"
+    ],
+    "نوبہار": [
+      "naubahaar",
+      "early spring; the new spring"
+    ],
+    "چلے": [
+      "chale",
+      "may blow; may go on; set off (“chale bhi aao” = do come; “aaenge chale” = will come along)"
+    ],
+    "آؤ": [
+      "aao",
+      "come (“chale bhi aao” = do come now)"
+    ],
+    "گلشن": [
+      "gulshan",
+      "garden; rose garden"
+    ],
+    "کاروبار": [
+      "kaarobaar",
+      "business; daily life and work"
+    ],
+    "قفس": [
+      "qafas",
+      "cage (in poetry: prison)"
+    ],
+    "اداس": [
+      "udaas",
+      "sad; gloomy"
+    ],
+    "یارو": [
+      "yaaro",
+      "O friends (vocative)"
+    ],
+    "صبا": [
+      "saba",
+      "the morning breeze (the lovers’ messenger)"
+    ],
+    "کہو": [
+      "kaho",
+      "say; tell (command)"
+    ],
+    "کہیں": [
+      "kaheen",
+      "somewhere"
+    ],
+    "بہر": [
+      "bahr(-e)",
+      "for the sake of (“bahr-e-khuda” = for God’s sake)"
+    ],
+    "خدا": [
+      "khuda",
+      "God"
+    ],
+    "ذکر": [
+      "zikr(-e)",
+      "mention; talk (“zikr-e-yaar” = talk of the beloved)"
+    ],
+    "یار": [
+      "yaar",
+      "beloved; friend"
+    ],
+    "صبح": [
+      "subah",
+      "morning"
+    ],
+    "ترے": [
+      "tire",
+      "your (poetic form of “tere”)"
+    ],
+    "کنج": [
+      "kunj(-e)",
+      "corner (“kunj-e-lab” = corner of the lips)"
+    ],
+    "لب": [
+      "lab",
+      "lip"
+    ],
+    "آغاز": [
+      "aaghaaz",
+      "beginning (“aaghaaz ho” = may begin)"
+    ],
+    "شب": [
+      "shab(-e)",
+      "night (“shab-e-hijraan” = night of separation)"
+    ],
+    "سر": [
+      "sar(-e)",
+      "tip; end (“sar-e-kaakul” = the tips of the curls)"
+    ],
+    "کاکل": [
+      "kaakul",
+      "curl; lock of hair"
+    ],
+    "مشکبار": [
+      "mushkbaar",
+      "raining musk; fragrant"
+    ],
+    "بڑا": [
+      "baṛa",
+      "great; big"
+    ],
+    "درد": [
+      "dard",
+      "pain"
+    ],
+    "رشتہ": [
+      "rishta",
+      "bond; relationship"
+    ],
+    "غریب": [
+      "ghareeb",
+      "poor; humble; lonely"
+    ],
+    "سہی": [
+      "sahi",
+      "granted; even if (“ghareeb sahi” = poor though it may be)"
+    ],
+    "نام": [
+      "naam",
+      "name (“naam pe” = at the name of)"
+    ],
+    "آئیں": [
+      "aaein",
+      "will come (“aaein ge” = will come)"
+    ],
+    "غم": [
+      "gham",
+      "grief (“gham-gusaar” = comforter)"
+    ],
+    "گسار": [
+      "gusaar",
+      "sharer (“gham-gusaar” = one who shares grief; comforter)"
+    ],
+    "گزری": [
+      "guzri",
+      "passed; befell (“jo ham pe guzri” = what we went through)"
+    ],
+    "سو": [
+      "so",
+      "so; that (“jo … so …” = whatever … that …)"
+    ],
+    "ہجراں": [
+      "hijraan",
+      "separation (“shab-e-hijraan” = night of separation)"
+    ],
+    "اشک": [
+      "ashk",
+      "tears"
+    ],
+    "تری": [
+      "tiri",
+      "your (f.) (poetic form of “teri”)"
+    ],
+    "عاقبت": [
+      "aaqibat",
+      "end; fate; the hereafter"
+    ],
+    "سنوار": [
+      "sanwaar",
+      "adorn; set right (“sanwaar chale” = went and set right)"
+    ],
+    "حضور": [
+      "huzoor(-e)",
+      "presence (“huzoor-e-yaar” = in the beloved’s presence)"
+    ],
+    "ہوئی": [
+      "hui",
+      "was; happened (“talab hui” = was demanded)"
+    ],
+    "دفتر": [
+      "daftar(-e)",
+      "register; record (“daftar-e-junoon” = the record of madness)"
+    ],
+    "جنوں": [
+      "junoon",
+      "madness; passion (poetic spelling of “junoon”)"
+    ],
+    "طلب": [
+      "talab",
+      "demand; summons"
+    ],
+    "گرہ": [
+      "girah",
+      "knot (“girah mein le ke” = tied in a knot of one’s cloth, carrying)"
+    ],
+    "لے": [
+      "le",
+      "taking (“le ke” = taking)"
+    ],
+    "کے": [
+      "ke",
+      "of; having (“le ke” = having taken)"
+    ],
+    "گریباں": [
+      "garebaan",
+      "collar; neckline (tearing it is a sign of madness in love)"
+    ],
+    "تار": [
+      "taar",
+      "thread (“taar taar” = every thread; in shreds)"
+    ],
+    "مقام": [
+      "maqaam(-e)",
+      "stopping place; station (“maqaam-e-faiz” = a resting place for Faiz)"
+    ],
+    "فیضؔ": [
+      "faiz",
+      "Faiz (the poet’s pen name)"
+    ],
+    "راہ": [
+      "raah",
+      "way; path"
+    ],
+    "جچا": [
+      "jacha",
+      "suited; appealed (“jacha hi naheen” = never pleased)"
+    ],
+    "کوئے": [
+      "koo-e",
+      "lane of (“koo-e-yaar” = the beloved’s lane)"
+    ],
+    "نکلے": [
+      "nikle",
+      "came out; left"
+    ],
+    "سوئے": [
+      "soo-e",
+      "towards (“soo-e-daar” = towards the gallows)"
+    ],
+    "دار": [
+      "daar",
+      "gallows"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر محبوب کو کیوں بلا رہا ہے؟",
+      "english": "Why is the poet calling the beloved?",
+      "options": [
+        {
+          "urdu": "تاکہ وہ باغ کے پھول توڑ لے",
+          "english": "so that the beloved can pick the garden’s flowers"
+        },
+        {
+          "urdu": "تاکہ بہار آئے اور گلشن کی رونق لوٹ آئے",
+          "english": "so that spring comes and the garden comes back to life"
+        },
+        {
+          "urdu": "تاکہ وہ قید خانے کا دروازہ بند کر دے",
+          "english": "so that the beloved locks the prison door"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شعر میں \"قفس\" سے کیا مراد ہے؟",
+      "english": "What does “qafas” (cage) stand for in the poem?",
+      "options": [
+        {
+          "urdu": "قید خانہ، جہاں شاعر بند تھا",
+          "english": "the prison where the poet was held"
+        },
+        {
+          "urdu": "پرندوں کی دکان",
+          "english": "a bird shop"
+        },
+        {
+          "urdu": "محبوب کا گھر",
+          "english": "the beloved’s house"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "آخری شعر کے مطابق فیض محبوب کی گلی سے نکل کر کہاں گئے؟",
+      "english": "According to the last couplet, where did Faiz go after leaving the beloved’s lane?",
+      "options": [
+        {
+          "urdu": "واپس اپنے گھر",
+          "english": "back to his home"
+        },
+        {
+          "urdu": "ایک نئے باغ میں",
+          "english": "to a new garden"
+        },
+        {
+          "urdu": "سولی یعنی پھانسی کی طرف",
+          "english": "towards the gallows"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

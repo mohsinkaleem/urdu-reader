@@ -1,0 +1,354 @@
+{
+  "id": "wiki-mohenjo-daro",
+  "title": {
+    "urdu": "موہن جو دڑو",
+    "english": "Mohenjo-daro"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": [
+    "history",
+    "places"
+  ],
+  "source": {
+    "name": "Urdu Wikipedia: موہن جو دڑو",
+    "url": "https://ur.wikipedia.org/wiki/%D9%85%D9%88%DB%81%D9%86_%D8%AC%D9%88_%D8%AF%DA%91%D9%88",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "Mohenjo-daro in Sindh, one of the great cities of the ancient Indus Valley civilisation. This is the opening of its Urdu Wikipedia article: where it lies, when it flourished and why it may have ended.",
+  "sentences": [
+    {
+      "urdu": "موہن جو دڑو (سندھی:موهن جو دڙو اور اردو میں عموماً موئن جو دڑو بھی؛ انگریزی: Moenjo-daro) وادی سندھ کی قدیم تہذیب کا ایک مرکز تھا۔",
+      "english": "Mohenjo-daro (Sindhi: موهن جو دڙو, and in Urdu also commonly موئن جو دڑو; English: Moenjo-daro) was a centre of the ancient civilisation of the Indus Valley."
+    },
+    {
+      "urdu": "یہ لاڑکانہ سے بیس کلومیٹر دور اور سکھر سے 80 کلومیٹر جنوب مغرب میں واقع ہے۔",
+      "english": "It lies twenty kilometres from Larkana and 80 kilometres south-west of Sukkur."
+    },
+    {
+      "urdu": "یہ وادی، وادی سندھ کی تہذیب کے ایک اور اہم مرکز ہڑپہ صوبہ پنجاب سے 686 میل دور ہے۔",
+      "english": "This valley is 686 miles away from Harappa in Punjab province, another important centre of the Indus Valley civilisation."
+    },
+    {
+      "urdu": "یہ شہر 2600 قبل مسیح موجود تھا اور 1700 قبل مسیح میں نامعلوم وجوہات کی بنا پر ختم ہو گیا۔",
+      "english": "This city existed in 2600 BC and came to an end in 1700 BC for unknown reasons."
+    },
+    {
+      "urdu": "تاہم ماہرین کے خیال میں دریائے سندھ کے رخ کی تبدیلی، سیلاب، بیرونی حملہ آور یا زلزلہ اہم وجوہات ہو سکتی ہیں۔",
+      "english": "However, in the experts' view, a change in the course of the Indus River, floods, foreign invaders or an earthquake may have been the main reasons."
+    },
+    {
+      "urdu": "اسے قدیم مصر اور بین النہرین کی تہذیبوں کا ہم عصر سمجھا جاتا ہے۔",
+      "english": "It is considered contemporary with the civilisations of ancient Egypt and Mesopotamia."
+    },
+    {
+      "urdu": "1980ء میں یونیسکو نے اسے یونیسکو عالمی ثقافتی ورثہ قرار دیا۔",
+      "english": "In 1980 UNESCO declared it a UNESCO World Heritage Site."
+    }
+  ],
+  "glossary": {
+    "موہن": [
+      "mohan",
+      "Mohen (“mohan jo daṛo” = Mohenjo-daro, usually explained as “mound of the dead”)"
+    ],
+    "جو": [
+      "jo",
+      "of (Sindhi; in the name “mohan jo daṛo”)"
+    ],
+    "دڑو": [
+      "daṛo",
+      "mound (Sindhi) (“mohan jo daṛo” = Mohenjo-daro)"
+    ],
+    "سندھی:موهن": [
+      "sindhi: mohan",
+      "Sindhi: Mohen (the name in Sindhi script; no space after the colon)"
+    ],
+    "دڙو": [
+      "daṛo",
+      "mound (Sindhi spelling, with the Sindhi letter ڙ)"
+    ],
+    "اردو": [
+      "urdu",
+      "Urdu"
+    ],
+    "عموماً": [
+      "umooman",
+      "usually; commonly"
+    ],
+    "موئن": [
+      "moen",
+      "Moen (another Urdu spelling of the first part of the name)"
+    ],
+    "انگریزی": [
+      "angrezi",
+      "English (the language)"
+    ],
+    "Moenjo-daro": [
+      "moenjo-daro",
+      "the name in English spelling"
+    ],
+    "وادی": [
+      "waadi",
+      "valley (“waadi-e-sindh” = the Indus Valley)"
+    ],
+    "سندھ": [
+      "sindh",
+      "the Indus (“waadi-e-sindh” = the Indus Valley; “dariya-e-sindh” = the Indus River); also Sindh province"
+    ],
+    "قدیم": [
+      "qadeem",
+      "ancient"
+    ],
+    "تہذیب": [
+      "tehzeeb",
+      "civilisation"
+    ],
+    "مرکز": [
+      "markaz",
+      "centre"
+    ],
+    "لاڑکانہ": [
+      "laaṛkaana",
+      "Larkana (a city in Sindh)"
+    ],
+    "بیس": [
+      "bees",
+      "twenty"
+    ],
+    "کلومیٹر": [
+      "kilomeeṭar",
+      "kilometre(s)"
+    ],
+    "دور": [
+      "door",
+      "far; away (“… se door” = away from)"
+    ],
+    "سکھر": [
+      "sakhar",
+      "Sukkur (a city in Sindh)"
+    ],
+    "جنوب": [
+      "junoob",
+      "south (“junoob maghrib” = south-west)"
+    ],
+    "مغرب": [
+      "maghrib",
+      "west"
+    ],
+    "واقع": [
+      "waaqe",
+      "situated (“waaqe hai” = is located)"
+    ],
+    "اہم": [
+      "aham",
+      "important; main"
+    ],
+    "ہڑپہ": [
+      "haṛappa",
+      "Harappa (an ancient city in Punjab)"
+    ],
+    "پنجاب": [
+      "panjaab",
+      "Punjab"
+    ],
+    "میل": [
+      "meel",
+      "mile(s)"
+    ],
+    "قبل": [
+      "qabl",
+      "before (“qabl maseeh” = BC)"
+    ],
+    "مسیح": [
+      "maseeh",
+      "Christ (“qabl maseeh” = BC)"
+    ],
+    "موجود": [
+      "maujood",
+      "present; in existence"
+    ],
+    "نامعلوم": [
+      "naamaaloom",
+      "unknown"
+    ],
+    "وجوہات": [
+      "wujoohaat",
+      "reasons (pl.)"
+    ],
+    "بنا": [
+      "bina",
+      "basis (“ki bina par” = because of; for)"
+    ],
+    "ختم": [
+      "khatm",
+      "ended (“khatm ho gaya” = came to an end)"
+    ],
+    "تاہم": [
+      "taaham",
+      "however"
+    ],
+    "ماہرین": [
+      "maahireen",
+      "experts (pl.)"
+    ],
+    "خیال": [
+      "khayaal",
+      "view; opinion (“ke khayaal mein” = in the view of)"
+    ],
+    "دریائے": [
+      "dariya-e",
+      "river (with izafat) (“dariya-e-sindh” = the Indus River)"
+    ],
+    "رخ": [
+      "rukh",
+      "direction; course"
+    ],
+    "تبدیلی": [
+      "tabdeeli",
+      "change"
+    ],
+    "سیلاب": [
+      "sailaab",
+      "flood(s)"
+    ],
+    "بیرونی": [
+      "beeroni",
+      "foreign; from outside"
+    ],
+    "حملہ": [
+      "hamla",
+      "attack (“hamla aawar” = invader)"
+    ],
+    "آور": [
+      "aawar",
+      "-bringer (“hamla aawar” = invader)"
+    ],
+    "یا": [
+      "ya",
+      "or"
+    ],
+    "زلزلہ": [
+      "zalzala",
+      "earthquake"
+    ],
+    "سکتی": [
+      "sakti",
+      "can (f.) (“ho sakti hain” = may be)"
+    ],
+    "اسے": [
+      "ise",
+      "it (object) (= is ko)"
+    ],
+    "مصر": [
+      "misr",
+      "Egypt"
+    ],
+    "بین": [
+      "bain",
+      "between (“bain-un-nehrain” = Mesopotamia, “between the two rivers”)"
+    ],
+    "النہرین": [
+      "un-nehrain",
+      "the two rivers (“bain-un-nehrain” = Mesopotamia)"
+    ],
+    "تہذیبوں": [
+      "tehzeebon",
+      "civilisations (pl. oblique)"
+    ],
+    "ہم": [
+      "ham",
+      "same; co- (“ham asr” = contemporary)"
+    ],
+    "عصر": [
+      "asr",
+      "age; era (“ham asr” = contemporary)"
+    ],
+    "سمجھا": [
+      "samjha",
+      "considered (“samjha jaata hai” = is considered)"
+    ],
+    "1980ء": [
+      "1980 eesvi",
+      "1980 CE (ء is short for “eesvi”, AD)"
+    ],
+    "یونیسکو": [
+      "yoonesko",
+      "UNESCO"
+    ],
+    "عالمی": [
+      "aalami",
+      "world; global (“aalami saqaafati wirsa” = World Heritage Site)"
+    ],
+    "ثقافتی": [
+      "saqaafati",
+      "cultural"
+    ],
+    "ورثہ": [
+      "wirsa",
+      "heritage"
+    ],
+    "قرار": [
+      "qaraar",
+      "declared (“qaraar dena” = to declare)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "موہن جو دڑو کس قدیم تہذیب کا مرکز تھا؟",
+      "english": "Which ancient civilisation was Mohenjo-daro a centre of?",
+      "options": [
+        {
+          "urdu": "مصر کی تہذیب",
+          "english": "The Egyptian civilisation"
+        },
+        {
+          "urdu": "وادی سندھ کی تہذیب",
+          "english": "The Indus Valley civilisation"
+        },
+        {
+          "urdu": "بین النہرین کی تہذیب",
+          "english": "The Mesopotamian civilisation"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "ماہرین کے خیال میں یہ شہر کیوں ختم ہوا ہو گا؟",
+      "english": "In the experts' view, why might the city have come to an end?",
+      "options": [
+        {
+          "urdu": "سیلاب، زلزلے یا بیرونی حملے کی وجہ سے",
+          "english": "Because of floods, an earthquake or a foreign attack"
+        },
+        {
+          "urdu": "یونیسکو کے فیصلے کی وجہ سے",
+          "english": "Because of a UNESCO decision"
+        },
+        {
+          "urdu": "ہڑپہ کے لوگوں کی وجہ سے",
+          "english": "Because of the people of Harappa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "موہن جو دڑو کس شہر کے قریب ہے؟",
+      "english": "Which city is Mohenjo-daro near?",
+      "options": [
+        {
+          "urdu": "لاہور",
+          "english": "Lahore"
+        },
+        {
+          "urdu": "ہڑپہ",
+          "english": "Harappa"
+        },
+        {
+          "urdu": "لاڑکانہ",
+          "english": "Larkana"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

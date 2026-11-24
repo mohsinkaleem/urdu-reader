@@ -1,0 +1,410 @@
+{
+  "id": "poem-ghalib-yeh-na-thi-1",
+  "title": {
+    "urdu": "یہ نہ تھی ہماری قسمت کہ وصال یار ہوتا (حصہ 1)",
+    "english": "It Was Not My Fate, part 1"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": [
+    "love",
+    "philosophy",
+    "ghazal"
+  ],
+  "source": {
+    "name": "Urdu Wikisource: یہ نہ تھی ہماری قسمت کہ وصال یار ہوتا (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%DB%8C%DB%81_%D9%86%DB%81_%D8%AA%DA%BE%DB%8C_%DB%81%D9%85%D8%A7%D8%B1%DB%8C_%D9%82%D8%B3%D9%85%D8%AA_%DA%A9%DB%81_%D9%88%D8%B5%D8%A7%D9%84_%DB%8C%D8%A7%D8%B1_%DB%81%D9%88%D8%AA%D8%A7",
+    "author": "Mirza Ghalib",
+    "license": "Public domain"
+  },
+  "intro": "One of the best-known ghazals of Mirza Ghalib (1797–1869). The refrain “hota” (would have been) runs through a chain of “if only” thoughts: had the poet lived longer, believed the beloved's promise, or been shot by a fully drawn arrow, things would have been different. This part has couplets 1–6 of 11.",
+  "series": {
+    "id": "poem-ghalib-yeh-na-thi",
+    "title": "It Was Not My Fate",
+    "part": 1,
+    "of": 2
+  },
+  "sentences": [
+    {
+      "urdu": "یہ نہ تھی ہماری قسمت کہ وصال یار ہوتا",
+      "english": "It was not my fate to be united with the beloved;",
+      "verse": true
+    },
+    {
+      "urdu": "اگر اور جیتے رہتے یہی انتظار ہوتا",
+      "english": "had I lived on longer, it would have been this same waiting.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ محبوب سے ملنا میری قسمت میں ہی نہیں تھا۔ اگر میں اور زیادہ جیتا تو بھی بس یہی انتظار رہتا، اس لیے موت آنے سے کچھ نہیں کھویا۔",
+        "english": "Union with the beloved was simply not in the poet's fate. Had he lived longer, he would only have gone on waiting, so death has cost him nothing."
+      }
+    },
+    {
+      "urdu": "ترے وعدے پر جیے ہم تو یہ جان جھوٹ جانا",
+      "english": "If I lived on your promise, then know this: I knew it was a lie;",
+      "verse": true
+    },
+    {
+      "urdu": "کہ خوشی سے مر نہ جاتے اگر اعتبار ہوتا",
+      "english": "for would I not have died of joy, had I believed it?",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر میں تیرے وعدے کے سہارے زندہ رہا تو سمجھ لے کہ میں نے اسے جھوٹا سمجھا تھا۔ اگر یقین ہوتا کہ تو سچ مچ آئے گا تو میں خوشی سے ہی مر جاتا۔",
+        "english": "If the poet survived on the beloved's promise, it is only because he never believed it: had he trusted it, he would have died of sheer joy."
+      }
+    },
+    {
+      "urdu": "تری نازکی سے جانا کہ بندھا تھا عہد بودا",
+      "english": "From your delicacy I knew that the pledge you made was flimsy;",
+      "verse": true
+    },
+    {
+      "urdu": "کبھی تو نہ توڑ سکتا اگر استوار ہوتا",
+      "english": "you could never have broken it, had it been firm.",
+      "verse": true,
+      "explanation": {
+        "urdu": "محبوب اتنا نازک ہے کہ کوئی مضبوط چیز نہیں توڑ سکتا۔ اس نے اپنا عہد توڑ دیا، تو معلوم ہوا کہ وہ عہد شروع سے ہی کمزور تھا۔ یہ شکایت بھی ہے اور تعریف بھی۔",
+        "english": "The beloved is so delicate that she could not break anything strong; since she broke her pledge, it must have been weak from the start. The line is a complaint and a compliment at once."
+      }
+    },
+    {
+      "urdu": "کوئی میرے دل سے پوچھے ترے تیر نیم کش کو",
+      "english": "Let someone ask my heart about your half-drawn arrow:",
+      "verse": true
+    },
+    {
+      "urdu": "یہ خلش کہاں سے ہوتی جو جگر کے پار ہوتا",
+      "english": "where would this ache come from, had it gone right through my heart?",
+      "verse": true,
+      "explanation": {
+        "urdu": "تیرِ نیم کش وہ تیر ہے جو کمان پوری طرح کھینچے بغیر چلایا جائے، اس لیے وہ دل میں اٹک کر رہ جاتا ہے۔ اگر تیر جگر کے پار ہو جاتا تو یہ میٹھی چبھن باقی نہ رہتی۔",
+        "english": "A “half-drawn arrow” is shot without pulling the bow fully, so it lodges in the heart and stays there: the beloved's half-hearted glance. Had it passed clean through, this sweet, lasting ache would not exist. “Jigar” (liver) is a seat of passion in Urdu poetry."
+      }
+    },
+    {
+      "urdu": "یہ کہاں کی دوستی ہے کہ بنے ہیں دوست ناصح",
+      "english": "What kind of friendship is this, that friends have turned preachers?",
+      "verse": true
+    },
+    {
+      "urdu": "کوئی چارہ ساز ہوتا کوئی غم گسار ہوتا",
+      "english": "If only someone were a healer, someone a sharer of grief!",
+      "verse": true,
+      "explanation": {
+        "urdu": "دوست عاشق کو نصیحت کرنے لگے ہیں کہ عشق چھوڑ دو۔ شاعر کہتا ہے یہ کیسی دوستی ہے؟ کاش کوئی علاج کرنے والا یا دکھ بانٹنے والا ہوتا۔",
+        "english": "The poet's friends lecture him to give up love. What kind of friendship is that? He needs someone to heal him or share his sorrow, not advice."
+      }
+    },
+    {
+      "urdu": "رگ سنگ سے ٹپکتا وہ لہو کہ پھر نہ تھمتا",
+      "english": "Blood would have dripped from the vein of stone, never to stop,",
+      "verse": true
+    },
+    {
+      "urdu": "جسے غم سمجھ رہے ہو یہ اگر شرار ہوتا",
+      "english": "if this thing you take for grief had been a spark.",
+      "verse": true,
+      "explanation": {
+        "urdu": "پتھر سے چنگاری نکلتی ہے۔ شاعر کہتا ہے جسے تم معمولی غم سمجھ رہے ہو، وہ اتنا سخت ہے کہ اگر یہ چنگاری ہوتا تو پتھر کی رگ سے بھی ایسا خون بہتا جو کبھی نہ رکتا۔",
+        "english": "Sparks are struck from stone. The poet says the grief others think ordinary is so fierce that, were it a spark, the stone itself would bleed without end."
+      }
+    }
+  ],
+  "glossary": {
+    "ہماری": [
+      "hamaari",
+      "our; my (poets often say “hum” for “I”)"
+    ],
+    "قسمت": [
+      "qismat",
+      "fate; destiny"
+    ],
+    "وصال": [
+      "visaal-e",
+      "union (with …) (“visaal-e-yaar” = union with the beloved)"
+    ],
+    "یار": [
+      "yaar",
+      "beloved; friend"
+    ],
+    "ہوتا": [
+      "hota",
+      "would be; would have been (unreal condition)"
+    ],
+    "جیتے": [
+      "jeete",
+      "living (“jeete rehte” = had gone on living)"
+    ],
+    "رہتے": [
+      "rehte",
+      "kept on (“jeete rehte” = had gone on living)"
+    ],
+    "انتظار": [
+      "intezaar",
+      "waiting"
+    ],
+    "ترے": [
+      "tire",
+      "your (poetic form of “tere”)"
+    ],
+    "وعدے": [
+      "waade",
+      "promise (oblique)"
+    ],
+    "جیے": [
+      "jiye",
+      "lived (pl.)"
+    ],
+    "جان": [
+      "jaan",
+      "know (imperative: “yeh jaan” = know this)"
+    ],
+    "جھوٹ": [
+      "jhooṭ",
+      "lie; false"
+    ],
+    "جانا": [
+      "jaana",
+      "knew; understood (“jhooṭ jaana” = knew it to be a lie)"
+    ],
+    "مر": [
+      "mar",
+      "die (“mar na jaate” = would I not have died; “mar ke” = after dying)"
+    ],
+    "جاتے": [
+      "jaate",
+      "(“mar na jaate” = would we not have died)"
+    ],
+    "اعتبار": [
+      "aitbaar",
+      "trust; belief"
+    ],
+    "تری": [
+      "tiri",
+      "your (f.) (poetic form of “teri”)"
+    ],
+    "نازکی": [
+      "naazuki",
+      "delicacy; tenderness"
+    ],
+    "بندھا": [
+      "bandha",
+      "was tied; was made (“bandha tha ahd” = the pledge had been made)"
+    ],
+    "عہد": [
+      "ahd",
+      "pledge; vow"
+    ],
+    "بودا": [
+      "boda",
+      "weak; flimsy"
+    ],
+    "کبھی": [
+      "kabhi",
+      "ever (“kabhi … na” = never)"
+    ],
+    "توڑ": [
+      "toṛ",
+      "break"
+    ],
+    "سکتا": [
+      "sakta",
+      "could (“toṛ sakta” = could break)"
+    ],
+    "استوار": [
+      "ustuwaar",
+      "firm; solid"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "پوچھے": [
+      "poochhe",
+      "(someone) should ask"
+    ],
+    "تیر": [
+      "teer-e",
+      "arrow (“teer-e-neem-kash” = half-drawn arrow)"
+    ],
+    "نیم": [
+      "neem",
+      "half"
+    ],
+    "کش": [
+      "kash",
+      "drawn (“neem-kash” = half-drawn)"
+    ],
+    "خلش": [
+      "khalish",
+      "prick; lingering ache"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where (“kahaan ki dosti” = what kind of friendship; “kahaan bachen” = how can one escape)"
+    ],
+    "ہوتی": [
+      "hoti",
+      "would be (f.)"
+    ],
+    "جو": [
+      "jo",
+      "if (poetic, = “agar”)"
+    ],
+    "جگر": [
+      "jigar",
+      "liver; in poetry, the heart, seat of passion"
+    ],
+    "پار": [
+      "paar",
+      "across; through (“ke paar hona” = to go right through)"
+    ],
+    "دوستی": [
+      "dosti",
+      "friendship"
+    ],
+    "بنے": [
+      "bane",
+      "have become (pl.) (“bane hain naaseh” = have turned preachers)"
+    ],
+    "دوست": [
+      "dost",
+      "friends"
+    ],
+    "ناصح": [
+      "naaseh",
+      "preacher; adviser"
+    ],
+    "چارہ": [
+      "chaara",
+      "remedy (“chaara-saaz” = healer)"
+    ],
+    "ساز": [
+      "saaz",
+      "maker (suffix: “chaara-saaz” = healer)"
+    ],
+    "گسار": [
+      "gusaar",
+      "sharer (suffix: “gham-gusaar” = one who shares sorrow)"
+    ],
+    "رگ": [
+      "rag-e",
+      "vein (of …) (“rag-e-sang” = the vein of stone)"
+    ],
+    "سنگ": [
+      "sang",
+      "stone"
+    ],
+    "ٹپکتا": [
+      "ṭapakta",
+      "would drip"
+    ],
+    "وہ": [
+      "woh",
+      "such (“woh lahoo keh” = such blood that)"
+    ],
+    "لہو": [
+      "lahoo",
+      "blood"
+    ],
+    "تھمتا": [
+      "thamta",
+      "would stop"
+    ],
+    "جسے": [
+      "jise",
+      "that which (“jise gham samajh rahe ho” = what you take to be grief)"
+    ],
+    "سمجھ": [
+      "samajh",
+      "(“samajh rahe ho” = you are taking (it) to be)"
+    ],
+    "ہو": [
+      "ho",
+      "are (with “tum”: “samajh rahe ho” = you are thinking)"
+    ],
+    "شرار": [
+      "sharaar",
+      "spark"
+    ],
+    "کے": [
+      "ke",
+      "having (“mar ke” = after dying)"
+    ],
+    "اور": [
+      "aur",
+      "more (“aur jeete rehte” = had lived longer)"
+    ],
+    "تو": [
+      "to / tu",
+      "then (“to yeh jaan” = then know this) / you (informal: “tu na toṛ sakta” = you could not break)"
+    ],
+    "غم": [
+      "gham",
+      "grief; sorrow (“gham-gusaar” = sharer of sorrow)"
+    ],
+    "کہ": [
+      "keh",
+      "that; for (“keh khushi se mar na jaate” = for would I not have died of joy)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر کے مطابق اگر شاعر اور جیتا تو کیا ہوتا؟",
+      "english": "According to the first couplet, what would have happened if the poet had lived longer?",
+      "options": [
+        {
+          "urdu": "وہ محبوب سے مل جاتا",
+          "english": "he would have met the beloved"
+        },
+        {
+          "urdu": "وہ بس انتظار ہی کرتا رہتا",
+          "english": "he would simply have gone on waiting"
+        },
+        {
+          "urdu": "وہ محبوب کو بھول جاتا",
+          "english": "he would have forgotten the beloved"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعر کیسے جانتا ہے کہ اسے محبوب کے وعدے پر یقین نہیں تھا؟",
+      "english": "How does the poet know that he did not believe the beloved's promise?",
+      "options": [
+        {
+          "urdu": "کیونکہ اگر یقین ہوتا تو وہ خوشی سے مر جاتا",
+          "english": "because if he had believed it, he would have died of joy"
+        },
+        {
+          "urdu": "کیونکہ محبوب نے خود بتا دیا",
+          "english": "because the beloved told him so"
+        },
+        {
+          "urdu": "کیونکہ دوستوں نے اسے سمجھایا",
+          "english": "because his friends warned him"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "پانچویں شعر میں شاعر کو دوستوں سے کیا شکایت ہے؟",
+      "english": "In the fifth couplet, what is the poet's complaint about his friends?",
+      "options": [
+        {
+          "urdu": "وہ اس سے ملنے نہیں آتے",
+          "english": "they never come to see him"
+        },
+        {
+          "urdu": "وہ اس کا مذاق اڑاتے ہیں",
+          "english": "they make fun of him"
+        },
+        {
+          "urdu": "وہ علاج یا ہمدردی کی بجائے نصیحت کرتے ہیں",
+          "english": "they give advice instead of healing or sympathy"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

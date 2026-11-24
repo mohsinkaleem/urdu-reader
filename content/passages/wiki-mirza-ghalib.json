@@ -1,0 +1,486 @@
+{
+  "id": "wiki-mirza-ghalib",
+  "title": {
+    "urdu": "مرزا غالب",
+    "english": "Mirza Ghalib"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": [
+    "people",
+    "language"
+  ],
+  "source": {
+    "name": "Urdu Wikipedia: مرزا غالب",
+    "url": "https://ur.wikipedia.org/wiki/%D9%85%D8%B1%D8%B2%D8%A7_%D8%BA%D8%A7%D9%84%D8%A8",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "From the Urdu Wikipedia article on Mirza Ghalib, the great 19th-century poet of Urdu and Persian: the opening paragraph on why he matters, followed by the short section on his birth, which gives two different dates.",
+  "sentences": [
+    {
+      "urdu": "نجم الدولہ، دبیر الملک، مرزا نوشہ اسد اللہ خان غالب بہادر نظام جنگ (1797ء- 1869ء) اردو زبان کے سب سے بڑے شاعروں میں ایک سمجھے جاتے ہیں۔",
+      "english": "Najm-ud-Daula, Dabir-ul-Mulk, Mirza Nausha Asadullah Khan Ghalib Bahadur, Nizam Jang (1797–1869) is considered one of the greatest poets of the Urdu language."
+    },
+    {
+      "urdu": "یہ تسلیم شدہ بات ہے کہ 19 ویں صدی غالب کی صدی ہے۔",
+      "english": "It is an accepted fact that the 19th century is Ghalib's century."
+    },
+    {
+      "urdu": "جبکہ 18 ویں میر تقی میر کی تھی اور 20 ویں علامہ اقبال کی۔",
+      "english": "Whereas the 18th belonged to Mir Taqi Mir, and the 20th to Allama Iqbal."
+    },
+    {
+      "urdu": "غالب کی عظمت کا راز صرف ان کی شاعری کے حسن اور بیان کی خوبی ہی میں نہیں ہے۔",
+      "english": "The secret of Ghalib's greatness lies not only in the beauty of his poetry and the excellence of his expression."
+    },
+    {
+      "urdu": "ان کا اصل کمال یہ ہے کہ وہ زندگی کے حقائق اور انسانی نفسیات کو گہرائی میں جا کر سمجھتے تھے اور بڑی سادگی سے عام لوگوں کے لیے بیان کر دیتے تھے۔",
+      "english": "His real achievement is that he understood the truths of life and human psychology in depth, and explained them with great simplicity for ordinary people."
+    },
+    {
+      "urdu": "غالب جس پر آشوب دور میں پیدا ہوئے اس میں انھوں نے مسلمانوں کی ایک عظیم سلطنت کو برباد ہوتے ہوئے اور باہر سے آئی ہوئی انگریز قوم کو ملک کے اقتدار پر چھاتے ہوئے دیکھا۔",
+      "english": "In the turbulent age into which Ghalib was born, he saw a great Muslim empire being ruined and the English, a nation that had come from outside, taking over the country's power."
+    },
+    {
+      "urdu": "غالباً یہی وہ پس منظر ہے جس نے ان کی نظر میں گہرائی اور فکر میں وسعت پیدا کی۔",
+      "english": "Probably it is this background that gave depth to his vision and breadth to his thought."
+    },
+    {
+      "urdu": "مشہور قول کے مطابق غالب 27 دسمبر 1797ء کو کالا محل، آگرہ میں پیدا ہوئے۔",
+      "english": "According to the well-known account, Ghalib was born on 27 December 1797 at Kala Mahal, Agra."
+    },
+    {
+      "urdu": "مشہور پاکستانی ماہر فلکیات سید صمد حسین رضوی (متوفی 2009ء) کی تحقیق کے مطابق غالب 8 جنوری 1797ء کو پیدا ہوئے تھے۔",
+      "english": "According to research by the well-known Pakistani astronomer Syed Samad Husain Rizvi (died 2009), Ghalib was born on 8 January 1797."
+    }
+  ],
+  "glossary": {
+    "نجم": [
+      "najm",
+      "star (“najm-ud-daula” = Star of the State, one of his titles)"
+    ],
+    "الدولہ": [
+      "ud-daula",
+      "of the state (in the title “najm-ud-daula”)"
+    ],
+    "دبیر": [
+      "dabeer",
+      "secretary; scribe (“dabeer-ul-mulk” = Secretary of the Realm, a title)"
+    ],
+    "الملک": [
+      "ul-mulk",
+      "of the realm (in the title “dabeer-ul-mulk”)"
+    ],
+    "مرزا": [
+      "mirza",
+      "Mirza (a title of Mughal nobility)"
+    ],
+    "نوشہ": [
+      "nausha",
+      "Nausha, “bridegroom” (a family pet name)"
+    ],
+    "اسد": [
+      "asad",
+      "Asad, “lion” (“asad ullaah” = Asadullah, his given name)"
+    ],
+    "اللہ": [
+      "ullaah",
+      "-ullah, “of God” (in “asad ullaah” = Asadullah)"
+    ],
+    "خان": [
+      "khaan",
+      "Khan"
+    ],
+    "غالب": [
+      "ghaalib",
+      "Ghalib, “victorious” (his pen name)"
+    ],
+    "بہادر": [
+      "bahaadur",
+      "brave; Bahadur (part of his title)"
+    ],
+    "نظام": [
+      "nizaam",
+      "Nizam (in the title “nizaam jang”, given by the Mughal emperor)"
+    ],
+    "جنگ": [
+      "jang",
+      "war; battle (in the title “nizaam jang”)"
+    ],
+    "1797ء": [
+      "1797 eesvi",
+      "1797 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1869ء": [
+      "1869 eesvi",
+      "1869 CE"
+    ],
+    "2009ء": [
+      "2009 eesvi",
+      "2009 CE"
+    ],
+    "اردو": [
+      "urdu",
+      "Urdu"
+    ],
+    "زبان": [
+      "zabaan",
+      "language"
+    ],
+    "بڑے": [
+      "baṛe",
+      "great; big (oblique) (“sab se baṛe” = the greatest)"
+    ],
+    "شاعروں": [
+      "shaairon",
+      "poets (pl. oblique)"
+    ],
+    "سمجھے": [
+      "samjhe",
+      "considered (“samjhe jaate hain” = are considered)"
+    ],
+    "جاتے": [
+      "jaate",
+      "passive helper (“samjhe jaate hain” = are considered)"
+    ],
+    "تسلیم": [
+      "tasleem",
+      "acceptance (“tasleem shuda” = accepted, acknowledged)"
+    ],
+    "شدہ": [
+      "shuda",
+      "-ed; done (“tasleem shuda” = accepted)"
+    ],
+    "ویں": [
+      "veen",
+      "-th (ordinal ending: “19 veen” = 19th)"
+    ],
+    "صدی": [
+      "sadi",
+      "century"
+    ],
+    "جبکہ": [
+      "jabke",
+      "whereas; while"
+    ],
+    "میر": [
+      "meer",
+      "Mir (“meer taqi meer” = Mir Taqi Mir, the great 18th-century poet)"
+    ],
+    "تقی": [
+      "taqi",
+      "Taqi (in “meer taqi meer”)"
+    ],
+    "علامہ": [
+      "allaama",
+      "Allama, “very learned” (a title)"
+    ],
+    "اقبال": [
+      "iqbaal",
+      "Iqbal"
+    ],
+    "عظمت": [
+      "azmat",
+      "greatness"
+    ],
+    "راز": [
+      "raaz",
+      "secret"
+    ],
+    "صرف": [
+      "sirf",
+      "only"
+    ],
+    "شاعری": [
+      "shaairi",
+      "poetry"
+    ],
+    "حسن": [
+      "husn",
+      "beauty"
+    ],
+    "بیان": [
+      "bayaan",
+      "expression; telling (“bayaan karna” = to express, explain)"
+    ],
+    "خوبی": [
+      "khoobi",
+      "excellence; good quality"
+    ],
+    "اصل": [
+      "asl",
+      "real; true"
+    ],
+    "کمال": [
+      "kamaal",
+      "mastery; real achievement"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "حقائق": [
+      "haqaaiq",
+      "truths; realities (pl. of “haqeeqat”)"
+    ],
+    "انسانی": [
+      "insaani",
+      "human"
+    ],
+    "نفسیات": [
+      "nafsiyaat",
+      "psychology"
+    ],
+    "گہرائی": [
+      "gehraai",
+      "depth (“gehraai mein ja kar” = going deep, in depth)"
+    ],
+    "جا": [
+      "ja",
+      "going (“ja kar” = having gone)"
+    ],
+    "سمجھتے": [
+      "samajhte",
+      "understood (habitual) (“samajhte the” = used to understand)"
+    ],
+    "بڑی": [
+      "baṛi",
+      "great (f.) (“baṛi saadgi se” = with great simplicity)"
+    ],
+    "سادگی": [
+      "saadgi",
+      "simplicity"
+    ],
+    "عام": [
+      "aam",
+      "ordinary; common (“aam log” = ordinary people)"
+    ],
+    "لوگوں": [
+      "logon",
+      "people (pl. oblique)"
+    ],
+    "دیتے": [
+      "dete",
+      "gave (habitual) (“bayaan kar dete the” = would explain)"
+    ],
+    "پر": [
+      "par / pur",
+      "on (“iqtidaar par” = over the power); full of (“pur aashob” = turbulent)"
+    ],
+    "آشوب": [
+      "aashob",
+      "turmoil (“pur aashob” = turbulent)"
+    ],
+    "دور": [
+      "daur",
+      "age; era"
+    ],
+    "پیدا": [
+      "paida",
+      "born (“paida hue” = was born)"
+    ],
+    "انھوں": [
+      "unhon",
+      "he (respectful, with “ne”)"
+    ],
+    "مسلمانوں": [
+      "musalmaanon",
+      "Muslims (pl. oblique)"
+    ],
+    "عظیم": [
+      "azeem",
+      "great"
+    ],
+    "سلطنت": [
+      "saltanat",
+      "empire"
+    ],
+    "برباد": [
+      "barbaad",
+      "ruined (“barbaad hote hue” = being ruined)"
+    ],
+    "ہوتے": [
+      "hote",
+      "being (“barbaad hote hue” = being ruined)"
+    ],
+    "باہر": [
+      "baahar",
+      "outside (“baahar se aai hui” = that had come from outside)"
+    ],
+    "آئی": [
+      "aai",
+      "came (f.) (“aai hui” = that had come)"
+    ],
+    "انگریز": [
+      "angrez",
+      "English; the British"
+    ],
+    "قوم": [
+      "qaum",
+      "nation; people"
+    ],
+    "اقتدار": [
+      "iqtidaar",
+      "power; rule"
+    ],
+    "چھاتے": [
+      "chhaate",
+      "spreading over (“iqtidaar par chhaate hue” = taking over power)"
+    ],
+    "دیکھا": [
+      "dekha",
+      "saw"
+    ],
+    "غالباً": [
+      "ghaaliban",
+      "probably"
+    ],
+    "پس": [
+      "pas",
+      "behind (“pas manzar” = background)"
+    ],
+    "منظر": [
+      "manzar",
+      "scene; view (“pas manzar” = background)"
+    ],
+    "نظر": [
+      "nazar",
+      "vision; outlook"
+    ],
+    "فکر": [
+      "fikr",
+      "thought"
+    ],
+    "وسعت": [
+      "wusat",
+      "breadth; wide range"
+    ],
+    "مشہور": [
+      "mashhoor",
+      "famous; well-known"
+    ],
+    "قول": [
+      "qaul",
+      "saying; account (“mashhoor qaul ke mutaabiq” = according to the well-known account)"
+    ],
+    "مطابق": [
+      "mutaabiq",
+      "according (“ke mutaabiq” = according to)"
+    ],
+    "دسمبر": [
+      "disambar",
+      "December"
+    ],
+    "کالا": [
+      "kaala",
+      "black (“kaala mahal” = Kala Mahal, a house in Agra)"
+    ],
+    "محل": [
+      "mahal",
+      "palace (“kaala mahal” = Kala Mahal)"
+    ],
+    "آگرہ": [
+      "aagra",
+      "Agra"
+    ],
+    "پاکستانی": [
+      "paakistaani",
+      "Pakistani"
+    ],
+    "ماہر": [
+      "maahir",
+      "expert (“maahir-e-falkiyaat” = astronomer)"
+    ],
+    "فلکیات": [
+      "falkiyaat",
+      "astronomy"
+    ],
+    "سید": [
+      "sayyid",
+      "Syed (title of descendants of the Prophet)"
+    ],
+    "صمد": [
+      "samad",
+      "Samad"
+    ],
+    "حسین": [
+      "husain",
+      "Husain"
+    ],
+    "رضوی": [
+      "rizvi",
+      "Rizvi"
+    ],
+    "متوفی": [
+      "mutawaffa",
+      "deceased; died"
+    ],
+    "تحقیق": [
+      "tahqeeq",
+      "research"
+    ],
+    "جنوری": [
+      "janvari",
+      "January"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "مضمون کے مطابق انیسویں صدی کس کی صدی ہے؟",
+      "english": "According to the article, whose century is the 19th century?",
+      "options": [
+        {
+          "urdu": "میر تقی میر کی",
+          "english": "Mir Taqi Mir's"
+        },
+        {
+          "urdu": "غالب کی",
+          "english": "Ghalib's"
+        },
+        {
+          "urdu": "علامہ اقبال کی",
+          "english": "Allama Iqbal's"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "غالب کا اصل کمال کیا تھا؟",
+      "english": "What was Ghalib's real achievement?",
+      "options": [
+        {
+          "urdu": "زندگی کی گہری حقیقتوں کو سادگی سے بیان کرنا",
+          "english": "Explaining the deep truths of life simply"
+        },
+        {
+          "urdu": "انگریزی زبان میں شاعری کرنا",
+          "english": "Writing poetry in English"
+        },
+        {
+          "urdu": "مغل سلطنت کو بچانا",
+          "english": "Saving the Mughal Empire"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "غالب نے اپنے دور میں کیا ہوتے دیکھا؟",
+      "english": "What did Ghalib see happen in his time?",
+      "options": [
+        {
+          "urdu": "پاکستان بنتے ہوئے",
+          "english": "Pakistan being created"
+        },
+        {
+          "urdu": "آگرہ کو نیا دارالحکومت بنتے ہوئے",
+          "english": "Agra becoming the new capital"
+        },
+        {
+          "urdu": "ایک مسلم سلطنت کو برباد ہوتے اور انگریزوں کو اقتدار پر چھاتے ہوئے",
+          "english": "A Muslim empire being ruined and the English taking over power"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

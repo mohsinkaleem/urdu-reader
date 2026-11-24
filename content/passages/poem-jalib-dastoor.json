@@ -1,0 +1,476 @@
+{
+  "id": "poem-jalib-dastoor",
+  "title": {
+    "urdu": "دستور",
+    "english": "The Constitution"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": [
+    "politics",
+    "society",
+    "nazm"
+  ],
+  "source": {
+    "name": "Rekhta: دستور",
+    "url": "https://www.rekhta.org/nazms/dastuur-diip-jis-kaa-mahallaat-hii-men-jale-habib-jalib-nazms?lang=ur",
+    "author": "Habib Jalib",
+    "license": "Personal use only"
+  },
+  "intro": "Habib Jalib (1928–1993), the people’s poet of Pakistan, wrote “Dastoor” (The Constitution) against the constitution that General Ayub Khan’s government introduced in 1962. Its refrain, “main naheen maanta, main naheen jaanta”, became a slogan of protest and is still chanted and sung at rallies; Rekhta has a recording of Jalib reciting it himself. This is the complete poem.",
+  "sentences": [
+    {
+      "urdu": "دیپ جس کا محلات ہی میں جلے",
+      "english": "Whose lamp burns only inside palaces,",
+      "verse": true
+    },
+    {
+      "urdu": "چند لوگوں کی خوشیوں کو لے کر چلے",
+      "english": "which goes along carrying the happiness of just a few people,",
+      "verse": true
+    },
+    {
+      "urdu": "وہ جو سائے میں ہر مصلحت کے پلے",
+      "english": "which grew up in the shade of every compromise —",
+      "verse": true
+    },
+    {
+      "urdu": "ایسے دستور کو صبح بے نور کو",
+      "english": "such a constitution, such a lightless dawn,",
+      "verse": true
+    },
+    {
+      "urdu": "میں نہیں مانتا میں نہیں جانتا",
+      "english": "I do not accept it, I do not acknowledge it.",
+      "verse": true,
+      "explanation": {
+        "urdu": "جالب کہتے ہیں کہ جو دستور صرف محلوں کو روشن کرے، چند امیر لوگوں کو خوش رکھے اور ہر طرح کی مصلحت میں پلا بڑھا ہو، وہ اندھیری صبح کی طرح ہے۔ میں ایسے قانون کو نہیں مانتا۔",
+        "english": "Jalib says: a constitution that lights up only palaces, keeps a few rich people happy and was raised on every kind of convenient compromise is like a dawn without light. I do not accept such a law."
+      }
+    },
+    {
+      "urdu": "میں بھی خائف نہیں تختۂ دار سے",
+      "english": "I too am not afraid of the gallows’ plank;",
+      "verse": true
+    },
+    {
+      "urdu": "میں بھی منصور ہوں کہہ دو اغیار سے",
+      "english": "I too am a Mansur — go and tell the strangers so.",
+      "verse": true
+    },
+    {
+      "urdu": "کیوں ڈراتے ہو زنداں کی دیوار سے",
+      "english": "Why do you try to frighten me with the prison wall?",
+      "verse": true
+    },
+    {
+      "urdu": "ظلم کی بات کو جہل کی رات کو",
+      "english": "The rule of oppression, the night of ignorance —",
+      "verse": true
+    },
+    {
+      "urdu": "میں نہیں مانتا میں نہیں جانتا",
+      "english": "I do not accept it, I do not acknowledge it.",
+      "verse": true,
+      "explanation": {
+        "urdu": "میں پھانسی سے نہیں ڈرتا۔ منصور حلاج کی طرح میں بھی سچ کہوں گا، چاہے سزا ملے۔ قید خانے کی دیواروں سے مجھے مت ڈراؤ۔ ظلم اور جہالت کو میں نہیں مانتا۔",
+        "english": "I am not afraid of the gallows. Like Mansur al-Hallaj, who was executed for speaking his truth, I will speak out whatever the punishment. Don’t threaten me with prison walls; I do not accept oppression and ignorance."
+      }
+    },
+    {
+      "urdu": "پھول شاخوں پہ کھلنے لگے تم کہو",
+      "english": "Flowers have begun to bloom on the branches, you say;",
+      "verse": true
+    },
+    {
+      "urdu": "جام رندوں کو ملنے لگے تم کہو",
+      "english": "the drinkers have begun to get their cups of wine, you say;",
+      "verse": true
+    },
+    {
+      "urdu": "چاک سینوں کے سلنے لگے تم کہو",
+      "english": "the torn breasts have begun to be stitched up, you say;",
+      "verse": true
+    },
+    {
+      "urdu": "اس کھلے جھوٹ کو ذہن کی لوٹ کو",
+      "english": "this open lie, this robbery of the mind —",
+      "verse": true
+    },
+    {
+      "urdu": "میں نہیں مانتا میں نہیں جانتا",
+      "english": "I do not accept it, I do not acknowledge it.",
+      "verse": true,
+      "explanation": {
+        "urdu": "حکومت کہتی ہے کہ ہر طرف خوشحالی ہے، پھول کھل رہے ہیں، لوگوں کو سب کچھ مل رہا ہے اور زخم بھر رہے ہیں۔ شاعر کہتا ہے کہ یہ کھلا جھوٹ ہے اور لوگوں کے ذہن لوٹنے کی کوشش ہے۔",
+        "english": "The government claims there is prosperity everywhere: flowers are blooming, people are getting everything, wounds are healing. The poet says this is an open lie and an attempt to rob people’s minds."
+      }
+    },
+    {
+      "urdu": "تم نے لوٹا ہے صدیوں ہمارا سکوں",
+      "english": "For centuries you have looted our peace;",
+      "verse": true
+    },
+    {
+      "urdu": "اب نہ ہم پر چلے گا تمہارا فسوں",
+      "english": "now your spell will no longer work on us.",
+      "verse": true
+    },
+    {
+      "urdu": "چارہ گر دردمندوں کے بنتے ہو کیوں",
+      "english": "Why do you pose as healers of those in pain?",
+      "verse": true
+    },
+    {
+      "urdu": "تم نہیں چارہ گر کوئی مانے مگر",
+      "english": "You are no healers — others may believe it, but",
+      "verse": true
+    },
+    {
+      "urdu": "میں نہیں مانتا میں نہیں جانتا",
+      "english": "I do not accept it, I do not acknowledge it.",
+      "verse": true,
+      "explanation": {
+        "urdu": "تم نے صدیوں سے ہمارا سکون چھینا ہے، اب تمہارا جادو ہم پر نہیں چلے گا۔ تم دکھی لوگوں کے مسیحا بنتے ہو، مگر تم مسیحا نہیں ہو۔ کوئی اور مانے تو مانے، میں نہیں مانتا۔",
+        "english": "For centuries you have taken away our peace; your magic will not work on us any more. You pretend to be the healers of the suffering, but you are not. Others may believe you — I do not."
+      }
+    }
+  ],
+  "glossary": {
+    "اس": [
+      "is",
+      "this (oblique)"
+    ],
+    "تم": [
+      "tum",
+      "you (“tum kaho” = so you say)"
+    ],
+    "اب": [
+      "ab",
+      "now (“ab na” = no longer)"
+    ],
+    "دیپ": [
+      "deep",
+      "lamp; small oil lamp"
+    ],
+    "جس": [
+      "jis",
+      "whose; which (oblique) (“jis ka” = whose)"
+    ],
+    "محلات": [
+      "mahallaat",
+      "palaces (pl. of “mahal”)"
+    ],
+    "جلے": [
+      "jale",
+      "burns (subjunctive)"
+    ],
+    "چند": [
+      "chand",
+      "a few"
+    ],
+    "لوگوں": [
+      "logon",
+      "people (pl. oblique)"
+    ],
+    "خوشیوں": [
+      "khushiyon",
+      "joys; happiness (pl. oblique)"
+    ],
+    "لے": [
+      "le",
+      "taking (“le kar chale” = goes along carrying)"
+    ],
+    "کر": [
+      "kar",
+      "having (“le kar” = taking, carrying)"
+    ],
+    "چلے": [
+      "chale",
+      "goes along; moves on (subjunctive) (“chalega” = will work)"
+    ],
+    "سائے": [
+      "saae",
+      "shade; shadow (oblique)"
+    ],
+    "ہر": [
+      "har",
+      "every"
+    ],
+    "مصلحت": [
+      "maslehat",
+      "expediency; convenient compromise"
+    ],
+    "پلے": [
+      "pale",
+      "was raised; grew up (pl.)"
+    ],
+    "ایسے": [
+      "aise",
+      "such (oblique)"
+    ],
+    "دستور": [
+      "dastoor",
+      "constitution; rule; custom"
+    ],
+    "صبح": [
+      "subah(-e)",
+      "dawn; morning (“subh-e-be-noor” = lightless dawn)"
+    ],
+    "بے": [
+      "be",
+      "without (prefix: “be-noor” = lightless)"
+    ],
+    "نور": [
+      "noor",
+      "light"
+    ],
+    "مانتا": [
+      "maanta",
+      "accept; believe (“naheen maanta” = do not accept)"
+    ],
+    "جانتا": [
+      "jaanta",
+      "acknowledge; recognise (“naheen jaanta” = do not acknowledge)"
+    ],
+    "خائف": [
+      "khaaif",
+      "afraid"
+    ],
+    "تختۂ": [
+      "takhta-e",
+      "plank of (“takhta-e-daar” = the gallows’ platform)"
+    ],
+    "دار": [
+      "daar",
+      "gallows"
+    ],
+    "منصور": [
+      "mansoor",
+      "Mansur (al-Hallaj, the Sufi executed in 922 for saying “I am the Truth”)"
+    ],
+    "کہہ": [
+      "keh",
+      "say (“keh do” = tell (them))"
+    ],
+    "دو": [
+      "do",
+      "(“keh do” = go and tell)"
+    ],
+    "اغیار": [
+      "aghyaar",
+      "strangers; outsiders; rivals (pl. of “ghair”)"
+    ],
+    "ڈراتے": [
+      "ḍaraate",
+      "frighten; threaten"
+    ],
+    "زنداں": [
+      "zindaan",
+      "prison (poetic spelling of “zindaan”)"
+    ],
+    "دیوار": [
+      "deewaar",
+      "wall"
+    ],
+    "ظلم": [
+      "zulm",
+      "oppression; cruelty"
+    ],
+    "بات": [
+      "baat",
+      "word; talk; matter"
+    ],
+    "جہل": [
+      "jahl",
+      "ignorance"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "پھول": [
+      "phool",
+      "flowers"
+    ],
+    "شاخوں": [
+      "shaakhon",
+      "branches (pl. oblique)"
+    ],
+    "پہ": [
+      "pe",
+      "on (short form of “par”)"
+    ],
+    "کھلنے": [
+      "khilne",
+      "to bloom (“khilne lage” = began to bloom)"
+    ],
+    "لگے": [
+      "lage",
+      "began (“khilne lage” = began to bloom)"
+    ],
+    "کہو": [
+      "kaho",
+      "say (“tum kaho” = so you say)"
+    ],
+    "جام": [
+      "jaam",
+      "wine cup"
+    ],
+    "رندوں": [
+      "rindon",
+      "drinkers; free-spirited revellers (pl. oblique)"
+    ],
+    "ملنے": [
+      "milne",
+      "to be given; to get (“milne lage” = began to be given)"
+    ],
+    "چاک": [
+      "chaak",
+      "rent; tear (in cloth)"
+    ],
+    "سینوں": [
+      "seenon",
+      "breasts; chests (pl. oblique)"
+    ],
+    "سلنے": [
+      "silne",
+      "to be stitched (“silne lage” = began to be sewn up)"
+    ],
+    "کھلے": [
+      "khule",
+      "open; blatant (oblique)"
+    ],
+    "جھوٹ": [
+      "jhooṭ",
+      "lie"
+    ],
+    "ذہن": [
+      "zehn",
+      "mind"
+    ],
+    "لوٹ": [
+      "looṭ",
+      "plunder; robbery"
+    ],
+    "لوٹا": [
+      "looṭa",
+      "looted; robbed"
+    ],
+    "صدیوں": [
+      "sadiyon",
+      "for centuries (pl. oblique of “sadi”)"
+    ],
+    "ہمارا": [
+      "hamaara",
+      "our"
+    ],
+    "سکوں": [
+      "sukoon",
+      "peace; calm (poetic spelling of “sukoon”)"
+    ],
+    "گا": [
+      "ga",
+      "will (“chale ga” = will work)"
+    ],
+    "تمہارا": [
+      "tumhaara",
+      "your"
+    ],
+    "فسوں": [
+      "fusoon",
+      "spell; magic"
+    ],
+    "چارہ": [
+      "chaara",
+      "remedy (“chaara-gar” = healer)"
+    ],
+    "گر": [
+      "gar",
+      "maker (suffix: “chaara-gar” = healer)"
+    ],
+    "دردمندوں": [
+      "dardmandon",
+      "those in pain; the suffering (pl. oblique)"
+    ],
+    "بنتے": [
+      "bante",
+      "pose as; pretend to be (“bante ho” = you pose as)"
+    ],
+    "کیوں": [
+      "kyun",
+      "why"
+    ],
+    "کوئی": [
+      "koi",
+      "someone; anyone"
+    ],
+    "مانے": [
+      "maane",
+      "may believe (“koi maane” = someone may believe it)"
+    ],
+    "مگر": [
+      "magar",
+      "but"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کس قسم کے دستور کو نہیں مانتا؟",
+      "english": "What kind of constitution does the poet refuse to accept?",
+      "options": [
+        {
+          "urdu": "جو صرف چند امیر لوگوں کو فائدہ دے",
+          "english": "one that benefits only a few rich people"
+        },
+        {
+          "urdu": "جو سب کو برابر حقوق دے",
+          "english": "one that gives everyone equal rights"
+        },
+        {
+          "urdu": "جو بچوں کو تعلیم دے",
+          "english": "one that gives children education"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر اپنے آپ کو منصور کیوں کہتا ہے؟",
+      "english": "Why does the poet call himself Mansur?",
+      "options": [
+        {
+          "urdu": "کیونکہ اس کا نام منصور ہے",
+          "english": "because his name is Mansur"
+        },
+        {
+          "urdu": "کیونکہ وہ امیر ہے",
+          "english": "because he is rich"
+        },
+        {
+          "urdu": "کیونکہ وہ سزا سے ڈرے بغیر سچ کہتا ہے",
+          "english": "because he speaks the truth without fearing punishment"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "تیسرے بند میں \"پھول شاخوں پہ کھلنے لگے\" کو شاعر کیا کہتا ہے؟",
+      "english": "In the third stanza, what does the poet call the claim that “flowers have begun to bloom”?",
+      "options": [
+        {
+          "urdu": "ایک سچی خبر",
+          "english": "true news"
+        },
+        {
+          "urdu": "کھلا جھوٹ",
+          "english": "an open lie"
+        },
+        {
+          "urdu": "ایک خوبصورت گیت",
+          "english": "a beautiful song"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

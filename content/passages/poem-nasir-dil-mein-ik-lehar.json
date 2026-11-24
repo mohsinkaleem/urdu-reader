@@ -1,0 +1,500 @@
+{
+  "id": "poem-nasir-dil-mein-ik-lehar",
+  "title": {
+    "urdu": "دل میں اک لہر سی اٹھی ہے ابھی",
+    "english": "A Wave Has Just Risen in My Heart"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": [
+    "love",
+    "philosophy",
+    "ghazal"
+  ],
+  "source": {
+    "name": "Rekhta: دل میں اک لہر سی اٹھی ہے ابھی",
+    "url": "https://www.rekhta.org/ghazals/dil-men-ik-lahr-sii-uthii-hai-abhii-nasir-kazmi-ghazals?lang=ur",
+    "author": "Nasir Kazmi",
+    "license": "Personal use only"
+  },
+  "intro": "Nasir Kazmi (1925–1972) wrote in a short metre and plain, quiet words about loneliness, memory and the empty city at night. This ghazal, where every couplet ends in “abhi” (still, just now), is one of his best known, made famous by Ghulam Ali’s singing. This is the complete ghazal of ten couplets.",
+  "sentences": [
+    {
+      "urdu": "دل میں اک لہر سی اٹھی ہے ابھی",
+      "english": "A wave of some kind has just risen in my heart;",
+      "verse": true
+    },
+    {
+      "urdu": "کوئی تازہ ہوا چلی ہے ابھی",
+      "english": "some fresh breeze has just begun to blow.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دل میں اچانک ایک نیا احساس جاگا ہے، جیسے کوئی تازہ ہوا چلنے لگی ہو۔ شاید کوئی یاد یا کسی کی آمد کی امید ہے۔",
+        "english": "A new feeling has suddenly woken in the heart, as if a fresh breeze had started to blow — perhaps a memory, or the hope that someone is coming."
+      }
+    },
+    {
+      "urdu": "کچھ تو نازک مزاج ہیں ہم بھی",
+      "english": "For one thing, I am rather delicate by nature,",
+      "verse": true
+    },
+    {
+      "urdu": "اور یہ چوٹ بھی نئی ہے ابھی",
+      "english": "and this wound is still new, too.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ایک تو ہم طبیعت کے نازک ہیں، دوسرے یہ زخم بھی تازہ ہے، اس لیے درد زیادہ محسوس ہوتا ہے۔",
+        "english": "For one thing I am sensitive by nature; for another, this wound is fresh — so the pain is felt all the more."
+      }
+    },
+    {
+      "urdu": "شور برپا ہے خانۂ دل میں",
+      "english": "There is an uproar in the house of my heart;",
+      "verse": true
+    },
+    {
+      "urdu": "کوئی دیوار سی گری ہے ابھی",
+      "english": "it is as if some wall has just fallen.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دل کے اندر شور مچا ہوا ہے، جیسے کسی گھر کی دیوار ابھی ابھی گر گئی ہو۔ یعنی دل کو کوئی بڑا صدمہ پہنچا ہے۔",
+        "english": "There is a commotion inside the heart, as though a wall of a house had just collapsed: the heart has suffered a great shock."
+      }
+    },
+    {
+      "urdu": "بھری دنیا میں جی نہیں لگتا",
+      "english": "In this crowded world my heart cannot settle;",
+      "verse": true
+    },
+    {
+      "urdu": "جانے کس چیز کی کمی ہے ابھی",
+      "english": "who knows what is still missing.",
+      "verse": true,
+      "explanation": {
+        "urdu": "دنیا لوگوں سے بھری ہوئی ہے، پھر بھی دل نہیں لگتا۔ پتا نہیں کس چیز کی کمی ہے۔",
+        "english": "The world is full of people, yet the heart cannot settle. Who knows what is missing."
+      }
+    },
+    {
+      "urdu": "تو شریک سخن نہیں ہے تو کیا",
+      "english": "So what if you are not here to talk with me?",
+      "verse": true
+    },
+    {
+      "urdu": "ہم سخن تیری خامشی ہے ابھی",
+      "english": "your silence still keeps me company in conversation.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اگر تم بات کرنے کے لیے ساتھ نہیں ہو تو کوئی بات نہیں، تمہاری خاموشی ہی ابھی ہم سے باتیں کرتی ہے۔",
+        "english": "If you are not here to talk to, never mind: your very silence still talks with me."
+      }
+    },
+    {
+      "urdu": "یاد کے بے نشاں جزیروں سے",
+      "english": "From the trackless islands of memory",
+      "verse": true
+    },
+    {
+      "urdu": "تیری آواز آ رہی ہے ابھی",
+      "english": "your voice is still coming.",
+      "verse": true,
+      "explanation": {
+        "urdu": "یادیں ایسے جزیروں کی طرح ہیں جن کا کوئی نشان نہیں، اور وہاں سے ابھی تک تمہاری آواز سنائی دیتی ہے۔",
+        "english": "Memories are like islands that leave no trace on any map, and from them your voice can still be heard."
+      }
+    },
+    {
+      "urdu": "شہر کی بے چراغ گلیوں میں",
+      "english": "In the city’s lampless lanes",
+      "verse": true
+    },
+    {
+      "urdu": "زندگی تجھ کو ڈھونڈتی ہے ابھی",
+      "english": "life is still searching for you.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شہر کی گلیاں اندھیری ہیں، ان میں کوئی چراغ نہیں، پھر بھی زندگی ابھی تک تمہیں تلاش کر رہی ہے۔",
+        "english": "The city’s lanes are dark, without a single lamp, yet life is still looking for you there."
+      }
+    },
+    {
+      "urdu": "سو گئے لوگ اس حویلی کے",
+      "english": "The people of this old mansion have fallen asleep,",
+      "verse": true
+    },
+    {
+      "urdu": "ایک کھڑکی مگر کھلی ہے ابھی",
+      "english": "but one window is still open.",
+      "verse": true,
+      "explanation": {
+        "urdu": "حویلی کے سب لوگ سو گئے ہیں مگر ایک کھڑکی کھلی ہے، یعنی کوئی ایک شخص ابھی تک جاگ کر انتظار کر رہا ہے۔",
+        "english": "Everyone in the mansion is asleep, but one window is open: someone is still awake, waiting."
+      }
+    },
+    {
+      "urdu": "تم تو یارو ابھی سے اٹھ بیٹھے",
+      "english": "Friends, you have got up to leave so early;",
+      "verse": true
+    },
+    {
+      "urdu": "شہر میں رات جاگتی ہے ابھی",
+      "english": "the night in the city is still awake.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر دوستوں سے کہتا ہے کہ تم اتنی جلدی محفل سے اٹھ گئے، حالانکہ شہر کی رات ابھی جاگ رہی ہے اور محفل ابھی باقی ہے۔",
+        "english": "The poet tells his friends: you have left the gathering so soon, though the city’s night is still awake and the evening is not over."
+      }
+    },
+    {
+      "urdu": "وقت اچھا بھی آئے گا ناصرؔ",
+      "english": "Good times will come as well, Nasir;",
+      "verse": true
+    },
+    {
+      "urdu": "غم نہ کر زندگی پڑی ہے ابھی",
+      "english": "do not grieve — there is still a whole life ahead.",
+      "verse": true,
+      "explanation": {
+        "urdu": "ناصر اپنے آپ کو تسلی دیتے ہیں کہ غم نہ کرو، اچھا وقت بھی آئے گا، کیونکہ ابھی ساری زندگی باقی ہے۔",
+        "english": "Nasir consoles himself: don’t grieve, good times will come too, because a whole life still lies ahead."
+      }
+    }
+  ],
+  "glossary": {
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "کیا": [
+      "kya",
+      "what (“to kya” = so what)"
+    ],
+    "اس": [
+      "is",
+      "this (oblique)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "کس": [
+      "kis",
+      "which; what (oblique) (“kis cheez ki” = of what thing)"
+    ],
+    "آ": [
+      "aa",
+      "come (“aa rahi hai” = is coming)"
+    ],
+    "تم": [
+      "tum",
+      "you (“tum to” = you, of all people)"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "اک": [
+      "ik",
+      "one; a (short form of “ek”)"
+    ],
+    "لہر": [
+      "lehar",
+      "wave"
+    ],
+    "سی": [
+      "si",
+      "a kind of; like (f.) (“lehar si” = something like a wave)"
+    ],
+    "اٹھی": [
+      "uṭhi",
+      "rose (f.) (“uṭhi hai” = has risen)"
+    ],
+    "ابھی": [
+      "abhi",
+      "just now; still"
+    ],
+    "تازہ": [
+      "taaza",
+      "fresh"
+    ],
+    "ہوا": [
+      "hawa",
+      "breeze; wind (f.) (“hawa chali hai” = a breeze has started blowing)"
+    ],
+    "چلی": [
+      "chali",
+      "blew; began to blow (f.)"
+    ],
+    "نازک": [
+      "naazuk",
+      "delicate; sensitive (“naazuk-mizaaj” = delicate by nature)"
+    ],
+    "مزاج": [
+      "mizaaj",
+      "temperament; nature"
+    ],
+    "چوٹ": [
+      "choṭ",
+      "wound; hurt"
+    ],
+    "نئی": [
+      "nai",
+      "new (f.)"
+    ],
+    "شور": [
+      "shor",
+      "noise; uproar"
+    ],
+    "برپا": [
+      "barpa",
+      "raised; going on (“shor barpa hai” = there is an uproar)"
+    ],
+    "خانۂ": [
+      "khaana-e",
+      "house of (“khaana-e-dil” = the house of the heart)"
+    ],
+    "دیوار": [
+      "deewaar",
+      "wall"
+    ],
+    "گری": [
+      "giri",
+      "fell (f.)"
+    ],
+    "بھری": [
+      "bhari",
+      "full; crowded (f.)"
+    ],
+    "جی": [
+      "ji",
+      "heart; mind (“ji naheen lagta” = the heart can’t settle, I feel restless)"
+    ],
+    "لگتا": [
+      "lagta",
+      "settles (“ji lagna” = to feel at home, to be content)"
+    ],
+    "جانے": [
+      "jaane",
+      "who knows (“jaane kis …” = who knows what …)"
+    ],
+    "چیز": [
+      "cheez",
+      "thing"
+    ],
+    "کمی": [
+      "kami",
+      "lack; something missing"
+    ],
+    "تو": [
+      "tu / to",
+      "you (intimate, “tu shareek-e-sukhan naheen” = you are not here to talk); emphasis (“kuchh to” = for one thing; “tum to” = you, of all people); then (“to kya” = so what)"
+    ],
+    "شریک": [
+      "shareek(-e)",
+      "partner; sharer (“shareek-e-sukhan” = partner in conversation)"
+    ],
+    "سخن": [
+      "sukhan",
+      "speech; conversation"
+    ],
+    "ہم": [
+      "ham",
+      "I; we (poetic “we” = I) (“ham-sukhan” = one who talks with you)"
+    ],
+    "تیری": [
+      "teri",
+      "your (f., intimate)"
+    ],
+    "خامشی": [
+      "khaamushi",
+      "silence (poetic spelling of “khaamoshi”)"
+    ],
+    "یاد": [
+      "yaad",
+      "memory"
+    ],
+    "بے": [
+      "be",
+      "without (prefix: “be-nishaan” = traceless; “be-charaagh” = lampless)"
+    ],
+    "نشاں": [
+      "nishaan",
+      "sign; trace (poetic spelling of “nishaan”)"
+    ],
+    "جزیروں": [
+      "jazeeron",
+      "islands (pl. oblique)"
+    ],
+    "آواز": [
+      "aawaaz",
+      "voice"
+    ],
+    "رہی": [
+      "rahi",
+      "(continuous, f.) (“aa rahi hai” = is coming)"
+    ],
+    "شہر": [
+      "shehar",
+      "city"
+    ],
+    "چراغ": [
+      "charaagh",
+      "lamp"
+    ],
+    "گلیوں": [
+      "galiyon",
+      "lanes; streets (pl. oblique)"
+    ],
+    "زندگی": [
+      "zindagi",
+      "life"
+    ],
+    "تجھ": [
+      "tujh",
+      "you (intimate, oblique) (“tujh ko” = you)"
+    ],
+    "ڈھونڈتی": [
+      "ḍhoonḍti",
+      "searches; looks for (f.)"
+    ],
+    "سو": [
+      "so",
+      "slept (“so gaye” = fell asleep)"
+    ],
+    "گئے": [
+      "gaye",
+      "went (“so gaye” = fell asleep)"
+    ],
+    "لوگ": [
+      "log",
+      "people"
+    ],
+    "حویلی": [
+      "haveli",
+      "old mansion; large family house"
+    ],
+    "کھڑکی": [
+      "khiṛki",
+      "window"
+    ],
+    "مگر": [
+      "magar",
+      "but"
+    ],
+    "کھلی": [
+      "khuli",
+      "open (f.)"
+    ],
+    "یارو": [
+      "yaaro",
+      "O friends (vocative)"
+    ],
+    "اٹھ": [
+      "uṭh",
+      "rise (“uṭh baiṭhe” = got up (to leave))"
+    ],
+    "بیٹھے": [
+      "baiṭhe",
+      "(completes “uṭh baiṭhe” = got up (to leave), rose)"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "جاگتی": [
+      "jaagti",
+      "is awake (f.)"
+    ],
+    "وقت": [
+      "waqt",
+      "time"
+    ],
+    "اچھا": [
+      "achchha",
+      "good"
+    ],
+    "آئے": [
+      "aae",
+      "will come (“aae ga” = will come)"
+    ],
+    "گا": [
+      "ga",
+      "will (future)"
+    ],
+    "ناصرؔ": [
+      "naasir",
+      "Nasir (the poet’s pen name)"
+    ],
+    "غم": [
+      "gham",
+      "grief (“gham na kar” = don’t grieve)"
+    ],
+    "کر": [
+      "kar",
+      "do (command, intimate) (“gham na kar” = don’t grieve)"
+    ],
+    "پڑی": [
+      "paṛi",
+      "lies (ahead) (“zindagi paṛi hai” = a whole life lies ahead)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "شاعر کو بھری دنیا میں کیسا محسوس ہوتا ہے؟",
+      "english": "How does the poet feel in the crowded world?",
+      "options": [
+        {
+          "urdu": "خوش اور مطمئن",
+          "english": "happy and content"
+        },
+        {
+          "urdu": "بے چین، جیسے کسی چیز کی کمی ہو",
+          "english": "restless, as if something were missing"
+        },
+        {
+          "urdu": "غصے میں",
+          "english": "angry"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "حویلی کی کھلی کھڑکی سے کیا ظاہر ہوتا ہے؟",
+      "english": "What does the open window in the mansion suggest?",
+      "options": [
+        {
+          "urdu": "کہ کوئی ابھی تک جاگ کر انتظار کر رہا ہے",
+          "english": "that someone is still awake and waiting"
+        },
+        {
+          "urdu": "کہ گھر میں چور آیا ہے",
+          "english": "that a thief has come into the house"
+        },
+        {
+          "urdu": "کہ گرمی بہت ہے",
+          "english": "that it is very hot"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "آخری شعر میں ناصر اپنے آپ سے کیا کہتے ہیں؟",
+      "english": "What does Nasir tell himself in the last couplet?",
+      "options": [
+        {
+          "urdu": "کہ شہر چھوڑ دینا چاہیے",
+          "english": "that he should leave the city"
+        },
+        {
+          "urdu": "کہ دوستوں کو جلدی سو جانا چاہیے",
+          "english": "that his friends should go to sleep early"
+        },
+        {
+          "urdu": "کہ غم نہ کرو، اچھا وقت بھی آئے گا",
+          "english": "not to grieve: good times will come too"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

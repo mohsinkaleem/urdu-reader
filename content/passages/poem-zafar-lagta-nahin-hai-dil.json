@@ -1,0 +1,342 @@
+{
+  "id": "poem-zafar-lagta-nahin-hai-dil",
+  "title": {
+    "urdu": "لگتا نہیں ہے دل مرا اجڑے دیار میں",
+    "english": "My Heart Finds No Peace in This Ruined Land"
+  },
+  "category": "poetry",
+  "level": "medium",
+  "tags": [
+    "homeland",
+    "philosophy",
+    "ghazal"
+  ],
+  "source": {
+    "name": "Urdu Wikisource: لگتا نہیں ہے دل مرا اجڑے دیار میں (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%D9%84%DA%AF%D8%AA%D8%A7_%D9%86%DB%81%DB%8C%DA%BA_%DB%81%DB%92_%D8%AF%D9%84_%D9%85%D8%B1%D8%A7_%D8%A7%D8%AC%DA%91%DB%92_%D8%AF%DB%8C%D8%A7%D8%B1_%D9%85%DB%8C%DA%BA",
+    "author": "Bahadur Shah Zafar",
+    "license": "Public domain"
+  },
+  "intro": "A ghazal of loss and exile traditionally attributed to Bahadur Shah Zafar (1775–1862), the last Mughal emperor, who was exiled to Rangoon after 1857 and died there; the closing couplet, about not finding two yards of ground in the beloved's lane, is usually read as a lament for Delhi. The attribution is disputed, and some scholars believe a later poet wrote it. These are all five couplets as given on Wikisource.",
+  "sentences": [
+    {
+      "urdu": "لگتا نہیں ہے دل مرا اجڑے دیار میں",
+      "english": "My heart finds no peace in this ruined land;",
+      "verse": true
+    },
+    {
+      "urdu": "کس کی بنی ہے عالم ناپائیدار میں",
+      "english": "who has ever prospered in this fleeting world?",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر کہتا ہے کہ اس اجڑی ہوئی جگہ میں میرا دل نہیں لگتا۔ یہ دنیا ہمیشہ رہنے والی نہیں، یہاں کبھی کسی کا کام پوری طرح نہیں بنا۔",
+        "english": "The poet's heart cannot settle in this desolate place. The world is impermanent, and no one's fortunes have ever truly come right in it."
+      }
+    },
+    {
+      "urdu": "ان حسرتوں سے کہ دو کہیں اور جا بسیں",
+      "english": "Tell these longings to go and settle somewhere else;",
+      "verse": true
+    },
+    {
+      "urdu": "اتنی جگہ کہاں ہے دل داغدار میں",
+      "english": "where is there so much room in this scarred heart?",
+      "verse": true,
+      "explanation": {
+        "urdu": "دل میں پہلے ہی بہت سے زخم اور داغ ہیں۔ شاعر کہتا ہے کہ نئی آرزوؤں کے لیے اب اس دل میں جگہ نہیں، وہ کہیں اور جا کر رہیں۔",
+        "english": "The heart is already full of wounds and scars. There is no room left in it for new desires, so let them go and live somewhere else."
+      }
+    },
+    {
+      "urdu": "کانٹوں کو مت نکال چمن سے او باغباں",
+      "english": "Do not pull the thorns out of the garden, O gardener;",
+      "verse": true
+    },
+    {
+      "urdu": "یہ بھی گلوں کے ساتھ پلے ہیں بہار میں",
+      "english": "they too were raised alongside the roses in the spring.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر مالی سے کہتا ہے کہ کانٹوں کو باغ سے نہ نکالو۔ وہ بھی پھولوں کے ساتھ اسی بہار میں پلے بڑھے ہیں، اس لیے ان کا بھی باغ پر حق ہے۔",
+        "english": "The poet asks the gardener not to root out the thorns: they grew up with the roses in the same spring and belong to the garden too. Thorns may stand for the unwanted and the unlucky, like the poet himself."
+      }
+    },
+    {
+      "urdu": "بلبل کو باغباں سے نہ صیاد سے گلہ",
+      "english": "The nightingale has no complaint against the gardener, nor against the hunter;",
+      "verse": true
+    },
+    {
+      "urdu": "قسمت میں قید لکھی تھی فصل بہار میں",
+      "english": "captivity in the season of spring was written in its fate.",
+      "verse": true,
+      "explanation": {
+        "urdu": "بلبل کو بہار کے موسم میں پکڑ کر پنجرے میں بند کر دیا گیا۔ وہ نہ مالی کو الزام دیتی ہے نہ شکاری کو، کیونکہ یہ قید اس کی قسمت میں لکھی تھی۔",
+        "english": "The nightingale was caught and caged in springtime, the very season it lives for. It blames neither the gardener nor the hunter: captivity was simply its fate."
+      }
+    },
+    {
+      "urdu": "کتنا ہے بد نصیب ظفرؔ دفن کے لیے",
+      "english": "How unlucky Zafar is! For his burial",
+      "verse": true
+    },
+    {
+      "urdu": "دو گز زمین بھی نہ ملی کوئے یار میں",
+      "english": "he could not get even two yards of ground in the beloved's lane.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مقطع میں شاعر اپنا تخلص لیتا ہے۔ وہ کہتا ہے کہ ظفر اتنا بدقسمت ہے کہ اسے اپنے محبوب کی گلی میں دفن ہونے کے لیے دو گز زمین بھی نہ ملی۔ ظفر رنگون میں جلاوطنی میں فوت ہوئے، اس لیے لوگ یہاں محبوب کی گلی سے دلی مراد لیتے ہیں۔",
+        "english": "In the closing couplet the poet names himself: Zafar is so unlucky that he could not even get a grave in the beloved's lane. Because Zafar died in exile in Rangoon, readers take the beloved's lane to mean Delhi."
+      }
+    }
+  ],
+  "glossary": {
+    "لگتا": [
+      "lagta",
+      "feels at home (“dil lagna” = to feel content; “dil nahin lagta” = the heart finds no peace)"
+    ],
+    "دل": [
+      "dil",
+      "heart (“dil-e-daaghdaar” = scarred heart)"
+    ],
+    "مرا": [
+      "mira",
+      "my (poetic form of “mera”)"
+    ],
+    "اجڑے": [
+      "ujṛe",
+      "ruined; desolate (oblique)"
+    ],
+    "دیار": [
+      "dayaar",
+      "land; country"
+    ],
+    "میں": [
+      "mein",
+      "in"
+    ],
+    "کس": [
+      "kis",
+      "whose (“kis ki bani hai” = who has ever prospered?)"
+    ],
+    "بنی": [
+      "bani",
+      "turned out well (“kisi ki banna” = for someone's fortunes to come right)"
+    ],
+    "عالم": [
+      "aalam-e",
+      "world (“aalam-e-naapaaedaar” = the fleeting world)"
+    ],
+    "ناپائیدار": [
+      "naapaaedaar",
+      "impermanent; fleeting"
+    ],
+    "ان": [
+      "in",
+      "these (oblique)"
+    ],
+    "حسرتوں": [
+      "hasraton",
+      "unfulfilled longings; regrets (pl. oblique)"
+    ],
+    "کہ": [
+      "kah",
+      "say (old spelling of “kahh”: “kah do” = tell)"
+    ],
+    "دو": [
+      "do",
+      "(helper verb: “kah do” = tell)"
+    ],
+    "کہیں": [
+      "kaheen",
+      "somewhere (“kaheen aur” = somewhere else)"
+    ],
+    "اور": [
+      "aur",
+      "else (“kaheen aur” = somewhere else)"
+    ],
+    "جا": [
+      "ja",
+      "go (“ja basen” = go and settle)"
+    ],
+    "بسیں": [
+      "basen",
+      "(may) settle; make a home (pl.)"
+    ],
+    "اتنی": [
+      "itni",
+      "so much (f.)"
+    ],
+    "جگہ": [
+      "jagah",
+      "room; space"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where"
+    ],
+    "داغدار": [
+      "daaghdaar",
+      "scarred; stained"
+    ],
+    "کانٹوں": [
+      "kaanṭon",
+      "thorns (pl. oblique)"
+    ],
+    "مت": [
+      "mat",
+      "don't"
+    ],
+    "نکال": [
+      "nikaal",
+      "pull out; remove"
+    ],
+    "او": [
+      "o",
+      "O (calling out)"
+    ],
+    "باغباں": [
+      "baaghbaan",
+      "gardener (poetic spelling of “baaghbaan”)"
+    ],
+    "یہ": [
+      "yeh",
+      "these; they"
+    ],
+    "گلوں": [
+      "gulon",
+      "roses; flowers (pl. oblique)"
+    ],
+    "پلے": [
+      "pale",
+      "were raised; grew up (pl.)"
+    ],
+    "بہار": [
+      "bahaar",
+      "spring (“fasl-e-bahaar” = springtime)"
+    ],
+    "صیاد": [
+      "sayyaad",
+      "hunter; bird-catcher"
+    ],
+    "گلہ": [
+      "gila",
+      "complaint"
+    ],
+    "قسمت": [
+      "qismat",
+      "fate; destiny"
+    ],
+    "قید": [
+      "qaid",
+      "imprisonment; captivity"
+    ],
+    "لکھی": [
+      "likhi",
+      "written (f.)"
+    ],
+    "فصل": [
+      "fasl-e",
+      "season (of …) (“fasl-e-bahaar” = springtime)"
+    ],
+    "کتنا": [
+      "kitna",
+      "how (very)"
+    ],
+    "بد": [
+      "bad",
+      "ill; bad (“bad-naseeb” = unlucky)"
+    ],
+    "نصیب": [
+      "naseeb",
+      "fortune (“bad-naseeb” = unlucky)"
+    ],
+    "ظفرؔ": [
+      "zafar",
+      "Zafar (the poet's pen name; means “victory”)"
+    ],
+    "دفن": [
+      "dafn",
+      "burial"
+    ],
+    "گز": [
+      "gaz",
+      "yard (about 90 cm)"
+    ],
+    "زمین": [
+      "zameen",
+      "land; ground"
+    ],
+    "ملی": [
+      "mili",
+      "was found; was given (f.)"
+    ],
+    "کوئے": [
+      "koo-e",
+      "lane; street (of …) (“koo-e-yaar” = the beloved's lane)"
+    ],
+    "یار": [
+      "yaar",
+      "beloved; friend"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر میں شاعر دنیا کے بارے میں کیا کہتا ہے؟",
+      "english": "In the first couplet, what does the poet say about the world?",
+      "options": [
+        {
+          "urdu": "یہ دنیا ہمیشہ رہنے والی ہے",
+          "english": "this world lasts forever"
+        },
+        {
+          "urdu": "یہ دنیا فانی ہے اور یہاں کسی کا کام نہیں بنا",
+          "english": "this world is fleeting and no one has truly prospered in it"
+        },
+        {
+          "urdu": "دنیا میں سب لوگ خوش ہیں",
+          "english": "everyone in the world is happy"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاعر مالی سے کانٹے نہ نکالنے کو کیوں کہتا ہے؟",
+      "english": "Why does the poet ask the gardener not to remove the thorns?",
+      "options": [
+        {
+          "urdu": "کیونکہ وہ بھی پھولوں کے ساتھ بہار میں پلے ہیں",
+          "english": "because they too grew up with the roses in spring"
+        },
+        {
+          "urdu": "کیونکہ کانٹے بہت خوب صورت ہیں",
+          "english": "because thorns are very beautiful"
+        },
+        {
+          "urdu": "کیونکہ مالی بیمار ہے",
+          "english": "because the gardener is ill"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "آخری شعر میں ظفر کو کس بات کا دکھ ہے؟",
+      "english": "In the last couplet, what is Zafar sad about?",
+      "options": [
+        {
+          "urdu": "اس کے باغ میں پھول نہیں کھلے",
+          "english": "no flowers bloomed in his garden"
+        },
+        {
+          "urdu": "بلبل نے گانا چھوڑ دیا",
+          "english": "the nightingale stopped singing"
+        },
+        {
+          "urdu": "اسے محبوب کی گلی میں دفن ہونے کی جگہ نہ ملی",
+          "english": "he did not get a place to be buried in the beloved's lane"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "id": "wiki-taj-mahal",
+  "title": {
+    "urdu": "تاج محل",
+    "english": "The Taj Mahal"
+  },
+  "category": "wikipedia",
+  "level": "medium",
+  "tags": [
+    "places",
+    "history",
+    "arts"
+  ],
+  "source": {
+    "name": "Urdu Wikipedia: تاج محل",
+    "url": "https://ur.wikipedia.org/wiki/%D8%AA%D8%A7%D8%AC_%D9%85%D8%AD%D9%84",
+    "license": "CC BY-SA 4.0"
+  },
+  "intro": "The Taj Mahal in Agra, the white-marble tomb Shah Jahan built for his wife Mumtaz Mahal. This is the opening of its Urdu Wikipedia article.",
+  "sentences": [
+    {
+      "urdu": "تاج محل یعنی مقبرہ ملکہ ممتاز محل زوجہ شاہ جہاں (1627ء – 1659ء) بھارت کے شہر آگرہ میں واقع سنگ مرمر سے بنی ایک عظیم الشان عمارت ہے جسے مغل شہنشاہ شاہ جہاں نے اپنی زوجہ کی محبت کی لافانی یادگار کے طور پر دریائے جمنا کے ساحل پر بنایا تھا۔",
+      "english": "The Taj Mahal, that is, the tomb of Queen Mumtaz Mahal, wife of Shah Jahan (1627–1659), is a magnificent marble building in the Indian city of Agra, which the Mughal emperor Shah Jahan built on the bank of the river Yamuna as an everlasting memorial of his love for his wife."
+    },
+    {
+      "urdu": "تاج محل اپنے فنِ تعمیر کی خوبیوں اور خصوصیتوں کی بنا پر دنیا بھر میں مشہور ہے اور عجائبات عالم میں شمار ہوتا ہے۔",
+      "english": "The Taj Mahal is famous all over the world for the merits and special features of its architecture, and is counted among the wonders of the world."
+    },
+    {
+      "urdu": "ہر سال لاکھوں سیاح اس کی زیارت کے لیے آتے ہیں۔",
+      "english": "Every year hundreds of thousands of tourists come to visit it."
+    },
+    {
+      "urdu": "دنیا کی مختلف زبانوں کے نظم و نثر میں تاج محل اور اس کے عجائب پر اس قدر لکھا جا چکا ہے کہ ان سب کا احاطہ بے حد مشکل ہے۔",
+      "english": "So much has been written about the Taj Mahal and its wonders, in the poetry and prose of the world's many languages, that covering it all is extremely difficult."
+    },
+    {
+      "urdu": "تاج محل مغل طرز تعمیر کا عمدہ نمونہ ہے۔",
+      "english": "The Taj Mahal is a fine example of Mughal architecture."
+    },
+    {
+      "urdu": "اس کی تعمیراتی طرز فارسی، ترک، بھارتی اور اسلامی طرز تعمیر کے اجزاء کا انوکھا ملاپ ہے۔",
+      "english": "Its architectural style is a unique blend of elements of Persian, Turkish, Indian and Islamic architecture."
+    },
+    {
+      "urdu": "1983ء میں تاج محل کو اقوام متحدہ کے ادارہ برائے تعلیم، سائنس اور کلچر نے عالمی ثقافتی ورثے میں شمار کیا۔",
+      "english": "In 1983 the United Nations Educational, Scientific and Cultural Organization counted the Taj Mahal as World Cultural Heritage."
+    },
+    {
+      "urdu": "اس کے ساتھ ہی اسے عالمی ثقافتی ورثہ کی جامع تعریف حاصل کرنے والی، بہترین تعمیرات میں سے ایک بتایا گیا۔",
+      "english": "At the same time it was described as one of the finest buildings, universally praised as world cultural heritage."
+    },
+    {
+      "urdu": "تاج محل کو بھارت کے اسلامی فن کا عملی اور نایاب نمونہ بھی کہا گیا ہے۔",
+      "english": "The Taj Mahal has also been called a real and rare example of India's Islamic art."
+    },
+    {
+      "urdu": "یہ تقریباً 1648ء میں مکمل تعمیر کیا گیا۔",
+      "english": "It was completed in about 1648."
+    },
+    {
+      "urdu": "استاد احمد لاهوری کو عام طور پر اس کا معمار خیال کیا جاتا ہے۔",
+      "english": "Ustad Ahmad Lahori is generally thought to have been its architect."
+    }
+  ],
+  "glossary": {
+    "تاج": [
+      "taaj",
+      "crown (“taaj mahal” = the Taj Mahal)"
+    ],
+    "محل": [
+      "mahal",
+      "palace (“taaj mahal”; “mumtaaz mahal”)"
+    ],
+    "یعنی": [
+      "yaani",
+      "that is; i.e."
+    ],
+    "مقبرہ": [
+      "maqbara",
+      "tomb; mausoleum"
+    ],
+    "ملکہ": [
+      "malika",
+      "queen"
+    ],
+    "ممتاز": [
+      "mumtaaz",
+      "Mumtaz (“mumtaaz mahal”, Shah Jahan's wife; literally “distinguished”)"
+    ],
+    "زوجہ": [
+      "zauja",
+      "wife (formal)"
+    ],
+    "شاہ": [
+      "shaah",
+      "king (“shaah jahaan” = Shah Jahan)"
+    ],
+    "جہاں": [
+      "jahaan",
+      "world (“shaah jahaan” = Shah Jahan, “king of the world”)"
+    ],
+    "1627ء": [
+      "1627 eesvi",
+      "1627 CE (ء is short for “eesvi”, AD)"
+    ],
+    "1659ء": [
+      "1659 eesvi",
+      "1659 CE (ء is short for “eesvi”, AD)"
+    ],
+    "بھارت": [
+      "bhaarat",
+      "India"
+    ],
+    "آگرہ": [
+      "aagra",
+      "Agra"
+    ],
+    "واقع": [
+      "waaqe",
+      "situated; located"
+    ],
+    "سنگ": [
+      "sang",
+      "stone (“sang-e-marmar” = marble)"
+    ],
+    "مرمر": [
+      "marmar",
+      "marble (“sang-e-marmar” = marble)"
+    ],
+    "بنی": [
+      "bani",
+      "made (f.) (“… se bani” = made of)"
+    ],
+    "عظیم": [
+      "azeem",
+      "great (“azeem-ush-shaan” = magnificent)"
+    ],
+    "الشان": [
+      "ush-shaan",
+      "of grandeur (“azeem-ush-shaan” = magnificent)"
+    ],
+    "عمارت": [
+      "imaarat",
+      "building"
+    ],
+    "جسے": [
+      "jise",
+      "which (object) (= jis ko)"
+    ],
+    "مغل": [
+      "mughal",
+      "Mughal"
+    ],
+    "شہنشاہ": [
+      "shahenshaah",
+      "emperor"
+    ],
+    "لافانی": [
+      "laafaani",
+      "immortal; everlasting"
+    ],
+    "یادگار": [
+      "yaadgaar",
+      "memorial; monument"
+    ],
+    "طور": [
+      "taur",
+      "manner (“ke taur par” = as; “aam taur par” = generally)"
+    ],
+    "دریائے": [
+      "dariya-e",
+      "river (with izafat) (“dariya-e-jamna” = the Yamuna river)"
+    ],
+    "جمنا": [
+      "jamna",
+      "the Yamuna (Jumna) river"
+    ],
+    "بنایا": [
+      "banaaya",
+      "built; made (m.)"
+    ],
+    "فنِ": [
+      "fann-e",
+      "art of (“fann-e-taameer” = architecture)"
+    ],
+    "فن": [
+      "fann",
+      "art"
+    ],
+    "تعمیر": [
+      "taameer",
+      "construction; building (“fann-e-taameer” / “tarz-e-taameer” = architecture)"
+    ],
+    "خوبیوں": [
+      "khoobiyon",
+      "good qualities; merits (pl. oblique)"
+    ],
+    "خصوصیتوں": [
+      "khusoosiyaton",
+      "special features (pl. oblique)"
+    ],
+    "بنا": [
+      "bina",
+      "basis (“ki bina par” = because of; for)"
+    ],
+    "دنیا": [
+      "duniya",
+      "world"
+    ],
+    "بھر": [
+      "bhar",
+      "throughout (“duniya bhar mein” = all over the world)"
+    ],
+    "مشہور": [
+      "mashhoor",
+      "famous"
+    ],
+    "عجائبات": [
+      "ajaaibaat",
+      "wonders (“ajaaibaat-e-aalam” = wonders of the world)"
+    ],
+    "عالم": [
+      "aalam",
+      "world"
+    ],
+    "شمار": [
+      "shumaar",
+      "counting (“shumaar hona” = to be counted; “shumaar karna” = to count)"
+    ],
+    "سال": [
+      "saal",
+      "year"
+    ],
+    "لاکھوں": [
+      "laakhon",
+      "hundreds of thousands (“lakhs”)"
+    ],
+    "زیارت": [
+      "ziyaarat",
+      "visit (to a revered place) (“ki ziyaarat ke liye” = to visit)"
+    ],
+    "آتے": [
+      "aate",
+      "come (m. pl.) (“aate hain” = come)"
+    ],
+    "مختلف": [
+      "mukhtalif",
+      "various; different"
+    ],
+    "زبانوں": [
+      "zabaanon",
+      "languages (pl. oblique)"
+    ],
+    "نظم": [
+      "nazm",
+      "verse; poetry (“nazm o nasr” = poetry and prose)"
+    ],
+    "نثر": [
+      "nasr",
+      "prose"
+    ],
+    "عجائب": [
+      "ajaaib",
+      "wonders; marvels"
+    ],
+    "قدر": [
+      "qadr",
+      "amount (“is qadr” = so much)"
+    ],
+    "لکھا": [
+      "likha",
+      "written (“likha ja chuka hai” = has been written)"
+    ],
+    "جا": [
+      "ja",
+      "(passive helper) (“likha ja chuka hai” = has been written)"
+    ],
+    "چکا": [
+      "chuka",
+      "already (completed action, m.)"
+    ],
+    "احاطہ": [
+      "ihaata",
+      "covering; encompassing (“sab ka ihaata” = covering it all)"
+    ],
+    "بے": [
+      "be",
+      "without (“be had” = extremely)"
+    ],
+    "حد": [
+      "had",
+      "limit (“be had” = extremely, boundlessly)"
+    ],
+    "مشکل": [
+      "mushkil",
+      "difficult"
+    ],
+    "طرز": [
+      "tarz",
+      "style (“tarz-e-taameer” = architectural style)"
+    ],
+    "عمدہ": [
+      "umda",
+      "fine; excellent"
+    ],
+    "نمونہ": [
+      "namoona",
+      "example; specimen"
+    ],
+    "تعمیراتی": [
+      "taameeraati",
+      "architectural"
+    ],
+    "فارسی": [
+      "faarsi",
+      "Persian"
+    ],
+    "ترک": [
+      "turk",
+      "Turkish"
+    ],
+    "بھارتی": [
+      "bhaarati",
+      "Indian"
+    ],
+    "اسلامی": [
+      "islaami",
+      "Islamic"
+    ],
+    "اجزاء": [
+      "ajza",
+      "elements; components (pl.)"
+    ],
+    "انوکھا": [
+      "anokha",
+      "unique; unusual"
+    ],
+    "ملاپ": [
+      "milaap",
+      "blend; union"
+    ],
+    "1983ء": [
+      "1983 eesvi",
+      "1983 CE (ء is short for “eesvi”, AD)"
+    ],
+    "اقوام": [
+      "aqwaam",
+      "nations (“aqwaam-e-muttahida” = the United Nations)"
+    ],
+    "متحدہ": [
+      "muttahida",
+      "united"
+    ],
+    "برائے": [
+      "baraaye",
+      "for (“idaara baraaye taaleem, saains aur kalchar” = organisation for education, science and culture, i.e. UNESCO)"
+    ],
+    "تعلیم": [
+      "taaleem",
+      "education"
+    ],
+    "سائنس": [
+      "saains",
+      "science"
+    ],
+    "کلچر": [
+      "kalchar",
+      "culture (English loanword)"
+    ],
+    "عالمی": [
+      "aalami",
+      "world (“aalami saqaafati wirsa” = World Cultural Heritage)"
+    ],
+    "ثقافتی": [
+      "saqaafati",
+      "cultural"
+    ],
+    "ورثے": [
+      "wirse",
+      "heritage (oblique)"
+    ],
+    "ورثہ": [
+      "wirsa",
+      "heritage"
+    ],
+    "اسے": [
+      "ise",
+      "it (object) (= is ko)"
+    ],
+    "جامع": [
+      "jaame",
+      "comprehensive; complete (“jaame taareef” = all-round praise)"
+    ],
+    "تعریف": [
+      "taareef",
+      "praise"
+    ],
+    "حاصل": [
+      "haasil",
+      "obtained (“haasil karna” = to gain, win)"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (oblique) (“haasil karne waali” = which has won)"
+    ],
+    "والی": [
+      "waali",
+      "(“-ne waali” = which does, f.)"
+    ],
+    "بہترین": [
+      "behtareen",
+      "best; finest"
+    ],
+    "تعمیرات": [
+      "taameeraat",
+      "buildings; structures (pl.)"
+    ],
+    "بتایا": [
+      "bataaya",
+      "told; described (“bataaya gaya” = was described)"
+    ],
+    "عملی": [
+      "amali",
+      "practical; real (in practice)"
+    ],
+    "نایاب": [
+      "naayaab",
+      "rare"
+    ],
+    "کہا": [
+      "kaha",
+      "said; called (“kaha gaya hai” = has been called)"
+    ],
+    "تقریباً": [
+      "taqreeban",
+      "about; approximately"
+    ],
+    "1648ء": [
+      "1648 eesvi",
+      "1648 CE (ء is short for “eesvi”, AD)"
+    ],
+    "مکمل": [
+      "mukammal",
+      "complete (“mukammal taameer kiya gaya” = was completed)"
+    ],
+    "احمد": [
+      "ahmad",
+      "Ahmad"
+    ],
+    "لاهوری": [
+      "laahauri",
+      "Lahori (“of Lahore”; part of the architect's name)"
+    ],
+    "عام": [
+      "aam",
+      "general (“aam taur par” = generally)"
+    ],
+    "معمار": [
+      "mimaar",
+      "architect; master builder"
+    ],
+    "خیال": [
+      "khayaal",
+      "thought (“khayaal kiya jaata hai” = is thought to be)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "تاج محل کس کا مقبرہ ہے؟",
+      "english": "Whose tomb is the Taj Mahal?",
+      "options": [
+        {
+          "urdu": "شاہ جہاں کی والدہ",
+          "english": "Shah Jahan's mother"
+        },
+        {
+          "urdu": "ملکہ ممتاز محل",
+          "english": "Queen Mumtaz Mahal"
+        },
+        {
+          "urdu": "استاد احمد لاہوری",
+          "english": "Ustad Ahmad Lahori"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "شاہ جہاں نے تاج محل کیوں بنایا؟",
+      "english": "Why did Shah Jahan build the Taj Mahal?",
+      "options": [
+        {
+          "urdu": "اپنی زوجہ کی محبت کی یادگار کے طور پر",
+          "english": "As a memorial of his love for his wife"
+        },
+        {
+          "urdu": "سیاحوں کو آگرہ بلانے کے لیے",
+          "english": "To bring tourists to Agra"
+        },
+        {
+          "urdu": "ایک نئے محل کے طور پر",
+          "english": "As a new palace to live in"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "تاج محل کا طرز تعمیر کیسا ہے؟",
+      "english": "What is the Taj Mahal's architectural style like?",
+      "options": [
+        {
+          "urdu": "صرف بھارتی",
+          "english": "Purely Indian"
+        },
+        {
+          "urdu": "یورپی اور چینی",
+          "english": "European and Chinese"
+        },
+        {
+          "urdu": "فارسی، ترک، بھارتی اور اسلامی طرز کا ملاپ",
+          "english": "A blend of Persian, Turkish, Indian and Islamic styles"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

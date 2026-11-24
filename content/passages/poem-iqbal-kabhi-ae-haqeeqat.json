@@ -1,0 +1,550 @@
+{
+  "id": "poem-iqbal-kabhi-ae-haqeeqat",
+  "title": {
+    "urdu": "کبھی اے حقیقتِ منتظَر! نظر آ لباسِ مجاز میں",
+    "english": "O Awaited Reality, Appear for Once in Visible Form"
+  },
+  "category": "poetry",
+  "level": "hard",
+  "tags": [
+    "faith",
+    "philosophy",
+    "ghazal"
+  ],
+  "source": {
+    "name": "Urdu Wikisource: کبھی اے حقیقتِ منتظَر! نظر آ لباسِ مجاز میں (translation and commentary written for this app)",
+    "url": "https://ur.wikisource.org/wiki/%DA%A9%D8%A8%DA%BE%DB%8C_%D8%A7%DB%92_%D8%AD%D9%82%DB%8C%D9%82%D8%AA%D9%90_%D9%85%D9%86%D8%AA%D8%B8%D9%8E%D8%B1%21_%D9%86%D8%B8%D8%B1_%D8%A2_%D9%84%D8%A8%D8%A7%D8%B3%D9%90_%D9%85%D8%AC%D8%A7%D8%B2_%D9%85%DB%8C%DA%BA",
+    "author": "Allama Muhammad Iqbal",
+    "license": "Public domain"
+  },
+  "intro": "A ghazal by Allama Muhammad Iqbal (1877–1938) from Bang-e-Dara (1924). It opens with a famous plea to the hidden divine Reality to show itself in visible form, moves through images of the mirror, the moth and the candle, and ends with a sharp rebuke: a heart that loves idols gains nothing from prayer. It is often sung as a qawwali. This is the complete ghazal of seven couplets.",
+  "sentences": [
+    {
+      "urdu": "کبھی اے حقیقتِ منتظَر! نظر آ لباسِ مجاز میں",
+      "english": "O awaited Reality, appear for once in the garb of visible form,",
+      "verse": true
+    },
+    {
+      "urdu": "کہ ہزاروں سجدے تڑپ رہے ہیں مری جبینِ نیاز میں",
+      "english": "for thousands of prostrations are restless in my humble, devoted forehead.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شاعر اس چھپی ہوئی حقیقت یعنی خدا سے کہتا ہے کہ کبھی کسی ظاہری صورت میں بھی سامنے آ، کیونکہ میری پیشانی میں ہزاروں سجدے بے قرار ہیں اور تیرے سامنے جھکنا چاہتے ہیں۔",
+        "english": "The poet asks the hidden Reality — God — to appear for once in a visible form, because thousands of prostrations are restless in his forehead, longing to bow before it."
+      }
+    },
+    {
+      "urdu": "طرَب آشنائے خروش ہو، تُو نَوا ہے محرمِ گوش ہو",
+      "english": "Be a joy that knows how to ring out; you are a melody — reach the ear:",
+      "verse": true
+    },
+    {
+      "urdu": "وہ سرود کیا کہ چھُپا ہوا ہو سکوتِ پردۂ ساز میں",
+      "english": "what kind of song stays hidden in the silence of the instrument’s veil?",
+      "verse": true,
+      "explanation": {
+        "urdu": "تو ایک نغمہ ہے تو کانوں تک پہنچ اور کھل کر ظاہر ہو۔ وہ گیت کس کام کا جو ساز کے اندر ہی خاموش چھپا رہے؟",
+        "english": "You are a melody, so reach the ear and show yourself openly. What use is a song that stays silent and hidden inside the instrument?"
+      }
+    },
+    {
+      "urdu": "تُو بچا بچا کے نہ رکھ اسے، ترا آئنہ ہے وہ آئنہ",
+      "english": "Do not keep it so carefully protected; your mirror is the kind of mirror",
+      "verse": true
+    },
+    {
+      "urdu": "کہ شکستہ ہو تو عزیز تر ہے نگاہِ آئنہ ساز میں",
+      "english": "that, once broken, is dearer in the eyes of the mirror-maker.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اپنے دل کو ٹوٹنے سے بچا بچا کر نہ رکھو۔ دل ایسا آئینہ ہے کہ ٹوٹ جائے تو اپنے بنانے والے یعنی خدا کی نظر میں اور بھی پیارا ہو جاتا ہے۔",
+        "english": "Do not guard your heart so anxiously against breaking. The heart is a mirror that, once broken, becomes even dearer in the eyes of its Maker, God."
+      }
+    },
+    {
+      "urdu": "دمِ طوف کرمکِ شمع نے یہ کہا کہ وہ اَثرِ کہن",
+      "english": "While circling the candle, the moth said: that old power",
+      "verse": true
+    },
+    {
+      "urdu": "نہ تری حکایتِ سوز میں، نہ مری حدیثِ گداز میں",
+      "english": "is neither in your tale of burning nor in my story of melting.",
+      "verse": true,
+      "explanation": {
+        "urdu": "شمع کے گرد چکر لگاتے ہوئے پروانے نے کہا کہ اب نہ تمہارے جلنے کی کہانی میں وہ پرانا اثر ہے نہ میرے پگھلنے کی بات میں۔ یعنی عشق کی پرانی آگ ٹھنڈی پڑ گئی ہے۔",
+        "english": "Circling the candle, the moth said that the old power is gone from both the candle’s tale of burning and its own tale of melting away: the old fire of love has cooled."
+      }
+    },
+    {
+      "urdu": "نہ کہیں جہاں میں اماں مِلی، جو اماں مِلی تو کہاں مِلی",
+      "english": "Nowhere in the world did I find refuge; and when I found refuge, where was it?",
+      "verse": true
+    },
+    {
+      "urdu": "مرے جُرمِ خانہ خراب کو ترے عفوِ بندہ نواز میں",
+      "english": "My ruinous sin found it in Your forgiveness, which cherishes Your servants.",
+      "verse": true,
+      "explanation": {
+        "urdu": "مجھے دنیا میں کہیں پناہ نہیں ملی۔ میرے گناہوں کو اگر پناہ ملی تو صرف خدا کی معافی میں، جو اپنے بندوں پر مہربان ہے۔",
+        "english": "I found no refuge anywhere in the world. If my sins found shelter at all, it was only in God’s forgiveness, which is kind to His servants."
+      }
+    },
+    {
+      "urdu": "نہ وہ عشق میں رہیں گرمیاں، نہ وہ حُسن میں رہیں شوخیاں",
+      "english": "Love no longer has that warmth, nor beauty that playfulness;",
+      "verse": true
+    },
+    {
+      "urdu": "نہ وہ غزنوی میں تڑپ رہی، نہ وہ خم ہے زُلفِ ایاز میں",
+      "english": "Ghaznavi has lost that restlessness, and Ayaz’s curl that curve.",
+      "verse": true,
+      "explanation": {
+        "urdu": "اب نہ عشق میں پہلے جیسا جوش ہے نہ حسن میں پہلے جیسی شوخی۔ محمود غزنوی اور اس کے غلام ایاز کی مشہور محبت کی طرح عاشق اور محبوب دونوں بدل گئے ہیں۔",
+        "english": "Love no longer has its old fervour, nor beauty its old charm. Like the famous love of Sultan Mahmud of Ghazni for his slave Ayaz, both lover and beloved have changed."
+      }
+    },
+    {
+      "urdu": "جو میں سر بسجدہ ہُوا کبھی تو زمیں سے آنے لگی صدا",
+      "english": "Once, when I bowed my head in prostration, a voice rose from the ground:",
+      "verse": true
+    },
+    {
+      "urdu": "ترا دل تو ہے صنَم آشنا، تجھے کیا مِلے گا نماز میں",
+      "english": "“Your heart is in love with idols; what will you gain from prayer?”",
+      "verse": true,
+      "explanation": {
+        "urdu": "جب میں نے سجدہ کیا تو زمین سے آواز آئی کہ تیرا دل تو بتوں یعنی دنیا کی محبت میں لگا ہے، ایسی نماز سے تجھے کیا ملے گا؟ یعنی سچی عبادت دل سے ہوتی ہے۔",
+        "english": "When I prostrated, a voice came from the ground: your heart is attached to idols — to worldly loves — so what will such prayer give you? True worship must come from the heart."
+      }
+    }
+  ],
+  "glossary": {
+    "کبھی": [
+      "kabhi",
+      "once; for once; ever"
+    ],
+    "اے": [
+      "ai",
+      "O"
+    ],
+    "حقیقتِ": [
+      "haqeeqat-e",
+      "reality; truth (of …) (“haqeeqat-e-muntazar” = the awaited Reality)"
+    ],
+    "منتظَر": [
+      "muntazar",
+      "awaited; looked-for"
+    ],
+    "نظر": [
+      "nazar",
+      "sight (“nazar aa” = appear, become visible)"
+    ],
+    "آ": [
+      "aa",
+      "come (“nazar aa” = appear)"
+    ],
+    "لباسِ": [
+      "libaas-e",
+      "garment; garb (of …)"
+    ],
+    "مجاز": [
+      "majaaz",
+      "the apparent, material world; outward form (opposite of “haqeeqat”)"
+    ],
+    "میں": [
+      "main / mein",
+      "I (“jo main” = when I) / in"
+    ],
+    "کہ": [
+      "keh",
+      "for; because; that"
+    ],
+    "ہزاروں": [
+      "hazaaron",
+      "thousands of"
+    ],
+    "سجدے": [
+      "sajde",
+      "prostrations (in prayer)"
+    ],
+    "تڑپ": [
+      "taṛap",
+      "restlessness; yearning (“taṛap rahe hain” = are writhing, restless)"
+    ],
+    "رہے": [
+      "rahe",
+      "(continuous, pl.) (“taṛap rahe hain” = are restless)"
+    ],
+    "رہی": [
+      "rahi",
+      "remained (f.) (“taṛap rahi” = restlessness remained)"
+    ],
+    "مری": [
+      "meri",
+      "my (f.) (poetic short form of “meri”)"
+    ],
+    "مرے": [
+      "mere",
+      "my (poetic short form of “mere”)"
+    ],
+    "جبینِ": [
+      "jabeen-e",
+      "forehead; brow (of …) (“jabeen-e-niyaaz” = humble, devoted forehead)"
+    ],
+    "نیاز": [
+      "niyaaz",
+      "humility; devotion"
+    ],
+    "طرَب": [
+      "tarab",
+      "joy; delight"
+    ],
+    "آشنائے": [
+      "aashnaa-e",
+      "acquainted with (“aashnaa-e-khurosh” = familiar with clamour)"
+    ],
+    "آشنا": [
+      "aashnaa",
+      "acquainted; familiar (“sanam-aashnaa” = in love with idols)"
+    ],
+    "خروش": [
+      "khurosh",
+      "clamour; loud cry"
+    ],
+    "تُو": [
+      "tu",
+      "you (intimate)"
+    ],
+    "تو": [
+      "to",
+      "then; indeed (emphasis)"
+    ],
+    "نَوا": [
+      "nawa",
+      "melody; voice"
+    ],
+    "محرمِ": [
+      "mehram-e",
+      "intimate; confidant (of …) (“mehram-e-gosh” = familiar to the ear)"
+    ],
+    "گوش": [
+      "gosh",
+      "ear (poetic)"
+    ],
+    "سرود": [
+      "surood",
+      "song; music"
+    ],
+    "کیا": [
+      "kya",
+      "what (“woh surood kya” = what kind of song is that)"
+    ],
+    "چھُپا": [
+      "chhupa",
+      "hidden (“chhupa hua” = hidden)"
+    ],
+    "ہوا": [
+      "hua",
+      "(“chhupa hua” = hidden)"
+    ],
+    "ہُوا": [
+      "hua",
+      "became; was (“sar-ba-sajda hua” = bowed in prostration)"
+    ],
+    "سکوتِ": [
+      "sukoot-e",
+      "silence (of …)"
+    ],
+    "پردۂ": [
+      "parda-e",
+      "veil; fret of an instrument (of …) (“parda-e-saaz” = the instrument’s veil)"
+    ],
+    "ساز": [
+      "saaz",
+      "musical instrument; (as suffix) maker (“aaina-saaz” = mirror-maker)"
+    ],
+    "بچا": [
+      "bacha",
+      "save (“bacha bacha ke” = carefully protecting)"
+    ],
+    "کے": [
+      "ke",
+      "having (“bacha bacha ke” = protecting carefully)"
+    ],
+    "رکھ": [
+      "rakh",
+      "keep (command, intimate)"
+    ],
+    "اسے": [
+      "use",
+      "it (“na rakh use” = don’t keep it)"
+    ],
+    "ترا": [
+      "tera",
+      "your (poetic short form of “tera”)"
+    ],
+    "ترے": [
+      "tire",
+      "your (poetic form of “tere”)"
+    ],
+    "تری": [
+      "tiri",
+      "your (f.) (poetic form of “teri”)"
+    ],
+    "آئنہ": [
+      "aaina",
+      "mirror (spelling of “aaina”)"
+    ],
+    "شکستہ": [
+      "shikasta",
+      "broken"
+    ],
+    "عزیز": [
+      "azeez",
+      "dear; precious (“azeez-tar” = dearer)"
+    ],
+    "تر": [
+      "tar",
+      "-er; more (“azeez-tar” = dearer)"
+    ],
+    "نگاہِ": [
+      "nigaah-e",
+      "gaze; eyes (of …)"
+    ],
+    "دمِ": [
+      "dam-e",
+      "moment; time (of …) (“dam-e-tauf” = while circling)"
+    ],
+    "طوف": [
+      "tauf",
+      "circling (around something, as pilgrims circle)"
+    ],
+    "کرمکِ": [
+      "kirmak-e",
+      "small insect (of …) (“kirmak-e-sham‘a” = the candle’s insect, the moth)"
+    ],
+    "شمع": [
+      "shama",
+      "candle"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "اَثرِ": [
+      "asar-e",
+      "effect; power (of …) (“asar-e-kuhan” = the old power)"
+    ],
+    "کہن": [
+      "kuhan",
+      "old; ancient"
+    ],
+    "حکایتِ": [
+      "hikaayat-e",
+      "tale; story (of …)"
+    ],
+    "سوز": [
+      "soz",
+      "burning; inner fire"
+    ],
+    "حدیثِ": [
+      "hadees-e",
+      "account; story (of …) (here not the Prophet’s sayings)"
+    ],
+    "گداز": [
+      "gudaaz",
+      "melting; tenderness"
+    ],
+    "کہیں": [
+      "kaheen",
+      "anywhere; somewhere (“na kaheen” = nowhere)"
+    ],
+    "جہاں": [
+      "jahaan",
+      "world"
+    ],
+    "اماں": [
+      "amaan",
+      "refuge; safety (poetic spelling of “amaan”)"
+    ],
+    "مِلی": [
+      "mili",
+      "was found (f.)"
+    ],
+    "مِلے": [
+      "mile",
+      "will be gained (“mile ga” = will you gain)"
+    ],
+    "جو": [
+      "jo",
+      "when; if (“jo amaan mili” = when refuge was found)"
+    ],
+    "کہاں": [
+      "kahaan",
+      "where"
+    ],
+    "جُرمِ": [
+      "jurm-e",
+      "sin; crime (of …)"
+    ],
+    "خانہ": [
+      "khaana",
+      "house (“khaana-kharaab” = ruinous, house-wrecking)"
+    ],
+    "خراب": [
+      "kharaab",
+      "ruined (“khaana-kharaab” = ruinous)"
+    ],
+    "عفوِ": [
+      "afv-e",
+      "forgiveness (of …)"
+    ],
+    "بندہ": [
+      "banda",
+      "servant; slave (of God) (“banda-nawaaz” = kind to servants)"
+    ],
+    "نواز": [
+      "nawaaz",
+      "cherishing; kind to (suffix)"
+    ],
+    "عشق": [
+      "ishq",
+      "love"
+    ],
+    "رہیں": [
+      "raheen",
+      "remained (f. pl.) (“na raheen” = are no more)"
+    ],
+    "گرمیاں": [
+      "garmiyaan",
+      "warmth; ardour (pl.)"
+    ],
+    "حُسن": [
+      "husn",
+      "beauty"
+    ],
+    "شوخیاں": [
+      "shokhiyaan",
+      "playfulness; charm (pl.)"
+    ],
+    "غزنوی": [
+      "ghaznavi",
+      "Ghaznavi (Sultan Mahmud of Ghazni, the lover of Ayaz)"
+    ],
+    "خم": [
+      "kham",
+      "curve; twist"
+    ],
+    "زُلفِ": [
+      "zulf-e",
+      "curl; lock of hair (of …)"
+    ],
+    "ایاز": [
+      "ayaaz",
+      "Ayaz (Sultan Mahmud’s beloved slave)"
+    ],
+    "سر": [
+      "sar",
+      "head"
+    ],
+    "بسجدہ": [
+      "ba-sajda",
+      "in prostration (“sar-ba-sajda” = head bowed to the ground)"
+    ],
+    "زمیں": [
+      "zameen",
+      "ground; earth (poetic spelling of “zameen”)"
+    ],
+    "آنے": [
+      "aane",
+      "to come (“aane lagi” = began to come)"
+    ],
+    "لگی": [
+      "lagi",
+      "began (f.)"
+    ],
+    "صدا": [
+      "sada",
+      "voice; call"
+    ],
+    "دل": [
+      "dil",
+      "heart"
+    ],
+    "صنَم": [
+      "sanam",
+      "idol (“sanam-aashnaa” = in love with idols)"
+    ],
+    "تجھے": [
+      "tujhe",
+      "to you (intimate)"
+    ],
+    "گا": [
+      "ga",
+      "will (future)"
+    ],
+    "نماز": [
+      "namaaz",
+      "prayer"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پہلے شعر میں شاعر کس سے کیا چاہتا ہے؟",
+      "english": "In the first couplet, what does the poet ask, and of whom?",
+      "options": [
+        {
+          "urdu": "کہ چھپی ہوئی حقیقت یعنی خدا کسی ظاہری صورت میں سامنے آئے",
+          "english": "that the hidden Reality, God, should appear in a visible form"
+        },
+        {
+          "urdu": "کہ اس کا دوست نیا لباس پہن کر آئے",
+          "english": "that his friend should come wearing new clothes"
+        },
+        {
+          "urdu": "کہ لوگ مسجد میں زیادہ سجدے کریں",
+          "english": "that people should prostrate more in the mosque"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "شاعر کے مطابق ٹوٹا ہوا آئینہ یعنی ٹوٹا ہوا دل کیسا ہوتا ہے؟",
+      "english": "According to the poet, how is a broken mirror — a broken heart — regarded?",
+      "options": [
+        {
+          "urdu": "بے کار، اسے پھینک دینا چاہیے",
+          "english": "useless; it should be thrown away"
+        },
+        {
+          "urdu": "اپنے بنانے والے کی نظر میں اور زیادہ پیارا",
+          "english": "even dearer in the eyes of its Maker"
+        },
+        {
+          "urdu": "خطرناک، کیونکہ اس سے ہاتھ کٹ جاتا ہے",
+          "english": "dangerous, because it cuts the hand"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "آخری شعر میں زمین سے آنے والی آواز کیا کہتی ہے؟",
+      "english": "In the last couplet, what does the voice from the ground say?",
+      "options": [
+        {
+          "urdu": "کہ نماز کا وقت ختم ہو گیا ہے",
+          "english": "that the time for prayer is over"
+        },
+        {
+          "urdu": "کہ سجدہ زیادہ لمبا ہونا چاہیے",
+          "english": "that the prostration should be longer"
+        },
+        {
+          "urdu": "کہ دل بتوں سے لگا ہو تو نماز سے کچھ نہیں ملے گا",
+          "english": "that if the heart is attached to idols, prayer will gain nothing"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}
