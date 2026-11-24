@@ -14,7 +14,14 @@ npm run build
 ## Features
 
 - **Library**: a filter sidebar (type, level, read status, poet/writer, topic, and ghazal/nazm for poems), with live counts beside each option. Multi-part works (Shikwa, Jawab-e-Shikwa, Toba Tek Singh…) share one card with a progress bar, "Continue · Part N" and a list of their parts.
-- **Content**: 70 passages: starter reads, Urdu Wikipedia on Pakistan & culture, BBC Urdu news (Pakistan politics, society & culture), Manto stories (Toba Tek Singh in 3 parts), and Ghalib / Mir / Iqbal poetry with couplet-by-couplet explanations, including Iqbal's Shikwa (10 parts) and Jawab-e-Shikwa (12 parts) in full, his children's poems and both Taranas. Every word can be tapped for Roman Urdu + English; each passage has translations, a quiz, and a source link.
+- **Content**: 92 passages (9 easy, 52 medium, 31 hard):
+  - 4 starter reads.
+  - 17 Urdu Wikipedia articles: Pakistan & culture, history (the Mughals, 1857, the Lahore Resolution, Partition, 1971) and people (Jinnah, Iqbal, Edhi, Abdus Salam, Nusrat Fateh Ali Khan).
+  - 10 BBC Urdu news stories.
+  - 7 Manto passages, including Toba Tek Singh in 3 parts.
+  - 54 poems with couplet-by-couplet explanations. The classical poets are Ghalib, Mir and Iqbal, with Iqbal's Shikwa (10 parts) and Jawab-e-Shikwa (12 parts) in full, his children's poems and both Taranas. The modern poets are Faiz, Ahmad Faraz, Parveen Shakir and Jaun Elia, three famous poems each.
+
+  Every word can be tapped for Roman Urdu + English; each passage has translations, a quiz, and a source link.
 - **Reader**: a sticky toolbar (translations, Roman Urdu, A− / A+ text size, read aloud), plus a light/dark theme toggle in the top bar. The theme follows your system setting until you pick one.
 - **Reading aids**: the "Roman Urdu" toggle adds a Roman line under every sentence, built from the glosses. Spellings with two readings, such as میں (main/mein), show both forms with a dotted underline. Below each passage, "Words you looked up" lists the words you tapped (leaving out common function words and words already in your deck), and one click adds the ticked ones to your deck.
 - **Review**: SM-2 style spaced repetition (Again / Hard / Good / Easy). Keyboard: Space to reveal, 1–4 to rate.
@@ -25,7 +32,7 @@ Progress is saved in the browser's localStorage.
 
 Classical texts keep their vowel marks (zer, zabar, pesh); word lookup ignores them, so سُود and سود share one gloss and one deck card.
 
-**Personal use only:** the BBC Urdu passages are copyrighted. Keep this app local and don't publish it with them.
+**Personal use only:** the BBC Urdu passages and the modern poems (Faiz, Faraz, Parveen Shakir, Jaun Elia, from Rekhta) are copyrighted. Keep this app local and don't publish it with them.
 
 ## Adding content
 

@@ -47,9 +47,9 @@ describe.each(PASSAGES.map((p) => [p.id, p] as const))('passage %s', (id, p) => 
     }
   });
 
-  // Tags become required once every passage has them; until then they're checked when present.
-  it.skipIf(!p.tags)(`${id}: has valid tags`, () => {
+  it(`${id}: has valid tags`, () => {
     const tags = p.tags ?? [];
+    expect(tags.length, 'tags are required (see "Tags" in content/README.md)').toBeGreaterThan(0);
     for (const t of tags) expect(TAG_BY_ID.has(t), `unknown tag "${t}" (see TAGS in library.ts)`).toBe(true);
     expect(new Set(tags).size, 'duplicate tags').toBe(tags.length);
     const topics = tags.filter((t) => TAG_BY_ID.get(t)?.group === 'topic');
