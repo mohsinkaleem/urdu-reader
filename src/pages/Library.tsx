@@ -79,6 +79,8 @@ function group(list: Passage[]): Item[] {
 export function Library() {
   const { progress } = useProgress();
   const [filters, setFilters] = useSessionState<Filters>('lib:filters', {});
+  /** Phones only: the filter panel is folded away behind a button. */
+  const [showFilters, setShowFilters] = useState(false);
 
   const list = PASSAGES.filter((p) => matches(p, filters, progress));
   const items = group(list);
@@ -117,8 +119,18 @@ export function Library() {
         </p>
       </header>
 
+      <button
+        className="btn btn-ghost filters-toggle"
+        aria-expanded={showFilters}
+        aria-controls="library-facets"
+        onClick={() => setShowFilters((v) => !v)}
+      >
+        Filters{active.length > 0 && <span className="badge filters-count">{active.length}</span>}
+        <span aria-hidden>{showFilters ? '▴' : '▾'}</span>
+      </button>
+
       <div className="library-layout">
-        <aside className="facets" aria-label="Filters">
+        <aside id="library-facets" className={`facets ${showFilters ? 'is-open' : ''}`} aria-label="Filters">
           <Facet
             title="Type"
             value={filters.category}

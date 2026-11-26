@@ -65,6 +65,7 @@
 * { box-sizing: border-box; }
 
 html, body { margin: 0; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 
 body {
   background: var(--bg);
@@ -110,8 +111,8 @@ h2 { font-size: 1.15rem; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--ink); }
 .brand-mark { font-size: 1.5rem; color: var(--accent); line-height: 1.9; }
 .brand-text { font-weight: 600; }
-.topbar nav { display: flex; gap: 4px; }
-.topbar nav a {
+.topnav { display: flex; gap: 4px; margin-left: auto; }
+.topnav a {
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -121,8 +122,8 @@ h2 { font-size: 1.15rem; }
   font-weight: 500;
   font-size: 0.95rem;
 }
-.topbar nav a:hover { color: var(--ink); background: var(--surface); }
-.topbar nav a.active { color: var(--accent); background: var(--accent-soft); }
+.topnav a:hover { color: var(--ink); background: var(--surface); }
+.topnav a.active { color: var(--accent); background: var(--accent-soft); }
 .badge {
   min-width: 20px;
   padding: 0 6px;
@@ -438,7 +439,7 @@ main { padding: 32px 24px 120px; }
 @media (max-width: 720px) {
   .topbar { padding: 4px 16px; }
   .brand-text { display: none; }
-  .topbar nav a { padding: 7px 10px; font-size: 0.88rem; }
+  .topnav a { padding: 7px 10px; font-size: 0.88rem; }
   main { padding: 20px 16px 120px; }
   .tiles, .passage-list { grid-template-columns: 1fr; }
   .stats { gap: 8px; }
@@ -695,6 +696,145 @@ main { padding: 32px 24px 120px; }
 .size-btn:hover:not(:disabled) { background: var(--accent-soft); }
 .size-btn:disabled { color: var(--disabled); cursor: not-allowed; }
 .size-value { min-width: 3.2em; text-align: center; font-size: 0.78rem; color: var(--muted); font-variant-numeric: tabular-nums; }
-.topbar nav { align-items: center; }
+.topnav { align-items: center; }
 .theme-toggle { margin-left: 6px; color: var(--muted); }
 .theme-toggle:hover { color: var(--ink); }
+
+/* ---------- phones ---------- */
+.tabbar, .filters-toggle { display: none; }
+.tok, .btn, .icon-btn, .link-btn, .tabbar a, .option, .rating, .filter-chip, .facet-opt { -webkit-tap-highlight-color: transparent; }
+.btn, .icon-btn, .option, .rating, .tabs button, .filter-chip, .size-btn { touch-action: manipulation; }
+
+/* Touch screens: no sticky hover lifts, no keyboard hints. */
+@media (hover: none) {
+  .tile:hover, .passage-card:hover { transform: none; }
+  .tok:hover { background: none; }
+  .tok-active, .tok-active:hover { background: var(--accent-soft); }
+  .kbd-hint { display: none; }
+}
+
+@media (max-width: 720px) {
+  :root { --tabbar-h: 58px; }
+
+  /* Top bar: brand + theme only; the nav moves to a bottom tab bar. */
+  .topbar { padding: 2px 14px; padding-top: max(2px, env(safe-area-inset-top)); }
+  .topnav { display: none; }
+  .theme-toggle { margin-left: auto; }
+  .brand-text { display: inline; font-size: 0.95rem; }
+
+  .tabbar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 15;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0 max(6px, env(safe-area-inset-right)) env(safe-area-inset-bottom) max(6px, env(safe-area-inset-left));
+    background: var(--topbar-bg);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-top: 1px solid var(--line);
+  }
+  .tabbar a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    height: var(--tabbar-h);
+    color: var(--muted);
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
+  .tabbar a.active { color: var(--accent); }
+  .tabbar-icon {
+    position: relative;
+    display: grid;
+    place-items: center;
+    width: 52px;
+    height: 28px;
+    border-radius: 999px;
+  }
+  .tabbar a.active .tabbar-icon { background: var(--accent-soft); }
+  .tabbar-icon svg { width: 22px; height: 22px; }
+  .tabbar-icon .badge { position: absolute; top: -4px; right: 2px; min-width: 18px; line-height: 18px; font-size: 0.68rem; }
+
+  main { padding: 16px 14px calc(var(--tabbar-h) + env(safe-area-inset-bottom) + 32px); }
+  .page-head { margin-bottom: 14px; }
+  .page-urdu { font-size: 1.7rem; }
+  h1 { font-size: 1.4rem; }
+  .hero { padding-bottom: 16px; }
+  .hero-urdu { font-size: 2.2rem; }
+  .hero h1 { font-size: 1.6rem; }
+
+  /* Bigger tap targets. */
+  .icon-btn.sm { width: 36px; height: 36px; }
+  .sentence-tools { gap: 2px; }
+  .sentence-tools .link-btn, .series-actions .link-btn { padding: 10px 8px; }
+  .size-btn { padding: 9px 14px; }
+  .toggle { min-height: 40px; }
+  .toggle input { width: 18px; height: 18px; }
+
+  /* Reader: let the toolbar scroll away instead of covering the text. */
+  .reader-toolbar { position: static; margin: 0 0 10px; padding: 4px 0; background: none; backdrop-filter: none; gap: 4px 14px; }
+  .reader-toolbar .toolbar-spacer { display: none; }
+  .passage { padding: 6px 14px; border-radius: 14px; }
+  .sentence-urdu { line-height: 2.4; }
+  .word-sheet {
+    bottom: calc(var(--tabbar-h) + env(safe-area-inset-bottom) + 10px);
+    width: calc(100vw - 20px);
+  }
+  .quiz-result { flex-wrap: wrap; }
+  .reader-nav .btn { white-space: normal; text-align: center; }
+
+  /* Library: filters fold away behind a button. */
+  .filters-toggle { display: inline-flex; margin-bottom: 12px; }
+  .filters-count { margin-left: 2px; background: var(--accent); }
+  .facets { display: none; }
+  .facets.is-open {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-bottom: 8px;
+    padding: 12px 14px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+  }
+  .facets.is-open .facet-list { flex-direction: row; flex-wrap: wrap; gap: 6px; }
+  .facets.is-open .facet-opt {
+    width: auto;
+    gap: 6px;
+    padding: 6px 12px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--surface-2);
+    font-size: 0.86rem;
+  }
+  .facets.is-open .facet-opt.active { border-color: transparent; }
+  .facet-more { padding-left: 0; }
+
+  /* Words: topic tabs scroll sideways instead of stacking six rows deep. */
+  .tabs {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    margin: 0 -14px 12px;
+    padding: 0 14px 2px;
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tabs button { flex: none; padding: 8px 14px; }
+  .toolbar .btn { flex: none; }
+  .search { min-width: 160px; }
+
+  /* Review: rating buttons tall enough for a thumb. */
+  .flashcard { min-height: 280px; }
+  .rating { padding: 12px 2px; }
+}
+
+@media (max-width: 360px) {
+  .brand-text { display: none; }
+  .stats { grid-template-columns: repeat(3, 1fr); gap: 6px; }
+  .stat-label { font-size: 0.76rem; }
+}
