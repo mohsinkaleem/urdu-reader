@@ -1,0 +1,272 @@
+{
+  "id": "starter-rail-ka-safar",
+  "title": {
+    "urdu": "ریل گاڑی کا سفر",
+    "english": "A train journey"
+  },
+  "category": "starter",
+  "level": "easy",
+  "tags": [
+    "everyday",
+    "places"
+  ],
+  "source": {
+    "name": "Written for this app"
+  },
+  "intro": "An everyday story written for this app: an overnight train ride from Lahore to Karachi, with station and travel vocabulary.",
+  "sentences": [
+    {
+      "urdu": "پچھلے مہینے میں نے لاہور سے کراچی تک ریل گاڑی میں سفر کیا۔",
+      "english": "Last month I travelled by train from Lahore to Karachi."
+    },
+    {
+      "urdu": "ہم رات کو اسٹیشن پہنچے تو پلیٹ فارم پر بڑی رونق تھی۔",
+      "english": "When we reached the station at night, the platform was bustling."
+    },
+    {
+      "urdu": "قلی ہمارا سامان اٹھا کر ڈبے تک لے گیا۔",
+      "english": "A porter picked up our luggage and carried it to the carriage."
+    },
+    {
+      "urdu": "سفر لمبا تھا، اس لیے ہم نے راستے میں کھانا کھایا اور خوب گپ شپ کی۔",
+      "english": "The journey was long, so we ate on the way and chatted a lot."
+    },
+    {
+      "urdu": "کھڑکی سے باہر کھیت، گاؤں اور دریا نظر آ رہے تھے۔",
+      "english": "Fields, villages and rivers could be seen out of the window."
+    },
+    {
+      "urdu": "اگلے دن دوپہر کو گاڑی کراچی پہنچی اور ہمیں سمندر کی ہوا محسوس ہوئی۔",
+      "english": "At noon the next day the train reached Karachi, and we could feel the sea breeze."
+    }
+  ],
+  "glossary": {
+    "پچھلے": [
+      "pichhle",
+      "last; previous (oblique)"
+    ],
+    "مہینے": [
+      "maheene",
+      "month (oblique)"
+    ],
+    "لاہور": [
+      "laahaur",
+      "Lahore"
+    ],
+    "کراچی": [
+      "karaachi",
+      "Karachi"
+    ],
+    "ریل": [
+      "rail",
+      "rail (“rail gaaṛi” = train)"
+    ],
+    "گاڑی": [
+      "gaaṛi",
+      "vehicle; train"
+    ],
+    "سفر": [
+      "safar",
+      "journey (“safar karna” = to travel)"
+    ],
+    "کیا": [
+      "kiya",
+      "did"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "اسٹیشن": [
+      "isṭeshan",
+      "station"
+    ],
+    "پہنچے": [
+      "pahunche",
+      "reached (pl.)"
+    ],
+    "پلیٹ": [
+      "pleṭ",
+      "plat- (“pleṭ faarm” = platform)"
+    ],
+    "فارم": [
+      "faarm",
+      "-form (“pleṭ faarm” = platform)"
+    ],
+    "بڑی": [
+      "baṛi",
+      "big; great (f.)"
+    ],
+    "رونق": [
+      "raunaq",
+      "bustle; liveliness"
+    ],
+    "قلی": [
+      "qulli",
+      "porter"
+    ],
+    "ہمارا": [
+      "hamaara",
+      "our"
+    ],
+    "سامان": [
+      "saamaan",
+      "luggage"
+    ],
+    "اٹھا": [
+      "uṭha",
+      "lift (“uṭha kar” = picking up)"
+    ],
+    "ڈبے": [
+      "ḍabbe",
+      "carriage (oblique)"
+    ],
+    "لے": [
+      "le",
+      "take (“le gaya” = took, carried off)"
+    ],
+    "لمبا": [
+      "lamba",
+      "long"
+    ],
+    "راستے": [
+      "raaste",
+      "way; road (oblique; “raaste mein” = on the way)"
+    ],
+    "کھانا": [
+      "khaana",
+      "food; meal"
+    ],
+    "کھایا": [
+      "khaaya",
+      "ate"
+    ],
+    "خوب": [
+      "khoob",
+      "plenty; a lot"
+    ],
+    "گپ": [
+      "gap",
+      "chat (“gap shap” = chit-chat)"
+    ],
+    "شپ": [
+      "shap",
+      "(“gap shap” = chit-chat)"
+    ],
+    "کھڑکی": [
+      "khiṛki",
+      "window"
+    ],
+    "باہر": [
+      "baahar",
+      "outside"
+    ],
+    "کھیت": [
+      "khet",
+      "field(s)"
+    ],
+    "دریا": [
+      "darya",
+      "river(s)"
+    ],
+    "نظر": [
+      "nazar",
+      "sight (“nazar aana” = to be seen)"
+    ],
+    "آ": [
+      "aa",
+      "come"
+    ],
+    "اگلے": [
+      "agle",
+      "next (oblique)"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "دوپہر": [
+      "dopahar",
+      "noon"
+    ],
+    "پہنچی": [
+      "pahunchi",
+      "reached (f.)"
+    ],
+    "ہمیں": [
+      "hamein",
+      "us; to us"
+    ],
+    "سمندر": [
+      "samandar",
+      "sea"
+    ],
+    "ہوا": [
+      "hawa",
+      "air; breeze"
+    ],
+    "محسوس": [
+      "mehsoos",
+      "felt (“mehsoos hona” = to be felt)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "یہ سفر کہاں سے کہاں تک تھا؟",
+      "english": "Where was this journey from and to?",
+      "options": [
+        {
+          "urdu": "کراچی سے لاہور",
+          "english": "Karachi to Lahore"
+        },
+        {
+          "urdu": "لاہور سے کراچی",
+          "english": "Lahore to Karachi"
+        },
+        {
+          "urdu": "لاہور سے اسلام آباد",
+          "english": "Lahore to Islamabad"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "سامان ڈبے تک کون لے گیا؟",
+      "english": "Who took the luggage to the carriage?",
+      "options": [
+        {
+          "urdu": "قلی",
+          "english": "A porter"
+        },
+        {
+          "urdu": "ابو",
+          "english": "Dad"
+        },
+        {
+          "urdu": "ایک دوست",
+          "english": "A friend"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "کراچی پہنچ کر کیا محسوس ہوا؟",
+      "english": "What did they feel on reaching Karachi?",
+      "options": [
+        {
+          "urdu": "سردی",
+          "english": "The cold"
+        },
+        {
+          "urdu": "بارش",
+          "english": "Rain"
+        },
+        {
+          "urdu": "سمندر کی ہوا",
+          "english": "The sea breeze"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "id": "starter-chai-banana",
+  "title": {
+    "urdu": "چائے کیسے بنتی ہے",
+    "english": "How to make chai"
+  },
+  "category": "starter",
+  "level": "easy",
+  "tags": [
+    "culture",
+    "everyday"
+  ],
+  "source": {
+    "name": "Written for this app"
+  },
+  "intro": "A short recipe written for this app: making doodh-patti chai step by step. Good practice for the polite imperative (ḍaalein, milaaein, kar dein).",
+  "sentences": [
+    {
+      "urdu": "پاکستان میں ہر گھر میں دن میں کئی بار چائے بنتی ہے۔",
+      "english": "In Pakistan, tea is made several times a day in every home."
+    },
+    {
+      "urdu": "سب سے پہلے ایک برتن میں پانی ڈالیں اور اسے چولہے پر رکھ دیں۔",
+      "english": "First of all, put water in a pan and set it on the stove."
+    },
+    {
+      "urdu": "جب پانی ابلنے لگے تو اس میں پتی اور تھوڑی سی الائچی ڈال دیں۔",
+      "english": "When the water starts to boil, add the tea leaves and a little cardamom."
+    },
+    {
+      "urdu": "دو تین منٹ بعد دودھ اور چینی ملائیں اور آنچ ہلکی کر دیں۔",
+      "english": "After two or three minutes, stir in milk and sugar and turn the heat down."
+    },
+    {
+      "urdu": "جب چائے کا رنگ گہرا بھورا ہو جائے تو اسے چھان کر پیالیوں میں ڈالیں۔",
+      "english": "When the tea turns a deep brown, strain it and pour it into cups."
+    },
+    {
+      "urdu": "ساتھ میں بسکٹ یا پاپے ہوں تو مزہ دوبالا ہو جاتا ہے۔",
+      "english": "If there are biscuits or rusks to go with it, the pleasure is doubled."
+    }
+  ],
+  "glossary": {
+    "پاکستان": [
+      "paakistaan",
+      "Pakistan"
+    ],
+    "گھر": [
+      "ghar",
+      "home; house"
+    ],
+    "دن": [
+      "din",
+      "day"
+    ],
+    "بار": [
+      "baar",
+      "time(s) (“kai baar” = several times)"
+    ],
+    "چائے": [
+      "chaaye",
+      "tea"
+    ],
+    "بنتی": [
+      "banti",
+      "is made (f.)"
+    ],
+    "پہلے": [
+      "pehle",
+      "first (“sab se pehle” = first of all)"
+    ],
+    "برتن": [
+      "bartan",
+      "pot; pan"
+    ],
+    "پانی": [
+      "paani",
+      "water"
+    ],
+    "ڈالیں": [
+      "ḍaalein",
+      "put; pour (polite imperative)"
+    ],
+    "اسے": [
+      "use",
+      "it (object)"
+    ],
+    "چولہے": [
+      "choolhe",
+      "stove (oblique)"
+    ],
+    "رکھ": [
+      "rakh",
+      "put (“rakh dein” = set it down)"
+    ],
+    "دیں": [
+      "dein",
+      "(polite imperative helper: completes the action)"
+    ],
+    "ابلنے": [
+      "ubalne",
+      "boiling (“ubalne lage” = starts to boil)"
+    ],
+    "لگے": [
+      "lage",
+      "begins (“ubalne lage” = starts to boil)"
+    ],
+    "پتی": [
+      "patti",
+      "tea leaves"
+    ],
+    "تھوڑی": [
+      "thoṛi",
+      "a little (f.)"
+    ],
+    "سی": [
+      "si",
+      "-ish (“thoṛi si” = just a little)"
+    ],
+    "الائچی": [
+      "ilaaichi",
+      "cardamom"
+    ],
+    "ڈال": [
+      "ḍaal",
+      "put (“ḍaal dein” = add)"
+    ],
+    "منٹ": [
+      "minaṭ",
+      "minute(s)"
+    ],
+    "دودھ": [
+      "doodh",
+      "milk"
+    ],
+    "چینی": [
+      "cheeni",
+      "sugar"
+    ],
+    "ملائیں": [
+      "milaaein",
+      "mix in (polite imperative)"
+    ],
+    "آنچ": [
+      "aanch",
+      "flame; heat"
+    ],
+    "ہلکی": [
+      "halki",
+      "low; light (f.)"
+    ],
+    "رنگ": [
+      "rang",
+      "colour"
+    ],
+    "گہرا": [
+      "gehra",
+      "deep; dark"
+    ],
+    "بھورا": [
+      "bhoora",
+      "brown"
+    ],
+    "چھان": [
+      "chhaan",
+      "strain (“chhaan kar” = having strained)"
+    ],
+    "پیالیوں": [
+      "pyaaliyon",
+      "cups (pl. oblique)"
+    ],
+    "ساتھ": [
+      "saath",
+      "with (“saath mein” = alongside)"
+    ],
+    "بسکٹ": [
+      "biskuṭ",
+      "biscuit(s)"
+    ],
+    "یا": [
+      "ya",
+      "or"
+    ],
+    "پاپے": [
+      "paape",
+      "rusks"
+    ],
+    "مزہ": [
+      "maza",
+      "enjoyment; fun"
+    ],
+    "دوبالا": [
+      "dobaala",
+      "doubled (“maza dobaala ho jaana” = the pleasure doubles)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "پتی کب ڈالی جاتی ہے؟",
+      "english": "When are the tea leaves added?",
+      "options": [
+        {
+          "urdu": "جب پانی ابلنے لگے",
+          "english": "When the water starts to boil"
+        },
+        {
+          "urdu": "دودھ کے بعد",
+          "english": "After the milk"
+        },
+        {
+          "urdu": "سب سے آخر میں",
+          "english": "At the very end"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "دودھ اور چینی ڈالنے کے بعد کیا کرنا ہے؟",
+      "english": "What should you do after adding milk and sugar?",
+      "options": [
+        {
+          "urdu": "چولہا بند کر دیں",
+          "english": "Switch off the stove"
+        },
+        {
+          "urdu": "آنچ ہلکی کر دیں",
+          "english": "Turn the heat down"
+        },
+        {
+          "urdu": "مزید پانی ڈالیں",
+          "english": "Add more water"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "چائے کا مزہ کس چیز سے دوبالا ہو جاتا ہے؟",
+      "english": "What doubles the pleasure of the tea?",
+      "options": [
+        {
+          "urdu": "زیادہ چینی",
+          "english": "More sugar"
+        },
+        {
+          "urdu": "ٹھنڈا پانی",
+          "english": "Cold water"
+        },
+        {
+          "urdu": "بسکٹ یا پاپے",
+          "english": "Biscuits or rusks"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}

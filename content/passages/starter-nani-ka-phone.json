@@ -1,0 +1,232 @@
+{
+  "id": "starter-nani-ka-phone",
+  "title": {
+    "urdu": "نانی کا فون",
+    "english": "A call from Nani (idioms)"
+  },
+  "category": "starter",
+  "level": "easy",
+  "tags": [
+    "everyday",
+    "language"
+  ],
+  "source": {
+    "name": "Written for this app"
+  },
+  "intro": "An everyday story written for this app: a phone call from Nani, with two common idioms: “eed ka chaand hona” (to be rarely seen) and “munh mein paani bhar aana” (mouth watering).",
+  "sentences": [
+    {
+      "urdu": "اتوار کی شام نانی جان کا فون آیا۔",
+      "english": "On Sunday evening, Nani phoned."
+    },
+    {
+      "urdu": "انہوں نے شکایت کی کہ تم لوگ تو عید کا چاند ہو گئے ہو۔",
+      "english": "She complained that we never come to see her any more (literally: you've become the Eid moon)."
+    },
+    {
+      "urdu": "میں نے معذرت کی اور بتایا کہ آج کل امتحان کی وجہ سے بہت مصروف ہوں۔",
+      "english": "I apologised and explained that I'm very busy these days because of exams."
+    },
+    {
+      "urdu": "نانی نے دعا دی اور کہا کہ امتحان کے بعد گاؤں ضرور آنا۔",
+      "english": "Nani gave me her blessings and said to be sure to come to the village after the exams."
+    },
+    {
+      "urdu": "انہوں نے یہ بھی بتایا کہ ان کے آم کے درخت پر اس سال خوب پھل آیا ہے۔",
+      "english": "She also mentioned that her mango tree had borne plenty of fruit this year."
+    },
+    {
+      "urdu": "یہ سن کر میرے منہ میں پانی بھر آیا۔",
+      "english": "Hearing this, my mouth started to water."
+    }
+  ],
+  "glossary": {
+    "اتوار": [
+      "itwaar",
+      "Sunday"
+    ],
+    "شام": [
+      "shaam",
+      "evening"
+    ],
+    "نانی": [
+      "naani",
+      "maternal grandmother"
+    ],
+    "جان": [
+      "jaan",
+      "dear (affectionate title; “naani jaan”)"
+    ],
+    "فون": [
+      "fon",
+      "phone call"
+    ],
+    "آیا": [
+      "aaya",
+      "came (“fon aaya” = got a call; “phal aaya” = fruit appeared; “bhar aaya” = welled up)"
+    ],
+    "شکایت": [
+      "shikaayat",
+      "complaint (“shikaayat karna” = to complain)"
+    ],
+    "تم": [
+      "tum",
+      "you"
+    ],
+    "لوگ": [
+      "log",
+      "people (“tum log” = you lot)"
+    ],
+    "عید": [
+      "eed",
+      "Eid (“eed ka chaand hona” = to be rarely seen)"
+    ],
+    "چاند": [
+      "chaand",
+      "moon (“eed ka chaand hona” = to be rarely seen)"
+    ],
+    "ہو": [
+      "ho",
+      "be; become; are (with “tum”)"
+    ],
+    "معذرت": [
+      "mazrat",
+      "apology (“mazrat karna” = to apologise)"
+    ],
+    "بتایا": [
+      "bataaya",
+      "told; explained"
+    ],
+    "کل": [
+      "kal",
+      "yesterday; tomorrow (“aaj kal” = these days)"
+    ],
+    "امتحان": [
+      "imtihaan",
+      "exam(s)"
+    ],
+    "وجہ": [
+      "wajah",
+      "reason (“ki wajah se” = because of)"
+    ],
+    "مصروف": [
+      "masroof",
+      "busy"
+    ],
+    "دعا": [
+      "dua",
+      "prayer; blessing (“dua dena” = to bless)"
+    ],
+    "دی": [
+      "di",
+      "gave (f.)"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "ضرور": [
+      "zaroor",
+      "definitely; be sure to"
+    ],
+    "آنا": [
+      "aana",
+      "come (infinitive used as a gentle command)"
+    ],
+    "آم": [
+      "aam",
+      "mango"
+    ],
+    "درخت": [
+      "darakht",
+      "tree"
+    ],
+    "سال": [
+      "saal",
+      "year"
+    ],
+    "خوب": [
+      "khoob",
+      "plenty; abundantly"
+    ],
+    "پھل": [
+      "phal",
+      "fruit"
+    ],
+    "سن": [
+      "sun",
+      "hear (“sun kar” = on hearing)"
+    ],
+    "منہ": [
+      "munh",
+      "mouth (“munh mein paani bhar aana” = mouth watering)"
+    ],
+    "پانی": [
+      "paani",
+      "water"
+    ],
+    "بھر": [
+      "bhar",
+      "fill (“bhar aaya” = welled up)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "نانی نے کیا شکایت کی؟",
+      "english": "What did Nani complain about?",
+      "options": [
+        {
+          "urdu": "کہ بچے فون نہیں اٹھاتے",
+          "english": "That the kids don't pick up the phone"
+        },
+        {
+          "urdu": "کہ آم مہنگے ہیں",
+          "english": "That mangoes are expensive"
+        },
+        {
+          "urdu": "کہ سب بہت کم ملنے آتے ہیں",
+          "english": "That everyone rarely visits"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "“عید کا چاند ہونا” کا مطلب کیا ہے؟",
+      "english": "What does “eed ka chaand hona” mean?",
+      "options": [
+        {
+          "urdu": "بہت کم نظر آنا",
+          "english": "To be seen very rarely"
+        },
+        {
+          "urdu": "بہت خوش ہونا",
+          "english": "To be very happy"
+        },
+        {
+          "urdu": "نماز پڑھنا",
+          "english": "To pray"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "آج کل مصروفیت کی وجہ کیا ہے؟",
+      "english": "Why is the narrator busy these days?",
+      "options": [
+        {
+          "urdu": "نئی نوکری",
+          "english": "A new job"
+        },
+        {
+          "urdu": "امتحان",
+          "english": "Exams"
+        },
+        {
+          "urdu": "سفر",
+          "english": "Travel"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

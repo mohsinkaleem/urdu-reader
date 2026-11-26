@@ -1,0 +1,251 @@
+{
+  "id": "starter-doctor-ke-paas",
+  "title": {
+    "urdu": "ڈاکٹر کے پاس",
+    "english": "At the doctor's"
+  },
+  "category": "starter",
+  "level": "easy",
+  "tags": [
+    "everyday"
+  ],
+  "source": {
+    "name": "Written for this app"
+  },
+  "intro": "An everyday story written for this app: a visit to the local clinic with a fever and sore throat, with health and advice vocabulary.",
+  "sentences": [
+    {
+      "urdu": "کل رات سے مجھے تیز بخار ہے اور گلے میں درد ہے۔",
+      "english": "Since last night I've had a high fever and a sore throat."
+    },
+    {
+      "urdu": "صبح ابو مجھے قریب کے کلینک لے گئے۔",
+      "english": "In the morning Dad took me to the nearby clinic."
+    },
+    {
+      "urdu": "ڈاکٹر صاحب نے میرا معائنہ کیا اور پوچھا کہ کیا کھانسی بھی ہے۔",
+      "english": "The doctor examined me and asked whether I had a cough too."
+    },
+    {
+      "urdu": "انہوں نے کہا کہ گھبرانے کی کوئی بات نہیں، یہ موسمی زکام ہے۔",
+      "english": "He said there was nothing to worry about; it's a seasonal cold."
+    },
+    {
+      "urdu": "انہوں نے دوا لکھ دی اور تین دن آرام کرنے کا مشورہ دیا۔",
+      "english": "He wrote a prescription and advised three days of rest."
+    },
+    {
+      "urdu": "ساتھ ہی ہدایت کی کہ ٹھنڈا پانی نہ پیوں اور گرم چائے پیتا رہوں۔",
+      "english": "He also told me not to drink cold water and to keep drinking hot tea."
+    }
+  ],
+  "glossary": {
+    "کل": [
+      "kal",
+      "yesterday (“kal raat” = last night)"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "تیز": [
+      "tez",
+      "high; sharp"
+    ],
+    "بخار": [
+      "bukhaar",
+      "fever"
+    ],
+    "گلے": [
+      "gale",
+      "throat (oblique; “gale mein dard” = sore throat)"
+    ],
+    "درد": [
+      "dard",
+      "pain"
+    ],
+    "صبح": [
+      "subah",
+      "morning"
+    ],
+    "ابو": [
+      "abbu",
+      "dad"
+    ],
+    "قریب": [
+      "qareeb",
+      "near (“qareeb ka” = nearby)"
+    ],
+    "کلینک": [
+      "kleenik",
+      "clinic"
+    ],
+    "لے": [
+      "le",
+      "take (“le gaye” = took)"
+    ],
+    "ڈاکٹر": [
+      "ḍaakṭar",
+      "doctor"
+    ],
+    "صاحب": [
+      "saahib",
+      "sir (respectful title)"
+    ],
+    "معائنہ": [
+      "muaayana",
+      "examination (“muaayana karna” = to examine)"
+    ],
+    "کیا": [
+      "kiya / kya",
+      "did / whether (question word)"
+    ],
+    "پوچھا": [
+      "poochha",
+      "asked"
+    ],
+    "کھانسی": [
+      "khaansi",
+      "cough"
+    ],
+    "کہا": [
+      "kaha",
+      "said"
+    ],
+    "گھبرانے": [
+      "ghabraane",
+      "worrying (oblique; “ghabraane ki koi baat nahin” = nothing to worry about)"
+    ],
+    "موسمی": [
+      "mausami",
+      "seasonal"
+    ],
+    "زکام": [
+      "zukaam",
+      "cold (illness)"
+    ],
+    "دوا": [
+      "dawa",
+      "medicine"
+    ],
+    "لکھ": [
+      "likh",
+      "write (“dawa likh dena” = to prescribe)"
+    ],
+    "دی": [
+      "di",
+      "gave; (completed action, f.)"
+    ],
+    "دن": [
+      "din",
+      "day(s)"
+    ],
+    "آرام": [
+      "aaraam",
+      "rest"
+    ],
+    "کرنے": [
+      "karne",
+      "doing (oblique)"
+    ],
+    "مشورہ": [
+      "mashwara",
+      "advice (“mashwara dena” = to advise)"
+    ],
+    "ساتھ": [
+      "saath",
+      "with (“saath hi” = along with that, also)"
+    ],
+    "ہدایت": [
+      "hidaayat",
+      "instruction (“hidaayat karna” = to instruct)"
+    ],
+    "ٹھنڈا": [
+      "ṭhanḍa",
+      "cold"
+    ],
+    "پانی": [
+      "paani",
+      "water"
+    ],
+    "پیوں": [
+      "piyoon",
+      "(that I) drink"
+    ],
+    "گرم": [
+      "garam",
+      "hot"
+    ],
+    "چائے": [
+      "chaaye",
+      "tea"
+    ],
+    "پیتا": [
+      "peeta",
+      "drinking (m.; “peeta rahoon” = keep drinking)"
+    ],
+    "رہوں": [
+      "rahoon",
+      "(that I) keep on (“peeta rahoon” = keep drinking)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "مریض کو کیا تکلیف تھی؟",
+      "english": "What was wrong with the patient?",
+      "options": [
+        {
+          "urdu": "پیٹ میں درد",
+          "english": "Stomach ache"
+        },
+        {
+          "urdu": "سر میں چوٹ",
+          "english": "A head injury"
+        },
+        {
+          "urdu": "بخار اور گلے میں درد",
+          "english": "Fever and a sore throat"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "urdu": "ڈاکٹر کے مطابق یہ کیا بیماری ہے؟",
+      "english": "According to the doctor, what is the illness?",
+      "options": [
+        {
+          "urdu": "موسمی زکام",
+          "english": "A seasonal cold"
+        },
+        {
+          "urdu": "کوئی سنجیدہ بیماری",
+          "english": "Something serious"
+        },
+        {
+          "urdu": "صرف تھکاوٹ",
+          "english": "Just tiredness"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "ڈاکٹر نے کیا نہ پینے کو کہا؟",
+      "english": "What did the doctor say not to drink?",
+      "options": [
+        {
+          "urdu": "گرم چائے",
+          "english": "Hot tea"
+        },
+        {
+          "urdu": "ٹھنڈا پانی",
+          "english": "Cold water"
+        },
+        {
+          "urdu": "دودھ",
+          "english": "Milk"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

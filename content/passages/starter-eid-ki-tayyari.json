@@ -1,0 +1,280 @@
+{
+  "id": "starter-eid-ki-tayyari",
+  "title": {
+    "urdu": "عید کی تیاری",
+    "english": "Getting ready for Eid"
+  },
+  "category": "starter",
+  "level": "easy",
+  "tags": [
+    "culture",
+    "faith"
+  ],
+  "source": {
+    "name": "Written for this app"
+  },
+  "intro": "An everyday story written for this app: the last evening of Ramadan, moon-sighting and Eid morning, with festival vocabulary.",
+  "sentences": [
+    {
+      "urdu": "رمضان کا آخری روزہ تھا اور سب لوگ چاند کا انتظار کر رہے تھے۔",
+      "english": "It was the last fast of Ramadan, and everyone was waiting for the moon."
+    },
+    {
+      "urdu": "مغرب کے بعد چھت پر بچوں نے شور مچایا کہ چاند نظر آ گیا ہے۔",
+      "english": "After the sunset prayer, the children on the roof shouted that the moon had been sighted."
+    },
+    {
+      "urdu": "فوراً بازاروں میں رش بڑھ گیا اور لڑکیاں چوڑیاں اور مہندی لینے نکل گئیں۔",
+      "english": "At once the markets grew crowded, and the girls went out to buy bangles and henna."
+    },
+    {
+      "urdu": "امی رات دیر تک باورچی خانے میں شیر خرمہ بناتی رہیں۔",
+      "english": "Mum kept making sheer khurma in the kitchen until late at night."
+    },
+    {
+      "urdu": "صبح سب نے نئے کپڑے پہنے اور عید کی نماز پڑھنے گئے۔",
+      "english": "In the morning everyone put on new clothes and went to the Eid prayer."
+    },
+    {
+      "urdu": "واپسی پر بڑوں نے بچوں کو عیدی دی اور سب ایک دوسرے کے گلے ملے۔",
+      "english": "On the way back the elders gave the children Eidi, and everyone embraced one another."
+    }
+  ],
+  "glossary": {
+    "رمضان": [
+      "ramazaan",
+      "Ramadan"
+    ],
+    "آخری": [
+      "aakhri",
+      "last"
+    ],
+    "روزہ": [
+      "roza",
+      "fast"
+    ],
+    "لوگ": [
+      "log",
+      "people"
+    ],
+    "چاند": [
+      "chaand",
+      "moon"
+    ],
+    "انتظار": [
+      "intezaar",
+      "waiting (“ka intezaar karna” = to wait for)"
+    ],
+    "مغرب": [
+      "maghrib",
+      "sunset prayer; sunset"
+    ],
+    "چھت": [
+      "chhat",
+      "roof"
+    ],
+    "بچوں": [
+      "bachchon",
+      "children (pl. oblique)"
+    ],
+    "شور": [
+      "shor",
+      "noise (“shor machaana” = to make a racket)"
+    ],
+    "مچایا": [
+      "machaaya",
+      "made (noise); raised"
+    ],
+    "نظر": [
+      "nazar",
+      "sight (“nazar aana” = to be seen)"
+    ],
+    "آ": [
+      "aa",
+      "come"
+    ],
+    "فوراً": [
+      "fauran",
+      "immediately"
+    ],
+    "بازاروں": [
+      "baazaaron",
+      "markets (pl. oblique)"
+    ],
+    "رش": [
+      "rash",
+      "crowd; rush"
+    ],
+    "بڑھ": [
+      "baṛh",
+      "increase (“baṛh gaya” = grew)"
+    ],
+    "لڑکیاں": [
+      "laṛkiyaan",
+      "girls"
+    ],
+    "چوڑیاں": [
+      "chooṛiyaan",
+      "bangles"
+    ],
+    "مہندی": [
+      "mehndi",
+      "henna"
+    ],
+    "لینے": [
+      "lene",
+      "to get; to buy (oblique)"
+    ],
+    "نکل": [
+      "nikal",
+      "go out (“nikal gayeen” = set off)"
+    ],
+    "گئیں": [
+      "gayeen",
+      "went (f. pl.); (completed action)"
+    ],
+    "امی": [
+      "ammi",
+      "mum"
+    ],
+    "رات": [
+      "raat",
+      "night"
+    ],
+    "دیر": [
+      "der",
+      "late; a long time (“raat der tak” = until late at night)"
+    ],
+    "باورچی": [
+      "baawarchi",
+      "cook (“baawarchi khaana” = kitchen)"
+    ],
+    "خانے": [
+      "khaane",
+      "room (oblique; “baawarchi khaana” = kitchen)"
+    ],
+    "شیر": [
+      "sheer",
+      "milk (Persian; “sheer khurma” = vermicelli and date milk pudding)"
+    ],
+    "خرمہ": [
+      "khurma",
+      "dates (“sheer khurma” = vermicelli and date milk pudding)"
+    ],
+    "بناتی": [
+      "banaati",
+      "making (f.)"
+    ],
+    "رہیں": [
+      "raheen",
+      "kept on (f., respectful plural)"
+    ],
+    "صبح": [
+      "subah",
+      "morning"
+    ],
+    "نئے": [
+      "naye",
+      "new (pl.)"
+    ],
+    "کپڑے": [
+      "kapṛe",
+      "clothes"
+    ],
+    "پہنے": [
+      "pehne",
+      "put on; wore (pl.)"
+    ],
+    "نماز": [
+      "namaaz",
+      "prayer"
+    ],
+    "پڑھنے": [
+      "paṛhne",
+      "to say; to offer (a prayer) (oblique)"
+    ],
+    "واپسی": [
+      "waapsi",
+      "return"
+    ],
+    "بڑوں": [
+      "baṛon",
+      "elders (pl. oblique)"
+    ],
+    "عیدی": [
+      "eedi",
+      "Eidi (gift of money given at Eid)"
+    ],
+    "دی": [
+      "di",
+      "gave (f.)"
+    ],
+    "گلے": [
+      "gale",
+      "neck (“gale milna” = to embrace)"
+    ],
+    "ملے": [
+      "mile",
+      "met (“gale mile” = embraced)"
+    ]
+  },
+  "questions": [
+    {
+      "urdu": "بچوں نے چھت پر شور کیوں مچایا؟",
+      "english": "Why did the children shout on the roof?",
+      "options": [
+        {
+          "urdu": "بارش شروع ہو گئی",
+          "english": "It started raining"
+        },
+        {
+          "urdu": "چاند نظر آ گیا",
+          "english": "The moon was sighted"
+        },
+        {
+          "urdu": "عیدی مل گئی",
+          "english": "They got their Eidi"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "urdu": "امی رات دیر تک کیا کر رہی تھیں؟",
+      "english": "What was Mum doing until late at night?",
+      "options": [
+        {
+          "urdu": "شیر خرمہ بنا رہی تھیں",
+          "english": "Making sheer khurma"
+        },
+        {
+          "urdu": "بازار میں خریداری",
+          "english": "Shopping in the market"
+        },
+        {
+          "urdu": "کپڑے سی رہی تھیں",
+          "english": "Sewing clothes"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "urdu": "عیدی کس نے کس کو دی؟",
+      "english": "Who gave Eidi to whom?",
+      "options": [
+        {
+          "urdu": "بچوں نے بڑوں کو",
+          "english": "The children to the elders"
+        },
+        {
+          "urdu": "امی نے لڑکیوں کو",
+          "english": "Mum to the girls"
+        },
+        {
+          "urdu": "بڑوں نے بچوں کو",
+          "english": "The elders to the children"
+        }
+      ],
+      "answer": 2
+    }
+  ]
+}
